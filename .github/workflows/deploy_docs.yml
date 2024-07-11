@@ -3,7 +3,7 @@ name: Deploy Documentation
 on:
   push:
     branches:
-      - main
+      - main  # or your default branch
 
 jobs:
   build-deploy:
@@ -26,9 +26,11 @@ jobs:
         mkdir -p docs
         cp raw/*.md docs/
 
-    - name: Generate mkdocs.yml navigation
+    - name: Generate mkdocs.yml
       run: |
-        NAV_ENTRIES=$(for file in docs/*.md; do filename=$(basename "$file"); name=$(basename "$filename" .md | tr '-' ' ' | awk '{print toupper(substr($0,0,1)) tolower(substr($0,2))}'); echo "  - \"$name\": \"$filename\""; done)
+        echo "site_name: ISP Docs" > mkdocs.yml
+        echo "theme:\n  name: 'material'" >> mkdocs.yml
+        NAV_ENTRIES=$(for file in docs/*.md; do filename=$(basename "$file"); name=$(basename "$filename" .md | tr '-' ' ' | awk '{print toupper(substr($0, 1, 1)) tolower(substr($0, 2))}'); echo "  - \"$name\": \"$filename\""; done)
         echo "nav:" >> mkdocs.yml
         echo "$NAV_ENTRIES" >> mkdocs.yml
 
