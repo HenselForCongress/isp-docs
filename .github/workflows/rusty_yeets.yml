@@ -5,6 +5,9 @@ on:
     branches:
       - main
 
+  schedule:
+    - cron: '0 1 * * *'
+
 jobs:
   run-rust-build:
     runs-on: ubuntu-latest
