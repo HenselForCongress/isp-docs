@@ -10,7 +10,7 @@ extern crate serde;
 use std::fs;
 use std::error::Error;
 use std::path::Path;
-use reqwest::Client;
+use reqwest::{Client, Error as ReqwestError};
 use select::document::Document;
 use select::predicate::Name;
 use serde::Deserialize;
@@ -34,7 +34,7 @@ struct Url {
 }
 
 async fn fetch_sitemap_xml(client: &Client, url: &str) -> Result<String, Box<dyn Error>> {
-    let response = client.get(url).send().await?.text().await?;
+    let response = client.get(url).timeout(Duration::from_secs(10)).send().await?.text().await?;
     Ok(response)
 }
 
@@ -45,25 +45,22 @@ fn parse_sitemap(xml: &str) -> Result<Vec<String>, Box<dyn Error>> {
 
 async fn fetch_page_html(client: &Client, url: &str) -> Result<String, Box<dyn Error>> {
     let attempts = 5;
-    let mut delay = Duration::from_secs(1);
+    let delay = Duration::from_secs(2); // Fixed delay between retries
 
     for attempt in 1..=attempts {
-        match client.get(url).send().await {
+        match client.get(url).timeout(Duration::from_secs(10)).send().await {
             Ok(response) => {
                 if response.status().is_success() {
                     return response.text().await.map_err(|e| Box::new(e) as _);
-                } else if response.status().is_client_error() || response.status().is_server_error() {
-                    println!("Error fetching URL (attempt {}): {}", attempt, url);
-                    sleep(delay).await;
-                    delay *= 2; // Exponential backoff
+                } else {
+                    println!("Error fetching URL (attempt {}): {} - Status: {}", attempt, url, response.status());
                 }
             }
             Err(e) => {
                 println!("Error fetching URL (attempt {}): {}: {:?}", attempt, url, e);
-                sleep(delay).await;
-                delay *= 2; // Exponential backoff
             }
         }
+        sleep(delay).await; // Fixed backoff delay
     }
 
     Err(Box::new(std::io::Error::new(std::io::ErrorKind::Other, "Failed to fetch page after multiple attempts")))
@@ -81,23 +78,30 @@ fn save_markdown(content: &str, slug: &str) -> Result<(), Box<dyn Error>> {
 
 async fn process_url(client: &Client, url: String) -> Result<(), Box<dyn Error>> {
     println!("Processing URL: {}", url);
-    let html_content = fetch_page_html(client, &url).await?;
-    let doc = Document::from(html_content.as_str());
-    let body_content: String = doc.find(Name("article"))
-                                  .next()
-                                  .or_else(|| doc.find(Name("main")).next())
-                                  .or_else(|| doc.find(Name("body")).next())
-                                  .map_or_else(|| html_content.clone(), |el| el.html());
+    match fetch_page_html(client, &url).await {
+        Ok(html_content) => {
+            let doc = Document::from(html_content.as_str());
+            let body_content: String = doc.find(Name("article"))
+                                          .next()
+                                          .or_else(|| doc.find(Name("main")).next())
+                                          .or_else(|| doc.find(Name("body")).next())
+                                          .map_or_else(|| html_content.clone(), |el| el.html());
 
-    let markdown_content = html2md::parse_html(&body_content);
-    let slug = url.trim_end_matches('/')
-                  .rsplit('/')
-                  .next()
-                  .map(|s| slugify(s))
-                  .unwrap_or_else(|| "index".to_string());
-    println!("Saving content to raw/{}.md", &slug);
-    save_markdown(&markdown_content, &slug)?;
-    Ok(())
+            let markdown_content = html2md::parse_html(&body_content);
+            let slug = url.trim_end_matches('/')
+                          .rsplit('/')
+                          .next()
+                          .map(|s| slugify(s))
+                          .unwrap_or_else(|| "index".to_string());
+            println!("Saving content to raw/{}.md", &slug);
+            save_markdown(&markdown_content, &slug)?;
+            Ok(())
+        }
+        Err(e) => {
+            println!("Failed to process URL {}: {}", url, e);
+            Err(e)
+        }
+    }
 }
 
 #[tokio::main]
@@ -122,13 +126,17 @@ async fn main() -> Result<(), Box<dyn Error>> {
 
             if tasks.len() >= concurrent_limit {
                 if let Some(result) = tasks.next().await {
-                    result?;
+                    if let Err(e) = result {
+                        println!("Error processing URL: {}", e);
+                    }
                 }
             }
         }
 
         while let Some(result) = tasks.next().await {
-            result?;
+            if let Err(e) = result {
+                println!("Error processing URL: {}", e);
+            }
         }
 
         println!("All done!");
