@@ -1,4 +1,4 @@
-name: Run Rust Modules and Deploy Documentation
+name: Run Rust Run!
 
 on:
   push:
