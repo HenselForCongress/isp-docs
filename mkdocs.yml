@@ -1,0 +1,8 @@
+site_name: ISP Docs
+theme:
+  name: 'material'
+  features:
+    - navigation.indexes
+
+nav:
+  - Home: index.md
