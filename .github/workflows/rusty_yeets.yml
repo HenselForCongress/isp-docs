@@ -8,7 +8,6 @@ on:
   schedule:
     - cron: '0 1 * * *'
 
-
 jobs:
   run-rust-build:
     runs-on: ubuntu-latest
@@ -36,7 +35,7 @@ jobs:
         if: steps.verify-changed-files.outputs.files_changed == 'true'
         uses: stefanzweifel/git-auto-commit-action@v5
         with:
-          commit_message: Update Raw Documentation Files
+          commit_message: Update da docs
           branch: main
           file_pattern: docs/**/*
         env:
@@ -44,3 +43,16 @@ jobs:
           GIT_USER_EMAIL: ${{ secrets.USER_EMAIL }}
           GITHUB_TOKEN: ${{ secrets.GH_TOKEN }}
 
+      - name: Generate Index Page
+        run: python generate_index.py
+
+      - name: Commit Index Page
+        if: steps.verify-changed-files.outputs.files_changed == 'true'
+        run: |
+          git add docs/index.md
+          git commit -m "Update Index Page"
+          git push origin main
+        env:
+          GIT_USER_NAME: ${{ secrets.USER_NAME }}
+          GIT_USER_EMAIL: ${{ secrets.USER_EMAIL }}
+          GITHUB_TOKEN: ${{ secrets.GH_TOKEN }}
