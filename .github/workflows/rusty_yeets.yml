@@ -86,3 +86,39 @@ jobs:
         run: mkdocs gh-deploy --force
         env:
           GITHUB_TOKEN: ${{ secrets.GH_TOKEN }}
+
+  generate-mongo-docs:
+    needs: run-rust-build
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout the repository
+        uses: actions/checkout@v4
+
+      - name: Set up Rust
+        uses: dtolnay/rust-toolchain@v1
+        with:
+          toolchain: stable
+
+      - name: Build and Run Rust Application
+        run: cargo run concat
+
+      - name: Verify Changed Files
+        id: verify-changed-files
+        uses: tj-actions/verify-changed-files@v20
+        with:
+          files: |
+            all_docs.md
+
+      - name: Commit and Push Changes
+        if: steps.verify-changed-files.outputs.files_changed == 'true'
+        uses: stefanzweifel/git-auto-commit-action@v5
+        with:
+          commit_message: Update the all docs doc
+          branch: main
+          file_pattern: all_docs.md
+        env:
+          GIT_USER_NAME: ${{ secrets.USER_NAME }}
+          GIT_USER_EMAIL: ${{ secrets.USER_EMAIL }}
+          GITHUB_TOKEN: ${{ secrets.GH_TOKEN }}
+

@@ -1,3 +1,82 @@
+# CALIFORNIA CAMPAIGN PARTY PAC FILING FAQ AND RESOURCES
+
+California Campaign, Party, & PAC Filing FAQ and Resources
+==========
+
+Applies To: California
+
+Generating and filing CA compliance reports can be a tough road to navigate. Below are links to both internal help files and external resources to help you along the way.
+
+**FAQ**
+
+These are links to help files we’ve created that are common questions or situations you may encounter:
+
+* [How Do I File a CA Form 496?](https://ispolitical.com/How-Do-I-File-a-CA-Form-496)
+* [When Are the California Filing Deadlines?](https://ispolitical.com/When-Are-the-California-Filing-Deadlines)
+* [How Do I Add Candidate and Committee Records Directly From the CA SOS?](https://ispolitical.com/How-Do-I-Add-Candidate-and-Committee-Records-Directly-From-the-CA-SOS)
+* [Best Practices for CA Warnings & Errors](https://ispolitical.com/Best-Practices-for-CA-Warnings-Errors)
+* [What Does This CA Efile System Return Message Mean?](https://ispolitical.com/What-Does-This-CA-Efile-System-Return-Message-Mean)
+* [Reporting Rules for Joint FEC/CA Filings](https://ispolitical.com/Reporting-Rules-for-Joint-FEC-CA-Filings)
+* [What Are Primarily Formed PACs in CA?](https://ispolitical.com/What-Are-Primarily-Formed-PACs-in-CA)
+* [What Are CA Local Signers and Pins (NetFile)?](https://ispolitical.com/What-Are-CA-Local-Signers-and-Pins-NetFile)
+* [What Are Aggregates by Relationships on CA Report?](https://ispolitical.com/What-Are-Aggregates-by-Relationships-on-CA-Report)
+* [What Are CA LLC/LLP Reporting Requirements?](https://ispolitical.com/What-Are-CA-LLC-LLP-Reporting-Requirements)
+* [How Do I Report Contributions Made to Committees Without ID Numbers?](https://ispolitical.com/How-Do-I-Report-Contributions-Made-to-Committees-Without-ID-Numbers)
+* [Where Do I File as a Local CA Filer if the “Efile Report to Local” Button Is Not Available (ECampaign & Efs)?](https://ispolitical.com/Where-Do-I-File-as-a-Local-CA-Filer-if-the-Efile-Report-to-Local-Button-Is-Not-Available-ECampaign-Efs)
+* [About the CA Form 400](https://ispolitical.com/About-the-CA-Form-4)
+* [About the CA Form 401](https://ispolitical.com/About-the-CA-Form-4-1)
+* [About the CA Form 410](https://ispolitical.com/About-the-CA-Form-41)
+* [What Is the CA 460 Report & How Do I Prepare and File It?](https://ispolitical.com/What-Is-the-CA-46-Report-How-Do-I-Prepare-and-File-It)
+* [About the CA Form 461](https://ispolitical.com/About-the-CA-Form-461)
+* [About the CA Form 462 Report](https://ispolitical.com/About-the-CA-Form-462-Report)
+* [About the CA Form 497 Report](https://ispolitical.com/About-the-CA-Form-497-Report)
+* [About the CA Form 497 — Reverse](https://ispolitical.com/About-the-CA-Form-497-Reverse)
+* [About the CA Form 498](https://ispolitical.com/About-the-CA-Form-498)
+* [About the CA Form 501 Report](https://ispolitical.com/About-the-CA-Form-5-1-Report)
+* [Issues With California’s PDF Converting Program](https://ispolitical.com/Issues-With-California-s-PDF-Converting-Program)
+* [How Do I File as a Local CA Filer When the E-file Report to Local Button Is Available (NetFile)?](https://ispolitical.com/How-Do-I-File-as-a-Local-CA-Filer-When-the-E-file-Report-to-Local-Button-Is-Available-NetFile)
+* [What Is eSignature and How Do I Use It?](https://ispolitical.com/What-Is-eSignature-and-How-Do-I-Use-It)
+* [My Local Filing With NetFile Just Failed. Now What?](https://ispolitical.com/My-Local-Filing-With-NetFile-Just-Failed-Now-What)
+* [Where Do I Get the Original CA Filing ID Number?](https://ispolitical.com/Where-Do-I-Get-the-Original-CA-Filing-ID-Number)
+
+Supported Reports
+
+* CA Form 410 (Statement of Organization)
+* CA Form 460 (Recipient Committee Campaign Statement)
+* CA Form 461 (Major Donor and Independent Expenditure Committee Campaign Statement)
+* CA Form 461 – Non-Committee
+* CA Form 461 – Reverse
+* CA Form 462 (Verification of Independent Expenditures)
+* CA Form 496 (Late Independent Expenditure Report)
+* CA Form 497 (Late Contribution Report)
+* CA Form 497 – Non-Committee
+* CA Form 497 – Reverse
+* CA Form 501 (Candidate Intention Statement)
+
+Form Specific Information
+
+* Form 460: [Why Are Lines 20 & 21 Showing as $0.00 On My 460 Report?](https://ispolitical.com/why-are-lines-20-and-21-showing-as-0-on-my-report//)
+* Form 460: [How Do I Populate Specific Info on the CA 460 (Line-by-Line)?](https://ispolitical.com/How-To-Populate-Specific-Info-On-The-Ca-460-Cover-Page/)
+* Form 461: [What Is the Data Entry for the Checkboxes on Sch D?](https://ispolitical.com/checkboxes-for-sch-d-on-ca-460/)
+* Form 497: [How Do I File a 497?](https://ispolitical.com/need-know-filing-497-isp/)
+* Form 497: [How Do I Amend a 497?](https://ispolitical.com/filing-an-amended-497/)
+* Form 497: [How Do I Get ActBlue Transactions as the Intermediary on 497 Reports?](https://ispolitical.com/actblue-transactions-as-the-intermediary-on-ca-497-reports/)
+
+**External Resources**
+
+* [Elections Site](https://www.sos.ca.gov/elections)
+* [Filing Calendar](http://www.fppc.ca.gov/learn/campaign-rules/where-and-when-to-file-campaign-statements/when-to-file-campaign-statements-state-local-filing-schedules.html)
+* [Filing Guides](https://www.fppc.ca.gov/forms/all-fppc-manuals.html)
+* [Forms](https://Www.Sos.Ca.Gov/Campaign-Lobbying/Campaign-Disclosure-And-Requirements/Campaign-Forms-And-Instructions/)
+
+[Help File Home](/help/) | [Full Index](/Help-File-Directory/) | [Contact Support](mailto:support@ISPolitical.com)
+
+[⇑ About Compliance Reports](/About-Compliance-Reports)
+[« When Are the Arkansas Filing Deadlines?](/When-Are-the-Arkansas-Filing-Deadlines)
+[How Do I File a CA Form 496? »](/How-Do-I-File-a-CA-Form-496)
+
+---
+
 # WHAT ARE CALL SHEETS
 
 What Are Call Sheets?
@@ -91,6 +170,110 @@ For example, WA does not require contributions received via WinRed or ActBlue to
 
 ---
 
+# WHAT IS DATA FLOW AND HOW DO I USE IT
+
+What Is Data Flow and How Do I Use It?
+==========
+
+The Data Flow tool is for ongoing transfers of data from one account to another. For one-time copies, we recommend using the [Advanced Search copy feature](https://ispolitical.com/How-Do-I-Copy-Data-Between-My-Accounts/).
+
+Data Flow is designed to allow you to manage the core accounting functionality in a single account and transfer that data to other accounts. This is most commonly used by multi-agency filers.
+
+Contact ISP Support to create a new Data Flow. We will set up the transfer link and transfer rules for you. The request for Data Flow setup needs to be authorized by the database owner or a super admin.
+
+Transfer rules options are whether to include Transactions with from date, Transaction Type, and Financial Accounts, and whether to include Third Party Donations. You can also choose to transfer Entities and not financial records.
+
+After we set up the original link and transfer rules on our end, you can set the transfer to run automatically or trigger the transfer right there on the spot. This will be found in the Consultant Tools menu in the bottom right corner of your screen.
+
+If you choose the Automatic Transfer option, slide the toggle from Off to On. The transfer happens overnight each night.
+
+If you prefer to perform the data transfer on your schedule, click the Transfer Now button to make that happen immediately. To avoid unnecessary discrepancies, we recommend using manual transfers after confirming the accuracy of data.
+
+**Important: Data Flow only transfers newly added entity records and financial transactions and does not transfer updates to already transferred records and transactions.**
+
+[Help File Home](/help/) | [Full Index](/Help-File-Directory/) | [Contact Support](mailto:support@ISPolitical.com)
+
+[⇑ About Consultant Tools in ISP](/About-Consultant-Tools-in-ISP)
+[« What Is ai@ISP in Consultant Tools?](/What-Is-ai-ISP-in-Consultant-Tools)
+[What Is the File Compliance Reports Page in Consultant Tools? »](/What-Is-the-File-Compliance-Reports-Page-in-Consultant-Tools)
+
+---
+
+# ABOUT COMPLIANCE REPORTS
+
+About Compliance Reports
+==========
+
+* [What Are Compliance Reports?](https://ispolitical.com/What-Are-Compliance-Reports)
+* [Beta Compliance Reports](https://ispolitical.com/Beta-Compliance-Reports)
+* [About Generating and Filing Compliance Reports](https://ispolitical.com/About-Generating-and-Filing-Compliance-Reports)
+* [Why Is My Compliance Report Cash on Hand Different From My Register Cash on Hand?](https://ispolitical.com/Why-Is-My-Compliance-Report-Cash-on-Hand-Different-From-My-Register-Cash-on-Hand)
+* [What Records are Needed for Compliance Reporting?](https://ispolitical.com/What-Records-are-Needed-for-Compliance-Reporting)
+* [How Do I Find Out My State’s Filing Dates?](https://ispolitical.com/How-Do-I-Find-Out-My-State-s-Filing-Dates)
+* [What Are the Sort Order Options for Compliance Reports?](https://ispolitical.com/What-Are-the-Sort-Order-Options-for-Compliance-Reports)
+* [I Didn’t File My Report, What Should I Do Now?](https://ispolitical.com/I-Didn-t-File-My-Report-What-Should-I-Do-Now)
+* [How Do I Prepare My Termination Report?](https://ispolitical.com/Preparing-for-a-Termination-Report-How-to-Close-Your-ISP-Account)
+* [What Is the Password Safe?](https://ispolitical.com/What-Is-the-Password-Safe)
+* [IRS Filing FAQ and Resources](https://ispolitical.com/IRS-Filing-FAQ-and-Resources)
+* [FEC Campaign, Party, & PAC Filing FAQ and Resources](https://ispolitical.com/FEC-Campaign-Party-PAC-Filing-FAQ-and-Resources)
+* [Alabama Campaign, Party, & PAC Filing FAQ and Resources](https://ispolitical.com/Alabama-Campaign-Party-PAC-Filing-FAQ-and-Resources)
+* [Alaska Campaign, Party, & PAC Filing FAQ and Resources](https://ispolitical.com/Alaska-Campaign-Party-PAC-Filing-FAQ-and-Resources)
+* [Arizona Campaign, Party, & PAC Filing FAQ and Resources](https://ispolitical.com/Arizona-Campaign-Party-PAC-Filing-FAQ-and-Resources)
+* [Arkansas Campaign, Party, & PAC Filing FAQ and Resources](https://ispolitical.com/Arkansas-Campaign-Party-PAC-Filing-FAQ-and-Resources)
+* [California Campaign, Party, & PAC Filing FAQ and Resources](https://ispolitical.com/California-Campaign-Party-PAC-Filing-FAQ-and-Resources)
+* [Colorado Campaign, Party, & PAC Filing FAQ and Resources](https://ispolitical.com/Colorado-Campaign-Party-PAC-Filing-FAQ-and-Resources)
+* [Connecticut Campaign, Party, & PAC Filing FAQ and Resources](https://ispolitical.com/Connecticut-Campaign-Party-PAC-Filing-FAQ-and-Resources)
+* [Delaware Campaign, Party, & PAC Filing FAQ and Resources](https://ispolitical.com/Delaware-Campaign-Party-PAC-Filing-FAQ-and-Resources)
+* [Florida Campaign, Party, & PAC Filing FAQ and Resources](https://ispolitical.com/Florida-Campaign-Party-PAC-Filing-FAQ-and-Resources)
+* [Georgia Campaign, Party, & PAC Filing FAQ and Resources](https://ispolitical.com/Georgia-Campaign-Party-PAC-Filing-FAQ-and-Resources)
+* [Hawaii Campaign, Party, & PAC Filing FAQ and Resources](https://ispolitical.com/Hawaii-Campaign-Party-PAC-Filing-FAQ-and-Resources)
+* [Idaho Campaign, Party, & PAC Filing FAQ and Resources](https://ispolitical.com/Idaho-Campaign-Party-PAC-Filing-FAQ-and-Resources)
+* [Illinois Campaign, Party, & PAC Filing FAQ and Resources](https://ispolitical.com/Illinois-Campaign-Party-PAC-Filing-FAQ-and-Resources)
+* [Indiana Campaign, Party, & PAC Filing FAQ and Resources](https://ispolitical.com/Indiana-Campaign-Party-PAC-Filing-FAQ-and-Resources)
+* [Iowa Campaign, Party, & PAC Filing FAQ and Resources](https://ispolitical.com/Iowa-Campaign-Party-PAC-Filing-FAQ-and-Resources)
+* [Kansas Campaign, Party, & PAC Filing FAQ and Resources](https://ispolitical.com/Kansas-Campaign-Party-PAC-Filing-FAQ-and-Resources)
+* [Kentucky Campaign, Party, & PAC Filing FAQ and Resources](https://ispolitical.com/Kentucky-Campaign-Party-PAC-Filing-FAQ-and-Resources)
+* [Louisiana Campaign, Party, & PAC Filing FAQ and Resources](https://ispolitical.com/Louisiana-Campaign-Party-PAC-Filing-FAQ-and-Resources)
+* [Maine Campaign, Party, & PAC Filing FAQ and Resources](https://ispolitical.com/Maine-Campaign-Party-PAC-Filing-FAQ-and-Resources)
+* [Maryland Campaign, Party, & PAC Filing FAQ and Resources](https://ispolitical.com/Maryland-Campaign-Party-PAC-Filing-FAQ-and-Resources)
+* [Massachusetts Campaign, Party, & PAC Filing FAQ and Resources](https://ispolitical.com/Massachusetts-Campaign-Party-PAC-Filing-FAQ-and-Resources)
+* [Michigan Campaign, Party, & PAC Filing FAQ and Resources](https://ispolitical.com/Michigan-Campaign-Party-PAC-Filing-FAQ-and-Resources)
+* [Minnesota Campaign, Party, & PAC Filing FAQ and Resources](https://ispolitical.com/Minnesota-Campaign-Party-PAC-Filing-FAQ-and-Resources)
+* [Mississippi Campaign, Party, & PAC Filing FAQ and Resources](https://ispolitical.com/Mississippi-Campaign-Party-PAC-Filing-FAQ-and-Resources)
+* [Missouri Campaign, Party, & PAC Filing FAQ and Resources](https://ispolitical.com/Missouri-Campaign-Party-PAC-Filing-FAQ-and-Resources)
+* [Montana Campaign, Party, & PAC Filing FAQ and Resources](https://ispolitical.com/Montana-Campaign-Party-PAC-Filing-FAQ-and-Resources)
+* [Nebraska Campaign, Party, & PAC Filing FAQ and Resources](https://ispolitical.com/Nebraska-Campaign-Party-PAC-Filing-FAQ-and-Resources)
+* [Nevada Campaign, Party, & PAC Filing FAQ and Resources](https://ispolitical.com/Nevada-Campaign-Party-PAC-Filing-FAQ-and-Resources)
+* [New Hampshire Campaign, Party, & PAC Filing FAQ and Resources](https://ispolitical.com/New-Hampshire-Campaign-Party-PAC-Filing-FAQ-and-Resources)
+* [New Jersey Campaign, Party & PAC Filing FAQ and Resources](https://ispolitical.com/New-Jersey-Campaign-Party-PAC-Filing-FAQ-and-Resources)
+* [New Mexico Campaign, Party, & PAC Filing FAQ and Resources](https://ispolitical.com/New-Mexico-Campaign-Party-PAC-Filing-FAQ-and-Resources)
+* [New York Campaign, Party, & PAC Filing FAQ and Resources](https://ispolitical.com/New-York-Campaign-Party-PAC-Filing-FAQ-and-Resources)
+* [North Carolina Campaign, Party, & PAC Filing FAQ and Resources](https://ispolitical.com/North-Carolina-Campaign-Party-PAC-Filing-FAQ-and-Resources)
+* [North Dakota Campaign, Party, & PAC Filing FAQ and Resources](https://ispolitical.com/North-Dakota-Campaign-Party-PAC-Filing-FAQ-and-Resources)
+* [Ohio Campaign, Party, & PAC Filing FAQ and Resources](https://ispolitical.com/Ohio-Campaign-Party-PAC-Filing-FAQ-and-Resources)
+* [Oklahoma Campaign, Party, & PAC Filing FAQ and Resources](https://ispolitical.com/Oklahoma-Campaign-Party-PAC-Filing-FAQ-and-Resources)
+* [Oregon Campaign, Party, & PAC Filing FAQ and Resources](https://ispolitical.com/Oregon-Campaign-Party-PAC-Filing-FAQ-and-Resources)
+* [Pennsylvania Campaign, Party, & PAC Filing FAQ and Resources](https://ispolitical.com/Pennsylvania-Campaign-Party-PAC-Filing-FAQ-and-Resources)
+* [Rhode Island Campaign, Party, & PAC Filing FAQ and Resources](https://ispolitical.com/Rhode-Island-Campaign-Party-PAC-Filing-FAQ-and-Resources)
+* [South Carolina Campaign, Party, & PAC Filing FAQ and Resources](https://ispolitical.com/South-Carolina-Campaign-Party-PAC-Filing-FAQ-and-Resources)
+* [South Dakota Campaign, Party, & PAC Filing FAQ and Resources](https://ispolitical.com/South-Dakota-Campaign-Party-PAC-Filing-FAQ-and-Resources)
+* [Tennessee Campaign, Party, & PAC Filing FAQ and Resources](https://ispolitical.com/Tennessee-Campaign-Party-PAC-Filing-FAQ-and-Resources)
+* [Texas Campaign, Party, & PAC Filing FAQ and Resources](https://ispolitical.com/Texas-Campaign-Party-PAC-Filing-FAQ-and-Resources)
+* [Utah Campaign, Party, & PAC Filing FAQ and Resources](https://ispolitical.com/Utah-Campaign-Party-PAC-Filing-FAQ-and-Resources)
+* [Vermont Campaign, Party, & PAC Filing FAQ and Resources](https://ispolitical.com/Vermont-Campaign-Party-PAC-Filing-FAQ-and-Resources)
+* [Virginia Campaign, Party, & PAC Filing FAQ and Resources](https://ispolitical.com/Virginia-Campaign-Party-PAC-Filing-FAQ-and-Resources)
+* [Washington Campaign, Party, & PAC Filing FAQ and Resources](https://ispolitical.com/Washington-Campaign-Party-PAC-Filing-FAQ-and-Resources)
+* [West Virginia Campaign, Party, & PAC Filing FAQ and Resources](https://ispolitical.com/West-Virginia-Campaign-Party-PAC-Filing-FAQ-and-Resources)
+* [Wisconsin Campaign, Party, & PAC Filing FAQ and Resources](https://ispolitical.com/Wisconsin-Campaign-Party-PAC-Filing-FAQ-and-Resources)
+* [Wyoming Campaign, Party, & PAC Filing FAQ and Resources](https://ispolitical.com/Wyoming-Campaign-Party-PAC-Filing-FAQ-and-Resources)
+
+[Help File Home](/help/) | [Full Index](/Help-File-Directory/) | [Contact Support](mailto:support@ISPolitical.com)
+
+[« About Reports in ISP](/About-Reports-in-ISP)
+[What Are Compliance Reports? »](/What-Are-Compliance-Reports)
+
+---
+
 # ABOUT THE NV COMMITTEE CONTRIBUTIONS AND EXPENDITURES REPORT
 
 About the NV Committee Contributions and Expenditures Report
@@ -107,6 +290,131 @@ This report generates a zip file containing two CSV files that you can use to bu
 [⇑ Nevada Campaign, Party, & PAC Filing FAQ and Resources](/Nevada-Campaign-Party-PAC-Filing-FAQ-and-Resources)
 [« About the NV Candidate Contributions and Expenditures Report](/About-the-NV-Candidate-Contributions-and-Expenditures)
 [New Hampshire Campaign, Party, & PAC Filing FAQ and Resources »](/New-Hampshire-Campaign-Party-PAC-Filing-FAQ-and-Resources)
+
+---
+
+# CAMPAIGN FINANCE REFORM THE ROLE OF MODERN ACCOUNTING TOOLS
+
+Campaign Finance Reform: The Role of Modern Accounting Tools
+==========
+
+<img alt="image (2)" src="https://ispolitical.com/wp-content/uploads/2024/03/image-2.png" title="image (2)" height="1024" width="1024" />
+
+As the demands for political finance accountability and compliance continue to evolve, modern accounting tools have become indispensable assets for political treasurers.
+
+In this era of digital evolution, where every aspect of a political campaign is scrutinized, ISPolitical stands at the forefront with its cutting-edge political campaign accounting software. Let's examine political campaign finance reform and see how ISPolitical is revolutionizing the way political organizations manage their financial transactions, compliance reporting, and overall efficiency in the ever-changing political landscape.
+
+What is Political Campaign Finance Reform?
+----------
+
+Political Finance Reform aims to regulate the financing of political campaigns to enhance transparency, reduce corruption, and ensure fair competition. The role of modern accounting tools, such as those provided by ISPolitical, meets the onerous demands placed on honest political finance teams.
+
+These tools enable accurate and efficient tracking of campaign transactions, ensuring compliance with stringent reporting requirements. Ultimately, they empower campaign treasurers to navigate the complex financial landscape, meeting the demands for a more accountable and transparent political system.
+
+At the Forefront of Political Finance Reform
+----------
+
+The team at ISP thrives on continuous improvement and adaptation to the ever-changing demands of political finance, including ongoing political campaign finance reform. Their unique software development environment reflects their commitment to agility, allowing the system to efficiently cater to the diverse and rigorous (not to mention evolving) compliance requirements across states.
+
+ISPolitical's [FEC Compliance Reporting Software](https://ispolitical.com/compliance/) is designed to be the ultimate solution for political treasurers. As a robust hub for financial transactions, it offers a customizable dashboard, allowing treasurers to stay informed and in control of their campaign's financial health. ISP optimizes compliance reporting workflows, providing access to political campaign data from anywhere the trail takes you.
+
+Accurate reconciliations are made hassle-free with ISPolitical, providing treasurers with the tools they need to streamline their accounting processes. As you can see, this software is more than just a tool; it's a comprehensive solution designed specifically to meet the unique needs of political organizations.
+
+Why ISPolitical is the Best Choice For Campaign Finance
+----------
+
+* **Web-Based Access:** Access campaign data from any device, ensuring information flows fast.
+* **Proven Success:** A compliance team with more than 125 years of combined political campaign compliance report writing experience ensures a bug-free, quality-controlled system.
+* **Customized for Treasurers:** Designed with input from top political treasurers, ensuring efficiency.
+* **Expertise = Efficiency:** Optimized for reducing clicks, inputs, and manual overrides, speeding up workflow.
+* **Integration:** Seamless integration with major political processors for simple, accurate, and efficient fundraising.
+* **Reasonable Development**: Client feedback-driven changes ensure continuous improvement.
+* **Treasurer's Toolkit:** The most advanced features and training, unlimited users, and customizable permissions for a hassle-free experience.
+* **Enhanced Security:** Two-factor authentication, best practices, and physical hardware backup for peace of mind.
+* **No Contracts:** Enjoy the flexibility with no long-term commitments. Scaled pricing to match what you raise. Cancel at the end of any month.
+* **Quick Setup:** Get your account up and running day or night to match the pace of political campaigns.
+
+Political Campaign Finance Reform Implies Enhanced Security
+----------
+
+Security is paramount in political finance reform to safeguard sensitive financial data, maintain the integrity of political processes, and prevent potential breaches that could compromise the transparency and trust essential in democratic practices. In an era of increased cyber threats, robust security measures are crucial to ensure the protection of critical information integral to political campaigns and compliance reporting.
+
+ISPolitical prioritizes security with:
+
+1. **Two-Factor Authentication:** Enhanced login security with SMS, phone, One-Touch, or TOTP.
+2. **Best Practices:** Ongoing staff training, testing, and strict controls on email use.
+3. **Physical Measures:** Robust hardware backup, including firewalls, cameras, and uninterruptible power supply.
+
+Keep Up With Political Campaign Reform With ISP
+----------
+
+Political campaign financial reform is crucial for upholding transparency, accountability, and public trust in the democratic process, ensuring that campaign funds are ethically sourced, properly allocated, and reported per regulations. Continual reform calls for technology must reflect changing laws. Political accounting software must be agile.
+
+You’ll always find ISP at the bleeding edge of campaign finance reform. Explore ISPolitical's features, benefit from a free trial, and witness the difference in secure and efficient political accounting. [Contact us](https://ispolitical.com/contact/) to activate your free trial and boost your campaign's success.
+
+You May Like These Blogs
+----------
+
+[Simplifying Campaign Finance with ISP’s Essential Tools](https://ispolitical.com/simplifying-campaign-finance-with-isps-essential-tools/)
+----------
+
+Managing a campaign’s finances can be complex and time-consuming. However, ISP’s suite of campaign finance solutions and tools is designed…
+
+[Read More](https://ispolitical.com/simplifying-campaign-finance-with-isps-essential-tools/)
+
+[Understanding FEC Filing Deadlines: The Breakdown](https://ispolitical.com/understanding-fec-filing-deadlines-the-breakdown/)
+----------
+
+The Federal Election Commission (FEC) plays a pivotal role in maintaining the integrity of campaign finance in the United States.…
+
+[Read More](https://ispolitical.com/understanding-fec-filing-deadlines-the-breakdown/)
+
+[Why You Should Have a Professional Campaign Treasurer](https://ispolitical.com/why-you-should-have-a-professional-campaign-treasurer/)
+----------
+
+Running a political campaign is a complex and demanding endeavor. Amidst the whirlwind of events, rallies, and policy planning, one…
+
+[Read More](https://ispolitical.com/why-you-should-have-a-professional-campaign-treasurer/)
+
+---
+
+# WHAT ARE THE AVAILABLE TRANSACTION TYPES IN ISP
+
+What Are the Available Transaction Types in ISP?
+==========
+
+### List of Transaction Types ###
+
+|        Type         | Cash Impact| Net Worth Impact|                                                                                                                                     Description                                                                                                                                     |
+|---------------------|------------|-----------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+|   Accrued Expense   |     No     |       Yes       |                                           Accrued expenses don’t impact your cash balance because they haven’t been paid yet. When paid, it impacts your cash balance as an accrued expense payment. Accrued expenses are a type of debt.                                           |
+|   Accrued Income    |     No     |       Yes       |         Accrued Income is when incoming money is expected but not yet received. For example, an invoice is sent and the other entity agrees to pay the invoice but hasn’t yet. When the money is received, the payment is created as an Accrued Income Payment transaction.         |
+| Allocation Transfer |    Yes     |       Yes       |This is a transfer between associated State and Federal committees. It assists with handling federal regulations related to allocating contributions and expenses between State and Federal funds. Use Internal Transfers for transfers between different accounts of the same filer.|
+| Enforceable Pledge  |     No     |       No        |                                                                                                  Contributions that have been pledged to be given, but have not yet been realized.                                                                                                  |
+|       Expense       |    Yes     |       Yes       |                                                                                        Expenses are the cost required for something/money spent on something for your campaign or committee.                                                                                        |
+|In-Kind Contribution |     No     |       No        |                                                                                                       Transactions that are considered a gift of something rather than money.                                                                                                       |
+|  Internal Transfer  |     No     |       No        |                 Internal Transfers allow you to move funds between accounts. They are for non-reportable transfers or, in other words, transfers between accounts under the same filer. Use Allocation Transfers for transfers between different filer committees.                  |
+|      Loan Made      |    Yes     |       Yes       |                                                                             Money that is given that is intended to be repaid. Unlike an accrued expense, a loan involves an actual transfer of money.                                                                              |
+|    Loan Received    |    Yes     |       Yes       |                                                                                                           Money that is received that your committee intends to pay back.                                                                                                           |
+|Monetary Contribution|    Yes     |       Yes       |                                                                                                                   Donations made towards your committee/campaign.                                                                                                                   |
+|Non-Monetary Expense |     No     |       No        |                            A transfer of a good or service that does not require the use of funds. For example, transferring already owned office furniture to another committee. This is almost always used in conjunction with a Support/Oppose Memo.                             |
+|    Other Income     |    Yes     |       Yes       |                                                                               Any type of income received that is not listed in the above transaction types. Sometimes referred to as Other Receipts.                                                                               |
+
+###  Cash Impact  ###
+
+Transactions with a cash impact will impact the amount of available funds, either in your bank account or in undeposited funds. You can see cash impact using financial reports such as either the Cash Flow or the Register report.
+
+### Net Worth Impact ###
+
+Most simple transactions have the same cash and net worth impact. However, for more complex accrual/debt-related transactions, the cash and net worth impact may differ. For example, a loan received will increase your cash, but since the money is still owed, it does not change your net worth.
+
+You can see your current net worth by running the Net Worth report.
+
+[Help File Home](/help/) | [Full Index](/Help-File-Directory/) | [Contact Support](mailto:support@ISPolitical.com)
+
+[⇑ About Transactions](/About-Transactions)
+[« How Do I Add New Transactions?](/How-Do-I-Add-New-Transactions)
+[What Are Transaction Limits? »](/What-Are-Transaction-Limits)
 
 ---
 
@@ -459,6 +767,81 @@ When new donations are processed, we pull that data from Kindful via an API. If 
 
 ---
 
+# ABOUT THE CA FORM 4 1
+
+About the CA Form 401
+==========
+
+Applies To: California
+
+The CA Form 401 in California is for use by slate mailer organizations to disclose payments made and received in connection with producing slate mailers.
+
+This report is limited in it’s reporting – it only reports the payments received for the Slate Mailer and the expenses made in the production of the slate mailer(s).
+
+Cover Page
+----------
+
+This information is pulled from the Filer Committee Type within the Committee record.
+
+Schedule A: Payments Received
+----------
+
+This schedule pulls:
+
+* Other Income with Support/Oppose Memos
+* Accrued Income Payments if the original Accrued Income has a Support/Oppose Memo
+
+If the aggregate of Other Income and/or Accrued Income Payments is $100 or more in the reporting period.
+
+Schedule B: Payments Made
+----------
+
+This schedule pulls:
+
+* Expense
+* Accrued Expense Payment
+* Reversed Other Income
+
+Any Expense or Accrued Expense Payment is considered an expense made in the production of the slate mailer(s). The schedule itemizes any transactions when the aggregate of these transactions is $100 or more.
+
+Schedule B-1: Payments Made By An Agent or Independent Contractor on Behalf of a Slate Mailer Organization
+----------
+
+This schedule pulls splits of:
+
+* Expenses
+* Accrued Expenses (if an Accrued Expense Payment is in the period)
+
+The schedule itemizes any split transactions when the aggregate of these transactions is $500 or more.
+
+Schedule C: Persons Receiving $1000 or More
+----------
+
+This schedule pulls:
+
+* Expense
+* Non-Monetary Expenses
+
+If the entity is affiliated with the filer via Relationships, and the aggregate of these transactions is $1000 or more.
+
+Schedule D: Candidates and Measures Not Listed on Schedule A
+----------
+
+This schedule pulls:
+
+* Non-Monetary Expenses with Support/Oppose Memos
+* Other Income with Support/Oppose Memos
+
+If the aggregate of Other Income and/or Non-Monetary Expense is $99.99 or less in the reporting period.
+
+[Help File Home](/help/) | [Full Index](/Help-File-Directory/) | [Contact Support](mailto:support@ISPolitical.com)
+
+[⇑ California Campaign, Party, & PAC Filing FAQ and Resources](/California-Campaign-Party-PAC-Filing-FAQ-and-Resources)
+[« About the CA Form 400](/About-the-CA-Form-4)
+[What Is the CA 460 Report & How Do I Prepare and File It? »](/What-Is-the-CA-46-Report-How-Do-I-Prepare-and-File-It)
+
+---
+
 # ABOUT THE AZ PERIODIC REPORT PAC BULK IMPORT
 
 About the AZ Periodic Report / PAC Bulk Import
@@ -499,6 +882,38 @@ In order to file your report to Maricopa County:
 [⇑ Arizona Campaign, Party, & PAC Filing FAQ and Resources](/Arizona-Campaign-Party-PAC-Filing-FAQ-and-Resources)
 [« When Are the Arizona Filing Deadlines](/When-Are-the-Arizona-Filing-Deadlines)
 [About the AZ IE Trigger Report »](/About-the-AZ-IE-Trigger-Report)
+
+---
+
+# WHEN ARE THE NEW HAMPSHIRE FILING DEADLINES
+
+When Are the New Hampshire Filing Deadlines?
+==========
+
+Applies To: New Hampshire
+
+Below are deadlines for New Hampshire compliance report filing.
+
+The Filing Deadline information provided here is offered only as a reference aid. The provided deadline information may contain inaccuracies and may not include all special elections or deadlines. For agency-specific details please visit the [New Hampshire SoS website](https://www.sos.nh.gov/).
+
+Candidate
+----------
+
+* 08/21/2024: NH R and E (Candidate Version)
+* 09/04/2024: NH R and E (Candidate Version)
+* 09/18/2024: NH R and E (Candidate Version)
+* 10/16/2024: NH R and E (Candidate Version)
+* 10/30/2024: NH R and E (Candidate Version)
+* 11/13/2024: NH R and E (Candidate Version)
+
+You’re able to add Filing Deadlines found in ISP to your own digital calendar with our [Calendar Feed tool](https://ispolitical.com/Calendar-Feeds/).
+
+To see more information about New Hampshire compliance report filing with ISP, please visit our [New Hampshire Filing and FAQ Resources page](https://ispolitical.com/new-hampshire-campaign-party-pac-filing-faq-and-resources/).
+
+[Help File Home](/help/) | [Full Index](/Help-File-Directory/) | [Contact Support](mailto:support@ISPolitical.com)
+
+[« New Hampshire Campaign, Party, & PAC Filing FAQ and Resources](/New-Hampshire-Campaign-Party-PAC-Filing-FAQ-and-Resources)
+[About the NH – R and E »](/About-the-NH-R-and-E)
 
 ---
 
@@ -646,6 +1061,38 @@ If you need to add a new split as a Reversal, just click the Is Reversal box as 
 
 ---
 
+# ABOUT THE CA FORM 5 1 REPORT
+
+About the CA Form 501 Report
+==========
+
+Applies To: California
+
+The CA Form 501 Report, or the Candidate Intention Statement, is required for candidates running for state or local offices for each election, including reelection to the same office. Candidates for the county central committee that do not raise nor spend $2,000 or more in a calendar year are not required to file this report.
+
+CA FPPC Form 501 is needed before any solicitation or receiving of any contributions or before any expenditures are made on behalf of your candidacy. Be advised that this form is considered as filed on the date it is postmarked or hand-delivered.
+
+Completing the 501
+----------
+
+* **Candidate Information:** Basic information is required such as name, street address, office sought, agency name, party preference, and checking the appropriate box for your office’s jurisdiction. Agency names pull from the Filer Committee Jurisdiction Description
+unless the Candidate Jurisdiction is State. If you are needing the
+Multi-County box selected, ensure the Candidate Jurisdiction type is Other Local.
+* **Voluntary Expenditure Ceiling:** This section applies to candidates for elective state offices. In this section, you must state whether you accept or reject the voluntary expenditure ceiling. Candidates accepting the voluntary expenditure limit will be designated in either the state voter information guide; only for statewide candidates. Senate and Assembly candidates who have accepted the expenditure limit will be designated in the county voter information guide.
+* **Amendments:** If between the date of filing the 501 and the deadline for filings for that election, you may amend your statement of acceptance or rejection of the voluntary expenditure no more than two times. If you reject the expenditure ceiling in the primary or special election but have not exceeded the ceiling during that election, you may amend the 501 to accept the expenditure ceiling for the general or special runoff. Receiving all of the benefits of accepting the expenditure ceiling. Amended 501’s must be filed within the 14 days following the election.
+
+Paper Only Version of this report does not pull any signers to Section 4. After generating the report in ISP, you can either efile the report to the state/local agency or print off a copy to sign and paper file.
+
+###  ###
+
+[Help File Home](/help/) | [Full Index](/Help-File-Directory/) | [Contact Support](mailto:support@ISPolitical.com)
+
+[⇑ California Campaign, Party, & PAC Filing FAQ and Resources](/California-Campaign-Party-PAC-Filing-FAQ-and-Resources)
+[« About the CA Form 497 — Reverse](/About-the-CA-Form-497-Reverse)
+[Issues With California’s PDF Converting Program »](/Issues-With-California-s-PDF-Converting-Program)
+
+---
+
 # WHAT ARE COMMUNICATION TYPES
 
 What Are Communication Types?
@@ -697,6 +1144,72 @@ This form is *not* filed with the Indiana Election Division or a county electio
 
 ---
 
+# WHEN ARE THE OHIO FILING DEADLINES
+
+When Are the Ohio Filing Deadlines?
+==========
+
+Applies To: Ohio
+
+Below are deadlines for Ohio compliance report filing.
+
+The Filing Deadline information provided here is offered only as a reference aid. The provided deadline information may contain inaccuracies and may not include all special elections or deadlines. For agency-specific details please visit the [Ohio SoS website.](https://ethics.ohio.gov/)
+
+Candidate
+----------
+
+* 07/31/2024: OH Standard Report (Semiannual)
+* 08/05/2024: OH Standard Report (July Report- Statewide Candidates ONLY)
+* 09/04/2024: OH Standard Report (August Report- Statewide Candidates ONLY)
+* 10/03/2024: OH Standard Report (September Report- Statewide Candidates ONLY)
+* 10/24/2024: OH Standard Report (Pre-General)
+* 12/13/2024: OH Standard Report (Post-General)
+* 01/31/2025: OH Standard Report (2024 Annual)
+
+Multi-Agency Federal PAC
+----------
+
+* 07/31/2024: OH Standard Report (Semiannual)
+* 08/05/2024: OH Standard Report (July Report- Statewide Candidates ONLY)
+* 09/04/2024: OH Standard Report (August Report- Statewide Candidates ONLY)
+* 10/03/2024: OH Standard Report (September Report- Statewide Candidates ONLY)
+* 10/24/2024: OH Standard Report (Pre-General)
+* 12/13/2024: OH Standard Report (Post-General)
+* 01/31/2025: OH Standard Report (2024 Annual)
+
+Party
+----------
+
+* 07/31/2024: OH Standard Report (Semiannual)
+* 08/05/2024: OH Standard Report (July Report- Statewide Candidates ONLY)
+* 09/04/2024: OH Standard Report (August Report- Statewide Candidates ONLY)
+* 10/03/2024: OH Standard Report (September Report- Statewide Candidates ONLY)
+* 10/24/2024: OH Standard Report (Pre-General)
+* 12/13/2024: OH Standard Report (Post-General)
+* 01/31/2025: OH Standard Report (2024 Annual)
+
+Political Action Committee (PAC)
+----------
+
+* 07/31/2024: OH Standard Report (Semiannual)
+* 08/05/2024: OH Standard Report (July Report- Statewide Candidates ONLY)
+* 09/04/2024: OH Standard Report (August Report- Statewide Candidates ONLY)
+* 10/03/2024: OH Standard Report (September Report- Statewide Candidates ONLY)
+* 10/24/2024: OH Standard Report (Pre-General)
+* 12/13/2024: OH Standard Report (Post-General)
+* 01/31/2025: OH Standard Report (2024 Annual)
+
+You’re able to add Filing Deadlines found in ISP to your own digital calendar with our [Calendar Feed tool](https://ispolitical.com/Calendar-Feeds/).
+
+To see more information about [State] compliance report filing with ISP, please visit our [Ohio Filing and FAQ Resources page](https://ispolitical.com/ohio-campaign-party-pac-filing-faq-and-resources/).
+
+[Help File Home](/help/) | [Full Index](/Help-File-Directory/) | [Contact Support](mailto:support@ISPolitical.com)
+
+[« Ohio Campaign, Party, & PAC Filing FAQ and Resources](/Ohio-Campaign-Party-PAC-Filing-FAQ-and-Resources)
+[About the OH Standard Report »](/About-the-OH-Standard-Report)
+
+---
+
 # ABOUT THE VA COMPLIANCE REPORT
 
 About the VA Compliance Report
@@ -724,6 +1237,45 @@ In order to file reports using exports from ISP, your Statement of Organization 
 [⇑ Virginia Campaign, Party, & PAC Filing FAQ and Resources](/Virginia-Campaign-Party-PAC-Filing-FAQ-and-Resources)
 [« When Are the Virginia Filing Deadlines?](/When-Are-the-Virginia-Filing-Deadlines)
 [About the VA Large Contribution Report »](/About-the-VA-Large-Contribution-Report)
+
+---
+
+# NEW JERSEY CAMPAIGN PARTY PAC FILING FAQ AND RESOURCES
+
+New Jersey Campaign, Party & PAC Filing FAQ and Resources
+==========
+
+Applies To: New Jersey
+
+Below are links to resources to help you file your New Jersey reports.
+
+### FAQ ###
+
+* [When Are the New Jersey Filing Deadlines?](https://ispolitical.com/When-Are-the-New-Jersey-Filing-Deadlines)
+* [NJ Form R-1 Line by Line](https://ispolitical.com/NJ-Form-R-1-Line-by-Line)
+* [About the NJ Form R1 48HR Report](https://ispolitical.com/About-the-NJ-Form-R1-48HR)
+
+**Resources**
+
+[Elections Site](http://www.njelections.org/)
+[Filing Calendar](https://www.elec.nj.gov/forcandidates/datescurrent.htm)
+[Filing Guide](https://www.elec.nj.gov/forcandidates/Compliance_SCJCCPCRCIE.htm#hashexample)
+
+**Supported Reports**
+
+NJ Form C1 (Supplemental Contributor Information Report)
+NJ Form E1 (Supplemental Expenditure Information Report)
+NJ Form R1 (Report of Contributions and Expenditures for Candidates and Political Committees)
+
+**Form Specific Information**
+
+[NJ R1 Line by Line](https://ispolitical.com/NJ-R-Line-by-Line-Help-File)
+
+[Help File Home](/help/) | [Full Index](/Help-File-Directory/) | [Contact Support](mailto:support@ISPolitical.com)
+
+[⇑ About Compliance Reports](/About-Compliance-Reports)
+[« About the NH – IE Report](/About-the-NH-IE)
+[When Are the New Jersey Filing Deadlines? »](/When-Are-the-New-Jersey-Filing-Deadlines)
 
 ---
 
@@ -853,6 +1405,47 @@ Make sure that the date parameters match the credit card billing cycle dates you
 
 ---
 
+# NORTH CAROLINA CAMPAIGN PARTY PAC FILING FAQ AND RESOURCES
+
+North Carolina Campaign, Party, & PAC Filing FAQ and Resources
+==========
+
+Applies To: North Carolina
+
+Below are links to resources to help you file your North Carolina reports.
+
+### FAQ ###
+
+* [When Are the North Carolina Filing Deadlines?](https://ispolitical.com/When-Are-the-North-Carolina-Filing-Deadlines)
+* [NC Form 1000 Line by Line](https://ispolitical.com/NC-Form-Line-By-Line)
+* [About the NC Form 2220 Report](https://ispolitical.com/About-the-NC-Form-2220)
+* [About the NC Form 4100 Report](https://ispolitical.com/About-the-NC-Form-41-Report)
+
+### Supported Reports ###
+
+* NC Form 1000 (Disclosure Report Cover), Click [here](https://ispolitical.com/nc-form-1000-line-by-line/) for a line by line help file.
+* NC Form 2215 (Contributions to Registered Committees)
+* NC Form 2220 (48 Hour Notice)
+* NC Form 4100 (Federal Committee NC Disclosure Report Cover)
+
+### Form Specific Information ###
+
+* [NC Form 1000 Line By Line](https://ispolitical.com/NC-Form-Line-By-Line)
+
+### External Resources ###
+
+* [Elections Site](http://www.ncsbe.gov/)
+* [Filing Calendar](https://www.ncsbe.gov/Campaign-Finance/Reporting-Schedules)
+* [Filing Guide](https://www.ncsbe.gov/campaign-finance)
+
+[Help File Home](/help/) | [Full Index](/Help-File-Directory/) | [Contact Support](mailto:support@ISPolitical.com)
+
+[⇑ About Compliance Reports](/About-Compliance-Reports)
+[« How Do I File an Amended NY Report?](/How-Do-I-File-an-Amended-NY-Report)
+[When Are the North Carolina Filing Deadlines? »](/When-Are-the-North-Carolina-Filing-Deadlines)
+
+---
+
 # WHAT IS THE XODO SIGN INTEGRATION AND HOW DO I USE IT
 
 What Is the Xodo Sign Integration and How Do I Use It?
@@ -956,6 +1549,102 @@ The CA 460 Report supports only the following special elections:
 [⇑ What Is the CA 460 Report & How Do I Prepare and File It?](/What-Is-the-CA-46-Report-How-Do-I-Prepare-and-File-It)
 [« CA 460 Line by Line](/CA-46-Line-by-Line)
 [How Do I Add a Ballot Measure for the CA 460 Report? »](/How-Do-I-Add-a-Ballot-Measure)
+
+---
+
+# HOW DO I GET THE MULTI CANDIDATE BOX CHECKED
+
+How Do I Get the Multi-Candidate Box Checked?
+==========
+
+Applies To: Federal Election Commission – Political Action Committees (PACs)
+
+In order to get the Multi-Candidate box checked on the FEC Form 3X, add the Date Qualified on the Form 1M to the Date Qualified field in the Committee Info section of the Committee record.
+
+1. Navigate to your Filer Committee Record (The Search Box in the top menu bar works well for this).
+2. Locate the section called Committee Info.
+3. Click the green triangle for the Committee Info section to edit it.
+4. In the field Date Qualified enter the date your committee qualified.
+
+To uncheck the Multi-Candidate box, clear out any data in the Date Qualified field.
+
+[Help File Home](/help/) | [Full Index](/Help-File-Directory/) | [Contact Support](mailto:support@ISPolitical.com)
+
+[⇑ How Do I Pull a Transaction to a Specific Line on the FEC Form 3X?](/How-Do-I-Pull-a-Transaction-to-a-Specific-Line-on-the-FEC-Form-3X)
+[« How Do Allocations Appear on the FEC Form 3X Report?](/How-Do-Allocations-Appear-on-the-FEC-Form-3X-Report)
+[Prohibited Inkind Contributions for Allocable Activities »](/Prohibited-Inkind-Contributions-for-Allocable-Activities)
+
+---
+
+# ABOUT CHECK PRINTING
+
+About Check Printing
+==========
+
+* [How Do I Print Checks?](https://ispolitical.com/How-Do-I-Print-Checks)
+* [How Do I Batch Print Checks?](https://ispolitical.com/Batch-Check-Printing)
+
+[Help File Home](/help/) | [Full Index](/Help-File-Directory/) | [Contact Support](mailto:support@ISPolitical.com)
+
+[⇑ About Accounting in ISP](/About-Accounting-in-ISP)
+[« What Is JFC Management?](/What-Is-JFC-Management)
+[How Do I Print Checks? »](/How-Do-I-Print-Checks)
+
+---
+
+# WHAT IS THE MAILCHIMP INTEGRATION AND HOW DO I ADD IT
+
+What Is the Mailchimp Integration and How Do I Add It?
+==========
+
+Our integration partners sometimes make updates to their system that we are unaware of. If the steps provided in our help file don’t match what you see on their site, please contact our support team and we will assist you in getting the integration properly set up.
+
+Mailchimp is a broadcast email tool allowing you to send communications en masse to large numbers of individuals. The Mailchimp integration in ISP allows you to automatically create and update a Mailchimp audience based on the contacts in your database. From Mailchimp, you can also choose between mailing to your entire database or audience segments based on saved searches.
+
+Please note that Mailchimp accounts are created with different pricing plans, including a free plan. Each plan comes with its own limited number of allowable Audiences. The free plan allows only ONE Audience. You may need to delete your audience if you created one prior to setting up this integration. The integration will not work if you have already reached your limit of used Audiences in Mailchimp, regardless of the pricing plan you are on.
+
+### How do I add the Mailchimp integration? ###
+
+Navigate to the Integrations tab and select Add/Remove Integrations. On the resulting page, scroll down to the Available integrations and click on Mailchimp. You’ll then see a window appear with required account and committee information, as well as options for adding specific messaging.
+
+Fill out all the required fields marked with an asterisk and click Add Integration. You’ll then be automatically redirected to the Mailchimp login screen and asked to log into your Mailchimp account.
+
+Please keep in mind this integration requires you to have an existing Mailchimp account. If you do not already have a Mailchimp account prior to adding this integration, you will need to remove and re-add this integration after you have created the Mailchimp account.
+
+After you log in, you’ll be automatically redirected back to your database. At this point your integration has been installed and you should see a new Mailchimp menu option under Integrations.
+
+### How does it work? ###
+
+Only the primary email on individual records in ISP are synced with your new audience in Mailchimp. This process can take some time, approximately 5 to 10 minutes. Vendors and other organizations with emails will remain only in ISP. With this integration, your Saved Searches in Advanced Search will automatically be created as Tags in Mailchimp. This means if you create a custom Saved Search in ISP to narrow your list down further, that will become a Tag you can use in Mailchimp. There are also a few default tags that are part of the Quick List in ISP that will become Tags too. To view those lists in Mailchimp, click the Tag option on the left hand sidebar. You can use Tags in Mailchimp to keep them organized based on your Advanced Searches and contact only those in that specific Tag via Mailchimp.
+
+If you make updates to Individual records in your database and the changes have a direct impact on contacts in Mailchimp, those changes will happen overnight and be reflected in Mailchimp the next day. You can also force it to sync by navigating to the Mailchimp page under the Integrations tab and clicking the Force Sync button at the bottom of the screen if you need it urgently. Again, this can take 5 to 10 minutes to sync.
+
+Make sure you don’t add data directly into the ISP Audience in Mailchimp! Any data added that way will be overwritten when data from ISP is synced. Any individual records in ISP that are made inactive are not included in the Mailchimp sync. If an individual record has its email deleted, it will also be removed from the Mailchimp sync.
+
+Currently, data only goes from ISP to Mailchimp as part of this integration. More features are planned and we will update this page as they go live.
+
+### Why should I use Mailchimp? ###
+
+Over time we’ve heard from a number of clients that using other services besides Mailchimp results in a large number of emails ending up in Spam or not delivered at all. So while Mailchimp has a cost for larger volumes of data, the increased deliverability has proven to be worth the cost and satisfaction of clients using it for their email communications and lists.
+
+For more help with Mailchimp, please view their [help file system](https://mailchimp.com/help/).
+
+### Troubleshooting ###
+
+### If you’ve set up the Mailchimp integration and still are not seeing contacts in Mailchimp, you may need to resync. Click Integrations and then Mailchimp to navigate to the Mailchimp integration page. At the bottom left of that screen, press Resync.
+###
+
+### Related Information
+###
+
+* [Dealing with SPAM Filters](https://ispolitical.com/Dealing-with-SPAM-Filters)
+* [Why Emails May Bounce/Won’t Send Out](https://ispolitical.com/Why-Emails-May-Bounce-Won-t-Send-Out)
+
+[Help File Home](/help/) | [Full Index](/Help-File-Directory/) | [Contact Support](mailto:support@ISPolitical.com)
+
+[⇑ About Integrations in ISP](/About-Integrations-in-ISP)
+[« How Do I Set up a Kindful Integration?](/How-Do-I-Set-Up-a-Kindful-Integration)
+[Dealing with SPAM Filters »](/Dealing-with-SPAM-Filters)
 
 ---
 
@@ -1098,6 +1787,34 @@ To file your report, you must generate and download your e-file to upload to you
 
 ---
 
+# MISSOURI CAMPAIGN PARTY PAC FILING FAQ AND RESOURCES
+
+Missouri Campaign, Party, & PAC Filing FAQ and Resources
+==========
+
+Applies To: Missouri
+
+Below are links to resources to help you file your Missouri reports.
+
+**Resources**
+
+[Elections Site](http://s1.sos.mo.gov/elections)
+[Filing Calendar
+](https://Mec.Mo.Gov/MEC/Educational_Resources/Candidate_Committee.Aspx)[Filing Guide](https://mec.mo.gov/MEC/Educational_Resources/Candidate_Committee.Aspx)
+
+**Supported Reports**
+
+MO Committee Disclosure Report
+MO LCR (48 Hour Notice / Pre-Election)
+
+[Help File Home](/help/) | [Full Index](/Help-File-Directory/) | [Contact Support](mailto:support@ISPolitical.com)
+
+[⇑ About Compliance Reports](/About-Compliance-Reports)
+[« About the MS 48 Hour Report of Reportable Contributions](/About-the-MS-48-Hour-Report-of-Reportable-Contributions)
+[When Are the Missouri Filing Deadlines? »](/When-Are-the-Missouri-Filing-Deadlines)
+
+---
+
 # CAN I FILE A REPORT IF I DON T HAVE A FPPC ID YET
 
 Can I File a Report if I Don’t Have a FPPC ID Yet?
@@ -1118,6 +1835,51 @@ Phone: 916-653-6224
 
 [« What Are CA Local Filers and Signers?](/What-Are-CA-Local-Filers-and-Signers)
 [What Are Aggregates by Relationships on CA Report? »](/What-Are-Aggregates-by-Relationships-on-CA-Report)
+
+---
+
+# WHAT IS BANK STATEMENT RECONCILIATION HOW DO I USE IT
+
+What Is Bank Statement Reconciliation & How Do I Use It?
+==========
+
+The Reconciliation feature in ISP allows you to accurately keep track of your finances outside of ISP and ensure all transactions are financially accounted for and match your actual bank statement.
+
+If it is your first time doing a reconciliation or you are starting a new one, you will see four bank statement fields:
+
+* **Account:** The financial account to reconcile. Reconciliation is done on a financial account-by-financial account basis and is independent of the filers. Only transactions that are part of the specific financial account you select will appear.
+* **Closing Date:** The ending date of the bank statement you are reconciling. Along with the financial account selected, only transactions equal to and older than this date will appear.
+* **Starting Balance:** The starting balance of the bank statement for that month. If there was prior activity in the account that is not in ISP, that is factored into the number entered here.
+* **Ending Balance:** The ending balance as indicated on the bank statement you are reconciling.
+
+Once completed, click the Generate button to calculate the difference between the starting and ending balance and pull any transactions older than the Closing date entered.
+
+On the new screen, the Statement Summary section will display the info you added, totals for Receipts and Disbursements, and the Difference between your previously entered Starting and Ending balances. As Outstanding Transactions are selected, the totals and Difference amount will automatically adjust. To adjust the information you previously entered, click the Edit Statement Details button.
+
+The overall goal with reconciliation is to get the difference between the starting and ending balances to be $0. That indicates all transactions affecting the actual bank statement have been identified. The system will not allow a reconciliation to be applied until the Difference shows $0, at which point the Reconcile button will appear at the bottom of the screen. Until then, this button will not show.
+
+If during this process you catch anything missing, click Continue Later at the bottom of the screen to save the work you’ve done up to that point, and leave the page to make corrections.
+
+If your starting balance doesn’t match what was previously marked as cleared, review transactions that may have been edited since your last reconciliation. To view these transactions, click the Changed Reconciled Transactions Report link in the message.
+
+If you have the Dropbox integration installed in your database, you’ll see the Dropbox icon in various spots when reconciling a bank statement. Use this folder to add attachments to the specific reconciliation you are working in, whether it’s a current reconciliation or you’re reviewing a previously completed reconciliation. Each reconciliation statement will have its own room for attachments specific to only that reconciliation statement.
+
+Along with the Reconcile and Continue Later buttons at the bottom of the screen is a Past Reconciliations drop-up menu, which allows you to view past reconciliations, as well as reopen or undo the most recent reconciliation. This latter option is good for correcting previous reconciliation mistakes.
+
+For financial accounts that have over 200 transactions that are yet to be reconciled and it has been over six months since the last dated reconciliation, you will see an option to Auto Reconcile all historical transactions. This option only appears when both criteria have been met.
+
+How do I handle adding, editing, or deleting a transaction that had previously been reconciled?
+----------
+
+Best practices are to undo reconciliations back to the relevant month, correct the transaction error, and redo the reconciliations going forward.
+
+However, if you choose, you can include an old transaction in the current reconciliation. The reconciliation system only requires that the ending balance be $0. It will warn you if the starting balance doesn’t match but it will not prevent you from completing your reconciliation.
+
+[Help File Home](/help/) | [Full Index](/Help-File-Directory/) | [Contact Support](mailto:support@ISPolitical.com)
+
+[⇑ About Accounting in ISP](/About-Accounting-in-ISP)
+[« How Do I Batch Print Checks?](/Batch-Check-Printing)
+[About Record Deposit »](/About-Record-Deposit)
 
 ---
 
@@ -1146,11 +1908,20 @@ When ready, click the Print Checks button at the bottom of the screen to create 
 
 # WHAT IS THE PASSWORD SAFE
 
-429 Too Many Requests
+What Is the Password Safe?
 ==========
 
----
-nginx
+The security of passwords is very important no matter what the password is used for. In ISP, we have created Password Safe, a place where in the system your filing password is kept protected and ready for use the next time you need to file a report.
+
+After you have generated your report and are ready to file, click the Efile button. On the resulting page will either be fields to add your password and an option to add it to the Password Safe, or, if Password Safe has been used in the past, you’ll see a message stating Password Safe is in use.
+
+If you have used Password Safe in the past but need to change the password in Password Safe, generate the report as normal and again click Efile. On the resulting screen, you’ll see a Change Password link. Click this to update to the new password for future use.
+
+[Help File Home](/help/) | [Full Index](/Help-File-Directory/) | [Contact Support](mailto:support@ISPolitical.com)
+
+[⇑ About Compliance Reports](/About-Compliance-Reports)
+[« How Do I Prepare My Termination Report?](/Preparing-for-a-Termination-Report-How-to-Close-Your-ISP-Account)
+[IRS Filing FAQ and Resources »](/IRS-Filing-FAQ-and-Resources)
 
 ---
 
@@ -1198,6 +1969,33 @@ You can generate a report of Cash vs Net Worth on the Compliance Tools page unde
 [⇑ How Can I Use ISP in My Favor?](/How-Can-I-Use-ISP-in-My-Favor)
 [« What Are ISP Best Practices?](/What-Are-ISP-Best-Practices)
 [How Can I Best Manage Duplicates in My Database? »](/How-Can-I-Best-Manage-Duplicates-in-My-Database)
+
+---
+
+# VERMONT CAMPAIGN PARTY PAC FILING FAQ AND RESOURCES
+
+Vermont Campaign, Party, & PAC Filing FAQ and Resources
+==========
+
+Applies To: Vermont
+
+Below are links to resources to help you file your Vermont reports.
+
+**Resources**
+
+[Elections Site](https://sos.vermont.gov/elections/)
+[Filing Guide & Calendar](https://sos.vermont.gov/elections/campaign-finance/)
+
+**Supported Reports**
+
+Vermont Disclosure Report
+VT Mass Media Report
+
+[Help File Home](/help/) | [Full Index](/Help-File-Directory/) | [Contact Support](mailto:support@ISPolitical.com)
+
+[⇑ About Compliance Reports](/About-Compliance-Reports)
+[« Utah Campaign, Party, & PAC Filing FAQ and Resources](/Utah-Campaign-Party-PAC-Filing-FAQ-and-Resources)
+[About the VT Disclosure Report »](/About-the-VT-Disclosure-Report)
 
 ---
 
@@ -1316,6 +2114,28 @@ To disclose transactions under $10 with no contact information, associate the tr
 
 ---
 
+# WHAT IS AI ISP IN CONSULTANT TOOLS
+
+What Is ai@ISP in Consultant Tools?
+==========
+
+The ai@ISP page for Consultants shows the AI settings for each account you manage.
+
+When you first land on this page, you’ll see a list of your accounts on the left side. The next column to the right is the Settings column. Here you can edit different settings for AI performed tasks. These will include options like Combine Duplicates, Mark Reports as Filed, and more.
+
+To turn a particular Setting On or Off for all of your accounts, you can click the My Other Accounts button at the bottom of the page.  From this button’s drop-up menu, select Enable On All Accounts. You will see the change reflected in the Settings column for each account.
+
+In the middle column you’ll also see a link for customizing an Employer/Occupation email that AI can send out. This gives you the ability to create an email requesting Employer and/or Occupation info from entities that are missing that info from their records.
+
+On the right is column for Recipients. Here you can determine which user on staff will receive AI alerts for that database.
+
+[Help File Home](/help/) | [Full Index](/Help-File-Directory/) | [Contact Support](mailto:support@ISPolitical.com)
+
+[« About Consultant Tools in ISP](/About-Consultant-Tools-in-ISP)
+[What Is Data Flow and How Do I Use It? »](/What-Is-Data-Flow-and-How-Do-I-Use-It)
+
+---
+
 # HOW DO I COMBINE DUPLICATES IN SEARCH RESULTS
 
 How Do I Combine Duplicates in Search Results?
@@ -1335,6 +2155,46 @@ If there are more than a few duplicates you need to combine or if you just want 
 
 [« About Entities in ISP](/About-Entities-in-ISP)
 [How Do I Create New Relationships? »](/How-Do-I-Create-New-Relationships)
+
+---
+
+# SOUTH DAKOTA CAMPAIGN PARTY PAC FILING FAQ AND RESOURCES
+
+South Dakota Campaign, Party, & PAC Filing FAQ and Resources
+==========
+
+Applies To: South Dakota
+
+**Resources**
+
+[Elections Site](https://sdsos.gov/elections-voting/)
+[Filing Guide](https://sdsos.gov/elections-voting/campaign-finance/campaign-finance-faqs.aspx)
+[Filing Calendar](https://sdsos.gov/elections-voting/campaign-finance/important-dates.aspx)
+
+[Help File Home](/help/) | [Full Index](/Help-File-Directory/) | [Contact Support](mailto:support@ISPolitical.com)
+
+[⇑ About Compliance Reports](/About-Compliance-Reports)
+[« South Carolina Campaign, Party, & PAC Filing FAQ and Resources](/South-Carolina-Campaign-Party-PAC-Filing-FAQ-and-Resources)
+[Tennessee Campaign, Party, & PAC Filing FAQ and Resources »](/Tennessee-Campaign-Party-PAC-Filing-FAQ-and-Resources)
+
+---
+
+# ABOUT BALANCES
+
+About Balances
+==========
+
+* [How Do I Create Transactions Considered Debt?](https://ispolitical.com/How-Do-I-Create-Transactions-Considered-Debt)
+* [How Do I Add a Full OR Partial Payment to an Accrued Expense?](https://ispolitical.com/How-Do-I-Add-a-Full-OR-Partial-Payment-to-an-Accrued-Expense)
+* [How Do I Add a Loan Repayment or Forgiveness?](https://ispolitical.com/How-Do-I-Add-a-Loan-Repayment-or-Forgiveness)
+* [How Do I Generate Reports of Pledges & Targets?](https://ispolitical.com/How-Do-I-Generate-Reports-of-Pledges-Targets)
+* [How Do I Enter Credit Card Purchases?](https://ispolitical.com/How-Do-I-Enter-Credit-Card-Purchases)
+
+[Help File Home](/help/) | [Full Index](/Help-File-Directory/) | [Contact Support](mailto:support@ISPolitical.com)
+
+[⇑ About Accounting in ISP](/About-Accounting-in-ISP)
+[« What Is an Allocation Transfer?](/What-Is-an-Allocation-Transfer)
+[How Do I Create Transactions Considered Debt? »](/How-Do-I-Create-Transactions-Considered-Debt)
 
 ---
 
@@ -1511,6 +2371,42 @@ Please note the following:
 
 ---
 
+# ILLINOIS CAMPAIGN PARTY PAC FILING FAQ AND RESOURCES
+
+Illinois Campaign, Party, & PAC Filing FAQ and Resources
+==========
+
+Applies To: Illinois
+
+Below are links to resources to help you file your Illinois reports.
+
+### FAQ ###
+
+* [When Are the Illinois Filing Deadlines](https://ispolitical.com/When-Are-the-Illinois-Filing-Deadlines)
+* [About the IL Schedule A-1](https://ispolitical.com/About-the-IL-Schedule-A-1)
+* [About the IL Schedule B-1](https://ispolitical.com/About-the-IL-Schedule-B-1)
+* [About the IL Form D-2](https://ispolitical.com/About-the-IL-Form-D-2)
+
+### Supported Reports ###
+
+* IL Form D-2 (Report of Campaign Contributions and Expenditures)
+* IL Schedule A-1 (Report of Campaign Contributions of $1000 or More)
+* IL Schedule B-1 (Report of Independent Expenditures of $1000 or More)
+
+### External Resources ###
+
+[Elections Site
+](https://www.elections.il.gov/#News)[Filing Calendar](https://www.elections.il.gov/CampaignDisclosure.aspx?MID=rfZ%2buidMSDY%3d)
+[Filing Guide](https://www.elections.il.gov/CampaignDisclosure.aspx?MID=rfZ%2buidMSDY%3d)
+
+[Help File Home](/help/) | [Full Index](/Help-File-Directory/) | [Contact Support](mailto:support@ISPolitical.com)
+
+[⇑ About Compliance Reports](/About-Compliance-Reports)
+[« When Are the Idaho Filing Deadlines?](/When-Are-the-Idaho-Filing-Deadlines)
+[When Are the Illinois Filing Deadlines »](/When-Are-the-Illinois-Filing-Deadlines)
+
+---
+
 # WHAT ARE CAREY COMMITTEES AND CAREY ACCOUNTS
 
 What Are Carey Committees and Carey Accounts?
@@ -1611,6 +2507,312 @@ This message is likely because you attempted to file the report to local instead
 
 ---
 
+# HOW DO I SET UP THE ANEDOT INTEGRATION
+
+How Do I Set up the Anedot Integration?
+==========
+
+Our integration partners sometimes make updates to their system that we are unaware of. If the steps provided in our help file don’t match what you see on their site, please contact our support team and we will assist you in getting the integration properly set up.
+
+Anedot is a donation platform that provides tools to raise more money including one click Instant Donations, customizable recurring options, post-donation upsells, donor recovery, and more. When integrated with ISP, you’ll be able to receive donor data and information quickly.
+
+How do I set up the Anedot Integration?
+----------
+
+Setting up the Anedot integration in ISP happens in two stages, first within ISP, then the process is completed in your Anedot account.
+
+When new donations are processed, we pull that data from Anedot via an API. If it is a recurring monthly donation, Anedot will provide us with the new donation each month. From our standpoint, nothing in the information we receive indicates it being recurring. We also don’t allow for any sort of pre-entry because recurring donations sometimes fail or are canceled.
+
+In ISP:
+
+1. Under the Integrations tab, click Add/Remove Integrations.
+2. On the resulting Integrations screen, you will see a list of existing integrations in two sections: Installed and Available.
+3. Locate and click the Anedot integration in the Available section. It will then shift to the Installed section.
+
+Next, in Anedot:
+
+Log into your Anedot account and complete the process there. Anedot’s [help file](https://help.anedot.com/en/articles/9044458-ispolitical-isp) will walk you through the process on the Anedot site.
+
+You will need your ISP Account Name to complete the integration on Anedot. Make sure to use your short account name (the name at the top left of your screen next to the text ISP).
+
+Once you’ve completed the process in both ISP and Anedot, the integration will be set up. The system will now automatically create an Anedot organization record in the account with Anedot’s details and your donation data from Anedot will be automatically sent to your [Pending Imports](https://ispolitical.com/what-are-pending-imports-and-how-do-i-process-them/) on your Dashboard.
+
+You can control how your transactions come into ISP through the Auto-Import settings on the [ai@ISP page](https://ispolitical.com/what-is-ai-isp/).
+
+How can I use Budget Category customization?
+----------
+
+The Customize Budget Category section on the Anedot Settings page allows you to determine which Budget Category is applied to a donation no matter the form used. You can use a Budget Category already in your database or select the Create children of default category Unmapped option to create new Budget Categories that match the source codes ISP receives from Anedot. This allows for using a generic main Budget Category, e.g., Anedot Donations, while capturing some nuance of different Anedot Pages.
+
+You can also set up Anedot forms in ISP to map to Budget Categories. In the Per Form Categories section on the Anedot Settings page, add the Form Name and the Budget Category to be associated with the transactions that come in via this specific form. Please note that the Form Name must be a written name, as opposed to the URL for the form. This Per Form Categories setup will ensure that Anedot donations map automatically to the chosen Budget Categories via the integration import.
+
+How do I link a donation page?
+----------
+
+Navigate to the Integrations tab and click the Anedot option. This page will inform you if the Anedot integration has been enabled, as well as if transactions have been received. If so, you’ll also see a count of how many have been received since the first Anedot transfer.
+
+Below the integration status and transaction count is Account UID. This allows you to link your Anedot donation page. The easiest way to locate your UID is to take it from the URL address while in your Anedot account and on the Dashboard. It will be a string of letters and numbers and will always begin with the letter a.
+
+Once the UID has been added and your donation page linked, you’ll be able to add donations directly through ISP. This option will be found in two locations: Individual Search Results and Add Transaction.
+
+In Individual Search Results, after a search is performed and the results appear, click the hot dog menu and select Enter Credit Card: Anedot Individual Record Details: When in the record, click the Add button at the bottom of the screen and select Enter Credit Card: Anedot.
+
+When the link opens, the entity’s basic contact info will auto-populate and you’ll see fields to enter in donation information. The donation will be processed by Anedot and come into ISP via the regular integration method.
+
+Please note that linking another PAC as a conduit is currently not supported by ISP. In this instance, contributions will either need to be manually entered or imported via the Quick Imports tool.
+
+Campaign vs Action Pages
+----------
+
+Anedot has two different types of integration pages: Action Pages and Campaign.
+
+As for functionality, Action Pages will contain more. However, we have no preference as to which one is used, as both integrate with ISP. You can use either or both. To be safe, we do suggest turning both integration options on.
+
+Please note only Campaign Pages have a Push Unsent Donations option, which will push any historical data over to ISP.
+
+Troubleshooting Problems
+----------
+
+Below are some common problems you may encounter.
+
+1. My donors are coming through but not the Occupation/Employer information: In Anedot, there are ways to set up Custom Fields for the form. However, if there are issues with the set up, it can cause information to not be sent over to ISP. Fortunately, Anedot also has built in Occupation/Employer fields for forms. If you used Custom Fields for Occupation/Employer and this info is not coming over to ISP, remove the Custom Fields from the form and use the Anedot-built fields instead.
+2. I’m getting duplicate transactions from Anedot: It’s possible there are two ISP connections in Anedot. This can cause items to come over twice. Access your Anedot account and review the connections, then delete the one not needed.
+
+[Help File Home](/help/) | [Full Index](/Help-File-Directory/) | [Contact Support](mailto:support@ISPolitical.com)
+
+[⇑ About Integrations in ISP](/About-Integrations-in-ISP)
+[« How Do I Use the ActBlue Quick Import?](/How-Do-I-Use-the-ActBlue-Quick-Import)
+[How Do I Set up the Constant Contact Integration? »](/How-Do-I-Set-up-the-Constant-Contact-Integration)
+
+---
+
+# WHEN ARE THE FEC FILING DEADLINES
+
+When Are the FEC Filing Deadlines?
+==========
+
+Applies To: Federal Election Commission
+
+Below are deadlines for FEC compliance report filing.
+
+The Filing Deadline information provided here is offered only as a reference aide. The provided deadline information may contain inaccuracies and may not include all special elections or deadlines. For agency specific details, please visit the [FEC Dates and Deadlines page](https://www.fec.gov/help-candidates-and-committees/dates-and-deadlines/).
+
+527 Political Organization
+----------
+
+* 06/27/2024 – 07/14/2024: FEC Form 24-IE (NJ 10th CD Special Election- 24 Hr IE Reports)
+* 07/11/2024: FEC Form 3X (OH 6th CD Special Election- Post-General)
+* 07/15/2024: FEC Form 3X
+* 07/15/2024: FEC Form 3X (CA 20th CD Special Election- July Quarterly)
+* 07/15/2024: FEC Form 3X (NY 26th CD Special Election-July Quarterly)
+* 07/15/2024: FEC Form 3X (NJ 10th CD Special Election- July Quarterly)
+* 07/20/2024: FEC Form 3X
+* 07/25/2024 – 08/11/2024: FEC Form 24-IE (WI 8th CD Special Election- 24 IE Reports)
+* 07/25/2024: FEC Form 3X (CO 4th CD Special Election- Post-General)
+* 08/01/2024: FEC Form 3X (WI 8th CD Special Election- Pre-Primary)
+* 08/20/2024: FEC Form 3X
+* 08/30/2024 – 09/16/2024: FEC Form 24-IE (NJ 10th CD Special Election- 24 Hr IE Reports)
+* 09/06/2024: FEC Form 3X (NJ 10th CD Special Election- Pre-General)
+* 09/20/2024: FEC Form 3X
+* 10/15/2024: FEC Form 3X
+* 10/15/2024: FEC Form 3X (OH 6th CD Special Election- October Quarterly)
+* 10/15/2024: FEC Form 3X (CO 4th CD Special Election- October Quarterly)
+* 10/15/2024: FEC Form 3X (WI 8th CD Special Election- October Quarterly)
+* 10/17/2024 – 11/03/2024: FEC Form 24-IE
+* 10/18/2024: FEC Form 3X (NJ 10th CD Special Election- Post-General)
+* 10/20/2024: FEC Form 3X
+* 10/24/2024: FEC Form 3X
+* 12/05/2024: FEC Form 3X
+* 01/31/2025: FEC Form 3X (NJ 10th CD Special Election- Year-End)
+
+Authorized
+----------
+
+* 06/27/2024 – 07/14/2024: FEC Form 24-IE (NJ 10th CD Special Election- 24 Hr IE Reports)
+* 07/11/2024: FEC Form 3X (OH 6th CD Special Election- Post-General)
+* 07/15/2024: FEC Form 3X
+* 07/15/2024: FEC Form 3X (CA 20th CD Special Election- July Quarterly)
+* 07/15/2024: FEC Form 3X (NY 26th CD Special Election-July Quarterly)
+* 07/15/2024: FEC Form 3X (NJ 10th CD Special Election- July Quarterly)
+* 07/20/2024: FEC Form 3X
+* 07/25/2024 – 08/11/2024: FEC Form 24-IE (WI 8th CD Special Election- 24 IE Reports)
+* 07/25/2024: FEC Form 3X (CO 4th CD Special Election- Post-General)
+* 08/01/2024: FEC Form 3X (WI 8th CD Special Election- Pre-Primary)
+* 08/20/2024: FEC Form 3X
+* 08/30/2024 – 09/16/2024: FEC Form 24-IE (NJ 10th CD Special Election- 24 Hr IE Reports)
+* 09/06/2024: FEC Form 3X (NJ 10th CD Special Election- Pre-General)
+* 09/20/2024: FEC Form 3X
+* 10/15/2024: FEC Form 3X
+* 10/15/2024: FEC Form 3X (OH 6th CD Special Election- October Quarterly)
+* 10/15/2024: FEC Form 3X (CO 4th CD Special Election- October Quarterly)
+* 10/15/2024: FEC Form 3X (WI 8th CD Special Election- October Quarterly)
+* 10/17/2024 – 11/03/2024: FEC Form 24-IE
+* 10/18/2024: FEC Form 3X (NJ 10th CD Special Election- Post-General)
+* 10/20/2024: FEC Form 3X
+* 10/24/2024: FEC Form 3X
+* 12/05/2024: FEC Form 3X
+* 01/31/2025: FEC Form 3X (NJ 10th CD Special Election- Year-End)
+
+Candidate
+----------
+
+* 06/27/2024 – 07/14/2024: FEC Form 24-IE (NJ 10th CD Special Election- 24 Hr IE Reports)
+* 06/27/2024 – 07/13/2024: FEC Form 6 (NJ 10th CD Special Election- 48 Hr Notices)
+* 07/11/2024: FEC Form 3 (OH 6th CD Special Election- Post-General)
+* 07/15/2024: FEC Form 3
+* 07/15/2024: FEC Form 3 (CA 20th CD Special Election- July Quarterly)
+* 07/15/2024: FEC Form 3 (NY 26th CD Special Election- July Quarterly)
+* 07/15/2024: FEC Form 3 (NJ 10th CD Special Election- July Quarterly)
+* 07/25/2024 – 08/11/2024: FEC Form 24-IE (WI 8th CD Special Election- 24 IE Reports)
+* 07/25/2024: FEC Form 3 (CO 4th CD Special Election- Post-General)
+* 07/25/2024 – 08/10/2024: FEC Form 6 (WI 8th CD Special Election- 48 Hr Notices)
+* 08/01/2024: FEC Form 3 (WI 8th CD Special Election- Pre-Primary)
+* 08/30/2024 – 09/16/2024: FEC Form 24-IE (NJ 10th CD Special Election- 24 Hr IE Reports)
+* 08/30/2024 – 09/15/2024: FEC Form 6 (NJ 10th CD Special Election- 48 Hr Notices)
+* 09/06/2024: FEC Form 3 (NJ 10th CD Special Election- Pre-General)
+* 10/15/2024: FEC Form 3
+* 10/15/2024: FEC Form 3 (OH 6th CD Special Election- October Quarterly)
+* 10/15/2024: FEC Form 3 (CO 4th CD Special Election- October Quarterly)
+* 10/15/2024: FEC Form 3 (WI 8th CD Special Election- October Quarterly)
+* 10/17/2024 – 11/03/2024: FEC Form 24-IE
+* 10/17/2024 – 11/02/2024: FEC Form 6 (48 Hr Notices)
+* 10/18/2024: FEC Form 3 (NJ 10th CD Special Election- Post-General)
+* 10/24/2024: FEC Form 3
+* 12/05/2024: FEC Form 3
+* 01/31/2025: FEC Form 3 (NJ 10th CD Special Election- Year-End)
+
+Other
+----------
+
+* 06/27/2024 – 07/14/2024: FEC Form 24-IE (NJ 10th CD Special Election- 24 Hr IE Reports)
+* 06/27/2024 – 07/13/2024: FEC Form 6 (NJ 10th CD Special Election- 48 Hr Notices)
+* 07/11/2024: FEC Form 3 (OH 6th CD Special Election- Post-General)
+* 07/11/2024: FEC Form 3X (OH 6th CD Special Election- Post-General)
+* 07/15/2024: FEC Form 3
+* 07/15/2024: FEC Form 3 (CA 20th CD Special Election- July Quarterly)
+* 07/15/2024: FEC Form 3 (NY 26th CD Special Election- July Quarterly)
+* 07/15/2024: FEC Form 3 (NJ 10th CD Special Election- July Quarterly)
+* 07/15/2024: FEC Form 3X
+* 07/15/2024: FEC Form 3X (CA 20th CD Special Election- July Quarterly)
+* 07/15/2024: FEC Form 3X (NY 26th CD Special Election-July Quarterly)
+* 07/15/2024: FEC Form 3X (NJ 10th CD Special Election- July Quarterly)
+* 07/20/2024: FEC Form 3X
+* 07/25/2024 – 08/11/2024: FEC Form 24-IE (WI 8th CD Special Election- 24 IE Reports)
+* 07/25/2024: FEC Form 3 (CO 4th CD Special Election- Post-General)
+* 07/25/2024: FEC Form 3X (CO 4th CD Special Election- Post-General)
+* 07/25/2024 – 08/10/2024: FEC Form 6 (WI 8th CD Special Election- 48 Hr Notices)
+* 08/01/2024: FEC Form 3 (WI 8th CD Special Election- Pre-Primary)
+* 08/01/2024: FEC Form 3X (WI 8th CD Special Election- Pre-Primary)
+* 08/20/2024: FEC Form 3X
+* 08/30/2024 – 09/16/2024: FEC Form 24-IE (NJ 10th CD Special Election- 24 Hr IE Reports)
+* 08/30/2024 – 09/15/2024: FEC Form 6 (NJ 10th CD Special Election- 48 Hr Notices)
+* 09/06/2024: FEC Form 3 (NJ 10th CD Special Election- Pre-General)
+* 09/06/2024: FEC Form 3X (NJ 10th CD Special Election- Pre-General)
+* 09/20/2024: FEC Form 3X
+* 10/15/2024: FEC Form 3
+* 10/15/2024: FEC Form 3 (OH 6th CD Special Election- October Quarterly)
+* 10/15/2024: FEC Form 3 (CO 4th CD Special Election- October Quarterly)
+* 10/15/2024: FEC Form 3 (WI 8th CD Special Election- October Quarterly)
+* 10/15/2024: FEC Form 3X
+* 10/15/2024: FEC Form 3X (OH 6th CD Special Election- October Quarterly)
+* 10/15/2024: FEC Form 3X (CO 4th CD Special Election- October Quarterly)
+* 10/15/2024: FEC Form 3X (WI 8th CD Special Election- October Quarterly)
+* 10/17/2024 – 11/03/2024: FEC Form 24-IE
+* 10/17/2024 – 11/02/2024: FEC Form 6 (48 Hr Notices)
+* 10/18/2024: FEC Form 3 (NJ 10th CD Special Election- Post-General)
+* 10/18/2024: FEC Form 3X (NJ 10th CD Special Election- Post-General)
+* 10/20/2024: FEC Form 3X
+* 10/24/2024: FEC Form 3
+* 10/24/2024: FEC Form 3X
+* 12/05/2024: FEC Form 3
+* 12/05/2024: FEC Form 3X
+* 01/31/2025: FEC Form 3 (NJ 10th CD Special Election- Year-End)
+* 01/31/2025: FEC Form 3X (NJ 10th CD Special Election- Year-End)
+
+PAC – Joint Fundraising Committee
+----------
+
+* 06/27/2024 – 07/14/2024: FEC Form 24-IE (NJ 10th CD Special Election- 24 Hr IE Reports)
+* 07/25/2024 – 08/11/2024: FEC Form 24-IE (WI 8th CD Special Election- 24 IE Reports)
+* 08/30/2024 – 09/16/2024: FEC Form 24-IE (NJ 10th CD Special Election- 24 Hr IE Reports)
+* 10/17/2024 – 11/03/2024: FEC Form 24-IE
+
+Party
+----------
+
+* 06/27/2024 – 07/14/2024: FEC Form 24-IE (NJ 10th CD Special Election- 24 Hr IE Reports)
+* 07/25/2024 – 08/11/2024: FEC Form 24-IE (WI 8th CD Special Election- 24 IE Reports)
+* 08/30/2024 – 09/16/2024: FEC Form 24-IE (NJ 10th CD Special Election- 24 Hr IE Reports)
+* 10/17/2024 – 11/03/2024: FEC Form 24-IE
+
+Political Action Committee (PAC)
+----------
+
+* 06/27/2024 – 07/14/2024: FEC Form 24-IE (NJ 10th CD Special Election- 24 Hr IE Reports)
+* 07/11/2024: FEC Form 3X (OH 6th CD Special Election- Post-General)
+* 07/15/2024: FEC Form 3X
+* 07/15/2024: FEC Form 3X (CA 20th CD Special Election- July Quarterly)
+* 07/15/2024: FEC Form 3X (NY 26th CD Special Election-July Quarterly)
+* 07/15/2024: FEC Form 3X (NJ 10th CD Special Election- July Quarterly)
+* 07/20/2024: FEC Form 3X
+* 07/25/2024 – 08/11/2024: FEC Form 24-IE (WI 8th CD Special Election- 24 IE Reports)
+* 07/25/2024: FEC Form 3X (CO 4th CD Special Election- Post-General)
+* 08/01/2024: FEC Form 3X (WI 8th CD Special Election- Pre-Primary)
+* 08/20/2024: FEC Form 3X
+* 08/30/2024 – 09/16/2024: FEC Form 24-IE (NJ 10th CD Special Election- 24 Hr IE Reports)
+* 09/06/2024: FEC Form 3X (NJ 10th CD Special Election- Pre-General)
+* 09/20/2024: FEC Form 3X
+* 10/15/2024: FEC Form 3X
+* 10/15/2024: FEC Form 3X (OH 6th CD Special Election- October Quarterly)
+* 10/15/2024: FEC Form 3X (CO 4th CD Special Election- October Quarterly)
+* 10/15/2024: FEC Form 3X (WI 8th CD Special Election- October Quarterly)
+* 10/17/2024 – 11/03/2024: FEC Form 24-IE
+* 10/18/2024: FEC Form 3X (NJ 10th CD Special Election- Post-General)
+* 10/20/2024: FEC Form 3X
+* 10/24/2024: FEC Form 3X
+* 12/05/2024: FEC Form 3X
+* 01/31/2025: FEC Form 3X (NJ 10th CD Special Election- Year-End)
+
+Super PAC
+----------
+
+* 06/27/2024 – 07/14/2024: FEC Form 24-IE (NJ 10th CD Special Election- 24 Hr IE Reports)
+* 07/11/2024: FEC Form 3X (OH 6th CD Special Election- Post-General)
+* 07/15/2024: FEC Form 3X
+* 07/15/2024: FEC Form 3X (CA 20th CD Special Election- July Quarterly)
+* 07/15/2024: FEC Form 3X (NY 26th CD Special Election-July Quarterly)
+* 07/15/2024: FEC Form 3X (NJ 10th CD Special Election- July Quarterly)
+* 07/20/2024: FEC Form 3X
+* 07/25/2024 – 08/11/2024: FEC Form 24-IE (WI 8th CD Special Election- 24 IE Reports)
+* 07/25/2024: FEC Form 3X (CO 4th CD Special Election- Post-General)
+* 08/01/2024: FEC Form 3X (WI 8th CD Special Election- Pre-Primary)
+* 08/20/2024: FEC Form 3X
+* 08/30/2024 – 09/16/2024: FEC Form 24-IE (NJ 10th CD Special Election- 24 Hr IE Reports)
+* 09/06/2024: FEC Form 3X (NJ 10th CD Special Election- Pre-General)
+* 09/20/2024: FEC Form 3X
+* 10/15/2024: FEC Form 3X
+* 10/15/2024: FEC Form 3X (OH 6th CD Special Election- October Quarterly)
+* 10/15/2024: FEC Form 3X (CO 4th CD Special Election- October Quarterly)
+* 10/15/2024: FEC Form 3X (WI 8th CD Special Election- October Quarterly)
+* 10/17/2024 – 11/03/2024: FEC Form 24-IE
+* 10/18/2024: FEC Form 3X (NJ 10th CD Special Election- Post-General)
+* 10/20/2024: FEC Form 3X
+* 10/24/2024: FEC Form 3X
+* 12/05/2024: FEC Form 3X
+* 01/31/2025: FEC Form 3X (NJ 10th CD Special Election- Year-End)
+
+You’re able to add Filing Deadlines found in ISP to your own digital calendar with our [Calendar Feed tool](https://ispolitical.com/Calendar-Feeds).
+
+To see more information about FEC compliance report filing with ISP, please visit our [FEC Filing and FAQ Resources](https://ispolitical.com/fec-campaign-party-pac-filing-faq-and-resources/) page.
+
+[Help File Home](/help/) | [Full Index](/Help-File-Directory/) | [Contact Support](mailto:support@ISPolitical.com)
+
+[⇑ FEC Campaign, Party, & PAC Filing FAQ and Resources](/FEC-Campaign-Party-PAC-Filing-FAQ-and-Resources)
+[« How Do I Generate and E-file With the FEC?](/How-Do-I-Generate-and-E-file-With-the-FEC)
+[How Do I Add Candidate and Committee Records Directly From the FEC? »](/How-Do-I-Add-Candidate-and-Committee-Records-Directly-From-the-FEC)
+
+---
+
 # ABOUT THE NM CAMPAIGN FINANCE REPORT
 
 About the NM Campaign Finance Report
@@ -1634,6 +2836,160 @@ To file your report, download the generated file and upload it by logging in to 
 [⇑ New Mexico Campaign, Party, & PAC Filing FAQ and Resources](/New-Mexico-Campaign-Party-PAC-Filing-FAQ-and-Resources)
 [« When Are the New Mexico Filing Deadlines?](/When-Are-the-New-Mexico-Filing-Deadlines)
 [About the NM Supplemental Report »](/About-the-NM-Supplemental-Report)
+
+---
+
+# WHY IS MY COMPLIANCE REPORT CASH ON HAND DIFFERENT FROM MY REGISTER CASH ON HAND
+
+Why Is My Compliance Report Cash on Hand Different From My Register Cash on Hand?
+==========
+
+Sometimes you may notice your Cash On Hand total on the compliance report is different from the total in your register. A common reason is a transaction remains undeposited. However, the most common reason is that a transaction was deposited after the close of the reporting period. In this case, the explanation for the transaction’s inclusion on the Cash vs Bank Balance report would appear in the report results as Deposited after the date but received before.
+
+To help determine the specific transactions creating this difference, use the Cash vs Bank Balance report on the Compliance Tools page under the Report tab. Select the Cash vs Bank Balance from the Report field drop-down menu, add the date in the Date field, then click the Submit button.
+
+Along with the reason for including the transaction on the Cash vs Bank Balance report, report results will include the transaction date, the entity associated with the transaction, and the transaction amount. They will also include your Cash On Hand total and Bank Balance total.
+
+[Help File Home](/help/) | [Full Index](/Help-File-Directory/) | [Contact Support](mailto:support@ISPolitical.com)
+
+[⇑ About Compliance Reports](/About-Compliance-Reports)
+[« About Generating and Filing Compliance Reports](/About-Generating-and-Filing-Compliance-Reports)
+[What Records are Needed for Compliance Reporting? »](/What-Records-are-Needed-for-Compliance-Reporting)
+
+---
+
+# WEST VIRGINIA CAMPAIGN PARTY PAC FILING FAQ AND RESOURCES
+
+West Virginia Campaign, Party, & PAC Filing FAQ and Resources
+==========
+
+Applies To: West Virginia
+
+Below are links to resources to help you file your West Virginia campaign finance reports.
+
+### FAQ ###
+
+* [When Are the West Virginia Filing Deadlines?](https://ispolitical.com/When-Are-the-West-Virginia-Filing-Deadlines)
+* [About the WV F7 Report](https://ispolitical.com/About-the-WV-F7-Report)
+* [About the WV F7B](https://ispolitical.com/About-the-WV-F7B)
+
+**Resources**
+
+[Elections Site
+](http://www.sos.wv.gov/elections/pages/default.aspx)[Filing Calendar](https://sos.wv.gov/FormSearch/Elections/Informational/Campaign%20Finance%20Deadlines.pdf)
+[Filing Guide](https://sos.wv.gov/elections/Pages/default.aspx) (look for **Manuals, Training, and Guidance** in Election Administrators section)
+
+**Supported Reports**
+
+WV F7 (Campaign Financial Statement)
+WV F7B (Independent Expenditures Report)
+
+[Help File Home](/help/) | [Full Index](/Help-File-Directory/) | [Contact Support](mailto:support@ISPolitical.com)
+
+[⇑ About Compliance Reports](/About-Compliance-Reports)
+[« What Is the WA PDC Last Minute Contributions Report?](/What-Is-the-WA-PDC-Last-Minute-Contributions-Report)
+[When Are the West Virginia Filing Deadlines? »](/When-Are-the-West-Virginia-Filing-Deadlines)
+
+---
+
+# NEW MEXICO CAMPAIGN PARTY PAC FILING FAQ AND RESOURCES
+
+New Mexico Campaign, Party, & PAC Filing FAQ and Resources
+==========
+
+Applies To: New Mexico
+
+### FAQ ###
+
+* [When Are the New Mexico Filing Deadlines?](https://ispolitical.com/When-Are-the-New-Mexico-Filing-Deadlines)
+* [About the NM Campaign Finance Report](https://ispolitical.com/About-the-NM-Campaign-Finance-Report)
+* [About the NM Supplemental Report](https://ispolitical.com/About-the-NM-Supplemental-Report)
+
+**Resources**
+
+[Elections Site
+](https://www.sos.nm.gov/candidate-and-campaigns/how-to-become-a-candidate/campaign-finance-reporting-information/)[Filing Calendar
+](https://www.sos.nm.gov/candidate-and-campaigns/how-to-become-a-candidate/campaign-finance-reporting-schedule/)[Filing Guide](https://www.sos.nm.gov/candidate-and-campaigns/2024-candidate-campagin-finance-reporting-guide/)
+
+Supported Reports
+
+NM Campaign Finance Report
+
+[Help File Home](/help/) | [Full Index](/Help-File-Directory/) | [Contact Support](mailto:support@ISPolitical.com)
+
+[⇑ About Compliance Reports](/About-Compliance-Reports)
+[« About the NJ Form R1 48HR Report](/About-the-NJ-Form-R1-48HR)
+[When Are the New Mexico Filing Deadlines? »](/When-Are-the-New-Mexico-Filing-Deadlines)
+
+---
+
+# NEBRASKA CAMPAIGN PARTY PAC FILING FAQ AND RESOURCES
+
+Nebraska Campaign, Party, & PAC Filing FAQ and Resources
+==========
+
+Applies To: Nebraska
+
+**Resources**
+
+[Elections Site](https://sos.nebraska.gov/elections/information-candidates)
+[Filing Guide](https://nadc.nebraska.gov/publications)
+[Filing Calendar](https://nadc.nebraska.gov/important-election-dates)
+
+[Help File Home](/help/) | [Full Index](/Help-File-Directory/) | [Contact Support](mailto:support@ISPolitical.com)
+
+[⇑ About Compliance Reports](/About-Compliance-Reports)
+[« About the MT Form C7E Report](/About-the-MT-Form-C7E)
+[Nevada Campaign, Party, & PAC Filing FAQ and Resources »](/Nevada-Campaign-Party-PAC-Filing-FAQ-and-Resources)
+
+---
+
+# WHAT IS FORM BUILDER HOW DO I USE IT
+
+What Is Form Builder & How Do I Use It?
+==========
+
+Form Builder is where you can create forms for various volunteer or similar purposes. These form pages, when used, will send the data to the Pending Imports section on your Dashboard to import the volunteers as new entity records.
+
+To begin, be sure the Form Builder tool has been added to your database. If you do not see it under the Tools tab, select Add/Remove Tools. On the resulting page, either use the search field to search for Form Builder or scroll down until you see it. When you see it, click it to add it to your database. Once it has been successfully added, you should see it under the Tools tab.
+
+Once you arrive on the Form Builder page, you will see any existing Form Pages. If there aren’t any, you’ll need to add one. At the bottom of the screen are several buttons to get started.
+
+**Add Form Page:** This will open up a small window where you will create the basic details of the Form Page.
+
+**Form Emails:** This will redirect you to a connected page where you can create a confirmation email if the Form Page you are creating is a sign-up or donation page.
+
+**Print:** This is a standard print option that will print the basic details of the Form Pages showing.
+
+The Confirmation Email is optional so it is not necessary to create that first. However, if you do want to add a Confirmation Email to your Form Page, click the Form Emails button. On the resulting page, click the Add Form Email button at the bottom of the screen. In the small window that appears, you’ll have the ability to fully create an email to automatically send back to the individual who used the Form Page.
+
+In the Text field, you can create the message you want to send using standard text options. There is also a Merge Fields option which instructs the system to automatically insert information into the email for you. This includes Full Name, First Name, and Amount information.
+
+Once you complete the required fields, click the Add button to create the Form Email to add to your Form Page. To return to the Form Pages screen, click the Manage Pages button at the bottom.
+
+Back on the Form Pages screen, click Add Form Page to create the basic details of the Form Page. In the small window that appears, complete the fields with the applicable information. The last option, Confirmation Email, will be a dropdown menu containing the Form Emails you just created or have created in the past. Once you’ve finished making selections and filling out fields, click the Add button.
+
+On the main Form Pages screen, you’ll now see the page you created with various columns and new options.
+
+**Title:** If you need to make any edits to the basic information of the Form Page, click the name to open the window and make changes.
+
+**Form Page:** The Form Page link is what you will use to embed the Form Page into your website. You can copy and paste that link into the applicable location on your website.
+
+**Flags:** If you’d like existing Flags in your database to be added to the Form Page user’s record, click the [Add] option and select the Flags you’d like to incorporate into the page. In the small window that appears, select the Flag from the dropdown. If you’d like the system to automatically add the Flag, select the Always Added option. Otherwise, select Checkbox if you’d like to give the Form Page user the choice.
+
+**Display:** Here you can choose how the Form Page displays to the Form Page user and also how confirmation text appears.
+
+* **Upload Logo:** When you click the Upload Logo button, a small window will appear where you can select an image from your computer. Please note the recommended image size is approximately 3.5 times wider than it is tall.
+* **Customize Confirmation Text:** Here you can determine the message that appears on the screen after a successful use of the Form Page. This is different than the Form Email, as this is only displayed on the screen, not emailed to them.
+* **Other Options:** If you are familiar with Css code or Google Analytics, you can use that to enhance the page and track its use.
+
+Once you have completed all of the above, your Form Page is now ready for use.
+
+[Help File Home](/help/) | [Full Index](/Help-File-Directory/) | [Contact Support](mailto:support@ISPolitical.com)
+
+[⇑ About Tools in ISP](/About-Tools-in-ISP)
+[« What Are External Data Sources?](/What-Are-External-Data-Sources)
+[How Do I Link Spouses? »](/How-to-Link-Spouses)
 
 ---
 
@@ -1741,6 +3097,94 @@ Pledges and Targets are [created and managed in entity records](https://ispoliti
 [⇑ About Balances](/About-Balances)
 [« How Do I Add a Loan Repayment or Forgiveness?](/How-Do-I-Add-a-Loan-Repayment-or-Forgiveness)
 [How Do I Enter Credit Card Purchases? »](/How-Do-I-Enter-Credit-Card-Purchases)
+
+---
+
+# WHAT ARE THE AVAILABLE QUICK IMPORT FORMATS IN ISP
+
+What Are the Available Quick Import Formats in ISP?
+==========
+
+When your ISP database is first created, it comes with standard default Quick Import formats. Others are available to add, so if you don’t see the one you’re looking for, please contact Support.
+
+Each of the Quick Imports below come with a downloadable template to use if you plan on using that import more than once. These are found in the sidebar of the screen for each Quick Import. The ai Assisted does not have a template to download. When completing the template, be sure not to rearrange columns on the spreadsheet, as this can negatively affect the import.
+
+**ai Assisted:** If the other import formats do not apply to what you need to import, use this option. There are no set columns or order.
+
+Please note that you cannot use this format for conduit contributions.
+
+**Caged Donations:** This import template can be used if the import contains transactions that happened via different methods, such as Cash or Credit Card or Check or otherwise. Selecting a specific Financial Account besides Undeposited will deposit all transactions on the spreadsheet into one Deposit.
+
+**Check from Conduit:** Use this import template if you need to import transactions sent to you on one single check from a conduit. You can also use this import to add JFC contributions and memos. However, after the import completes, you’ll have to go into each transaction and change the Tag from Conduit Check to Transfer.
+
+**Communications:** The Communications import allows you to add a Communication Type to an existing or new record. If the import contains a Communication has not been created in your database, you will have the option to allow the system create it for you upon import.
+
+**Contacts:** This import quickly imports individuals and their contact information, as well as Flags, if applicable.
+
+**Credit Card Statement:** This import will create a single expense transaction to a specific Vendor. If the transaction is an expense not fully billed for, select the Add As Accrued Expense box during the import process.
+
+**Expenses & Subvendors:** Using the Expenses & Subvendors import, you can bring in expense transactions and any subvendors and splits attached to the expenses.
+
+**Flags:** Use this import in conjunction with record ID numbers to add a Flag to the record. To locate the record ID, navigate to the entity’s record and in the URL at the top of the screen, note the numbers at the end of the URL. This is the record ID for the entity’s record you are currently in.
+
+**Individuals & Organizations:** This import allows you to add Individuals and Organizations, as well as contact information and any Flags you want associated with that entity.
+
+**Inkind Contributions:** Inkind contributions have no cash impact. However, use this import to quickly add any Inkind contributions and the entity’s they’re attached to.
+
+**Online Donations:** If you receive donations online, you can use this import template to import them into your database so it matches your bank statement.
+
+**Organizations & Contributions:** If you have contributions and other Organizations you need to add to your database, use this template to bring that data in.
+
+**Other Transactions:** This import lets you import transactions by transaction type.
+
+**Targets and Pledges:** This import template allows you to import Targets and Pledges, as well as the entity they’re associated with. It will automatically create the Target or Pledge in that entity’s record.
+
+As mentioned previously, if you don’t see a template here that will work for the data you want to import, please contact Support.
+
+**Transfer of Contributions:** This import template allows you to bring in transactions from a conduit. This will add the tag Transfer to the main transaction.
+
+[Help File Home](/help/) | [Full Index](/Help-File-Directory/) | [Contact Support](mailto:support@ISPolitical.com)
+
+[« How Do I Use Quick Import?](/How-Do-I-Use-Quick-Import)
+[What Is Rocket Management? »](/What-Is-Rocket-Management)
+
+---
+
+# NEVADA CAMPAIGN PARTY PAC FILING FAQ AND RESOURCES
+
+Nevada Campaign, Party, & PAC Filing FAQ and Resources
+==========
+
+Applies To: Nevada
+
+Below are links to resources to help you file your Nevada reports.
+
+### FAQ ###
+
+* [About the NV Candidate Contributions and Expenditures- Legal Defense Fund Report](https://ispolitical.com/About-the-NV-Candidate-Contributions-and-Expenditures-Legal-Defense-Fund-Report)
+* [About the NV Candidate Contributions and Expenditures Report](https://ispolitical.com/About-the-NV-Candidate-Contributions-and-Expenditures-Report)
+* [When Are the Nevada Filing Deadlines?](https://ispolitical.com/When-Are-the-Nevada-Filing-Deadlines)
+* [What’s the Difference Between E-file and Paper Only Reports for Nevada?](https://ispolitical.com/What-s-the-Difference-Between-E-file-and-Paper-Only-Reports-for-Nevada)
+* [About the NV Committee Contributions and Expenditures Report](https://ispolitical.com/About-the-NV-Committee-Contributions-and-Expenditures)
+
+**Resources**
+
+[Elections Site](https://www.nvsos.gov/sos/elections)
+[Filing Calendar for Candidates](https://www.nvsos.gov/sos/elections/candidate-information/important-2020-candidate-dates)
+[Filing Calendar for Committees
+](https://www.nvsos.gov/sos/elections/party-committee-information/committees-for-political-action-pac/pac-important-reporting-dates)[Filing Guide](https://www.nvsos.gov/sos/elections/candidate-information/campaign-finance-reporting-requirements)
+
+**Supported Reports**
+
+NV Candidate Contributions and Expenditures Report
+NV Candidate Contributions and Expenditures- Legal Defense Fund Report
+NV Committee Contributions and Expenditures Report
+
+[Help File Home](/help/) | [Full Index](/Help-File-Directory/) | [Contact Support](mailto:support@ISPolitical.com)
+
+[⇑ About Compliance Reports](/About-Compliance-Reports)
+[« Nebraska Campaign, Party, & PAC Filing FAQ and Resources](/Nebraska-Campaign-Party-PAC-Filing-FAQ-and-Resources)
+[About the NV Candidate Contributions and Expenditures- Legal Defense Fund Report »](/About-the-NV-Candidate-Contributions-and-Expenditures-Legal-Defense-Fund-Report)
 
 ---
 
@@ -2233,6 +3677,47 @@ After generating the MN 24-Hour CAND report, download the PDF and submit the ite
 
 ---
 
+# HOW DO I PREPARE AND GENERATE THE FEC FORM 1
+
+How Do I Prepare and Generate the FEC Form 1?
+==========
+
+Applies To: Federal Election Commission
+
+The [Form 1, or Statement of Organization](https://ispolitical.com/About-the-FEC-Form-1-Report/), is used to register a new campaign committee with the FEC. This must happen once the campaign exceeds the applicable contribution threshold.
+
+### When do I need to file a Form 1? ###
+
+* Principal campaign committees must file this form no later than 10 days after the candidate files the FEC Form 2. Committees sponsored by corporations, labor organizations, or trade associations (i.e. separate segregated funds) must file this form no later than 10 days after their establishment.
+
+* Local political party committees must file this form no later than 10 days after exceeding contributions or making expenses aggregating in excess of $5000 during a calendar year -OR- making contributions in connection with a federal election in excess of $1000.
+
+* All other political committees must file this form no later than 10 days after receiving contributions or making contributions in connection with a federal election aggregating in excess of $1000 during a calendar year.
+
+### How do I generate a Form 1? ###
+
+1. Navigate to Reports, then to Compliance
+2. If you have multiple filers, select the Filer from the dropdown, then choose FEC Form 1 in Compliance Report
+3. If needed, you can specify if this report is an amendment for a change of address, change of email, change of name, or change of URL
+4. Fill in the date these changes are going into effect, along with selecting a Filer Description from the drop-down list
+5. From the Filer Description drop-down menu, select *Support/Oppose More Than One Federal Cand And Not Segregated Fund/Party (Lobbyist)* to ensure that the 5. (f) Lobbyist/Registrant PAC checkbox is checked
+6. Click the Generate button at the bottom of the page to generate your FEC Form 1
+
+The report will contain important pieces of information regarding the committee, including Candidate, Treasurer, and Bank or Depository names.
+
+Related Information
+----------
+
+* [What Do I Need to File an Amended Form 1?](https://ispolitical.com/What-Do-I-Need-to-File-an-Amended-Form-1)
+
+[Help File Home](/help/) | [Full Index](/Help-File-Directory/) | [Contact Support](mailto:support@ISPolitical.com)
+
+[⇑ FEC Campaign, Party, & PAC Filing FAQ and Resources](/FEC-Campaign-Party-PAC-Filing-FAQ-and-Resources)
+[« About the FEC Form 1 Report](/About-the-FEC-Form-1-Report)
+[What Do I Need to File an Amended Form 1? »](/What-Do-I-Need-to-File-an-Amended-Form-1)
+
+---
+
 # HOW DO I FIND TRANSACTIONS LINKED TO A SPECIFIC EVENT
 
 How Do I Find Transactions Linked to a Specific Event?
@@ -2278,6 +3763,81 @@ When you have added it or if you are ready to add the transaction, click Bookkee
 [⇑ About Other Entities](/About-Other-Entities)
 [« What Is an Anonymous Transaction and How Do I Add One?](/About-Anonymous-Transactions)
 [What Are Time Tracking Categories? »](/What-Are-Time-Tracking-Categories)
+
+---
+
+# WHEN ARE THE IDAHO FILING DEADLINES
+
+When Are the Idaho Filing Deadlines?
+==========
+
+Applies To: Idaho
+
+Below are deadlines for Idaho compliance report filing.
+
+The Filing Deadline information provided here is offered only as a reference aide. The provided deadline information may contain inaccuracies and may not include all special elections or deadlines. For agency specific details, please visit the [Idaho Secretary of State](https://sos.idaho.gov/elections-division/) webpage.
+
+***No deadlines are currently found.***
+
+You’re able to add Filing Deadlines found in ISP to your own digital calendar with our [Calendar Feed](https://ispolitical.com/what-are-calendar-feeds/) tool.
+
+To see more information about Idaho compliance report filing with ISP, please visit our [Idaho Filing and FAQ Resources](https://ispolitical.com/Idaho-Campaign-Party-PAC-Filing-FAQ-and-Resources/) page.
+
+[Help File Home](/help/) | [Full Index](/Help-File-Directory/) | [Contact Support](mailto:support@ISPolitical.com)
+
+[« Idaho Campaign, Party, & PAC Filing FAQ and Resources](/Idaho-Campaign-Party-PAC-Filing-FAQ-and-Resources)
+[Illinois Campaign, Party, & PAC Filing FAQ and Resources »](/Illinois-Campaign-Party-PAC-Filing-FAQ-and-Resources)
+
+---
+
+# WHAT IS AI ISP
+
+What Is ai@ISP?
+==========
+
+ai@ISP is an intelligent bot that will help you manage your work and is there to take care of mundane tasks for you so you can focus on what’s important.
+
+Navigate to ai@ISP under the Tools tab and in the Settings section, use the slider to toggle on or off the AI function. With it turned on, new options appear.
+
+**Auto-Combine Duplicates:** ai@ISP will combine duplicate entities that exist in your database using the Exact search criteria. ai@ISP will only combine when there is a matching name and matching contact information.
+
+**Auto-Imports:** ai@ISP will process pending imports. These are pending transactions found in the Imports section on the Dashboard. Auto-Import settings give you the ability to predetermine how transactions from an integration come into ISP. You can set the following fields for your transactions:
+
+* Budget Category
+* Election
+* Financial Account
+* Reporting Code (Expenses)
+* Mark transactions as thanked
+
+**Auto-Mark As Filed:** ai@ISP will mark a compliance report as filed if you forget to do it upon a successful filing.
+
+**Send Missing Occupation/Employer Emails:** ai@ISP will email reportable donors if they are missing their occupation or employer, asking them to reply with that information. When the donor responds, ai@ISP will automatically update their record based on their response. Everyone on the recipient’s list will be forwarded a copy of any emails received and notified about what ai has done.
+
+**Send Alerts:** ai@ISP will send you alerts and regular reports.
+
+Depending on your other options, this can include:
+
+* Reminders to file late contribution reports and similar transaction based reports
+* Periodic recommendations for new scheduled reports
+* Over the limit alerts
+* Donor responses to occupation/employer requests and how ai@ISP handled them.
+* Financial concerns, including languishing undeposited transactions and overdrawn accounts
+
+**Alert Recipients** These are the people that ai@ISP will keep updated about important information and what ai is doing.
+
+If you manage multiple accounts, you can enable AI to perform the same functions with those accounts, as well. This will be a blanket setting for all accounts. If you’d prefer to specify which accounts have which AI features toggled on or off, you click the Customize button to set AI for your accounts individually.
+
+**Manage Flags:** Sometimes, when adding or updating entities, they fall into a group of entities that already have an established flag due to a specific query. You can now request that ai@ISP take care of updating flags. This option can be found when creating a query through Advanced Search.
+
+**Manage Reminders:** Similar to managing Flags, ai@ISP will add a reminder to a record.
+
+In the Data Updates section, AI can handle even more detailed tasks, mostly for Occupation/Employer requirements, but others as well. For example, AI can set the Business Type in an Organization entity’s record if one is not set already.
+
+[Help File Home](/help/) | [Full Index](/Help-File-Directory/) | [Contact Support](mailto:support@ISPolitical.com)
+
+[⇑ About Tools in ISP](/About-Tools-in-ISP)
+[« What Are Call Time Settings?](/What-Are-Call-Time-Settings)
+[Which Report Filings Does AI Check? »](/Which-Report-Filings-Does-AI-Check)
 
 ---
 
@@ -2379,6 +3939,21 @@ Once the report generates, make sure to review for any potential errors. You can
 
 ---
 
+# ABOUT FUNDRAISING ANALYSIS REPORTS
+
+About Fundraising/Analysis Reports
+==========
+
+* [What Are the Pledge or Target Metrics Reports?](https://ispolitical.com/What-is-the-Metrics-Report)
+
+[Help File Home](/help/) | [Full Index](/Help-File-Directory/) | [Contact Support](mailto:support@ISPolitical.com)
+
+[⇑ About Reports in ISP](/About-Reports-in-ISP)
+[« How Can I Force-Itemize Transactions Below the Itemization Threshold?](/How-Can-I-Force-Itemize-Transactions-Below-the-Itemization-Threshold)
+[What Are the Pledge or Target Metrics Reports? »](/What-is-the-Metrics-Report)
+
+---
+
 # POLICY ON LEGAL ADVICE
 
 Policy on Legal Advice
@@ -2446,6 +4021,82 @@ If you don’t locate the individual you are looking for, you can click the Add 
 
 [« About Individual Records](/About-Individual-Records)
 [How Do I Use Relationships to Add New Individuals & Copy Contact Info? »](/Using-Relationships-to-Add-New-Individual-Copy-Contact-Info)
+
+---
+
+# TRAINING CAMPAIGN STAFF ON EFFECTIVE USE OF ACCOUNTING SOFTWARE
+
+Training Campaign Staff on Effective Use of Accounting Software
+==========
+
+<img alt="Training Campaign Staff on Effective Use of Accounting Software" src="https://ispolitical.com/wp-content/uploads/2024/03/Training-Campaign-Staff-on-Effective-Use-of-Accounting-Software.webp" title="Training Campaign Staff on Effective Use of Accounting Software" height="1024" width="1792" />
+
+In political campaigns where every decision can shape the trajectory of success, the role of accurate financial management cannot be overstated. At ISPolitical, we understand the pivotal connection between well-maintained campaign finances and strategic decision-making. As a leading provider of political campaign accounting software, we aim to empower campaigns with the tools they need to navigate the complex world of financial stewardship seamlessly.
+
+The Significance of Proper Accounting in Political Campaigns
+----------
+
+Within modern political campaigns, a balance is struck between sophisticated software solutions and the proficiency of campaign staff. ISP’s political campaign finance training raises your team’s knowledge and expertise allowing your campaign to realize the full potential of the very best political campaign accounting software.
+
+Understanding ISPolitical Accounting Software
+----------
+
+Our software is designed with the intricacies of political finance in mind, offering a robust set of features that streamline and simplify complex accounting processes. With enhanced expense tracking, ISPolitical provides campaign teams with the tools necessary to maintain precise financial records, empowering campaign teams with a clear and compliant financial narrative.
+
+Our user-friendly interface ensures accessibility for staff members of varying levels of expertise, allowing campaign workers to focus on strategy rather than grappling with cumbersome accounting tasks.
+
+The Importance of Staff Training
+----------
+
+The significance of training campaign staff on accounting software is undeniable. Picture this: a well-coordinated team equipped with the skills to efficiently utilize campaign accounting software. It's not just a convenience; it's a game-changer. The benefits ripple through every facet of the campaign.
+
+By investing in comprehensive training, campaign staff not only learn to navigate the complexities of finance management but also become proficient in leveraging the full potential of our accounting software. The result? Streamlined processes, reduced errors, sophisticated fundraising, and stellar compliance.
+
+Designing an Effective Political Campaign Training Program
+----------
+
+Apart from ISPolitical being an incredibly intuitive program, we provide political campaign finance training, robust support, and resources to help you. Here are some highlights:
+
+* **Basic and Advanced Training:** For the vast majority of political campaigns, our Basic training regimen gets the team fully operational and efficient. For the larger, professional organizations, we offer customized, highly sophisticated, ongoing training sessions that increase any compliance shops productivity exponentially.
+* **Hands-on Practice Sessions:** Our training regime walks you through inputting transactions, gives you the chance to practice. ISP can even provide your team a sandbox account. Your campaign’s staff can practice entering those multi-billion dollar contributions they’ve been dreaming about.
+* **Simulated Scenarios:** ISP’s support staff can run you through simulated scenarios that mimic real-world campaign finance challenges. This helps staff develop problem-solving skills and understand how to apply the software in diverse situations, preparing them for the dynamic nature of political campaigns.
+* **Interactive Workshops:** For larger campaigns and firms, ISP’s reps will analyze and workshop your business processes and systems. This not only gives you the chance to increase your productivity but also to learn just how much our political campaign software can increase efficiency.
+* **Regular Refreshers:** ISP staff goes through update and refresher training constantly. Each support rep has up to date knowledge and the latest political finance functionality.
+* **Feedback Mechanism:** At ISP, we set up our business to capture your feedback and then to use it. ISP reps analyze support tickets and use this information to guide development decision making and create more user friendly software.
+* **Certification Programs:** ISP offers certification for those who complete our Advanced Training program. This comes complete with a badge you can use on your website.
+
+Is Your Campaign Team Trained on Your Accounting Software?
+----------
+
+By investing in comprehensive training, campaigns pave the way for streamlined processes, reduced errors, and enhanced compliance. As you get more familiar with the awesome functionality of ISPolitical’s accounting software, let this be a rallying call for campaigns to prioritize staff education—an investment that reaps dividends in the form of better financial management and campaign success.
+
+We invite you to explore the transformative potential of ISPolitical's software and [training resources](https://ispolitical.com/help/). Our cloud-based, intuitive accounting software, coupled with tailored training modules, equips your campaign team with the tools and knowledge needed to navigate the complexities of finance management seamlessly.
+
+Take the first step toward elevating your campaign's financial efficiency. For further inquiries or personalized demonstrations, feel free to [reach out](https://ispolitical.com/contact/). Together, let's empower your campaign and gear you up for success!
+
+You May Like These Blogs
+----------
+
+[Simplifying Campaign Finance with ISP’s Essential Tools](https://ispolitical.com/simplifying-campaign-finance-with-isps-essential-tools/)
+----------
+
+Managing a campaign’s finances can be complex and time-consuming. However, ISP’s suite of campaign finance solutions and tools is designed…
+
+[Read More](https://ispolitical.com/simplifying-campaign-finance-with-isps-essential-tools/)
+
+[Understanding FEC Filing Deadlines: The Breakdown](https://ispolitical.com/understanding-fec-filing-deadlines-the-breakdown/)
+----------
+
+The Federal Election Commission (FEC) plays a pivotal role in maintaining the integrity of campaign finance in the United States.…
+
+[Read More](https://ispolitical.com/understanding-fec-filing-deadlines-the-breakdown/)
+
+[Why You Should Have a Professional Campaign Treasurer](https://ispolitical.com/why-you-should-have-a-professional-campaign-treasurer/)
+----------
+
+Running a political campaign is a complex and demanding endeavor. Amidst the whirlwind of events, rallies, and policy planning, one…
+
+[Read More](https://ispolitical.com/why-you-should-have-a-professional-campaign-treasurer/)
 
 ---
 
@@ -2533,6 +4184,50 @@ To file your report, ISP generates an XML file, then that XML e-file will be upl
 [⇑ Alabama Campaign, Party, & PAC Filing FAQ and Resources](/Alabama-Campaign-Party-PAC-Filing-FAQ-and-Resources)
 [« About the AL PAC Major](/About-the-AL-PAC-Major)
 [About the AL CEO Major Report »](/About-the-AL-CEO-Major-Report)
+
+---
+
+# ABOUT SYSTEM OPTIONS IN ISP
+
+About System Options in ISP
+==========
+
+* [How Do I Use the Account Management Page?](https://ispolitical.com/How-Do-I-Use-the-Account-Management-Page)
+* [How Do I Change My Password?](https://ispolitical.com/How-Do-I-Change-My-Password)
+* [What Is Two Factor Authorization and How Do I Set It Up?](https://ispolitical.com/What-Is-Two-Factor-Authorization-and-How-Do-I-Set-It-Up)
+* [About Users](https://ispolitical.com/About-Users)
+* [What Are Hotkeys?](https://ispolitical.com/What-Are-Hotkeys)
+
+[Help File Home](/help/) | [Full Index](/Help-File-Directory/) | [Contact Support](mailto:support@ISPolitical.com)
+
+[« Deposit Batches Request API](/Deposit-Batches-Request-API)
+[How Do I Use the Account Management Page? »](/How-Do-I-Use-the-Account-Management-Page)
+
+---
+
+# WHAT ARE TRANSACTION LIMITS
+
+What Are Transaction Limits?
+==========
+
+ISP has built-in warnings to inform you when transactions that are manually added to the system are over the transaction limit.
+
+If you manually add a transaction that exceeds the contribution limit, the system will display a text warning at the top of the page and alert you with a sound. You will still be able to add the transaction, but an alert will let you know the threshold has been crossed.
+
+There are a few other important things to know when it comes to transaction limits in ISP:
+
+* If there are transactions in the Pending Imports page that will go over the limit, you will receive a warning there that the threshold has been crossed.
+* ISP has an AI option that will conduct imports for you. You can [set AI to watch for transactions over the limit](https://ispolitical.com/setting-the-ai-alert-for-over-the-limit-contributions/) and send an email listing them. Furthermore, AI will not automatically import transactions over the limit in the Pending Imports page but will instead alert you.
+* We have a Check Transaction Limits report that allows you to generate a report of transactions that may be over the allowable transaction limit. You can narrow your search by Filer (if you have multiple filers in your database) and by Date Range. You can access this report by navigating to the Compliance Tools tab under Reports on the account dashboard.
+* To ensure your limits are set correctly, go to Reports, then to Compliance. At the bottom of the page, click Related Pages and select Manage Filers. Click on [See Details] to populate the filer limits below. If the limits are incorrect, access your filer record to ensure the jurisdiction in your Committee and/or Candidate record is set correctly.
+* For Super PACs: In general, these committee types are not subject to [transaction limits](https://www.fec.gov/help-candidates-and-committees/taking-receipts-pac/contributions-to-super-pacs-and-hybrid-pacs/). If you receive a warning about a transaction over the limit, check the Committee Type setting in the Committee record in your database. If it is anything other than Super PAC, update this to eliminate the transaction limit warning.
+* For PAC – Joint Fundraising Committees: These committee types are generally not subject to [transaction limits](https://www.fec.gov/help-candidates-and-committees/taking-receipts-pac/contributions-to-super-pacs-and-hybrid-pacs/). If you receive a warning about a transaction over the limit, ensure your filing committee is set as a Political Committee in the organization record. Next, go to the Reports menu and select Compliance. Then, click on the Related Pages button at the bottom of the screen. From this button’s drop-up menu, select Manage Filers. On the Filers page, choose Convert to PAC – Joint Fundraising Committee in the hotdog menu.
+
+[Help File Home](/help/) | [Full Index](/Help-File-Directory/) | [Contact Support](mailto:support@ISPolitical.com)
+
+[⇑ About Transactions](/About-Transactions)
+[« What Are the Available Transaction Types in ISP?](/What-Are-the-Available-Transaction-Types-in-ISP)
+[About Aggregates »](/About-Aggregates)
 
 ---
 
@@ -2646,6 +4341,55 @@ To file your report, you must generate and download your e-file to upload to you
 
 ---
 
+# TEXAS CAMPAIGN PARTY PAC FILING FAQ AND RESOURCES
+
+Texas Campaign, Party, & PAC Filing FAQ and Resources
+==========
+
+Applies To: Texas
+
+Below are links to resources to help you file your Texas campaign finance reports.
+
+### FAQ ###
+
+* [When Are the Texas Filing Deadlines?](https://ispolitical.com/When-Are-the-Texas-Filing-Deadlines)
+* [How Do I Populate the Cover Page on My TX Report?](https://ispolitical.com/How-Do-I-Populate-the-Cover-Page-on-My-TX-Report)
+* [How Do I Pull Candidate Info to Section 9 on Schedule F1?](https://ispolitical.com/How-Do-I-Pull-Candidate-Info-to-Section-9-on-Schedule-F1)
+* [How Do I Enter Non-itemized Transactions for My TX Reports?](https://ispolitical.com/How-Do-I-Enter-Non-itemized-Transactions-for-My-TX-Reports)
+* [About the TX COH Report](https://ispolitical.com/About-the-TX-COH-Report)
+* [About the TX COH-SS Report](https://ispolitical.com/About-the-TX-COH-SS-Report)
+* [About the TX GPAC Report](https://ispolitical.com/About-the-TX-GPAC-Report)
+* [About the TX MPAC Report](https://ispolitical.com/About-the-TX-MPAC-Report)
+* [About the TX SPAC Report](https://ispolitical.com/About-the-TX-SPAC-Report)
+* [About the TX DAILY-C COH Report](https://ispolitical.com/About-the-TX-DAILY-C-COH-Report)
+* [About the TX DAILY-C PAC Report](https://ispolitical.com/About-the-TX-DAILY-C-PAC-Report)
+* [About the TX DAILY-E PAC Report](https://ispolitical.com/About-the-TX-DAILY-E-PAC-Report)
+
+### Supported Reports ###
+
+* TX Forms COH
+* TX Forms COH-SS
+* TX Forms Daily-C COH
+* TX Forms Daily-C PAC
+* TX Forms Daily-E PAC (Political Committee Daily Pre-Election Report of Direct Expenditures)
+* TX Forms GPAC (General-Purpose Committee Campaign Finance Report)
+* TX Forms MPAC (Monthly Filing General-Purpose Committee Campaign Finance Report)
+* TX Forms SPAC (Specific-Purpose Committee Campaign Finance Report)
+
+### External Resources ###
+
+* [Elections Site](http://www.sos.state.tx.us/elections/)
+* [Filing Calendar](https://www.ethics.state.tx.us/filinginfo/deadlines/ReportsDue.php)
+* [Filing Guide](https://www.ethics.state.tx.us/resources/cf/)
+
+[Help File Home](/help/) | [Full Index](/Help-File-Directory/) | [Contact Support](mailto:support@ISPolitical.com)
+
+[⇑ About Compliance Reports](/About-Compliance-Reports)
+[« Tennessee Campaign, Party, & PAC Filing FAQ and Resources](/Tennessee-Campaign-Party-PAC-Filing-FAQ-and-Resources)
+[When Are the Texas Filing Deadlines? »](/When-Are-the-Texas-Filing-Deadlines)
+
+---
+
 # ABOUT THE GA CCDR EASY VOTE REPORT
 
 About the GA CCDR (Easy Vote) Report
@@ -2723,6 +4467,22 @@ To e-file the report, click the E-file button.
 
 ---
 
+# ABOUT USERS
+
+About Users
+==========
+
+* [How Do I Add New & Existing Users to a Database?](https://ispolitical.com/How-Do-I-Add-New-Existing-Users-to-a-Database)
+* [What Are the Different User Permissions in ISP?](https://ispolitical.com/What-Are-the-Different-User-Permissions-in-ISP)
+
+[Help File Home](/help/) | [Full Index](/Help-File-Directory/) | [Contact Support](mailto:support@ISPolitical.com)
+
+[⇑ About System Options in ISP](/About-System-Options-in-ISP)
+[« What Is Authy and How Do I Use It?](/What-Is-Authy-and-How-Do-I-Use-It)
+[How Do I Add New & Existing Users to a Database? »](/How-Do-I-Add-New-Existing-Users-to-a-Database)
+
+---
+
 # WHAT IS THE SOFT CREDITS TOOL
 
 What Is the Soft Credits Tool?
@@ -2774,6 +4534,26 @@ Please note that at this time, the WRS does not allow for importing Accrued Expe
 
 [« Iowa Campaign, Party, & PAC Filing FAQ and Resources](/Iowa-Campaign-Party-PAC-Filing-FAQ-and-Resources)
 [Kansas Campaign, Party, & PAC Filing FAQ and Resources »](/Kansas-Campaign-Party-PAC-Filing-FAQ-and-Resources)
+
+---
+
+# WHAT ARE THE ACTBLUE SETTINGS
+
+What Are the ActBlue Settings?
+==========
+
+With your ActBlue integration, you have several areas of customization within ISP. This includes adding specific Budget Categories to incoming donations. If you use different ActBlue forms for data capture, you can also predetermine which Budget Categories are applied for each form.
+
+The Customize Budget Category section allows you to determine which Budget Category is applied to the donation no matter the form that is used. You can use a Budget Category already in your database, or you can select the Create Children option to create new budget categories that match the values we get from ActBlue. This allows for the use of the ActBlue as the main budget category, while still getting some nuance of different ActBlue Pages.
+
+If you have multiple forms, you can use the Per Form Categories section to set the Budget Category for each form, if they are different.
+
+Please note that these processes will override any Auto-Import [AI settings](https://ispolitical.com/what-is-ai-isp/) for the Quick Import section.
+
+[Help File Home](/help/) | [Full Index](/Help-File-Directory/) | [Contact Support](mailto:support@ISPolitical.com)
+
+[« How Do I Set up an ActBlue Integration?](/How-Do-I-Set-up-an-ActBlue-Integration)
+[How Do I Use the ActBlue Quick Import? »](/How-Do-I-Use-the-ActBlue-Quick-Import)
 
 ---
 
@@ -2830,6 +4610,30 @@ Sort Order Options
 
 ---
 
+# WHEN ARE THE NEW JERSEY FILING DEADLINES
+
+When Are the New Jersey Filing Deadlines?
+==========
+
+Applies To: New Jersey
+
+Below are deadlines for New Jersey compliance report filing.
+
+The Filing Deadline information provided here is offered only as a reference aid. The provided deadline information may contain inaccuracies and may not include all special elections or deadlines. For agency-specific details please visit the [New Jersey ELEC website](https://www.elec.state.nj.us/forcandidates/datescurrent.htm).
+
+***No deadlines are currently found.***
+
+You’re able to add Filing Deadlines found in ISP to your own digital calendar with our [Calendar Feed tool](https://ispolitical.com/what-are-calendar-feeds/).
+
+To see more information about New Jersey compliance report filing with ISP, please visit our [New Jersey Filing and FAQ Resources page](https://ispolitical.com/new-jersey-campaign-party-pac-filing-faq-and-resources/).
+
+[Help File Home](/help/) | [Full Index](/Help-File-Directory/) | [Contact Support](mailto:support@ISPolitical.com)
+
+[« New Jersey Campaign, Party & PAC Filing FAQ and Resources](/New-Jersey-Campaign-Party-PAC-Filing-FAQ-and-Resources)
+[NJ Form R-1 Line by Line »](/NJ-Form-R-1-Line-by-Line)
+
+---
+
 # ABOUT THE MO LCR REPORT
 
 About the MO LCR Report
@@ -2846,6 +4650,396 @@ Paper forms are available on the MEC’s website and can be mailed or hand-deliv
 [⇑ Missouri Campaign, Party, & PAC Filing FAQ and Resources](/Missouri-Campaign-Party-PAC-Filing-FAQ-and-Resources)
 [« About the MO Committee Disclosure Report](/About-the-MO-Committee-Disclosure-Report)
 [Montana Campaign, Party, & PAC Filing FAQ and Resources »](/Montana-Campaign-Party-PAC-Filing-FAQ-and-Resources)
+
+---
+
+# WHEN ARE THE IRS FILING DEADLINES
+
+When Are the IRS Filing Deadlines?
+==========
+
+Applies To: Internal Revenue Service
+
+Below are deadlines for IRS compliance report filing.
+
+The Filing Deadline information provided here is offered only as a reference aide. The provided deadline information may contain inaccuracies and may not include all special elections or deadlines. For agency specific details please visit the [IRS page on the Form 8872](https://www.irs.gov/charities-non-profits/political-organizations/form-8872-when-to-file).
+
+527 Political Organization
+----------
+
+* 07/11/2024: IRS 8872 (Ohio Special General (6th CD) (Post General) (Congressional ) Post-Election Report)
+* 07/15/2024: IRS 8872 (Quarterly Filer)
+* 07/18/2024: IRS 8872 (Arizona Primary (Congressional ) Pre-Election Report)
+* 07/18/2024: IRS 8872 (South Dakota Runoff (Congressional ) Pre-Election Report)
+* 07/20/2024: IRS 8872 (Monthly Filer)
+* 07/20/2024: IRS 8872 (Tennessee Primary (Congressional ) Pre-Election Report)
+* 07/22/2024: IRS 8872 (Guam Primary (Congressional ) Pre-Election Report)
+* 07/22/2024: IRS 8872 (Virgin Islands Primary (Congressional ) Pre-Election Report)
+* 07/25/2024: IRS 8872 (Kansas Primary (Congressional ) Pre-Election Report)
+* 07/25/2024: IRS 8872 (Michigan Primary (Congressional ) Pre-Election Report)
+* 07/25/2024: IRS 8872 (Missouri Primary (Congressional ) Pre-Election Report)
+* 07/25/2024: IRS 8872 (Washington Primary (Congressional ) Pre-Election Report)
+* 07/25/2024: IRS 8872 (Colorado Special General (4th CD) (Congressional ) Post-Election Report)
+* 07/29/2024: IRS 8872 (Hawaii Primary (Congressional ) Pre-Election Report)
+* 08/01/2024: IRS 8872 (Connecticut Primary (Congressional ) Pre-Election Report)
+* 08/01/2024: IRS 8872 (Minnesota Primary (Congressional ) Pre-Election Report)
+* 08/01/2024: IRS 8872 (Vermont Primary (Congressional ) Pre-Election Report)
+* 08/01/2024: IRS 8872 (Wisconsin Primary (Congressional ) Pre-Election Report)
+* 08/08/2024: IRS 8872 (Alaska Primary (Congressional ) Pre-Election Report)
+* 08/08/2024: IRS 8872 (Florida Primary (Congressional ) Pre-Election Report)
+* 08/08/2024: IRS 8872 (Wyoming Primary (Congressional ) Pre-Election Report)
+* 08/15/2024: IRS 8872 (Oklahoma Runoff (Congressional ) Pre-Election Report)
+* 08/20/2024: IRS 8872 (Monthly Filer)
+* 08/22/2024: IRS 8872 (Massachusetts Primary (Congressional ) Pre-Election Report)
+* 08/29/2024: IRS 8872 (Delaware Primary (Congressional ) Pre-Election Report)
+* 08/29/2024: IRS 8872 (New Hampshire Primary (Congressional ) Pre-Election Report)
+* 08/29/2024: IRS 8872 (Rhode Island Primary (Congressional ) Pre-Election Report)
+* 09/06/2024: IRS 8872 (New Jersey Special General (10th CD) (Congressional ) Pre-Election Report)
+* 09/20/2024: IRS 8872 (Monthly Filer)
+* 10/15/2024: IRS 8872 (Quarterly Filer)
+* 10/18/2024: IRS 8872 (New Jersey Special General (10th CD) (Post-General) (Congressional ) Post-Election Report)
+* 10/24/2024: IRS 8872 (American Samoa General (Congressional ) Pre-Election Report)
+* 10/24/2024: IRS 8872 (California Special General (US Senate) (Congressional ) Pre-Election Report)
+* 10/24/2024: IRS 8872 (Louisiana General (Congressional ) Pre-Election Report)
+* 10/24/2024: IRS 8872 (Northern Mariana Islands (Congressional ) Pre-Election Report)
+* 11/07/2024: IRS 8872 (Guam General Runoff (Congressional ) Pre-Election Report)
+* 11/07/2024: IRS 8872 (Virgin Islands General Runoff (Congressional ) Pre-Election Report)
+* 11/21/2024: IRS 8872 (Georgia General Runoff (Congressional ) Pre-Election Report)
+* 11/25/2024: IRS 8872 (Louisiana General Runoff (Congressional ) Pre-Election Report)
+* 12/19/2024: IRS 8872 (Guam General Runoff (Post- Runoff) (Congressional ) Post-Election Report)
+* 12/19/2024: IRS 8872 (Virgin Islands General Runoff (Post-Runoff) (Congressional ) Post-Election Report)
+* 01/02/2025: IRS 8872 (Georgia General Runoff (Post-Runoff) (Congressional ) Post-Election Report)
+* 01/06/2025: IRS 8872 (Louisiana General Runoff (Post-Runoff) (Congressional ) Post-Election Report)
+* 01/31/2025: IRS 8872
+
+Ballot Measure
+----------
+
+* 07/11/2024: IRS 8872 (Ohio Special General (6th CD) (Post General) (Congressional ) Post-Election Report)
+* 07/15/2024: IRS 8872 (Quarterly Filer)
+* 07/18/2024: IRS 8872 (Arizona Primary (Congressional ) Pre-Election Report)
+* 07/18/2024: IRS 8872 (South Dakota Runoff (Congressional ) Pre-Election Report)
+* 07/20/2024: IRS 8872 (Monthly Filer)
+* 07/20/2024: IRS 8872 (Tennessee Primary (Congressional ) Pre-Election Report)
+* 07/22/2024: IRS 8872 (Guam Primary (Congressional ) Pre-Election Report)
+* 07/22/2024: IRS 8872 (Virgin Islands Primary (Congressional ) Pre-Election Report)
+* 07/25/2024: IRS 8872 (Kansas Primary (Congressional ) Pre-Election Report)
+* 07/25/2024: IRS 8872 (Michigan Primary (Congressional ) Pre-Election Report)
+* 07/25/2024: IRS 8872 (Missouri Primary (Congressional ) Pre-Election Report)
+* 07/25/2024: IRS 8872 (Washington Primary (Congressional ) Pre-Election Report)
+* 07/25/2024: IRS 8872 (Colorado Special General (4th CD) (Congressional ) Post-Election Report)
+* 07/29/2024: IRS 8872 (Hawaii Primary (Congressional ) Pre-Election Report)
+* 08/01/2024: IRS 8872 (Connecticut Primary (Congressional ) Pre-Election Report)
+* 08/01/2024: IRS 8872 (Minnesota Primary (Congressional ) Pre-Election Report)
+* 08/01/2024: IRS 8872 (Vermont Primary (Congressional ) Pre-Election Report)
+* 08/01/2024: IRS 8872 (Wisconsin Primary (Congressional ) Pre-Election Report)
+* 08/08/2024: IRS 8872 (Alaska Primary (Congressional ) Pre-Election Report)
+* 08/08/2024: IRS 8872 (Florida Primary (Congressional ) Pre-Election Report)
+* 08/08/2024: IRS 8872 (Wyoming Primary (Congressional ) Pre-Election Report)
+* 08/15/2024: IRS 8872 (Oklahoma Runoff (Congressional ) Pre-Election Report)
+* 08/20/2024: IRS 8872 (Monthly Filer)
+* 08/22/2024: IRS 8872 (Massachusetts Primary (Congressional ) Pre-Election Report)
+* 08/29/2024: IRS 8872 (Delaware Primary (Congressional ) Pre-Election Report)
+* 08/29/2024: IRS 8872 (New Hampshire Primary (Congressional ) Pre-Election Report)
+* 08/29/2024: IRS 8872 (Rhode Island Primary (Congressional ) Pre-Election Report)
+* 09/06/2024: IRS 8872 (New Jersey Special General (10th CD) (Congressional ) Pre-Election Report)
+* 09/20/2024: IRS 8872 (Monthly Filer)
+* 10/15/2024: IRS 8872 (Quarterly Filer)
+* 10/18/2024: IRS 8872 (New Jersey Special General (10th CD) (Post-General) (Congressional ) Post-Election Report)
+* 10/24/2024: IRS 8872 (American Samoa General (Congressional ) Pre-Election Report)
+* 10/24/2024: IRS 8872 (California Special General (US Senate) (Congressional ) Pre-Election Report)
+* 10/24/2024: IRS 8872 (Louisiana General (Congressional ) Pre-Election Report)
+* 10/24/2024: IRS 8872 (Northern Mariana Islands (Congressional ) Pre-Election Report)
+* 11/07/2024: IRS 8872 (Guam General Runoff (Congressional ) Pre-Election Report)
+* 11/07/2024: IRS 8872 (Virgin Islands General Runoff (Congressional ) Pre-Election Report)
+* 11/21/2024: IRS 8872 (Georgia General Runoff (Congressional ) Pre-Election Report)
+* 11/25/2024: IRS 8872 (Louisiana General Runoff (Congressional ) Pre-Election Report)
+* 12/19/2024: IRS 8872 (Guam General Runoff (Post- Runoff) (Congressional ) Post-Election Report)
+* 12/19/2024: IRS 8872 (Virgin Islands General Runoff (Post-Runoff) (Congressional ) Post-Election Report)
+* 01/02/2025: IRS 8872 (Georgia General Runoff (Post-Runoff) (Congressional ) Post-Election Report)
+* 01/06/2025: IRS 8872 (Louisiana General Runoff (Post-Runoff) (Congressional ) Post-Election Report)
+* 01/31/2025: IRS 8872
+
+Candidate
+----------
+
+* 07/11/2024: IRS 8872 (Ohio Special General (6th CD) (Post General) (Congressional ) Post-Election Report)
+* 07/15/2024: IRS 8872 (Quarterly Filer)
+* 07/18/2024: IRS 8872 (Arizona Primary (Congressional ) Pre-Election Report)
+* 07/18/2024: IRS 8872 (South Dakota Runoff (Congressional ) Pre-Election Report)
+* 07/20/2024: IRS 8872 (Monthly Filer)
+* 07/20/2024: IRS 8872 (Tennessee Primary (Congressional ) Pre-Election Report)
+* 07/22/2024: IRS 8872 (Guam Primary (Congressional ) Pre-Election Report)
+* 07/22/2024: IRS 8872 (Virgin Islands Primary (Congressional ) Pre-Election Report)
+* 07/25/2024: IRS 8872 (Kansas Primary (Congressional ) Pre-Election Report)
+* 07/25/2024: IRS 8872 (Michigan Primary (Congressional ) Pre-Election Report)
+* 07/25/2024: IRS 8872 (Missouri Primary (Congressional ) Pre-Election Report)
+* 07/25/2024: IRS 8872 (Washington Primary (Congressional ) Pre-Election Report)
+* 07/25/2024: IRS 8872 (Colorado Special General (4th CD) (Congressional ) Post-Election Report)
+* 07/29/2024: IRS 8872 (Hawaii Primary (Congressional ) Pre-Election Report)
+* 08/01/2024: IRS 8872 (Connecticut Primary (Congressional ) Pre-Election Report)
+* 08/01/2024: IRS 8872 (Minnesota Primary (Congressional ) Pre-Election Report)
+* 08/01/2024: IRS 8872 (Vermont Primary (Congressional ) Pre-Election Report)
+* 08/01/2024: IRS 8872 (Wisconsin Primary (Congressional ) Pre-Election Report)
+* 08/08/2024: IRS 8872 (Alaska Primary (Congressional ) Pre-Election Report)
+* 08/08/2024: IRS 8872 (Florida Primary (Congressional ) Pre-Election Report)
+* 08/08/2024: IRS 8872 (Wyoming Primary (Congressional ) Pre-Election Report)
+* 08/15/2024: IRS 8872 (Oklahoma Runoff (Congressional ) Pre-Election Report)
+* 08/20/2024: IRS 8872 (Monthly Filer)
+* 08/22/2024: IRS 8872 (Massachusetts Primary (Congressional ) Pre-Election Report)
+* 08/29/2024: IRS 8872 (Delaware Primary (Congressional ) Pre-Election Report)
+* 08/29/2024: IRS 8872 (New Hampshire Primary (Congressional ) Pre-Election Report)
+* 08/29/2024: IRS 8872 (Rhode Island Primary (Congressional ) Pre-Election Report)
+* 09/06/2024: IRS 8872 (New Jersey Special General (10th CD) (Congressional ) Pre-Election Report)
+* 09/20/2024: IRS 8872 (Monthly Filer)
+* 10/15/2024: IRS 8872 (Quarterly Filer)
+* 10/18/2024: IRS 8872 (New Jersey Special General (10th CD) (Post-General) (Congressional ) Post-Election Report)
+* 10/24/2024: IRS 8872 (American Samoa General (Congressional ) Pre-Election Report)
+* 10/24/2024: IRS 8872 (California Special General (US Senate) (Congressional ) Pre-Election Report)
+* 10/24/2024: IRS 8872 (Louisiana General (Congressional ) Pre-Election Report)
+* 10/24/2024: IRS 8872 (Northern Mariana Islands (Congressional ) Pre-Election Report)
+* 11/07/2024: IRS 8872 (Guam General Runoff (Congressional ) Pre-Election Report)
+* 11/07/2024: IRS 8872 (Virgin Islands General Runoff (Congressional ) Pre-Election Report)
+* 11/21/2024: IRS 8872 (Georgia General Runoff (Congressional ) Pre-Election Report)
+* 11/25/2024: IRS 8872 (Louisiana General Runoff (Congressional ) Pre-Election Report)
+* 12/19/2024: IRS 8872 (Guam General Runoff (Post- Runoff) (Congressional ) Post-Election Report)
+* 12/19/2024: IRS 8872 (Virgin Islands General Runoff (Post-Runoff) (Congressional ) Post-Election Report)
+* 01/02/2025: IRS 8872 (Georgia General Runoff (Post-Runoff) (Congressional ) Post-Election Report)
+* 01/06/2025: IRS 8872 (Louisiana General Runoff (Post-Runoff) (Congressional ) Post-Election Report)
+* 01/31/2025: IRS 8872
+
+Other
+----------
+
+* 07/11/2024: IRS 8872 (Ohio Special General (6th CD) (Post General) (Congressional ) Post-Election Report)
+* 07/15/2024: IRS 8872 (Quarterly Filer)
+* 07/18/2024: IRS 8872 (Arizona Primary (Congressional ) Pre-Election Report)
+* 07/18/2024: IRS 8872 (South Dakota Runoff (Congressional ) Pre-Election Report)
+* 07/20/2024: IRS 8872 (Monthly Filer)
+* 07/20/2024: IRS 8872 (Tennessee Primary (Congressional ) Pre-Election Report)
+* 07/22/2024: IRS 8872 (Guam Primary (Congressional ) Pre-Election Report)
+* 07/22/2024: IRS 8872 (Virgin Islands Primary (Congressional ) Pre-Election Report)
+* 07/25/2024: IRS 8872 (Kansas Primary (Congressional ) Pre-Election Report)
+* 07/25/2024: IRS 8872 (Michigan Primary (Congressional ) Pre-Election Report)
+* 07/25/2024: IRS 8872 (Missouri Primary (Congressional ) Pre-Election Report)
+* 07/25/2024: IRS 8872 (Washington Primary (Congressional ) Pre-Election Report)
+* 07/25/2024: IRS 8872 (Colorado Special General (4th CD) (Congressional ) Post-Election Report)
+* 07/29/2024: IRS 8872 (Hawaii Primary (Congressional ) Pre-Election Report)
+* 08/01/2024: IRS 8872 (Connecticut Primary (Congressional ) Pre-Election Report)
+* 08/01/2024: IRS 8872 (Minnesota Primary (Congressional ) Pre-Election Report)
+* 08/01/2024: IRS 8872 (Vermont Primary (Congressional ) Pre-Election Report)
+* 08/01/2024: IRS 8872 (Wisconsin Primary (Congressional ) Pre-Election Report)
+* 08/08/2024: IRS 8872 (Alaska Primary (Congressional ) Pre-Election Report)
+* 08/08/2024: IRS 8872 (Florida Primary (Congressional ) Pre-Election Report)
+* 08/08/2024: IRS 8872 (Wyoming Primary (Congressional ) Pre-Election Report)
+* 08/15/2024: IRS 8872 (Oklahoma Runoff (Congressional ) Pre-Election Report)
+* 08/20/2024: IRS 8872 (Monthly Filer)
+* 08/22/2024: IRS 8872 (Massachusetts Primary (Congressional ) Pre-Election Report)
+* 08/29/2024: IRS 8872 (Delaware Primary (Congressional ) Pre-Election Report)
+* 08/29/2024: IRS 8872 (New Hampshire Primary (Congressional ) Pre-Election Report)
+* 08/29/2024: IRS 8872 (Rhode Island Primary (Congressional ) Pre-Election Report)
+* 09/06/2024: IRS 8872 (New Jersey Special General (10th CD) (Congressional ) Pre-Election Report)
+* 09/20/2024: IRS 8872 (Monthly Filer)
+* 10/15/2024: IRS 8872 (Quarterly Filer)
+* 10/18/2024: IRS 8872 (New Jersey Special General (10th CD) (Post-General) (Congressional ) Post-Election Report)
+* 10/24/2024: IRS 8872 (American Samoa General (Congressional ) Pre-Election Report)
+* 10/24/2024: IRS 8872 (California Special General (US Senate) (Congressional ) Pre-Election Report)
+* 10/24/2024: IRS 8872 (Louisiana General (Congressional ) Pre-Election Report)
+* 10/24/2024: IRS 8872 (Northern Mariana Islands (Congressional ) Pre-Election Report)
+* 11/07/2024: IRS 8872 (Guam General Runoff (Congressional ) Pre-Election Report)
+* 11/07/2024: IRS 8872 (Virgin Islands General Runoff (Congressional ) Pre-Election Report)
+* 11/21/2024: IRS 8872 (Georgia General Runoff (Congressional ) Pre-Election Report)
+* 11/25/2024: IRS 8872 (Louisiana General Runoff (Congressional ) Pre-Election Report)
+* 12/19/2024: IRS 8872 (Guam General Runoff (Post- Runoff) (Congressional ) Post-Election Report)
+* 12/19/2024: IRS 8872 (Virgin Islands General Runoff (Post-Runoff) (Congressional ) Post-Election Report)
+* 01/02/2025: IRS 8872 (Georgia General Runoff (Post-Runoff) (Congressional ) Post-Election Report)
+* 01/06/2025: IRS 8872 (Louisiana General Runoff (Post-Runoff) (Congressional ) Post-Election Report)
+* 01/31/2025: IRS 8872
+
+Party
+----------
+
+* 07/11/2024: IRS 8872 (Ohio Special General (6th CD) (Post General) (Congressional ) Post-Election Report)
+* 07/15/2024: IRS 8872 (Quarterly Filer)
+* 07/18/2024: IRS 8872 (Arizona Primary (Congressional ) Pre-Election Report)
+* 07/18/2024: IRS 8872 (South Dakota Runoff (Congressional ) Pre-Election Report)
+* 07/20/2024: IRS 8872 (Monthly Filer)
+* 07/20/2024: IRS 8872 (Tennessee Primary (Congressional ) Pre-Election Report)
+* 07/22/2024: IRS 8872 (Guam Primary (Congressional ) Pre-Election Report)
+* 07/22/2024: IRS 8872 (Virgin Islands Primary (Congressional ) Pre-Election Report)
+* 07/25/2024: IRS 8872 (Kansas Primary (Congressional ) Pre-Election Report)
+* 07/25/2024: IRS 8872 (Michigan Primary (Congressional ) Pre-Election Report)
+* 07/25/2024: IRS 8872 (Missouri Primary (Congressional ) Pre-Election Report)
+* 07/25/2024: IRS 8872 (Washington Primary (Congressional ) Pre-Election Report)
+* 07/25/2024: IRS 8872 (Colorado Special General (4th CD) (Congressional ) Post-Election Report)
+* 07/29/2024: IRS 8872 (Hawaii Primary (Congressional ) Pre-Election Report)
+* 08/01/2024: IRS 8872 (Connecticut Primary (Congressional ) Pre-Election Report)
+* 08/01/2024: IRS 8872 (Minnesota Primary (Congressional ) Pre-Election Report)
+* 08/01/2024: IRS 8872 (Vermont Primary (Congressional ) Pre-Election Report)
+* 08/01/2024: IRS 8872 (Wisconsin Primary (Congressional ) Pre-Election Report)
+* 08/08/2024: IRS 8872 (Alaska Primary (Congressional ) Pre-Election Report)
+* 08/08/2024: IRS 8872 (Florida Primary (Congressional ) Pre-Election Report)
+* 08/08/2024: IRS 8872 (Wyoming Primary (Congressional ) Pre-Election Report)
+* 08/15/2024: IRS 8872 (Oklahoma Runoff (Congressional ) Pre-Election Report)
+* 08/20/2024: IRS 8872 (Monthly Filer)
+* 08/22/2024: IRS 8872 (Massachusetts Primary (Congressional ) Pre-Election Report)
+* 08/29/2024: IRS 8872 (Delaware Primary (Congressional ) Pre-Election Report)
+* 08/29/2024: IRS 8872 (New Hampshire Primary (Congressional ) Pre-Election Report)
+* 08/29/2024: IRS 8872 (Rhode Island Primary (Congressional ) Pre-Election Report)
+* 09/06/2024: IRS 8872 (New Jersey Special General (10th CD) (Congressional ) Pre-Election Report)
+* 09/20/2024: IRS 8872 (Monthly Filer)
+* 10/15/2024: IRS 8872 (Quarterly Filer)
+* 10/18/2024: IRS 8872 (New Jersey Special General (10th CD) (Post-General) (Congressional ) Post-Election Report)
+* 10/24/2024: IRS 8872 (American Samoa General (Congressional ) Pre-Election Report)
+* 10/24/2024: IRS 8872 (California Special General (US Senate) (Congressional ) Pre-Election Report)
+* 10/24/2024: IRS 8872 (Louisiana General (Congressional ) Pre-Election Report)
+* 10/24/2024: IRS 8872 (Northern Mariana Islands (Congressional ) Pre-Election Report)
+* 11/07/2024: IRS 8872 (Guam General Runoff (Congressional ) Pre-Election Report)
+* 11/07/2024: IRS 8872 (Virgin Islands General Runoff (Congressional ) Pre-Election Report)
+* 11/21/2024: IRS 8872 (Georgia General Runoff (Congressional ) Pre-Election Report)
+* 11/25/2024: IRS 8872 (Louisiana General Runoff (Congressional ) Pre-Election Report)
+* 12/19/2024: IRS 8872 (Guam General Runoff (Post- Runoff) (Congressional ) Post-Election Report)
+* 12/19/2024: IRS 8872 (Virgin Islands General Runoff (Post-Runoff) (Congressional ) Post-Election Report)
+* 01/02/2025: IRS 8872 (Georgia General Runoff (Post-Runoff) (Congressional ) Post-Election Report)
+* 01/06/2025: IRS 8872 (Louisiana General Runoff (Post-Runoff) (Congressional ) Post-Election Report)
+* 01/31/2025: IRS 8872
+
+Political Action Committee (PAC)
+----------
+
+* 07/11/2024: IRS 8872 (Ohio Special General (6th CD) (Post General) (Congressional ) Post-Election Report)
+* 07/15/2024: IRS 8872 (Quarterly Filer)
+* 07/18/2024: IRS 8872 (Arizona Primary (Congressional ) Pre-Election Report)
+* 07/18/2024: IRS 8872 (South Dakota Runoff (Congressional ) Pre-Election Report)
+* 07/20/2024: IRS 8872 (Monthly Filer)
+* 07/20/2024: IRS 8872 (Tennessee Primary (Congressional ) Pre-Election Report)
+* 07/22/2024: IRS 8872 (Guam Primary (Congressional ) Pre-Election Report)
+* 07/22/2024: IRS 8872 (Virgin Islands Primary (Congressional ) Pre-Election Report)
+* 07/25/2024: IRS 8872 (Kansas Primary (Congressional ) Pre-Election Report)
+* 07/25/2024: IRS 8872 (Michigan Primary (Congressional ) Pre-Election Report)
+* 07/25/2024: IRS 8872 (Missouri Primary (Congressional ) Pre-Election Report)
+* 07/25/2024: IRS 8872 (Washington Primary (Congressional ) Pre-Election Report)
+* 07/25/2024: IRS 8872 (Colorado Special General (4th CD) (Congressional ) Post-Election Report)
+* 07/29/2024: IRS 8872 (Hawaii Primary (Congressional ) Pre-Election Report)
+* 08/01/2024: IRS 8872 (Connecticut Primary (Congressional ) Pre-Election Report)
+* 08/01/2024: IRS 8872 (Minnesota Primary (Congressional ) Pre-Election Report)
+* 08/01/2024: IRS 8872 (Vermont Primary (Congressional ) Pre-Election Report)
+* 08/01/2024: IRS 8872 (Wisconsin Primary (Congressional ) Pre-Election Report)
+* 08/08/2024: IRS 8872 (Alaska Primary (Congressional ) Pre-Election Report)
+* 08/08/2024: IRS 8872 (Florida Primary (Congressional ) Pre-Election Report)
+* 08/08/2024: IRS 8872 (Wyoming Primary (Congressional ) Pre-Election Report)
+* 08/15/2024: IRS 8872 (Oklahoma Runoff (Congressional ) Pre-Election Report)
+* 08/20/2024: IRS 8872 (Monthly Filer)
+* 08/22/2024: IRS 8872 (Massachusetts Primary (Congressional ) Pre-Election Report)
+* 08/29/2024: IRS 8872 (Delaware Primary (Congressional ) Pre-Election Report)
+* 08/29/2024: IRS 8872 (New Hampshire Primary (Congressional ) Pre-Election Report)
+* 08/29/2024: IRS 8872 (Rhode Island Primary (Congressional ) Pre-Election Report)
+* 09/06/2024: IRS 8872 (New Jersey Special General (10th CD) (Congressional ) Pre-Election Report)
+* 09/20/2024: IRS 8872 (Monthly Filer)
+* 10/15/2024: IRS 8872 (Quarterly Filer)
+* 10/18/2024: IRS 8872 (New Jersey Special General (10th CD) (Post-General) (Congressional ) Post-Election Report)
+* 10/24/2024: IRS 8872 (American Samoa General (Congressional ) Pre-Election Report)
+* 10/24/2024: IRS 8872 (California Special General (US Senate) (Congressional ) Pre-Election Report)
+* 10/24/2024: IRS 8872 (Louisiana General (Congressional ) Pre-Election Report)
+* 10/24/2024: IRS 8872 (Northern Mariana Islands (Congressional ) Pre-Election Report)
+* 11/07/2024: IRS 8872 (Guam General Runoff (Congressional ) Pre-Election Report)
+* 11/07/2024: IRS 8872 (Virgin Islands General Runoff (Congressional ) Pre-Election Report)
+* 11/21/2024: IRS 8872 (Georgia General Runoff (Congressional ) Pre-Election Report)
+* 11/25/2024: IRS 8872 (Louisiana General Runoff (Congressional ) Pre-Election Report)
+* 12/19/2024: IRS 8872 (Guam General Runoff (Post- Runoff) (Congressional ) Post-Election Report)
+* 12/19/2024: IRS 8872 (Virgin Islands General Runoff (Post-Runoff) (Congressional ) Post-Election Report)
+* 01/02/2025: IRS 8872 (Georgia General Runoff (Post-Runoff) (Congressional ) Post-Election Report)
+* 01/06/2025: IRS 8872 (Louisiana General Runoff (Post-Runoff) (Congressional ) Post-Election Report)
+* 01/31/2025: IRS 8872
+
+You’re able to add Filing Deadlines found in ISP to your own digital calendar with our [Calendar Feed tool](https://ispolitical.com/Calendar-Feeds).
+
+To see more information about IRS compliance report filing with ISP, please visit our [IRS Filing and FAQ Resources](https://ispolitical.com/irs-filing-faq-and-resources/) page.
+
+[Help File Home](/help/) | [Full Index](/Help-File-Directory/) | [Contact Support](mailto:support@ISPolitical.com)
+
+[⇑ IRS Filing FAQ and Resources](/IRS-Filing-FAQ-and-Resources)
+[« Do I Need an Ein and How Do I Apply for One?](/Do-I-Need-an-Ein-and-How-Do-I-Apply-for-One)
+[FEC Campaign, Party, & PAC Filing FAQ and Resources »](/FEC-Campaign-Party-PAC-Filing-FAQ-and-Resources)
+
+---
+
+# TOP 12 NEWEST INTEGRATIONS TO SUPERCHARGE YOUR ISP POLITICAL SOFTWARE
+
+Top 12 Newest Integrations to Supercharge Your ISP Political Software
+==========
+
+<img alt="Screenshot 2024-05-09 at 11.54.16 AM" src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%203674%202070'%3E%3C/svg%3E" title="Screenshot 2024-05-09 at 11.54.16 AM" height="2070" width="3674" />\<img fetchpriority="high" decoding="async" class="fl-photo-img wp-image-1487 size-full" src="https://ispolitical.com/wp-content/uploads/2024/05/Screenshot-2024-05-09-at-11.54.16 AM.png" alt="Screenshot 2024-05-09 at 11.54.16 AM" itemprop="image" height="2070" width="3674" title="Screenshot 2024-05-09 at 11.54.16 AM" srcset="https://ispolitical.com/wp-content/uploads/2024/05/Screenshot-2024-05-09-at-11.54.16 AM.png 3674w, https://ispolitical.com/wp-content/uploads/2024/05/Screenshot-2024-05-09-at-11.54.16 AM-300x169.png 300w, https://ispolitical.com/wp-content/uploads/2024/05/Screenshot-2024-05-09-at-11.54.16 AM-1024x577.png 1024w, https://ispolitical.com/wp-content/uploads/2024/05/Screenshot-2024-05-09-at-11.54.16 AM-768x433.png 768w, https://ispolitical.com/wp-content/uploads/2024/05/Screenshot-2024-05-09-at-11.54.16 AM-1536x865.png 1536w, https://ispolitical.com/wp-content/uploads/2024/05/Screenshot-2024-05-09-at-11.54.16 AM-2048x1154.png 2048w" sizes="(max-width: 3674px) 100vw, 3674px" /\>
+
+Technology plays a huge role in managing campaigns, donor relationships, and communications, especially in today’s fast-paced political atmosphere. ISPolitical’s [political campaign accounting software](https://ispolitical.com/) continues to evolve, and we're excited to introduce the latest political campaign management tool integrations that will enhance your campaign management capabilities.
+
+Political Campaign Accounting Integrations
+----------
+
+1. [**eFundraising Connections**](https://www.efundraisingconnections.com/)**:** With its comprehensive analytics, you can gain valuable insights into your fundraising efforts. This integration offers a robust fundraising platform that works in conjunction with ISPolitical’s accounting software.
+2. [**Anedot:**](https://www.anedot.com/) An industry standard for all campaigns, Anedot simplifies tracking contributions, making it easier to manage campaign finances. This integration streamlines donation processing, offering a seamless and secure way for supporters to contribute to your campaign.
+3. [**ActBlue:**](https://secure.actblue.com/) This widely recognized platform is essential for grassroots fundraising. The ActBlue integration helps Democrat campaigns manage and track donations, ensuring that funds flow smoothly into the campaign treasury.
+4. [**Dropbox:**](https://www.dropbox.com/) Organize and share campaign documents effortlessly with Dropbox. This integration enables secure document storage, collaboration, and sharing, making it easier for your team to stay organized and on track.
+5. [**Numero:**](https://numero.ai/) Numero is a dynamic tool for political fundraising and donor management. This integration helps campaigns track contributions, manage donor relationships, and gain insights into their financial standing.
+6. [**NationBuilder:**](https://nationbuilder.com/) NationBuilder's analytics provide insights into campaign performance, allowing for strategic adjustments. This integration merges the comprehensive capabilities of ISP with extensive campaign management tools, helping to organize voter outreach, fundraising, and supporter engagement.
+7. [**Mailchimp:**](https://mailchimp.com/) Mailchimp is an email tool that gives you far more sophistication and ability to reach inboxes than you’d find with your standard political vendors. With its user-friendly interface and advanced analytics, you can design targeted emails, track open rates, clicks, conversions, and refine your outreach strategy. Integrating Mailchimp with ISPolitical means all of your contacts and communications can be easily organized and utilized to best advantage.
+8. [**Targeted Victory:**](https://targetedvictory.com/) With Targeted Victory, you can leverage comprehensive data analytics to reach voters effectively across various digital platforms. This integration provides powerful digital advertising solutions tailored to political campaigns.
+9. [**Xodo Sign:**](https://eversign.com/)Streamline your document signing process with Xodo Sign. This integration allows for easy and secure electronic signatures, simplifying the approval process for contracts and other campaign documents.
+10. [**Constant Contact:**](https://www.constantcontact.com/) Enhance your communication strategy with Constant Contact. This integration offers tools for designing impactful newsletters and automating email campaigns using contacts and donation information from both ISP and Constant Contact. This helps to keep your communications smooth and your supporters engaged and informed.
+11. [**WinRed:**](https://winred.com/) WinRed offers seamless and secure online donation processing for Republican campaigns. This integration makes managing campaign finance even easier.
+12. [**Ninja Forms:**](https://ninjaforms.com/) Simplify form creation and data collection with Ninja Forms. This integration offers a customizable solution for creating forms that capture valuable data that can help you understand your audience better.
+
+FAQs About ISP Political Software Integrations
+----------
+
+### Why are political campaign management tool integrations important for political campaigns? ###
+
+Integrations allow campaigns to streamline various functions, reducing manual work and increasing efficiency. By connecting different software tools, campaigns can manage finances, outreach, and data collection seamlessly. This cohesion helps campaigns stay organized, make informed decisions, and achieve their goals effectively.
+
+### How do integrations aid with compliance and reporting? ###
+
+Integrations like Anedot, ActBlue and WinRed make up the bulk of political donation credit card processing. These integrations process donations, categorize them, and send the data to ISP, saving hours to campaigns stay compliant with legal requirements. Additionally, software like Targeted Victory and NationBuilder offers analytics for digital advertising, ensuring the right messages reach the right voters.
+
+### What impact do integrations have on campaign finances? ###
+
+Integrations streamline donation processing, reducing transaction times and fees. For instance, platforms like ActBlue, WinRed, and eFundraising Connections simplify online fundraising, allowing campaigns to track contributions in real-time. This transparency enables campaign managers to adjust strategies quickly and ensure funds are allocated effectively. Integrating these programs with the capabilities of ISPolitical’s accounting software makes fundraising, tracking and reporting a breeze!
+
+### How do integrations improve voter outreach and engagement? ###
+
+Integrations like Mailchimp and Constant Contact enhance communication strategies by automating email campaigns and providing analytics on open rates, click rates, and engagement. This data helps campaigns refine their messaging and target voters more effectively, resulting in stronger relationships and improved outreach.
+
+### What role do document management integrations play in campaign operations? ###
+
+Integrations such as Xodo Sign and Dropbox streamline document management, allowing campaigns to store, share, and sign documents securely. This enhanced collaboration, reduces paper waste, and speeds up the approval process for contracts and other campaign materials. Efficient document management helps campaigns stay organized, focused on their goals, and is extremely handy in an audit.
+
+What Can Your Political Accounting Software Do?
+----------
+
+These latest political campaign management tool integrations empower ISP Political Software users to manage campaigns more effectively, bringing you closer to success in today's political arena. By combining these tools, you can harness the power of political data software, streamline your campaign operations, and enhance voter outreach–all this while enhancing [campaign compliance](https://ispolitical.com/compliance/) and boosting [campaign fundraising](https://ispolitical.com/fundraising/) capabilities too!
+
+You May Like These Blogs
+----------
+
+[Simplifying Campaign Finance with ISP’s Essential Tools](https://ispolitical.com/simplifying-campaign-finance-with-isps-essential-tools/)
+----------
+
+Managing a campaign’s finances can be complex and time-consuming. However, ISP’s suite of campaign finance solutions and tools is designed…
+
+[Read More](https://ispolitical.com/simplifying-campaign-finance-with-isps-essential-tools/)
+
+[Understanding FEC Filing Deadlines: The Breakdown](https://ispolitical.com/understanding-fec-filing-deadlines-the-breakdown/)
+----------
+
+The Federal Election Commission (FEC) plays a pivotal role in maintaining the integrity of campaign finance in the United States.…
+
+[Read More](https://ispolitical.com/understanding-fec-filing-deadlines-the-breakdown/)
+
+[Why You Should Have a Professional Campaign Treasurer](https://ispolitical.com/why-you-should-have-a-professional-campaign-treasurer/)
+----------
+
+Running a political campaign is a complex and demanding endeavor. Amidst the whirlwind of events, rallies, and policy planning, one…
+
+[Read More](https://ispolitical.com/why-you-should-have-a-professional-campaign-treasurer/)
 
 ---
 
@@ -2905,6 +5099,142 @@ If you select TOTP, an ISPolitical token (aka password) will appear and provide 
 
 ---
 
+# MISSISSIPPI CAMPAIGN PARTY PAC FILING FAQ AND RESOURCES
+
+Mississippi Campaign, Party, & PAC Filing FAQ and Resources
+==========
+
+Applies To: Mississippi
+
+Below are links to resources to help you file your Mississippi reports.
+
+### FAQ ###
+
+* [When Are the Mississippi Deadlines?](https://ispolitical.com/When-Are-the-Mississippi-Deadlines)
+* [About the MS Report of Receipts and Disbursements](https://ispolitical.com/About-the-MS-Report-of-Receipts-and-Disbursements)
+* [About the MS 48 Hour Report of Reportable Contributions](https://ispolitical.com/About-the-MS-48-Hour-Report-of-Reportable-Contributions)
+
+**Resources**
+
+[Elections Site](https://www.sos.ms.gov/elections-voting)
+[Filing Calendar](https://www.sos.ms.gov/elections-voting/campaign-finance) (see Campaign Finance Reporting Schedule on right-hand side, under Links Tab)
+[Filing Guide](https://www.sos.ms.gov/elections-voting/campaign-finance) (see Campaign Finance Guide on right-hand side, under Links Tab)
+
+**Supported Reports**
+
+MS Report of Receipts and Disbursements
+
+**Important Information Regarding Future Filing**
+
+As of 07-18-2023, [Mississippi’s](https://cfportal.sos.ms.gov/online/portal/cf/portal.aspx) online campaign finance filing system for filing e-files have been disabled; with no time-table of its return. As of now, Mississippi is requiring only paper versions of your report, including PDFs. You can submit your report 1 of 4 ways.
+
+* Email: CampaignFinance@sos.ms.gov or Shelby.Scoggins@sos.ms.gov
+* In Person: 401 Mississippi Street, Jackson, MS 39201 or 1141 Bayview Avenue, Suite 120, Biloxi, MS 39530
+* Mail: P.O. Box 136, Jackson, MS 39205-0136 (Please note that mailed-in reports must actually be received by the required date and the postmarked date will not be considered.)
+
+* Fax: (601) 576-2545
+
+Paper Versions or PDFs only; they are not accepting the e-file associated with the paper or pdf filing.
+
+[Help File Home](/help/) | [Full Index](/Help-File-Directory/) | [Contact Support](mailto:support@ISPolitical.com)
+
+[⇑ About Compliance Reports](/About-Compliance-Reports)
+[« About the MN 24 Hour PCF Report](/About-the-MN-24-Hour-PCF-Report)
+[When Are the Mississippi Deadlines? »](/When-Are-the-Mississippi-Deadlines)
+
+---
+
+# UTAH CAMPAIGN PARTY PAC FILING FAQ AND RESOURCES
+
+Utah Campaign, Party, & PAC Filing FAQ and Resources
+==========
+
+Applies To: Utah
+
+**Resources**
+
+[Elections Site](https://elections.utah.gov/)
+[Filing Guide](https://disclosures.utah.gov/) (see Quick Guides)
+[Filing Calendar](https://disclosures.utah.gov/)
+
+[Help File Home](/help/) | [Full Index](/Help-File-Directory/) | [Contact Support](mailto:support@ISPolitical.com)
+
+[⇑ About Compliance Reports](/About-Compliance-Reports)
+[« About the TX DAILY-E PAC Report](/About-the-TX-DAILY-E-PAC-Report)
+[Vermont Campaign, Party, & PAC Filing FAQ and Resources »](/Vermont-Campaign-Party-PAC-Filing-FAQ-and-Resources)
+
+---
+
+# ISPOLITICAL AI CHANGING ACCOUNTING SOFTWARE
+
+ISPolitical: AI changing Accounting Software
+==========
+
+<img alt="Group 326" src="https://ispolitical.com/wp-content/uploads/2022/03/Group-326.png" title="Group 326" height="648" width="1366" />
+
+In today’s world, upgrading and modernizing are par for the course and not keeping pace means becoming obsolete real quick.. Manufacturing is getting more efficient, computers are faster and smaller than ever, and information is shared at a breakneck pace. But the world of political accounting software hasn’t kept pace.
+
+At least, it didn’t. Until we came along.
+
+AI Political Accounting Software…Wait, is That a Thing?
+----------
+
+We just took a giant leap forward in making your life easier by being the first political accounting software company to introduce artificial intelligence. This is going to save you valuable and critical time, money, and effort. With our AI based accounting software, instead of leaving the office at midnight, red-eyed and caffeine addled, maybe you’ll start leaving a few hours sooner, and finish that last slice of pizza you ordered for the interns in the privacy of your own home (radical concept, we know).
+
+What’s AI All About Anyway?
+----------
+
+So what is this revolutionary technology? Before you go looking up AI on Wikipedia for a refresher course (or a plot synopsis of Terminator), let me try an analogy. We all have that one intern—they’re slightly slow, pretty inexperienced, but work harder than even some of your paid staff, right? They don’t know everything, but they get better as they go. That’s exactly what we created: the moderately intelligent intern, in computer form. Best of all, this one doesn’t need rides home, won’t quote the same three episodes of The West Wing endlessly, and you’ll never need to write it a letter of recommendation.
+
+How AI Can Help With Political Accounting
+----------
+
+So, how is artificial intelligence changing political accounting? AI@ISP does menial tasks, looking over repetitive data and performing some trivial actions, but far faster than you or your intern ever could. It saves you from the long, obnoxious parts of your job. Best of all, it gets better over time; AI really is intelligent and will learn how to do its job even more efficiently as it runs. But don’t be alarmed, this isn’t the start of the robot takeover. You definitely won’t have your job stolen by this AI based accounting software. Or, at least, not the fun parts. Unless you’re an intern. Then you should be scared.
+
+What, Specifically, Can AI do to Help With Political Accounting?
+----------
+
+Let’s get into the specifics of what AI@ISP does with some examples of where it thrives. AI combs through your filings so you don’t have to, looking for ways to improve, for things that won’t pass compliance, and even for target audiences who might be willing to do a little campaign donating. It excels at pouring over lists of data, looking for anomalies that would normally be your job. Why spend time scrutinizing a donor list or hunting for duplicates when AI can do it in seconds? All that time wasted trying to combine duplicate records can be saved. Better still, *automated*!
+
+Safety, It’s On Everyone’s Mind
+
+We also made it safe. If it comes across a duplicate situation that it isn’t sure about, it’ll defer to you. AI@ISP also imports online donations in your database, auto-combining with existing records and recording everything for you. If you have repeat donors, it’ll log those too, providing important metrics for your campaign. Further, it has automatic red flags that are meant to focus your attention on critical donations. There are triggers built in that notify you of possibly risky donations—monetary limits, type of donation, where it comes from, etc. It stays sharp even when you don’t. Our AI political accounting software is designed to help you make sure every donation taken is safe, streamlining your job and increasing the efficiency of the campaign you serve.
+
+AI: All That and a Bag of Chips
+----------
+
+This incredible tool isn’t a panacea, but we don’t think it should be! This is a 95% tool, something that does almost everything, but leaves the important calls to you. The last thing we want to do is make a mistake that will cause you trouble, so our robot will make sure big decisions are in the hands of people with authority. It recognizes that there are just some situations where it isn’t qualified to make a decision, just like a good intern should!
+
+We set out to build software that lives up to our company’s values: it needs to be responsive, smart, and useful. It needs to learn at all times, making sure it’s changing where necessary to be as helpful as possible. With our new AI, we met that mark on all counts. Its insistence on learning from the client is fundamental to its nature, just like ours.
+
+Do you have ideas about how AI@ISP could be even more helpful or questions regarding this or any of our other services, please don’t hesitate to [contact](https://ispolitical.com/contact/) us!
+
+You May Like These Blogs
+----------
+
+[Simplifying Campaign Finance with ISP’s Essential Tools](https://ispolitical.com/simplifying-campaign-finance-with-isps-essential-tools/)
+----------
+
+Managing a campaign’s finances can be complex and time-consuming. However, ISP’s suite of campaign finance solutions and tools is designed…
+
+[Read More](https://ispolitical.com/simplifying-campaign-finance-with-isps-essential-tools/)
+
+[Understanding FEC Filing Deadlines: The Breakdown](https://ispolitical.com/understanding-fec-filing-deadlines-the-breakdown/)
+----------
+
+The Federal Election Commission (FEC) plays a pivotal role in maintaining the integrity of campaign finance in the United States.…
+
+[Read More](https://ispolitical.com/understanding-fec-filing-deadlines-the-breakdown/)
+
+[Why You Should Have a Professional Campaign Treasurer](https://ispolitical.com/why-you-should-have-a-professional-campaign-treasurer/)
+----------
+
+Running a political campaign is a complex and demanding endeavor. Amidst the whirlwind of events, rallies, and policy planning, one…
+
+[Read More](https://ispolitical.com/why-you-should-have-a-professional-campaign-treasurer/)
+
+---
+
 # WHAT ARE THE DASHBOARD CHARTS AND GRAPHS
 
 What Are the Dashboard Charts and Graphs?
@@ -2929,6 +5259,29 @@ This line graph will show a timeline of your cash on hand. The X-axis of the cha
 [⇑ How Do I Get Started in ISP?](/How-Do-I-Get-Started-in-ISP)
 [« How Do I Use Quick Search?](/How-Do-I-Use-Quick-Search)
 [What Are the Key Statistics on the Dashboard? »](/What-Are-the-Key-Statistics-on-the-Dashboard)
+
+---
+
+# WHAT ARE REMINDERS
+
+What Are Reminders?
+==========
+
+Reminders in ISP are used to make sure you and your staff are keeping up with communications, both incoming and outgoing. You can set reminders for yourself or another user on the account and there are many ways you can utilize Reminders in your database. Various uses they can be used for are to remind yourself or others to call someone back, to remind someone about a pledge they made, and more.
+
+First, if you don’t have the standard Reminders tool installed, install the Tool from the Tools menu. Select the Add/Remove option, then on the resulting screen, scroll through the available options or type Reminders into the Search field. Click on the Reminders tile to install.
+
+Once the tool is installed, you’ll see the Reminder section in entity records.
+
+To set a Reminder, navigate to the entity’s record and in the Reminders section on the right and click the Add icon (+) in the right corner. In the window that appears, complete the required fields denoted with an asterisk, then click Add Reminder. This will place the reminder in the Reminder section in the record and also on the Dashboard of the User you assigned it to, if not yourself.
+
+Please be aware that reminders will not show on the dashboard until 24 hours before it’s due.
+
+[Help File Home](/help/) | [Full Index](/Help-File-Directory/) | [Contact Support](mailto:support@ISPolitical.com)
+
+[⇑ About Tools in ISP](/About-Tools-in-ISP)
+[« What Are Tickets & Ticket Areas and How Do I Add Them?](/What-Are-Tickets-Ticket-Areas-and-How-Do-I-Add-Them)
+[What Are Reminder Types? »](/What-Are-Reminder-Types)
 
 ---
 
@@ -3152,6 +5505,62 @@ Once you’ve determined the Affiliated entity and its Relationship, as well as 
 
 ---
 
+# MONTANA CAMPAIGN PARTY PAC FILING FAQ AND RESOURCES
+
+Montana Campaign, Party, & PAC Filing FAQ and Resources
+==========
+
+Applies To: Montana
+
+Below are links to resources to help you file your Montana reports.
+
+**Resources**
+
+[Elections Site](http://sos.mt.gov/elections/)
+[Filing Calendar](https://politicalpractices.mt.gov/Home/Reporting-Calendars)
+[Filing Guide](https://politicalpractices.mt.gov/Home/Forms)
+
+**Supported Reports**
+
+MT Committee Report
+MT Form C7 (Notice of Pre-Election Contributions)
+MT Form C7E (Notice of Pre-Election Expenditures)
+
+[Help File Home](/help/) | [Full Index](/Help-File-Directory/) | [Contact Support](mailto:support@ISPolitical.com)
+
+[⇑ About Compliance Reports](/About-Compliance-Reports)
+[« About the MO LCR Report](/About-the-MO-LCR)
+[When Are the Montana Filing Deadlines? »](/When-Are-the-Montana-Filing-Deadlines)
+
+---
+
+# WHY IS MY IE APPEARING ON LINE 21 B ABOUT PAYING FIRST AND DISSEMINATING LATER
+
+Why Is My IE Appearing on Line 21(B)? About Paying First and Disseminating Later
+==========
+
+Applies To: Federal Election Commission – Political Action Committees (PACs), Party Committees
+
+The following information impacts Form 3x & Form 3x (Party).
+
+When an expense is paid in one period, but the IE is dated for a future period/dissemination date, the [FEC](https://www.fec.gov/help-candidates-and-committees/filing-pac-reports/paying-ie-first-and-disseminating-later-reporting-period/) has a specific way they want to see this itemized.
+
+The IE is reported three times:
+
+1. The original/parent expense is reported on Line 21b in accordance with the report period of the original/parent transaction date. There is no Support/Oppose Memo information on the transaction.
+2. When the Support/Oppose Memo date falls in the appropriate report period, we “move” the transaction from Line 21b to Line 24 / Sch E. This is done by reporting the original/parent expense as a negative on Line 21b.
+3. On the same report, the IE is also reported on Line 24 / Sch E with all of the appropriate Candidate/Committee information.
+
+This will impact your per-line totals, especially in Col B. But because we are itemizing the transaction as a negative on Line 21b, the overall impact on your ending cash on hand is negated.
+
+[Help File Home](/help/) | [Full Index](/Help-File-Directory/) | [Contact Support](mailto:support@ISPolitical.com)
+
+[⇑ FEC Campaign, Party, & PAC Filing FAQ and Resources](/FEC-Campaign-Party-PAC-Filing-FAQ-and-Resources)
+[« How Do Federal and Non-federal IE’s Pull to Reports?](/How-Do-Federal-and-Non-federal-IE-s-Pull-to-Reports)
+[Why Are Dashboard Key Stats Different Than Line 11 Totals on FEC Reports? »](/Why-Are-Dashboard-Key-Stats-Different-Than-Line-11-Totals-on-FEC-Reports)
+
+---
+
 # WHAT IS THE MULTI ACCOUNT DASHBOARD
 
 What Is the Multi-Account Dashboard?
@@ -3208,6 +5617,32 @@ The state of Nevada determines what transactions are itemized. Because of this, 
 
 ---
 
+# WHAT ARE ADVANCED SEARCH RECIPES
+
+What Are Advanced Search Recipes?
+==========
+
+We often get questions on how to generate reports in Advanced Search that are similar in criteria and need. Below are some of the more frequently asked about Advance Searches and how to create them in your database. Please note these are meant to be general recipes that may require being more specific to your data when creating the search.
+
+* [How Do I Locate Donors Over the Limit?](https://ispolitical.com/How-Do-I-Locate-Donors-Over-the-Limit)
+* [How Do I Find Transactions Added on a Specific Date?](https://ispolitical.com/How-Do-I-Find-Transactions-Added-on-a-Specific-Date)
+* [How Do I Locate First Time Donors Using Advanced Search?](https://ispolitical.com/How-Do-I-Locate-First-Time-Donors-Using-Advanced-Search)
+* [How Do I Exclude Results Based on Flags Using Advanced Search?](https://ispolitical.com/How-Do-I-Exclude-Results-Based-on-Flags-Using-Advanced-Search)
+* [How Do I Isolate Out-Of-State Income Using Advanced Search?](https://ispolitical.com/How-Do-I-Isolate-Out-Of-State-Income-Using-Advanced-Search)
+* [How Do I Find All PACs That Gave in the Primary and General Cycle?](https://ispolitical.com/How-Do-I-Find-All-PACs-That-Gave-in-the-Primary-and-General-Cycle)
+* [How Do I Find Donors Who Gave to the Primary but Not the General?](https://ispolitical.com/How-Do-I-Find-Donors-Who-Gave-to-the-Primary-but-Not-the-General)
+* [How Do I Find Non-donors?](https://ispolitical.com/How-Do-I-Find-Non-donors)
+* [How Do I Find Communications Made By Date and/or Type?](https://ispolitical.com/How-Do-I-Find-Communications-Made-By-Date-and-or-Type)
+* [How Do I Locate Foreign Addresses Using Advanced Search?](https://ispolitical.com/How-Do-I-Locate-Foreign-Addresses-Using-Advanced-Search)
+
+[Help File Home](/help/) | [Full Index](/Help-File-Directory/) | [Contact Support](mailto:support@ISPolitical.com)
+
+[⇑ What Is Advanced Search and How Do I Use It?](/What-Is-Advanced-Search-and-How-Do-I-Use-It)
+[« How Do I Filter My Advanced Search by State and Local Districts?](/How-Do-I-Filter-My-Advanced-Search-by-State-and-Local-Districts)
+[How Do I Locate Donors Over the Limit? »](/How-Do-I-Locate-Donors-Over-the-Limit)
+
+---
+
 # ABOUT THE FEC FORM 24 IE REPORT
 
 About the FEC Form 24-IE Report
@@ -3228,6 +5663,39 @@ If you need to file a report due to an IE over $10,000 at any time outside of th
 [⇑ FEC Campaign, Party, & PAC Filing FAQ and Resources](/FEC-Campaign-Party-PAC-Filing-FAQ-and-Resources)
 [« About the FEC Form 6 Report](/About-the-FEC-Form-6-Report)
 [About the FEC Form 99 Report »](/About-the-FEC-Form-99-Report)
+
+---
+
+# OREGON CAMPAIGN PARTY PAC FILING FAQ AND RESOURCES
+
+Oregon Campaign, Party, & PAC Filing FAQ and Resources
+==========
+
+Applies To: Oregon
+
+Below are links to resources to help you file your Oregon reports.
+
+**FAQ**
+
+* [When Are the Oregon Filing Deadlines?](https://ispolitical.com/When-Are-the-Oregon-Filing-Deadlines)
+* [How Do I Add Reimbursements to Personal Expenses for Oregon Compliance Reports?](https://ispolitical.com/How-Do-I-Add-Reimbursements-to-Personal-Expenses-for-Oregon-Compliance-Reports)
+* [How Do I Pull “Employer/Occupation letter sent date” for Reporting?](https://ispolitical.com/How-Do-I-Pull-Employer-Occupation-letter-sent-date-for-Reporting)
+* [How Do I E-file With ORESTAR?](https://ispolitical.com/How-Do-I-E-file-With-ORESTAR)
+
+Supported Reports
+Oregon Campaign Finance Report
+
+**Resources**
+
+[Elections Site](http://sos.oregon.gov/elections/Pages/default.aspx)
+[Filing Calendar](https://Sos.Oregon.Gov/Elections/Documents/Current-Elections-Calendar.Pdf)
+[Filing Guide](https://Sos.Oregon.Gov/Elections/Pages/Manuals-Tutorials.Aspx)
+
+[Help File Home](/help/) | [Full Index](/Help-File-Directory/) | [Contact Support](mailto:support@ISPolitical.com)
+
+[⇑ About Compliance Reports](/About-Compliance-Reports)
+[« Oklahoma Campaign, Party, & PAC Filing FAQ and Resources](/Oklahoma-Campaign-Party-PAC-Filing-FAQ-and-Resources)
+[When Are the Oregon Filing Deadlines? »](/When-Are-the-Oregon-Filing-Deadlines)
 
 ---
 
@@ -3373,6 +5841,25 @@ To file your report, you must generate and download your e-file to upload to you
 [⇑ Colorado Campaign, Party, & PAC Filing FAQ and Resources](/Colorado-Campaign-Party-PAC-Filing-FAQ-and-Resources)
 [« About the CO RCE](/About-the-CO-RCE)
 [Connecticut Campaign, Party, & PAC Filing FAQ and Resources »](/Connecticut-Campaign-Party-PAC-Filing-FAQ-and-Resources)
+
+---
+
+# ABOUT THE NH LCR REPORT
+
+About the NH – LCR Report
+==========
+
+Applies To: New Hampshire
+
+The NH LCR Report Lists Contributions exceeding $500 received in the seven days preceding an election. The Contributions must be reported to the Secretary of State within 48 hours of receipt.
+
+If you open the downloaded e-file, you might get a scary looking warning. Don’t worry about it – the file is totally safe. To file your report, you must download the XML and then upload to the state. You can login to the [New Hampshire Campaign Finance System](https://cfs.sos.nh.gov/).
+
+[Help File Home](/help/) | [Full Index](/Help-File-Directory/) | [Contact Support](mailto:support@ISPolitical.com)
+
+[⇑ New Hampshire Campaign, Party, & PAC Filing FAQ and Resources](/New-Hampshire-Campaign-Party-PAC-Filing-FAQ-and-Resources)
+[« About the NH – R and E](/About-the-NH-R-and-E)
+[About the NH – IE Report »](/About-the-NH-IE)
 
 ---
 
@@ -3597,6 +6084,32 @@ When new donations are processed, we pull that data from Stripe via an API. If i
 
 ---
 
+# ABOUT ISP S API
+
+About ISP’s API
+==========
+
+ISPolitical’s API is a REST API designed to allow the submissions of contribution and other financial data to ISP’s clients’ databases.
+
+* [How Do I Set Up Authentication with ISP’s API?](https://ispolitical.com/How-Do-I-Set-Up-Authentication-with-ISP-s-API)
+* [How Do I Add Political Committees via ISP’s API?](https://ispolitical.com/How-Do-I-Add-Political-Committees-via-ISP-s-API)
+* [What Fields Are Available for API Submissions?](https://ispolitical.com/What-Fields-Are-Available-for-API-Submissions)
+* [How Do I Add Online Donations via ISP’s API?](https://ispolitical.com/How-Do-I-Add-Online-Donations-via-ISP-s-API)
+* [How Do I Add Fees and Other Expenses via Isp’s API?](https://ispolitical.com/How-Do-I-Add-Fees-and-Other-Expenses-via-Isp-s-API)
+* [How Do I Add Deposit Batches via ISP’s API?](https://ispolitical.com/How-Do-I-Add-Deposit-Batches-via-ISP-s-API)
+* [How Do I Add Volunteers With Flags Via ISP’s API?](https://ispolitical.com/How-Do-I-Add-Volunteers-With-Flags-Via-ISP-s-API)
+* [API Sample Code: Javascript](https://ispolitical.com/API-Sample-Code-Javascript)
+* [Budget Category Request API](https://ispolitical.com/Budget-Category-Request-API)
+* [Deposit Batches Request API](https://ispolitical.com/Deposit-Batches-Request-API)
+
+[Help File Home](/help/) | [Full Index](/Help-File-Directory/) | [Contact Support](mailto:support@ISPolitical.com)
+
+[⇑ About Integrations in ISP](/About-Integrations-in-ISP)
+[« How Do I Export Data Out of WinRed for Quick Imports in ISP?](/How-Do-I-Export-Data-Out-of-WinRed-for-Quick-Imports-in-ISP)
+[How Do I Set Up Authentication with ISP’s API? »](/How-Do-I-Set-Up-Authentication-with-ISP-s-API)
+
+---
+
 # WHAT ARE THE DIFFERENT USER PERMISSIONS IN ISP
 
 What Are the Different User Permissions in ISP?
@@ -3777,6 +6290,111 @@ In ISP, you’ll create not just a financial account but an entirely new committ
 
 ---
 
+# ABOUT THE CA FORM 462 REPORT
+
+About the CA Form 462 Report
+==========
+
+Applies To: California
+
+The CA FPPC Form 462 Report is a verification form that identifies the entity responsible for ensuring that a campaign committee’s Independent Expenditures were not coordinated with the listed candidate. The FPPC Form 462 Report is required to be filed within 10 days from the date of any independent expenditure that totals, in aggregate $1,000 or more in a calendar year, used to support or oppose a candidate and or measure.
+
+A candidate or measure is listed only once for each election. If there are any changes needed to be made, an amendment must be filed within 10 days of the change. To file, download the generated report and log in to your [state account](https://cafile.sos.ca.gov/CalOnline/) to file.
+
+[Help File Home](/help/) | [Full Index](/Help-File-Directory/) | [Contact Support](mailto:support@ISPolitical.com)
+
+[⇑ California Campaign, Party, & PAC Filing FAQ and Resources](/California-Campaign-Party-PAC-Filing-FAQ-and-Resources)
+[« About the CA Form 461-Reverse Report](/About-the-CA-Form-461-Reverse-Report)
+[How to File a CA Form 496 »](/How-to-File-a-CA-Form-496)
+
+---
+
+# ABOUT OTHER ENTITIES
+
+About Other Entities
+==========
+
+Other Entities are used for non-corporeal concepts. They’re not widely used but most accounts will have one or two. They generally should be avoided unless absolutely needed.
+
+The most common are:
+
+* **Anonymous**: For when you don’t know where this money came from.
+* **Bookkeeping**: For when there has been a manual adjustment to fix a past error.
+
+Some agencies have very specific other entities. Check your agency specific help file documents for more information.
+
+More Information
+
+----------
+
+* [What Is an Anonymous Transaction and How Do I Add One?](https://ispolitical.com/What-Is-an-Anonymous-Transaction-and-How-Do-I-Add-One)
+* [How Do I Add a Ballot Measure?](https://ispolitical.com/How-Do-I-Add-a-Ballot-Measure)
+* [What Is a Bookkeeping Transaction and How Do I Add One?](https://ispolitical.com/What-Is-a-Bookkeeping-Transaction-and-How-Do-I-Add-One)
+
+[Help File Home](/help/) | [Full Index](/Help-File-Directory/) | [Contact Support](mailto:support@ISPolitical.com)
+
+[⇑ About Lists in ISP](/About-Lists-in-ISP)
+[« What Are Memberships and Membership Types?](/What-Are-Memberships-and-Membership-Types)
+[What Is an Anonymous Transaction and How Do I Add One? »](/What-Is-an-Anonymous-Transaction-and-How-Do-I-Add-One)
+
+---
+
+# WHAT IS THE IRS FORM 8872 HOW DO I PREPARE AND FILE IT
+
+What Is the IRS Form 8872 & How Do I Prepare and File It?
+==========
+
+Applies To: Internal Revenue Service
+
+Tax-exempt section 527 political organizations file the IRS Form 8872 to report certain contributions received and expenditures made, unless an exception applies.
+
+How do I populate this report?
+----------
+
+First, the IRS Reports tool must be installed for the IRS Form 8872 to show as an available compliance report. If, after installing this tool, the report does not show as available, please contact Support.
+
+**Line A:** This line is determined by the From and To Dates entered on the criteria screen.
+
+**Line B:** This line marks the box that was selected on the criteria screen. If Amended, Termination, or Change of Address boxes were not checked, the Initial box on the report will automatically be selected.
+
+**Line 1 (Name of Organization):** This will be the name of the designated filer committee in your database.
+
+**Line 2 (Mailing Address):** This is the address in the committee’s Organization record that has been marked Is Reportable.
+
+**Line 3 (Email Address of Organization):** This is determined by the email address listed in the Email Address section of the committee’s Organization record.
+
+**Line 4 (Date Organization was Formed):** This is the Date Qualified date entered in the Committee Info section of the committee’s Organization record.
+
+**Lines 5a/b (Name of Custodian of Records):** This pulls from the Relationships section, specifically the entity listed as Record Keeper.
+
+**Lines 6a/b (Name of Contact Person):** This pulls from the Relationships section, specifically the entity listed as Treasurer.
+
+**Line 7 (Business Address of Organization):** If this address is different than the Reportable address in Line 2, use the Is Mailable designation when adding a new address to the committee’s Organization record.
+
+**Line 8 (Type of Report):** This is determined by the option selected from the Report Period drop down menu on the criteria screen.
+
+**Line 9 (Total Amount of Reported Contributions):** This is the aggregate total of all contributions found on Schedule A.
+
+**Line 10 (Total Amount of Reported Expenditures):** This is the aggregate total of all expenses found on Schedule B.
+
+How do I file the report?
+----------
+
+Once the report generates, click to download the XML report. You’ll then [log in to your IRS account](https://forms.irs.gov/app/pof/login/auth) and upload the report.
+
+**Anonymous**
+
+----------
+
+Transactions from the Anonymous Other Entity will be excluded from this report.
+
+[Help File Home](/help/) | [Full Index](/Help-File-Directory/) | [Contact Support](mailto:support@ISPolitical.com)
+
+[« IRS Filing FAQ and Resources](/IRS-Filing-FAQ-and-Resources)
+[Do I Need to File the IRS Form 8871/8872? »](/Do-I-Need-to-File-the-IRS-Form-8871-8872)
+
+---
+
 # WHAT ARE ESTIMATED EXPENSES FOR FORM 5 AND 24 48 HOUR IE REPORTS
 
 What Are Estimated Expenses for Form 5 and 24/48 Hour IE Reports?
@@ -3811,6 +6429,73 @@ The amount field will default to the Estimated Expense amount, but it can be cha
 [⇑ FEC Campaign, Party, & PAC Filing FAQ and Resources](/FEC-Campaign-Party-PAC-Filing-FAQ-and-Resources)
 [« How Do I Report Advances for Travel?](/How-Do-I-Report-Advances-for-Travel)
 [FEC Form 1M (Notice of Multi-Candidate Status) »](/FEC-Form-M-Notice-of-Multi-Candidate-Status)
+
+---
+
+# ABOUT POST ELECTION OR YEAR END WITH COLUMN C REPORTS
+
+About Post-election or Year-End With Column C Reports
+==========
+
+Applies To: Federal Election Commission – Candidate Committees
+
+Because the Post-Election Report date range has an election in the middle of the period, clients often get confused as to which Current Election to select and what date to supply as the Previous General Election Date when generating the report.
+
+Our advice is:
+
+* For the Previous General Election Date use an election date that corresponds to the Report From Date, rather than the election that happens during the period. You’ll want to ensure the Previous General Election Date is earlier than the Report From Date.
+* However, for the Current Election use the election that happens during the report period.
+
+After you generate your report and review the PDF, you may notice the summary pages for Lines 11 – 22 look pretty different. Typically there are two columns: Col A (Transactions in the Report) and Col B (Total of Transactions – Election Cycle To Date).
+
+However, the report period for the Post-Election Report includes an Election, which the FEC uses to mark the end of an Election Cycle. This means the Post-Election Report covers two Election Cycles – the one that just ended at the Current Election, and the new one that started the day after the Current Election.
+
+To accommodate this, the Post-Election has Column C, which is for that second cycle. This column is the Total of Transactions Election Cycle to Date for the new cycle that started the day after the Current Election to the end of the report.
+
+How do these columns work together?
+----------
+
+* Column A is always the total of transactions in the period. This is the same, even on a Post-Election Report
+* Column B is always the total of transactions in the election cycle. For the FEC, an election cycle starts the day after the previous General election. We use the date provided in the Previous General Election Date
+* Column C is the total of transactions in the new election cycle, starting the day after the date of the election set as Current Election. This will include some transactions found in Column A
+
+Is Column C only found on the Post-Election Report?
+----------
+
+Nope. In fact, Column C is found on 4 reports:
+
+1. Post-General Report: This is used in conjunction with a Pre-General Report, and filed after the General Election. This is the most common usage of the Column C
+2. Post-Special Report: This is used in conjunction with a Pre-Special Report, and filed after a Special Election
+3. Post-Runoff Report: This is used in conjunction with a Pre-Runoff Report, and filed after a Runoff Election
+4. Year-End with Column C: This is rarely used, and typically only per instruction by your FEC analyst. Using this reporting period will get Col C to reset the election cycle totals. This could be used if a candidate participated in the Primary Election, but did not continue on to the General Election
+
+How do I do the math?
+----------
+
+Typically, on reports with just Columns A and B, the math is:
+
+Previous Report Column B +
+Current Report Column A =
+————————————
+Current Report Column B
+
+However, with the Post-Election, the math is:
+
+Previous Report Column B +
+Current Report Column A =
+————————————
+Current Report Column B +
+Current Report Column C
+
+Of course, it wouldn’t be the FEC if there wasn’t yet another strange thing on the report. On the first summary page (Lines 6-10), the Column B figures do not cover totals through the end of the report as they do for most reports; they only cover through the General (Current) Election. The FEC has stressed they care more about the Election Cycle totals, rather than the To Date totals.
+
+Please also note Column C is only found on the Form 3. Form 3X Filers also have to file a Post-Election, but the 3X does not have this special summary page with Col C. The 3X To/From Dates will be the same, as well as Current Election and Report Period.
+
+[Help File Home](/help/) | [Full Index](/Help-File-Directory/) | [Contact Support](mailto:support@ISPolitical.com)
+
+[⇑ About the FEC Form 3 Report](/About-the-FEC-Form-3-Report)
+[« How Do I Report a Transfer From a Joint Fundraising Committee (JFC) To Joint Fundraising Participants?](/How-Do-I-Report-a-Transfer-From-a-Joint-Fundraising-Committee-JFC-To-Joint-Fundraising-Participants)
+[Form 3 Errors and Warnings »](/Form-3-Errors-and-Warnings)
 
 ---
 
@@ -3849,6 +6534,132 @@ This form will need to be downloaded as a file to upload into the Ohio Campaign 
 [⇑ Ohio Campaign, Party, & PAC Filing FAQ and Resources](/Ohio-Campaign-Party-PAC-Filing-FAQ-and-Resources)
 [« When Are the Ohio Filing Deadlines?](/When-Are-the-Ohio-Filing-Deadlines)
 [About the OH Form 30C Report »](/About-the-OH-Form-3-C-Report)
+
+---
+
+# WHEN ARE THE PENNSYLVANIA FILING DEADLINES
+
+When Are the Pennsylvania Filing Deadlines?
+==========
+
+Applies To: Pennsylvania
+
+Below are deadlines for Pennsylvania compliance report filing.
+
+The Filing Deadline information provided here is offered only as a reference aid. The provided deadline information may contain inaccuracies and may not include all special elections or deadlines. For agency-specific details please visit the [Pennsylvania DoS](https://www.dos.pa.gov/VotingElections/CandidatesCommittees/CampaignFinance/Resources/Pages/Report-Filing-Deadlines.aspx) website..
+
+527 Political Organization
+----------
+
+* 09/24/2024: PA DSEB-502 (6th Tuesday Pre-Election)
+* 10/25/2024: PA DSEB-502 (2nd Friday Pre-Election)
+* 12/05/2024: PA DSEB-502 (30 Day Post-Election)
+* 01/31/2025: PA DSEB-502 (2024 Annual Report)
+
+Authorized
+----------
+
+* 09/24/2024: PA DSEB-502 (6th Tuesday Pre-Election)
+* 10/25/2024: PA DSEB-502 (2nd Friday Pre-Election)
+* 12/05/2024: PA DSEB-502 (30 Day Post-Election)
+* 01/31/2025: PA DSEB-502 (2024 Annual Report)
+
+Ballot Measure
+----------
+
+* 09/24/2024: PA DSEB-502 (6th Tuesday Pre-Election)
+* 10/25/2024: PA DSEB-502 (2nd Friday Pre-Election)
+* 12/05/2024: PA DSEB-502 (30 Day Post-Election)
+* 01/31/2025: PA DSEB-502 (2024 Annual Report)
+
+Candidate
+----------
+
+* 09/24/2024: PA DSEB-502 (6th Tuesday Pre-Election)
+* 10/25/2024: PA DSEB-502 (2nd Friday Pre-Election)
+* 12/05/2024: PA DSEB-502 (30 Day Post-Election)
+* 01/31/2025: PA DSEB-502 (2024 Annual Report)
+
+Caucus
+----------
+
+* 09/24/2024: PA DSEB-502 (6th Tuesday Pre-Election)
+* 10/25/2024: PA DSEB-502 (2nd Friday Pre-Election)
+* 12/05/2024: PA DSEB-502 (30 Day Post-Election)
+* 01/31/2025: PA DSEB-502 (2024 Annual Report)
+
+Independent Expenditure
+----------
+
+* 09/24/2024: PA DSEB-502 (6th Tuesday Pre-Election)
+* 10/25/2024: PA DSEB-502 (2nd Friday Pre-Election)
+* 12/05/2024: PA DSEB-502 (30 Day Post-Election)
+* 01/31/2025: PA DSEB-502 (2024 Annual Report)
+
+Major Donor
+----------
+
+* 09/24/2024: PA DSEB-502 (6th Tuesday Pre-Election)
+* 10/25/2024: PA DSEB-502 (2nd Friday Pre-Election)
+* 12/05/2024: PA DSEB-502 (30 Day Post-Election)
+* 01/31/2025: PA DSEB-502 (2024 Annual Report)
+
+Other
+----------
+
+* 09/24/2024: PA DSEB-502 (6th Tuesday Pre-Election)
+* 10/25/2024: PA DSEB-502 (2nd Friday Pre-Election)
+* 12/05/2024: PA DSEB-502 (30 Day Post-Election)
+* 01/31/2025: PA DSEB-502 (2024 Annual Report)
+
+Party
+----------
+
+* 09/24/2024: PA DSEB-502 (6th Tuesday Pre-Election)
+* 10/25/2024: PA DSEB-502 (2nd Friday Pre-Election)
+* 12/05/2024: PA DSEB-502 (30 Day Post-Election)
+* 01/31/2025: PA DSEB-502 (2024 Annual Report)
+
+Political Action Committee (PAC)
+----------
+
+* 09/24/2024: PA DSEB-502 (6th Tuesday Pre-Election)
+* 10/25/2024: PA DSEB-502 (2nd Friday Pre-Election)
+* 12/05/2024: PA DSEB-502 (30 Day Post-Election)
+* 01/31/2025: PA DSEB-502 (2024 Annual Report)
+
+Recipient
+----------
+
+* 09/24/2024: PA DSEB-502 (6th Tuesday Pre-Election)
+* 10/25/2024: PA DSEB-502 (2nd Friday Pre-Election)
+* 12/05/2024: PA DSEB-502 (30 Day Post-Election)
+* 01/31/2025: PA DSEB-502 (2024 Annual Report)
+
+Slate Mailer
+----------
+
+* 09/24/2024: PA DSEB-502 (6th Tuesday Pre-Election)
+* 10/25/2024: PA DSEB-502 (2nd Friday Pre-Election)
+* 12/05/2024: PA DSEB-502 (30 Day Post-Election)
+* 01/31/2025: PA DSEB-502 (2024 Annual Report)
+
+Small Contributor
+----------
+
+* 09/24/2024: PA DSEB-502 (6th Tuesday Pre-Election)
+* 10/25/2024: PA DSEB-502 (2nd Friday Pre-Election)
+* 12/05/2024: PA DSEB-502 (30 Day Post-Election)
+* 01/31/2025: PA DSEB-502 (2024 Annual Report)
+
+You’re able to add Filing Deadlines found in ISP to your own digital calendar with our [Calendar Feed tool](https://ispolitical.com/what-are-calendar-feeds/).
+
+To see more information about Pennsylvania compliance report filing with ISP, please visit our [Pennsylvania Filing and FAQ Resources](https://ispolitical.com/pennsylvania-campaign-party-pac-filing-faq-and-resources/) page.
+
+[Help File Home](/help/) | [Full Index](/Help-File-Directory/) | [Contact Support](mailto:support@ISPolitical.com)
+
+[« Pennsylvania Campaign, Party, & PAC Filing FAQ and Resources](/Pennsylvania-Campaign-Party-PAC-Filing-FAQ-and-Resources)
+[What Is the Pennsylvania Apply to File Process? »](/What-Is-the-Pennsylvania-Apply-to-File-Process)
 
 ---
 
@@ -3891,6 +6702,30 @@ There may be times where a donor’s credit card contribution is rejected and th
 
 [« What Are the Credit Card Processing Options at ISP?](/What-Are-the-Credit-Card-Processing-Options-at-ISP)
 [How Do I Set up an Actblue Integration? »](/How-Do-I-Set-Up-an-ActBlue-Integration)
+
+---
+
+# WHEN ARE THE WYOMING FILING DEADLINES
+
+When Are the Wyoming Filing Deadlines?
+==========
+
+Applies To: Wyoming
+
+Below are the deadlines for Wyoming compliance report filing.
+
+The Filing Deadline information provided here is offered only as a reference aid. The provided deadline information may contain inaccuracies and may not include all special elections or deadlines. For agency-specific details please visit the [Wyoming SoS website](https://sos.wyo.gov/Elections/Ethics.aspx).
+
+***No deadlines are currently found.***
+
+You’re able to add Filing Deadlines found in ISP to your own digital calendar with our [Calendar Feed tool](https://ispolitical.com/Calendar-Feeds/).
+
+To see more information about Wyoming compliance report filing with ISP, please visit our [Wyoming Filing and FAQ Resources](https://ispolitical.com/wyoming-campaign-party-pac-filing-faq-and-resources/) page.
+
+[Help File Home](/help/) | [Full Index](/Help-File-Directory/) | [Contact Support](mailto:support@ISPolitical.com)
+
+[« Wyoming Campaign, Party, & PAC Filing FAQ and Resources](/Wyoming-Campaign-Party-PAC-Filing-FAQ-and-Resources)
+[About the WY PAC Contributions and Expenditures Report »](/About-the-WY-PAC-Contributions-and-Expenditures)
 
 ---
 
@@ -4089,6 +6924,35 @@ While Philadelphia does not capture Support/Oppose information, transactions tha
 
 ---
 
+# ENTERING UNUSUAL TRANSACTIONS
+
+Entering Unusual Transactions
+==========
+
+Sometimes we encounter transactions that are unusual enough to give us pause. Below is a list of links to unusual transactions we’ve encountered along the way that may be helpful to you.
+
+* [How Do I Enter Returned Checks Due to Insufficient Funds?](https://ispolitical.com/How-Do-I-Enter-Returned-Checks-Due-to-Insufficient-Funds)
+* [What Are Reversals and Refunds & How Do I Add Them?](https://ispolitical.com/What-Are-Reversals-and-Refunds-How-Do-I-Add-Them)
+* [How Do I Create a Reversed Split Transaction?](https://ispolitical.com/How-Do-I-Create-a-Reversed-Split-Transaction)
+* [How Do I Create an Independent Expenditure?](https://ispolitical.com/How-Do-I-Create-an-Independent-Expenditure)
+* [How Do I Add a Reattribution OR Redesignation?](https://ispolitical.com/How-Do-I-Add-a-Reattribution-OR-Redesignation)
+* [How Do I Void A Recorded Check?](https://ispolitical.com/How-Do-I-Void-a-Recorded-Check)
+* [How Do I Add Conduit Transactions & Processing Fees?](https://ispolitical.com/How-Do-I-Add-Conduit-Transactions-Processing-Fees)
+
+You’ll find further information here:
+
+* [Bookkeeping Transactions](https://ispolitical.com/using-bookkeeping-transactions/)
+* [How to Enter a Cash Advance](https://ispolitical.com/fec-how-to-enter-a-cash-advance/)
+* [Credit Card Purchases](https://ispolitical.com/how-do-i-enter-credit-card-purchases/)
+
+[Help File Home](/help/) | [Full Index](/Help-File-Directory/) | [Contact Support](mailto:support@ISPolitical.com)
+
+[⇑ About Transactions](/About-Transactions)
+[« What Do the Different Colors Mean When Adding Transactions?](/What-Do-the-Different-Colors-Mean-When-Adding-Transactions)
+[How Do I Enter Returned Checks Due to Insufficient Funds? »](/How-Do-I-Enter-Returned-Checks-Due-to-Insufficient-Funds)
+
+---
+
 # HOW DO I ADD FEES AND OTHER EXPENSES VIA ISP S API
 
 How Do I Add Fees and Other Expenses via Isp’s API?
@@ -4126,6 +6990,39 @@ Below is an API sample submission for an expense. Additional data may be submitt
 [⇑ About ISP’s API](/About-ISP-s-API)
 [« How Do I Add Online Donations via ISP’s API?](/How-Do-I-Add-Online-Donations-via-ISP-s-API)
 [How Do I Add Deposit Batches via ISP’s API? »](/How-Do-I-Add-Deposit-Batches-via-ISP-s-API)
+
+---
+
+# ABOUT ORGANIZATION RECORDS
+
+About Organization Records
+==========
+
+Entity records in ISP are designed to house numerous pieces of valuable information. Below is a breakdown of what you’ll find in an Organization record.
+
+At the top of each record you’ll find basic information, such as the name and Business Type info. If there is any contribution information, you’ll see a wrench icon where you can choose to display Key Stats, such as Most Recent Contribution, Total Donations, and more. If contact information is available, such as Email or Phone, you’ll have options to call or email them directly, as well as view their address on a map.
+
+If you need to make any edits to the name and other basic information, click on the green triangle in the top right corner to display a window where edits can be made.
+
+In nearly all of the sections on the page, you’ll have the option to add information. Again, this done by clicking the green triangle in the right corner of the section. Some of these sections are Transactions, Flags, Relationships, and more.
+
+If the organization is also known by abbreviation, like ISP vs Integrated Solutions: Political, use the Alias field. When someone searches for ISP instead of the full name, the record will be included in the search results.
+
+If the organization is a committee, use the Committee Info section on the right to add information such as ID Number, Jurisdiction, and other committee-related information. This data can play an important role when it comes to Compliance reports, including any affiliations to their committee staff in the Relationships section.
+
+At the bottom of the page, use the Advanced Tools drop-up menu to make the record Inactive or Delete the record. The Delete option will not be available when the record contains critical information, such as financial transactions, for example.
+
+Finally, you can print the record details or export it to a Call Sheet using the Print/Export button at the very bottom of the screen.
+
+### Related Information ###
+
+* [How Do I Use the Organization Search?](https://ispolitical.com/How-Do-I-Use-the-Organization-Search)
+
+[Help File Home](/help/) | [Full Index](/Help-File-Directory/) | [Contact Support](mailto:support@ISPolitical.com)
+
+[⇑ About Add/Search](/About-Add-Search)
+[« What Is Time Tracking?](/What-Is-Time-Tracking)
+[How Do I Use the Organization Search? »](/How-Do-I-Use-the-Organization-Search)
 
 ---
 
@@ -4237,6 +7134,72 @@ After completing the fields, click Add Financial Account to return to the list o
 
 ---
 
+# HOW DO I FILE A CA FORM 497
+
+How Do I File a CA Form 497?
+==========
+
+Applies To: California
+
+The CA Form 497 has two main uses:
+
+* Primarily, a 24-hour Contribution Report, which is required for contributions received or non-independent expenditure made in the amount or aggregate of $1,000 or more, filed within the 90-day period before an election
+* A 10-day report, required for contributions received or non-independent expenditures made in the amount or aggregate of $5,000 or more, filed anytime outside of the 90-day period before an election
+
+Per the FPPC manual, if a committee receives a contribution after a 24-hour report is filed but that contribution amount does not reach the $1,000 threshold, another 24-hour report is not needed until that threshold is crossed again.
+
+When generating a 497 in ISPolitical, navigate to Compliance under the Reporting tab. On the criteria screen you will see the following fields.
+
+**Filer:** Ensure the correct filer is selected if you have more than one Filer. If you only have one Filer (most common), then you won’t see this option.
+
+**Compliance Report:** Select the CA Form 497 from the listed report types.
+
+**Compliance Report Version:** Along with the Standard version, choose from [various versions](https://ispolitical.com/about-the-ca-form-497-report) of the 497 report.
+
+**Local Jurisdiction:** This limits the report to Support/Oppose memo entities to the local jurisdiction. This is used by committees who receive/make contributions in multiple jurisdictions, and need to restrict a report to a specific jurisdiction for filing purposes. This dropdown is commonly left blank.
+
+**Current Election:** Select the current election the committee is participating in.
+
+**From Date:** The From Date should always be the first day of the 90-day reporting period.
+
+**To Date:** The To Date is the day you are running this report on.
+
+If you are filing an amendment, check the Amended box. Two new fields will appear.
+
+**Amended Compliance Report:** If you filed the original or previous 497 report outside of ISP, select the filed outside of ISP option. If you previously used your own random or preferred report number, select the option stating an optional number was used.
+
+**Amendment Number:** Use this field to specify which amendment this is. For example, if you previously filed two amendments, enter in the number 3.
+
+After you’ve completed the fields, click the Generate button to generate your report. When it completes the process, review your report and, when ready, click E-File Report to State to send it electronically to the state, or, if available E-File Report to Local Agency. After you receive the confirmation the report was accepted, click the Mark As Filed button.
+
+Clicking the Mark As Filed button will mark all transactions in the report as previously reported. This prevents transactions from being double reported later and provides an extra layer of protection from editing or accidental deletion.
+
+How are contribution conduits reported?
+----------
+
+For contributions received, when a transaction is received via conduit, California does not require all of the conduit information. All that pulls to the 497 is an automatically generated note that states the transaction was received via a conduit.
+
+For contributions made, California is really only concerned about the end recipient, which is the entity associated with the Support/Oppose Memo. The report doesn’t even disclose the original/parent entity. This also means we do not pull an automatically generated note that states the transaction was made via conduit.
+
+### How do I report In-Kind Contributions on the 497? ###
+
+From a reporting perspective, in-kinds contributions are considered typical contributions. On the 497 report, the aggregate resets during the 90-day period.
+
+Per the FPPC:
+
+“A committee must file a Form 497 for each aggregated contribution of $1,000 or more from the same source. For example, if a committee reported a contribution of $2,000 on the Form 497 and later the same source made a $500 contribution, the Form 497 is not required as long as the contributor did not make future contributions that aggregated to $1,000 or more during the 90-day election cycle.“
+
+While the above clause talks about Contributions Received, the concept is the same for Contributions Made.
+
+### Related Information ###
+
+[Help File Home](/help/) | [Full Index](/Help-File-Directory/) | [Contact Support](mailto:support@ISPolitical.com)
+
+[« About the CA Form 497 Report](/About-the-CA-Form-497-Report)
+[How Do I File a CA Amendment? »](/How-Do-I-File-a-CA-Amendment)
+
+---
+
 # HOW DO I USE QUICK IMPORTS FOR WINRED TRANSACTIONS
 
 How Do I Use Quick Imports for WinRed Transactions?
@@ -4267,11 +7230,79 @@ If you have Agency fees as well as WinRed credit card transaction fees, both are
 
 # WHAT ARE TICKETS TICKET AREAS AND HOW DO I ADD THEM
 
-429 Too Many Requests
+What Are Tickets & Ticket Areas and How Do I Add Them?
 ==========
 
----
-nginx
+The Tickets tool gives you the ability to track and record any issues expressed to you by individuals and organizations. You can assign tickets to other staff users, as well as group similar ticket issues together.
+
+Under the Tools tab, select Tickets. If you don’t see it as an option, select Add/Remove Tools, then scroll down to the Tickets option and click it to add it to your database.
+
+If this is your first time using Tickets, you’ll first need to create a Ticket Area. These are required when creating Tickets.
+
+How do I add a Ticket Area?
+----------
+
+On the main Tickets page, click the blue Ticket Areas button at the bottom of the screen. To add a Ticket Area, click the Add Ticket Area at the bottom of the screen. A window will appear and a Ticket Area Name field will appear. Add the name and click Add Ticket Area.
+
+On the Ticket Areas page you’ll see three tabs: Active, Inactive, and All. These will show which Ticket Areas are still in use and active, which Ticket Areas have been moved to inactive, or a full display of all active and inactive Ticket Areas.
+
+To delete a Ticket Area click the red X to the left of the Ticket Area Name. If that Ticket Area is already in use, it will be moved to Inactive.
+
+Once you’ve added the Ticket Area you’d like to use for Tickets, click the blue Manage Tickets button at the bottom of the page. This will return you back to the main Tickets page.
+
+How do I add a Ticket?
+----------
+
+When you land on the Tickets page, you’ll see five tabs.
+
+**Mine: Open:** This will show any Tickets you have assigned to you that are still open and pending.
+
+**Unassigned: Open:** These are Tickets that are still open but yet to be assigned to any staff database users.
+
+**All Open:** This is where all open Tickets regardless of status will be.
+
+**Mine: Open & Closed:** This allows you to see all open and closed Tickets that are or were assigned to you.
+
+**All: Open & Closed:** This will show all Tickets that have been created in the database, both open and closed statuses.
+
+To add a Ticket, click the Add Ticket button at the bottom of the screen. A window will appear and allow you to add Ticket details.
+
+**Subject:** This is the name of the Ticket and/or a general idea of what the Ticket is about.
+
+**Description:** Use this text field to describe the issue at hand. You have various text editing options, as well.
+
+**Ticket Area:** This is a list of the Ticket Areas created previously and determine where the issue is.
+
+**Entity:** This is the individual or organization that alerted you or the staff to the issue.
+
+**Assigned To:** You can use this to assign the ticket to a particular staff member that uses ISP.
+
+Once these fields and options have been filled out and selected, click the Add Ticket button to add the new Ticket, or the Add & New button to add the Ticket and clear out the fields to create a new Ticket.
+
+What else can I do with the Ticket?
+----------
+
+If you click the name of the Ticket, you’ll arrive on a new screen. This will allow you to quickly update who it’s assigned to, what Ticket Area it’s in, as well as the description.
+
+To the right will be the Entity and basic details from their record. You can make edits to their record’s details, if needed.
+
+At the bottom of the screen are various options.
+
+**Close Ticket:** Click this to close the Ticket.
+
+**Add Update:** If you’d like to add an update to the ticket, click this button. A new window will appear and contain a text field where you can add an update. That will then appear in the Updates section above and display both the update and the date of the update.
+
+**Email:** To email the entity directly, use this option.
+
+You can also click the blue button to navigate directly to the Entity’s record.
+
+To return to the list of Tickets, click the List button at the bottom of the screen.
+
+[Help File Home](/help/) | [Full Index](/Help-File-Directory/) | [Contact Support](mailto:support@ISPolitical.com)
+
+[⇑ About Tools in ISP](/About-Tools-in-ISP)
+[« What Is Rocket Management?](/What-Is-Rocket-Management)
+[What Are Reminders? »](/How-Do-I-Utilize-Reminders-in-ISP)
 
 ---
 
@@ -4401,6 +7432,74 @@ After entering in your password & Original Filing ID, click the Submit E-File bu
 
 ---
 
+# COLORADO CAMPAIGN PARTY PAC FILING FAQ AND RESOURCES
+
+Colorado Campaign, Party, & PAC Filing FAQ and Resources
+==========
+
+Applies To: Colorado
+
+Below are links to resources to help you file your Colorado reports.
+
+### FAQ ###
+
+* [When Are the Colorado Filing Deadlines?](https://ispolitical.com/When-Are-the-Colorado-Filing-Deadlines)
+* [About the CO RCE Report](https://ispolitical.com/About-the-CO-RCE-Report)
+* [About the CO RCE Major](https://ispolitical.com/About-the-CO-RCE-Major)
+* [About the CO RCE Party Report](https://ispolitical.com/About-the-CO-RCE-Party-Report)
+
+**Resources**
+
+[Elections Site](http://www.sos.state.co.us/pubs/elections/main.html?menuheaders=5)
+[Filing Calendar](https://www.sos.state.co.us/pubs/elections/CampaignFinance/filingCalendar.html)
+[Filing Guide](https://www.sos.state.co.us/pubs/elections/CampaignFinance/home.html) (click **Campaign and Political Finance Manual** in Help & resources section)
+
+**Supported Reports**
+
+CO RCE (Report of Contributions and Expenditures)
+CO RCE Major (Notice of Major Contributor)
+
+[Help File Home](/help/) | [Full Index](/Help-File-Directory/) | [Contact Support](mailto:support@ISPolitical.com)
+
+[⇑ About Compliance Reports](/About-Compliance-Reports)
+[« Where Do I Get the Original CA Filing ID Number?](/Where-Do-I-Get-the-Original-CA-Filing-ID-Number)
+[When Are the Colorado Filing Deadlines? »](/When-Are-the-Colorado-Filing-Deadlines)
+
+---
+
+# IRS FILING FAQ AND RESOURCES
+
+IRS Filing FAQ and Resources
+==========
+
+Applies To: Internal Revenue Service
+
+Below are links to resources to help you file your IRS reports.
+
+### FAQ ###
+
+* [What Is the IRS Form 8872 & How Do I Prepare and File It?](https://ispolitical.com/What-Is-the-IRS-Form-8872-How-Do-I-Prepare-and-File-It)
+* [Do I Need to File the IRS Form 8871/8872?](https://ispolitical.com/Do-I-Need-to-File-the-IRS-Form-8871-8872)
+* [Do I Need an Ein and How Do I Apply for One?](https://ispolitical.com/Do-I-Need-an-Ein-and-How-Do-I-Apply-for-One)
+* [When Are the IRS Filing Deadlines?](https://ispolitical.com/When-Are-the-IRS-Filing-Deadlines)
+
+**Resources**
+
+[Tax Information for Political Organizations](https://www.irs.gov/charities-non-profits/political-organizations)
+
+**Form Specific Information**
+
+[IRS Form 8872: Line by Line
+](https://ispolitical.com/irs-form-8872-line-by-line/)
+
+[Help File Home](/help/) | [Full Index](/Help-File-Directory/) | [Contact Support](mailto:support@ISPolitical.com)
+
+[⇑ About Compliance Reports](/About-Compliance-Reports)
+[« What Is the Password Safe?](/What-Is-the-Password-Safe)
+[What Is the IRS Form 8872 & How Do I Prepare and File It? »](/What-Is-the-IRS-Form-8872-How-Do-I-Prepare-and-File-It)
+
+---
+
 # ABOUT THE TX MPAC REPORT
 
 About the TX MPAC Report
@@ -4425,6 +7524,74 @@ To file your report, you must generate and download your e-file to upload to you
 [⇑ Texas Campaign, Party, & PAC Filing FAQ and Resources](/Texas-Campaign-Party-PAC-Filing-FAQ-and-Resources)
 [« About the TX GPAC Report](/About-the-TX-GPAC-Report)
 [About the TX SPAC Report »](/About-the-TX-SPAC-Report)
+
+---
+
+# NEW YORK CAMPAIGN PARTY PAC FILING FAQ AND RESOURCES
+
+New York Campaign, Party, & PAC Filing FAQ and Resources
+==========
+
+Applies To: New York
+
+Below are links to resources to help you file your New York reports.
+
+### FAQ ###
+
+* [When Are the New York Filing Deadlines?](https://ispolitical.com/When-Are-the-New-York-Filing-Deadlines)
+* [New York January Periodic Settings](https://ispolitical.com/New-York-January-Periodic-Settings)
+* [NY Common Import Errors](https://ispolitical.com/NY-Common-Import-Errors)
+* [What Are the Transaction Method Rules for NY Reports?](https://ispolitical.com/What-Are-the-Transaction-Method-Rules-for-NY-Reports)
+* [About the NY CF-01 Report](https://ispolitical.com/About-the-NY-CF-1-Report)
+* [About the NY Cf-07 (Authorized User Designation and Removal Form)](https://ispolitical.com/About-the-NY-Cf-7-Authorized-User-Designation-and-Removal-Form)
+* [About the NY Weekly/24-Hour Report](https://ispolitical.com/About-the-NY-Weekly-24-Hour-Report)
+* [How Do I File an Amended NY Report?](https://ispolitical.com/How-Do-I-File-an-Amended-NY-Report)
+
+**Resources**
+
+[Elections Site](https://www.elections.ny.gov/) (State)
+[Filing Calendar](https://Www.Elections.Ny.Gov/CFFilingCalendars.Html)
+[Filing Guide](https://elections.ny.gov/campaign-finance-handbook-forms-publications)
+
+[](https://elections.ny.gov/campaign-finance-handbook-forms-publications)
+
+[](https://elections.ny.gov/campaign-finance-handbook-forms-publications)[](https://www.vote.nyc/)[Elections Site](https://www.vote.nyc/) (NY City)
+[Filing Calendar](http://www.nyccfb.info/candidate-services/disclosure-deadlines/2025/) (NY City)
+[Filing Guide](http://www.nyccfb.info/candidate-services/handbook/) (NY City)
+
+**Supported Reports**
+
+New York CF-01 (Campaign Financial Disclosure Report)
+NY Weekly / 24 Hour Report
+
+[Help File Home](/help/) | [Full Index](/Help-File-Directory/) | [Contact Support](mailto:support@ISPolitical.com)
+
+[⇑ About Compliance Reports](/About-Compliance-Reports)
+[« About the NM Supplemental Report](/About-the-NM-Supplemental-Report)
+[When Are the New York Filing Deadlines? »](/When-Are-the-New-York-Filing-Deadlines)
+
+---
+
+# ABOUT THE WA C4 REPORT
+
+About the WA C4 Report
+==========
+
+Applies To: Washington
+
+* [WA C4 (PDC) Line by Line](https://ispolitical.com/WA-C4-PDC-Line-by-Line)
+* [How Are Refunded Contributions Reported on the C4 Report?](https://ispolitical.com/How-Are-Refunded-Contributions-Reported-on-the-C4-Report)
+* [How Does the 21 Day Limit on Debts Before They Become Loans Impact Reporting?](https://ispolitical.com/How-Does-the-21-Day-Limit-on-Debts-Before-They-Become-Loans-Impact-Reporting)
+* [How Are Refunded Contributions Reported on WA C4 PDC vs Seattle?](https://ispolitical.com/How-Are-Refunded-Contributions-Reported-on-WA-C4-PDC-vs-Seattle)
+* [How Do I Add and Report Negatives in Deposit Batches?](https://ispolitical.com/How-Do-I-Add-and-Report-Negatives-in-Deposit-Batches)
+* [How Do I Add and Report Accrued Expense Payments on the C4?](https://ispolitical.com/How-Do-I-Add-and-Report-Accrued-Expense-Payments-on-the-C4)
+* [Why Are My Accrued Expenses Itemizing Incorrectly on the WA C4?](https://ispolitical.com/Why-Are-My-Accrued-Expenses-Itemizing-Incorrectly-on-the-WA-C4)
+
+[Help File Home](/help/) | [Full Index](/Help-File-Directory/) | [Contact Support](mailto:support@ISPolitical.com)
+
+[⇑ Washington Campaign, Party, & PAC Filing FAQ and Resources](/Washington-Campaign-Party-PAC-Filing-FAQ-and-Resources)
+[« About the WA Form C3 – Non-Candidate Report](/About-the-WA-Form-C3-Non-Candidate-Report)
+[WA C4 (PDC) Line by Line »](/WA-C4-PDC-Line-by-Line)
 
 ---
 
@@ -4543,6 +7710,45 @@ Below is an example of the needed JSON for adding a Political Committee and asso
 
 ---
 
+# FLORIDA CAMPAIGN PARTY PAC FILING FAQ AND RESOURCES
+
+Florida Campaign, Party, & PAC Filing FAQ and Resources
+==========
+
+Applies To: Florida
+
+Below are links to resources to help you file your Florida reports.
+
+### FAQ ###
+
+* [When Are the Florida Filing Deadlines?](https://ispolitical.com/When-Are-the-Florida-Filing-Deadlines)
+* [About the FL DS-DE Report](https://ispolitical.com/About-the-FL-DS-DE-Report)
+* [About the FL Testimonial Report](https://ispolitical.com/About-the-FL-Testimonial-Report)
+* [How Do I Meet Florida’s 106.0701 Reporting Requirements in ISP?](https://ispolitical.com/How-Do-I-Meet-Florida-s-1-6-7-1-Reporting-Requirements-in-ISP)
+
+**Resources**
+
+[](http://dos.myflorida.com/elections/)[Elections Site](http://dos.myflorida.com/elections/)
+[Filing Calendar](https://dos.fl.gov/elections/candidates-committees/campaign-finance/) (see sidebar on right)
+[Filing Guide
+](http://Dos.Myflorida.Com/Elections/Forms-Publications/Publications/)
+
+**Supported Reports**
+
+FL DS-DE
+
+**Form Specific Information**
+
+[Florida 106.0701 Reporting in ISP](https://ispolitical.com/Florida-Reporting-in-ISP)
+
+[Help File Home](/help/) | [Full Index](/Help-File-Directory/) | [Contact Support](mailto:support@ISPolitical.com)
+
+[⇑ About Compliance Reports](/About-Compliance-Reports)
+[« When Are the Delaware Filing Deadlines?](/When-Are-the-Delaware-Filing-Deadlines)
+[When Are the Florida Filing Deadlines? »](/When-Are-the-Florida-Filing-Deadlines)
+
+---
+
 # WHAT ARE THE TO AND FROM DATE OPTIONS FOR SCHEDULED REPORTS
 
 What Are the to and From Date Options for Scheduled Reports?
@@ -4567,6 +7773,205 @@ The definitions for the Scheduled Report date options can be complex. Please use
 
 [« How Do I Create a Scheduled Report?](/How-Do-I-Create-a-Scheduled-Report)
 [About Tools in ISP »](/About-Tools-in-ISP)
+
+---
+
+# WHY WE DONT CALL OUR CLIENTS USERS
+
+Why We Don’t Call our Clients “Users”
+==========
+
+<img alt="Group 341@2x" src="https://ispolitical.com/wp-content/uploads/2022/03/Group-341@2x.png" title="Group 341@2x" height="1296" width="2732" />
+
+It isn’t uncommon for software companies to call their clients “users,” since, well…they “use” their products. But that seems pretty robotic, doesn’t it? I mean, because you’re a person, not a user. You could be a mother, father, son, daughter, brother, sister, aunt, or even that crazy uncle most people only see at Thanksgiving. You’re human. You have emotions. You get angry. You get frustrated. You can be happy. You can be sad. You like and dislike things. When you walk through a park on a sunny day, you smell the grass, feel the sun gently heating your skin. You’re human. Guess what? We’re humans too! That’s a lot we have in common!
+
+Why Do Software Companies Call You a “User”?
+----------
+
+So why do other software companies call you a user? It’s easy. When you’re talking to a software developer, it’s simple to say the ‘user’ does this. They probably don’t know who Kelly, Natalie, Christina, Laura, Jason, Kevin, or Tom are. Because developers aren’t exactly expected to have “people skills,” they rarely talk to their clients. There’s a gap between you and the person building your software. The developers don’t know your name or who you are or how many kids you have. This gap creates a tremendous problem that will significantly set back all hopes of user-friendly software design.
+
+Even the staff charged with relaying your feedback to developers (assuming the company cares about your feedback) will call you ‘user’ instead of your name. At more abstract levels, when designing new functionality from scratch, a developer will use the vague concept of ‘user’ to map out the user interface. Since the developer doesn’t know his clients, doesn’t know their names, what else does he/she have to go by? They use a vague concept. They build software for ‘users’ instead of software for humans. Seems understandable enough, right?
+
+Why Software Developers Should Program For People
+----------
+
+What’s the big deal if a developer thinks of a user instead of a person? Many companies don’t see any issue with designing software for users. It gets the job done. The software performs the task required. But here’s the thing; it’s software for a user, not a person. And software made for a user tends to suck. It sucks because a user is not a person.
+
+A user is a vague concept. It’s bland, inhuman, humdrum, robotic, inorganic, and lifeless. A user performs a task. A user has no life, nothing else they’d rather do, nothing else they must do. A user has no other priorities than using the software, completing individual tasks as conceived of in the imagination of a developer.
+
+Think of it this way, a developer writes code for one little piece of the entire system at a time. If they write this code for a user, they will consider only how to accomplish it. Because a user is inanimate, they only care that something can get done. They don’t care how it gets done. And that is a big, big deal. Because a user won’t complain. A user won’t throw a computer out a window when the user has to click a completely useless button 500 times. A user won’t smile when something goes right. A user won’t dole out any social consequences (no frowns, no bad reviews, no crossed arms, no frustrated sighs, no angry remarks) or rewards (no smiles, no hugs, no ‘thank you’s, no excellent reviews, no referrals, and etc.).
+
+So there’s no social pressure on the developer to go the extra mile, to reduce friction, to make sure the task gets completed in the most efficient and pleasant way possible. When a developer builds software for a user, you get software built for a user. Humans rarely like this kind of software.
+
+Humans hate this kind of software precisely because it’s not designed for them. It’s a subtle point with staggering consequences. A person simply is not a user. You are vibrant, have feelings, are guided by them. You get impatient. You smile. You frown. You have a million ways of letting people know whether you’re happy or angry. A good support and development staff will remember these signals and get better at interpreting them over time. And the surest way to guarantee that is to use real names.
+
+A Rose by Any Other Name Would Smell as Sweet
+----------
+
+That’s why ISP uses names when we design our [campaign software](https://ispolitical.com/about/). Because the moment we do, a world of social pressures in an imaginary landscape emerges where we begin to envision your smile or frown. When we use your name, we have a better sense of what will make you happy or frustrated. We literally imagine you sitting in front of a desk for hours, plugging away at your work. We know you have kids to pick up from school, we know their names. We know you have fundraisers, campaign managers, and candidates who need reports. We know their names. We know the kind of pressure they put on you to hurry or to produce a different report type. We know you’re dreaming of getting out of the office and home to your family. We know you want to finish reports faster to take on more business, so you can buy a house. We know how happy you’ll be when you can.
+
+Software is Built to Help HUMANS
+----------
+
+This is the point: the goal of software isn’t to complete a task, it’s to get you what you want overall, to satisfy what you want as a person. In this mental landscape, your personal goals form a crushing pressure on our software and mold it into something more comprehensive than a bunch of discrete functions that complete individual tasks. You get software made for you; a person.
+
+That’s why ISP doesn’t say ‘user.’ We call you by your name. If you ask for something, we say you asked for it. Our developers know who our clients are. They see their feedback. They’ve learned about them. When they hear your name, they are no longer just completing a task. When they hear your name, they know they’re building for you. They know they’re building software for humans.
+
+Call it bedside manner or call it the human touch, at ISP, our coders and programmers have real people in mind when they are working their magic. They put themselves in the shoes of Holly, Josh, Thomas and Katherine….all working on reports and budgets, all with other things on their minds as well. This way, we can better understand your pain points and what you want out of an accounting software. Do you love being treated like a person even if you’re just “using” a program? We thought so!
+
+You May Like These Blogs
+----------
+
+[Simplifying Campaign Finance with ISP’s Essential Tools](https://ispolitical.com/simplifying-campaign-finance-with-isps-essential-tools/)
+----------
+
+Managing a campaign’s finances can be complex and time-consuming. However, ISP’s suite of campaign finance solutions and tools is designed…
+
+[Read More](https://ispolitical.com/simplifying-campaign-finance-with-isps-essential-tools/)
+
+[Understanding FEC Filing Deadlines: The Breakdown](https://ispolitical.com/understanding-fec-filing-deadlines-the-breakdown/)
+----------
+
+The Federal Election Commission (FEC) plays a pivotal role in maintaining the integrity of campaign finance in the United States.…
+
+[Read More](https://ispolitical.com/understanding-fec-filing-deadlines-the-breakdown/)
+
+[Why You Should Have a Professional Campaign Treasurer](https://ispolitical.com/why-you-should-have-a-professional-campaign-treasurer/)
+----------
+
+Running a political campaign is a complex and demanding endeavor. Amidst the whirlwind of events, rallies, and policy planning, one…
+
+[Read More](https://ispolitical.com/why-you-should-have-a-professional-campaign-treasurer/)
+
+---
+
+# REVOLUTIONIZING CAMPAIGN MANAGEMENT THE AI ASSIST FEATURES OF ISP SOFTWARE
+
+Revolutionizing Campaign Management: The AI Assist Features of ISP Software
+==========
+
+<img alt="Screenshot 2024-05-09 at 11.56.40 AM" src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%203704%202116'%3E%3C/svg%3E" title="Screenshot 2024-05-09 at 11.56.40 AM" height="2116" width="3704" />\<img fetchpriority="high" decoding="async" class="fl-photo-img wp-image-1489 size-full" src="https://ispolitical.com/wp-content/uploads/2024/05/Screenshot-2024-05-09-at-11.56.40 AM.png" alt="Screenshot 2024-05-09 at 11.56.40 AM" itemprop="image" height="2116" width="3704" title="Screenshot 2024-05-09 at 11.56.40 AM" srcset="https://ispolitical.com/wp-content/uploads/2024/05/Screenshot-2024-05-09-at-11.56.40 AM.png 3704w, https://ispolitical.com/wp-content/uploads/2024/05/Screenshot-2024-05-09-at-11.56.40 AM-300x171.png 300w, https://ispolitical.com/wp-content/uploads/2024/05/Screenshot-2024-05-09-at-11.56.40 AM-1024x585.png 1024w, https://ispolitical.com/wp-content/uploads/2024/05/Screenshot-2024-05-09-at-11.56.40 AM-768x439.png 768w, https://ispolitical.com/wp-content/uploads/2024/05/Screenshot-2024-05-09-at-11.56.40 AM-1536x877.png 1536w, https://ispolitical.com/wp-content/uploads/2024/05/Screenshot-2024-05-09-at-11.56.40 AM-2048x1170.png 2048w" sizes="(max-width: 3704px) 100vw, 3704px" /\>
+
+Have you found yourself frustrated at the countless administrative tasks that political campaigns involve? From data entries to database maintenance, all these menial tasks are not only time-consuming but can also be error-prone. However, with the integration of cutting-edge artificial intelligence (AI) tools, ISP revolutionized political campaign accounting by offering features that eliminate busy work, reduce errors, and streamline database management, all while keeping your campaigns transparent, compliant and thriving. Let’s take a look at the capabilities of ISP's AI assistant, a powerful tool designed to tackle mundane tasks, ensure compliance, and manage databases efficiently.
+
+Standardization: A Cleaner Database at Your Fingertips
+----------
+
+Data consistency is crucial for any political campaign. With numerous contacts, zip codes, and phone numbers to manage, maintaining a standardized database can be daunting. This is where ISP's AI Assist comes into play. The AI Standardization feature automatically cleans up non-standard occupations and employers, as well as incorrect zip codes and phone numbers, ensuring that your records are accurate and uniform.
+
+AI Assist's capabilities extend beyond basic standardization. It allows for customization, matching the preferred standards of each campaign, thereby reducing manual adjustments and freeing up your time for more pressing matters.
+
+Combating Duplicates with AI Precision
+----------
+
+Duplicate records can clog up any database, making it cumbersome to manage and prone to errors. ISP's AI Assist offers a comprehensive solution to this problem. The tool automatically identifies and removes most duplicates, saving you time and effort. For potential duplicates that require human intervention, ISP's duplicates search tool facilitates quick reviews and efficient merging of records, ensuring a streamlined database.
+
+This combination of automatic and manual review systems makes ISP's AI Assist one of the best AI tools for political campaigns, minimizing database clutter and enhancing data integrity.
+
+Alerts for Timely Compliance
+----------
+
+Staying compliant with rules and deadlines is paramount for political campaigns, yet it's easy to overlook essential filings in the midst of busy schedules. Even the dreaded “Late Contribution Report,” can sometimes be forgotten. ISP's AI Assist eliminates this concern by offering an AI-powered alerts system. This feature understands late contribution report deadlines and automatically sends email reminders, ensuring your filings are submitted on time.
+
+The AI Assist acts like a vigilant virtual assistant, reducing the risk of missed deadlines and helping campaigns maintain compliance effortlessly.
+
+AI Virtual Assistant for Occupation and Employer Emails
+----------
+
+Tracking and updating occupations and employers for each campaign donor is another tedious task that AI Assist simplifies. The AI virtual assistant automatically sends emails to gather missing information, keeping track of each email sent and seamlessly updating records upon receiving responses. No other political accounting software had an AI assistant.
+
+This feature effectively minimizes manual data entry, making ISP's AI Assist an invaluable asset for managing campaign databases and ensuring accuracy in donor information.
+
+Seamless Imports for Online Donations
+----------
+
+Another key feature of ISP's AI Assist is its ability to handle online donations with ease. The AI automatically reviews and imports incoming donations into the matching records, simplifying the integration process. If a match isn't immediately clear, AI Assist alerts the user, allowing for manual confirmation.
+
+This automation significantly reduces the workload associated with processing donations, making campaign management more efficient and accurate.
+
+FAQs
+----------
+
+**How does ISP's AI Assist handle sensitive donor data securely?**
+
+ISP's software uses industry-standard encryption to protect donor data. All information is securely stored, and access is restricted based on user roles, ensuring that only authorized personnel can view or modify sensitive information. This secure design helps maintain donor confidence and protects against data breaches.
+
+**How does ISP's AI Assist integrate with other campaign management tools?**
+
+ISP's software offers seamless integration with other campaign management tools. This integration ensures that data flows smoothly between different tools, reducing manual data entry and improving overall efficiency.
+
+**What kind of support is available for users of ISP's AI Assist?**
+
+ISP provides comprehensive support to users of its software paying over $100 per month. This includes a knowledge base with detailed guides and tutorials (for all clients), email support for specific inquiries, and phone support for urgent issues. This support network ensures that users can effectively utilize ISP's AI Assist and resolve any issues they encounter.
+
+**How does ISP's AI Assist help campaigns stay up to date with compliance regulations?**
+
+ISP's software includes regular updates to reflect changes in campaign finance regulations based on national and state changes. The AI Assist also provides real-time alerts for compliance-related tasks, helping campaigns stay current with filing deadlines and reporting requirements, and reducing the risk of regulatory violations.
+
+Do You Have an AI Assistant?
+----------
+
+ISP's AI Assist is changing political campaign management by offering tools that streamline administrative tasks, maintain database integrity, and ensure compliance. From automatic standardization and duplicate removal to alerts for filings and efficient handling of online donations, these AI capabilities transform the way campaigns operate. By integrating these features, ISP's software has become an indispensable resource for campaign teams, reducing busy work, eliminating errors, and enabling political professionals to focus on what matters most—winning elections.
+
+You May Like These Blogs
+----------
+
+[Simplifying Campaign Finance with ISP’s Essential Tools](https://ispolitical.com/simplifying-campaign-finance-with-isps-essential-tools/)
+----------
+
+Managing a campaign’s finances can be complex and time-consuming. However, ISP’s suite of campaign finance solutions and tools is designed…
+
+[Read More](https://ispolitical.com/simplifying-campaign-finance-with-isps-essential-tools/)
+
+[Understanding FEC Filing Deadlines: The Breakdown](https://ispolitical.com/understanding-fec-filing-deadlines-the-breakdown/)
+----------
+
+The Federal Election Commission (FEC) plays a pivotal role in maintaining the integrity of campaign finance in the United States.…
+
+[Read More](https://ispolitical.com/understanding-fec-filing-deadlines-the-breakdown/)
+
+[Why You Should Have a Professional Campaign Treasurer](https://ispolitical.com/why-you-should-have-a-professional-campaign-treasurer/)
+----------
+
+Running a political campaign is a complex and demanding endeavor. Amidst the whirlwind of events, rallies, and policy planning, one…
+
+[Read More](https://ispolitical.com/why-you-should-have-a-professional-campaign-treasurer/)
+
+---
+
+# PENNSYLVANIA CAMPAIGN PARTY PAC FILING FAQ AND RESOURCES
+
+Pennsylvania Campaign, Party, & PAC Filing FAQ and Resources
+==========
+
+Applies To: Pennsylvania
+
+Below are links to resources to help you file your Pennsylvania reports.
+
+### FAQ ###
+
+* [When Are the Pennsylvania Filing Deadlines?](https://ispolitical.com/When-Are-the-Pennsylvania-Filing-Deadlines)
+* [What Is the Pennsylvania Apply to File Process?](https://ispolitical.com/What-Is-the-Pennsylvania-Apply-to-File-Process)
+* [About the PA Late Contribution Report (24 Hour Report)](https://ispolitical.com/About-the-PA-Late-Contribution-Report-24-Hour-Report)
+* [About the PA DSEB-502 Report](https://ispolitical.com/About-the-PA-DSEB-5-2-Report)
+* [About the PA DSEB-502 Version: Federal PAC Filing State Report](https://ispolitical.com/About-the-PA-DSEB-5-2-Version-Federal-PAC-Filing-State-Report)
+
+**Resources**
+
+[Elections Site](http://www.dos.pa.gov/VotingElections/Pages/default.aspx#.VeXivvlVhBc)
+[Filing Calendar](https://Www.Dos.Pa.Gov/VotingElections/CandidatesCommittees/CampaignFinance/Resources/Pages/Report-Filing-Deadlines.Aspx)
+[Filing Guide](https://Www.Dos.Pa.Gov/VotingElections/CandidatesCommittees/CampaignFinance/Documents/Law-CF/Law.Pdf)
+
+**Supported Reports**
+
+PA DSEB-502 (Campaign Finance Report)
+PA Late Contribution Report (24 Hour Report)
+
+[Help File Home](/help/) | [Full Index](/Help-File-Directory/) | [Contact Support](mailto:support@ISPolitical.com)
+
+[⇑ About Compliance Reports](/About-Compliance-Reports)
+[« How Do I E-file With ORESTAR?](/How-Do-I-E-file-With-ORESTAR)
+[When Are the Pennsylvania Filing Deadlines? »](/When-Are-the-Pennsylvania-Filing-Deadlines)
 
 ---
 
@@ -4659,6 +8064,43 @@ Version Differences
 [⇑ FEC Campaign, Party, & PAC Filing FAQ and Resources](/FEC-Campaign-Party-PAC-Filing-FAQ-and-Resources)
 [« About the FEC Form 3P Report](/About-the-FEC-Form-3P-Report)
 [About the FEC Form 6 Report »](/About-the-FEC-Form-6-Report)
+
+---
+
+# GEORGIA CAMPAIGN PARTY PAC FILING FAQ AND RESOURCES
+
+Georgia Campaign, Party, & PAC Filing FAQ and Resources
+==========
+
+Applies To: Georgia
+
+Below are links to resources to help you file your Georgia reports.
+
+### FAQ ###
+
+* [How Do I Efile With Georgia?](https://ispolitical.com/How-Do-I-Efile-With-Georgia)
+* [When Are the Georgia Filing Deadlines?](https://ispolitical.com/When-Are-the-Georgia-Filing-Deadlines)
+* [About the GA Two Business Day Report](https://ispolitical.com/About-the-GA-Two-Business-Day-Report)
+* [About the GA CCDR Report](https://ispolitical.com/About-the-GA-CCDR-Report)
+* [About the GA CCDR (Easy Vote) Report](https://ispolitical.com/About-the-GA-CCDR-Easy-Vote-Report)
+
+**Resources**
+
+[Elections Site](http://sos.ga.gov/index.php/?section=elections)
+[Filing Calendar](https://ethics.ga.gov/filing-schedule/)
+[Filing Guide](https://ethics.ga.gov/forms-and-publications/)
+
+**Supported Reports**
+
+GA CCDR (Campaign Contribution Disclosure Report)
+GA CCDR Local
+GA Two Business Day Report
+
+[Help File Home](/help/) | [Full Index](/Help-File-Directory/) | [Contact Support](mailto:support@ISPolitical.com)
+
+[⇑ About Compliance Reports](/About-Compliance-Reports)
+[« How Do I Meet Florida’s 106.0701 Reporting Requirements in ISP?](/How-Do-I-Meet-Florida-s-1-6-7-1-Reporting-Requirements-in-ISP)
+[How Do I Efile With Georgia? »](/How-Do-I-Efile-With-Georgia)
 
 ---
 
@@ -4842,6 +8284,90 @@ This help file is for the Combine Duplicates page under Tools. However, you can 
 
 ---
 
+# 7 WAYS TO MAKE FILING DEADLINES PAINLESS
+
+7 Ways to Make Filing Deadlines Painless
+==========
+
+<img alt="Group 342@2x" src="https://ispolitical.com/wp-content/uploads/2022/03/Group-342@2x.png" title="Group 342@2x" height="1296" width="2732" />
+
+We all have those horrible, awful days. Days where every single client you have turns their finance reports in at once-the January 31st kind of days. Days where you're not sure if more caffeine will make your hands shake too much to type, and if that shaking is worth it to keep your eyes from shutting completely.
+
+Well, at least I did.
+
+That's why I've put together a list of ideas for campaign filing deadlines to make your life much, much easier on those dreadful days-or at least less painless than the dentist's office. Let's take a look…
+
+### 1. Don't do all of your data entry at once. ###
+
+Procrastinating or letting things pile up have the same ill-effect. By filing daily (or at least weekly), you create a more manageable filing schedule. You don't want to be running around in panic at the filing deadline, doing work that could have been accomplished weeks ago. How do I know? I've been there. But think about how much less stress you'll feel as the days tick toward a filing deadline without a backlog! Enter checks as they come in…you'll thank my for it!
+
+### 2. Do your bank reconciliations monthly. ###
+
+This one hits home. The first campaign I ever worked on, I had to file three amendments to the FEC, all because I didn't stay up on my reconciliations. Reconciliations are easy, and maybe even a little therapeutic-making everything match is not an issue you want to deal with while you've got other things going on.
+
+So, like keeping up with your filings to spread your workload out more evenly, the same goes for your reconciliations. Even more important: make sure you're doing your bank reconciliations in the same software you use to generate your compliance reports. If you miss this critical point, doing reconciliations at all is useless! Luckily, we offer [software](https://ispolitical.com/compliance/) that does both.
+
+### 3. Generate drafts of your report before the period has even closed. ###
+
+Creating drafts of your compliance reporting early and often is a real lifesaver. That's why we built [software](https://ispolitical.com/compliance/) that makes it incredibly easy to do! When you create a draft report with our software, it performs over 5,000 error checks to make sure all the kinks are ironed out. It looks for transcription errors, missing addresses, employers, misclassified entities-basically, whenever you generate a report, our software checks every aspect and makes it easy for you to fix it!
+
+If you run drafts early and often, when the filing deadline comes along, you should only have a few weeks of errors to fix (instead of a few months). It's all about maintenance!
+
+### 4. Generate a draft report as soon as the period ends. ###
+
+Generating reports as soon as they are available adds a super fast and easy way to do some maintenance that saves time down the road. Get in there early to check that dates and amounts are correct, focusing specifically on starting and ending balances, so you can catch inconsistencies early on. Get a jump on the little things so you can relax while the rest of the companies are stressing.
+
+### 5. Save for filing-courtesy of yours truly. ###
+
+When you generate a report, you can save it into our system for later. This makes filing day a whole lot easier: you can pre-generate reports and keep them all in one place, saving as you go. If something bad happens (maybe something you can blame on the intern), it won't affect your whole report, because **you** were smart enough to use software that corrects all the mistakes **I** used to make!
+
+We have a special tool just for consultants too. With this tool, you can update reports for every client you represent as filings come in, and keep them all in the same place. Every saved report appears on one screen, organizing all the reports you have to file, for all of your clients.
+
+Even better, on filing day you can submit all of your reports from that same screen, going down the screen, one-by-one, until your job is done! I know how hard it is to keep everything straight, which is why I built something that helps you do just that.
+
+### 6. Still-seriously-don't wait until last minute! ###
+
+Our software is state of the art, responsive, and designed to work reliably and efficiently for you. The FEC's is not.
+
+It's tough to imagine, but filing agency employees are probably just as stressed out as we are come deadline time. And unfortunately, while you're used to using software that's the best of the best (*cough* ours), they're probably still using decades old software loaded on floppy disks. This means their servers can run slow or even become unresponsive as the end of filing day approaches. Needless to say, that isn't a headache you want to go through.
+
+Try and file in the morning, *just in case*. This will be easy if you use our software, and will help you avoid catastrophes.
+
+### 7. Have a cocktail at lunch ###
+
+This is the most important step! You did it. Now you get to sit back and laugh as other firms (who didn't follow our advice, or use our software) struggle and worry throughout the day. Good job.
+
+Ready to Ditch Campaign Filing Deadline Headaches Forever?
+----------
+
+As you can see, a big part of reducing the pains of campaign filing deadlines is daily and monthly maintenance. The other part that makes that maintenance simple, fast, and easy, is using ISPolitical software. All the necessary checklist items are accounted for and at your fingertips. We help you to dot your i's and cross your t's…all you have to do is a little maintenance to stay on top!
+
+You May Like These Blogs
+----------
+
+[Simplifying Campaign Finance with ISP’s Essential Tools](https://ispolitical.com/simplifying-campaign-finance-with-isps-essential-tools/)
+----------
+
+Managing a campaign’s finances can be complex and time-consuming. However, ISP’s suite of campaign finance solutions and tools is designed…
+
+[Read More](https://ispolitical.com/simplifying-campaign-finance-with-isps-essential-tools/)
+
+[Understanding FEC Filing Deadlines: The Breakdown](https://ispolitical.com/understanding-fec-filing-deadlines-the-breakdown/)
+----------
+
+The Federal Election Commission (FEC) plays a pivotal role in maintaining the integrity of campaign finance in the United States.…
+
+[Read More](https://ispolitical.com/understanding-fec-filing-deadlines-the-breakdown/)
+
+[Why You Should Have a Professional Campaign Treasurer](https://ispolitical.com/why-you-should-have-a-professional-campaign-treasurer/)
+----------
+
+Running a political campaign is a complex and demanding endeavor. Amidst the whirlwind of events, rallies, and policy planning, one…
+
+[Read More](https://ispolitical.com/why-you-should-have-a-professional-campaign-treasurer/)
+
+---
+
 # WHY ARE DASHBOARD KEY STATS DIFFERENT THAN LINE 11 TOTALS ON FEC REPORTS
 
 Why Are Dashboard Key Stats Different Than Line 11 Totals on FEC Reports?
@@ -4856,6 +8382,36 @@ The Key Stats on the Dashboard reflect a more specified breakdown of contributio
 [⇑ FEC Campaign, Party, & PAC Filing FAQ and Resources](/FEC-Campaign-Party-PAC-Filing-FAQ-and-Resources)
 [« How Do Federal and Non-federal IE’s Pull to Reports?](/How-Do-Federal-and-Non-federal-IE-s-Pull-to-Reports)
 [How Should Debt Forgiveness Appear on the FEC Form 3/3X/3P? »](/How-Should-Debt-Forgiveness-Appear-on-the-FEC-Form-3-3X-3P)
+
+---
+
+# WHEN ARE THE MISSOURI FILING DEADLINES
+
+When Are the Missouri Filing Deadlines?
+==========
+
+Applies To: Missouri
+
+Below are deadlines for Missouri compliance report filing.
+
+The Filing Deadline information provided here is offered only as a reference aid. The provided deadline information may contain inaccuracies and may not include all special elections or deadlines. For agency-specific details, please visit the [Missouri Ethics Commission](https://mec.mo.gov/MEC/Campaign_Finance/Home.aspx) website.
+
+Political Action Committee (PAC)
+----------
+
+* 07/15/2024: MO Committee Disclosure Report
+* 07/29/2024: MO Committee Disclosure Report
+* 10/15/2024: MO Committee Disclosure Report
+* 10/28/2024: MO Committee Disclosure Report
+
+You’re able to add Filing Deadlines found in ISP to your own digital calendar with our [Calendar Feed](https://ispolitical.com/Calendar-Feeds/) tool.
+
+To see more information about Missouri compliance report filing with ISP, please visit our [Missouri Filing and FAQ Resources](https://ispolitical.com/missouri-campaign-party-pac-filing-faq-and-resources/) page.
+
+[Help File Home](/help/) | [Full Index](/Help-File-Directory/) | [Contact Support](mailto:support@ISPolitical.com)
+
+[« Missouri Campaign, Party, & PAC Filing FAQ and Resources](/Missouri-Campaign-Party-PAC-Filing-FAQ-and-Resources)
+[About the Missouri AI PAC Trigger Report »](/About-the-Missouri-AI-PAC-Trigger-Report)
 
 ---
 
@@ -4961,6 +8517,418 @@ Page 2 is based on Transaction Type Support/Oppose Memos and/or Loans Made. If y
 
 [« About the CA Form 461](/About-the-CA-Form-461)
 [About the CA Form 461-Reverse Report »](/About-the-CA-Form-461-Reverse-Report)
+
+---
+
+# HOW DO I PULL A TRANSACTION TO A SPECIFIC LINE ON THE FEC FORM 3X
+
+How Do I Pull a Transaction to a Specific Line on the FEC Form 3X?
+==========
+
+Applies To: Federal Election Commission – Political Action Committees (PACs)
+
+### FEC Form 3X: Line by Line Breakdown ###
+
+Below is a breakdown of each Receipt and Disbursement line on Form 3X. If you want to pull a specific transaction to a particular spot or know how transactions pull to the FEC Form 3X, you will find that information below.
+
+Schedule A
+----------
+
+**Line 11ai: Contribution From Individuals/Persons Other Than Political Committees**
+
+* Transaction Types: Monetary Contribution, Inkind Contribution
+* Financial Account: Not State or Carey
+* Entities: All entities besides Political Committees
+
+**Line 11b: Contribution From Political Party Committees**
+
+* Transaction Types: Monetary Contribution, Inkind Contribution
+* Financial Account: Not State or Carey
+* Entities: Political Party Committees
+
+**Line 11c: Contributions From Other Political Committees (such as PACs)**
+
+* Transaction Types: Monetary Contribution, Inkind Contribution
+* Financial Account: Not State or Carey
+* Entities: All Political Committees besides Party Committees
+
+**Line 12: Transfers From Other Authorized Committees**
+
+Group 1: Transfers from Unaffiliated Committees
+
+* Transaction Types: Monetary Contribution
+* Transaction Tag: Transfer
+* Financial Account: Not State or Carey
+* Entities: Political Committees
+
+Group 2: Contributions from Related Committees
+
+* Transaction Types: Monetary Contribution, Inkind Contribution
+* Financial Account: Not State or Carey
+* Entities: Committee that has a relationship with the filer (example: Authorized Committee)
+
+**Line 13: All Loans Received**
+
+* Transaction Types: Loan Received
+* Financial Account: Not State or Carey
+
+**Line 14: Loan Repayments Received**
+
+* Transaction Types: Loan Made Repayment
+* Financial Account: Not State or Carey
+
+**Line 15: Offsets to Operating Expenditures (Refunds, Rebates, etc.)**
+
+* Transaction Types: Refunded Expense
+* Without Tag: Refund of Contribution Made
+* Financial Account: Not State or Carey
+
+Note: If the original expense is allocated, the refunded expense must also be allocated to return the correct amounts to both state and federal accounts. If those payments do not need to be allocated, then remove the allocation (after filing an amendment), and that refunded expense will pull to Line 15.
+
+**Line 16: Refunds of Contributions Made to Federal Candidates and Other Political Committees**
+
+* Transaction Types: Refunded Expense
+* Transaction Tag: Refunds of Contribution Made
+* Financial Account: Not State or Carey
+
+**Line 17: Other Receipts (Dividends, Interest, etc.)**
+
+Group 1: Other Income
+
+* Transaction Types: Other Income
+* Financial Account: Not State or Carey
+
+Group 2: Contributions entered into Carey Account
+
+* Transaction Types: Monetary Contribution
+* Financial Account: Carey
+
+NOTE: If your account is set up to support Carey funds and you need to ensure these report correctly on Line 17 instead of 11a, ensure the contributions are deposited into accounts associated with the filer marked as Carey. Regardless of entity type, any contribution will pull to Line 17 if the above steps are taken. Also, be aware the text Non Contribution Account is automatically added to transactions associated with your Carey account.
+
+Schedule B
+----------
+
+**Line 21a (Sch H4): Allocated Federal/Non-Federal Activity**
+
+Group 1: Allocated Expenses
+
+* Transaction Types: Expense, Accrued Expense Payment, Refunded Expense
+* Allocation Type: Administrative, Voter Drive, Exempt, Public Communications, Direct Fundraising, Direct Candidate Support
+
+Group 2: Allocated Splits of Accrued Expenses
+
+* Transaction Types: Splits of Accrued Expense
+* Allocation Type: Administrative, Voter Drive, Exempt, Public Communications, Direct Fundraising, Direct Candidate Support
+* Financial Account: Not State or Carey
+
+Note: Accrued expense splits are reported as a memo (no cash impact) when paid. If a memo does not appear under the parent transaction on a report, this may be due to the nature of the original Accrued Expense. According to FEC rules, Splits on the original Accrued Expense only pull when the first Accrued Expense Payment is made.
+
+Group 3: Allocated Inkind Contributions
+
+* Transaction Types: Inkind Contribution
+* Allocation Type: Administrative, Voter Drive, Exempt, Public, Communications, Direct Fundraising, Direct Candidate Support
+* Financial Account: State
+
+**Line 21b: Other Federal Operating Expenditures**
+
+Group 1: Expenses & Accrued Expense Payments
+
+* Transaction Types: Expense, Accrued Expense Payment
+* Allocation Type: None
+* Financial Account: Not State or Carey
+
+Group 2: Splits of Accrued Expenses to Support/Oppose Federal
+
+* Transaction Types: Splits of Accrued Expense
+* Allocation Type: None
+* Financial Account: Not State or Carey
+
+Note: Accrued expense splits are reported as a memo (no cash impact) when paid.
+
+Group 3: IEs to Support & IEs to Oppose
+
+* Transaction Types: Support/Oppose Memo
+* Transaction Tag: IEs to Support, IEs to Oppose
+* Allocation Type: None
+* Financial Account: Not State or Carey
+
+Note: The original expense pulls to Line 21b ONLY if the original expense date is earlier than the IE date.
+
+Group 4: Inkind Contributions
+
+* Transaction Types: Inkind Contribution
+
+Note: Inkind contributions are reported as both contributions and expenses for a net zero cash impact. If the original Inkind came from a party committee, it will itemize on Sch B no matter the amount.
+
+Group 5: Conduit – Conduit Check Fees
+
+* Transaction Types: Monetary Contribution
+* Transaction Tag: Conduit – Conduit Check
+
+Note: ISP automatically calculates processing fees based on difference of total of donations and the deposit amount.
+
+**Line 22: Transfers to Other Authorized Committees**
+
+Group 1: Expenses to Related Committees
+
+* Transaction Types: Expense
+* Entities: Political Committee that have a relationship with the Filer
+
+Group 2: Reattributions/Redesignations to Related Committees
+
+* Transaction Types: Expense
+* Dependent tag: Reattribution, Redesignation
+* Entities: Political Committee AND Has relationship with the Filer
+
+Note: These will be reported as memos.
+
+Note: When the reattribution/redesignation happens across reporting periods, the original transaction gets re-reported as a memo. That’s why you’ll see the original transaction on the report with a memo that says Original Contribution as Previously Reported.
+
+**Line 23: Contributions to Federal Candidates/Committees and Other Political Committees**
+
+Group 1: Federal Support/Oppose Memos
+
+* Transaction Types: Support/Oppose Memo
+* Transaction Tag: None
+* Original Transaction Types: Expense, Non-Monetary Expense, Accrued Expense Payment
+* Allocation Type: None
+* Financial Account: Not State or Carey
+
+Note: The Support/Oppose memo must be to an entity that has a Federal jurisdiction.
+
+Group 2: Splits of Accrued Expenses
+
+* Transaction Types: Splits of Accrued Expense
+* Allocation Type: None
+* Financial Account: Not State or Carey
+
+Note: Original Accrued Expense must have a Support/Oppose Memo; the Support/Oppose memo must be to an entity that has a Federal jurisdiction; Accrued expense splits are reported as a memo (no cash impact) when they are paid.
+
+**Line 24: Independent Expenditure (Schedule E)**
+
+* Transaction Types: Support/Oppose Memo
+* Transaction Tag: IE to Support, IE to Oppose
+* Original Transaction Types: Expense, Non-Monetary Expense, Accrued Expense
+* Allocation Type: None
+* Financial Account: Not State or Levin
+
+Note: The Support/Oppose memo must be to an entity that has a Federal jurisdiction.
+
+When there is an Accrued Expense with no payment:
+
+1. We disclose the Independent Expenditure information on Sch E as a memo. Per the FEC’s request, we do not disclose a payment date, just a dissemination date.
+2. The original Accrued Expense is still disclosed on Sch D.
+
+When there is a payment on the Accrued Expense:
+
+1. We disclose the payment to the original entity on Sch E. We removed the Support/Oppose information from this transaction and added the memo text “Debt Payment. See additional transactions for Independent Expenditure details.”
+2. We disclose the Independent Expenditure information as a memo. We pull the Accrued Expense Payment date (not the original Accrued Expense date) as the payment date.
+
+**Line 25: Coordinated Party Expenditures (Schedule F)**
+
+* Never used on this version of the Form 3X. For a party committee, see FEC Form 3x (Party): Line by Line Breakdown
+
+**Line 26: Loan Repayments Made**
+
+* Transaction Types: Loan Received Repayment
+
+**Line 27: Loans Made**
+
+* Transaction Types: Loan Made
+
+**Line 28a: Refunds of Contributions to Individuals/Persons other than Political Committees**
+
+* Transaction Types: Refunded Contribution, Inkind Contribution (Reversal)
+* Entities: All entities besides Political Committees or the Candidate
+
+**Line 28b: Refunds of Contributions to Political Party Committees**
+
+* Transaction Types: Refunded Contribution, Inkind Contribution (Reversal)
+* Entities: Political Party Committees
+
+**Line 28c: Refunds of Contributions to Other Political Committees (such as PACs)**
+
+* Transaction Types: Refunded Contribution, Inkind Contribution (Reversal)
+* Entities: All Political Committees except Party Committees
+
+**Line 29: Other Disbursements**
+
+Group 1: Expenses with Reporting Code 012
+
+* Transaction Types: Expenses, Accrued Expense Payment, Non-Monetary Expense
+* Reporting Code: 012
+
+Group 2: Support/Oppose Memos to Non-Federal Entities
+
+* Transaction Types: Support/Oppose Memo
+* Transaction Tag: None, IE to Support, IE to Oppose
+* Original Transaction Types: Expense, Non-Monetary Expense, Accrued Expense Payment
+* Allocation Type: None
+* Financial Account: Not State or Carey
+
+Note: The Support/Oppose memo must be to an entity that DOES NOT have a Federal jurisdiction
+
+Group 3: Non-Monetary Expenses
+
+* Transaction Types: Non-Monetary Expense
+
+Group 4: Splits of Accrued Expenses with Reporting Code 012
+
+* Transaction Types: Splits of Accrued Expense when the whole Accrued Expense had Reporting Code 012
+* Allocation Type: None
+* Financial Account: Not State or Carey
+
+Note: Accrued expense splits are reported as a memo (no cash impact) when paid.
+
+Group 5: Splits of Accrued Expenses to Support/Oppose Non-Federal
+
+* Transaction Types: Splits of Accrued Expense
+* Allocation Type: None
+* Financial Account: Not State or Carey
+
+Note: Original Accrued Expense must have a Support/Oppose Memo; the Support/Oppose memo must be to an entity that DOES NOT have a Federal jurisdiction; Accrued expense splits are reported as a memo (no cash impact) when paid.
+
+Group 6: Carey Expense & Accrued Expense Payments
+
+* Transaction Types: Expense, Accrued Expense Payment
+* Financial Account: Carey
+
+Group 7: Carey Support/Oppose Memos
+
+* Transaction Types: Support/Oppose Memo
+* Allocation Type: None
+* Financial Account: Carey
+
+Group 8: Other Disbursement
+
+* Transaction Types: Expense, Accrued Expense Payment
+* Transaction Tag: Other Disbursement
+
+Note: Federal or Non-Federal Jurisdiction does not matter if the original (parent) transaction is associated with the Carey account
+
+**Line 30a / Sch H6: Allocated Federal / Levin Election Activity**
+
+* Never used on this version of the Form 3X. For a party committee, see FEC Form 3x (Party): Line by Line Breakdown.
+
+**Line 30b: Federal Election Activity Paid Entirely With Federal Funds**
+
+Group 1: 100% FEA Disbursements
+
+* Transaction Types: Expense, Accrued Expense Payment, Non-Monetary Expense
+* Allocation Type: None
+* Reporting Code: 100% FEA
+* Financial Account: Not State, Levin, or Carey
+
+Group 2: 100% FEA Splits of Accrued Expenses
+
+* Transaction Types: Splits of Accrued Expense
+* Allocation Type: None
+* Reporting Code: 100% FEA
+* Financial Account: Not State, Levin, or Carey
+
+Note: Accrued expense splits are reported as a memo (no cash impact) when paid.
+
+Group 3: 100% FEA Support/Oppose Memos
+
+* Transaction Types: Support/Oppose Memo
+* Transaction Tag: 100% FEA
+* Original Transaction Type: Non-Monetary Expense
+* Allocation Type: None
+* Financial Account: Not State, Levin, or Carey
+
+Note: The Support/Oppose memo must be to an entity that has a Federal jurisdiction. Use of the 100% FEA TAG will always pull Support/Oppose memos to line 30b even if Independent Expenditures are indicated.
+
+**Schedule C: All Loans Received**
+
+Group 1: Loans Received
+
+* Transaction Types: Loan Received
+* Financial Account: Not State or Carey
+
+Group 2: Loan Received Guarantees
+
+* Transaction Types: Loan Received Guarantee
+* Financial Account: Not State or Carey
+
+**Schedule C1: Loans and Lines Of Credit From Lending Institutions**
+
+* Transaction Types: Loan Received
+* Financial Account: Not State or Carey
+* Entities: Financial Institution/Credit Card Issuer
+
+**Schedule D: Debts and Obligations**
+
+1. Transaction Types: Accrued Expense
+2. Financial Account: Not State or Carey
+
+Note: Debts will itemize on Schedule D if it meets one of two conditions:
+
+1. It has been outstanding for 60+ days
+OR
+2. It has a beginning/outstanding balance over $500 in the aggregate to the entity.
+
+**Schedule E: Itemized Independent Expenditures**
+
+* See Line 24 (Schedule E)
+
+Note: If Schedule E is not showing, then this may be due to an S/O Memo attached to an Expense being dated later than the Expense itself, i.e., paying for an IE first and disseminating in a later reporting period.
+
+**Schedule H1: Method of Allocation**
+
+* Add a new allocation with type Administrative, Exempt, Public Communications, Voter Drive
+
+**Schedule H2: Allocation Ratios for Allocable Fundraising Events and Direct Candidate Support Activities Appearing on this Report**
+
+* Transaction Types: Allocation Transfer, Expense, Refunded Expense, Accrued Expense Payment, Inkind Contribution
+* Allocation Type: Direct Candidate Support, Direct Fundraising
+
+Note: Transaction with the Allocation must be on the current report
+
+**Schedule H3: Transfers from Non-Federal Accounts for Allocated Federal / Nonfederal Activity**
+
+Group 1: Allocation Transfers
+
+* Transaction Types: Allocation Transfer
+* Allocation Type: Administrative, Voter Drive, Exempt, Public Communications, Direct Fundraising, Direct Candidate Support
+
+Group 2: Allocated Inkind Contributions
+
+* Transaction Types: Inkind Contribution
+* Allocation Type: Administrative, Voter Drive, Exempt, Public Communications, Direct Fundraising, Direct Candidate Support
+* Financial Account: State
+
+**Schedule H4: Allocated Federal/Non-Federal Activity**
+
+* See Line 21a (Sch H4)
+
+**Schedule H5: Transfers from Levin Accounts for Allocated Federal Election Activity**
+
+* Never used on this version of the Form 3X. For a party committee, see FEC Form 3x (Party): Line by Line Breakdown.
+
+**Schedule H6: Allocated Federal / Levin Election Activity**
+
+* Never used on this version of the Form 3X. For a party committee, see FEC Form 3x (Party): Line by Line Breakdown.
+
+**Schedule L-A: Itemized Receipts of Levin Funds**
+
+* Never used on this version of the Form 3X. For a party committee, see FEC Form 3x (Party): Line by Line Breakdown.
+
+**Schedule L-B: Itemized Disbursements of Levin Funds**
+
+* Never used on this version of the Form 3X. For a party committee, see FEC Form 3x (Party): Line by Line Breakdown.
+
+### Related Information ###
+
+* [How Do Allocations Appear on the FEC Form 3X Report?](https://ispolitical.com/How-Do-Allocations-Appear-on-the-FEC-Form-3X-Report)
+* [How Do I Get the Multi-Candidate Box Checked?](https://ispolitical.com/How-Do-I-Get-the-Multi-Candidate-Box-Checked)
+* [Prohibited Inkind Contributions for Allocable Activities](https://ispolitical.com/Prohibited-Inkind-Contributions-for-Allocable-Activities)
+* [What Is the 0% Federal Allocation Used For?](https://ispolitical.com/what-is-the-0-federal-allocation-used-for)
+
+[Help File Home](/help/) | [Full Index](/Help-File-Directory/) | [Contact Support](mailto:support@ISPolitical.com)
+
+[⇑ FEC Campaign, Party, & PAC Filing FAQ and Resources](/FEC-Campaign-Party-PAC-Filing-FAQ-and-Resources)
+[« Different Options for FEC Form 3X Filing](/Different-Options-for-FEC-Form-3X-Filing)
+[How Do Allocations Appear on the FEC Form 3X Report? »](/How-Do-Allocations-Appear-on-the-FEC-Form-3X-Report)
 
 ---
 
@@ -5079,6 +9047,59 @@ To create an amendment, click the Amend a Filed Report option on the state websi
 
 ---
 
+# WHAT FEDERAL COMMITTEE TYPES ARE AVAILABLE IN ISP
+
+What Federal Committee Types Are Available in ISP?
+==========
+
+Applies To: Federal Election Commission
+
+When setting up your federal filer committee record, you will need to select a committee type. Below is a list of options.
+
+**Candidate:** An individual seeking nomination for election, or reelection, to a federal office. (US House, US Senate, President)
+
+**Other:** Individuals, groups, corporations and labor organizations that are not registered as a political committee.
+
+**Party:** A political committee that represents a political party and is part of the official party structure at the national, state or local level.
+
+**Political Action Committee (PAC):** A political committee that is neither a party committee nor an authorized committee of a candidate. Joint Fundraising Committees that support at least one party or non-party political committee (such as a PAC) should select PAC as their committee type. If your JFC only supports federal candidates and needs to file an FEC Form 3 instead, click here for additional instructions.
+
+**Super PAC:** Independent expenditure-only political committees that may receive unlimited contributions from individuals, corporations, labor unions, and other political action committees for the purpose of financing independent expenditures and other independent political activity. These committees are not limited on what contributions they can receive or spend, but they cannot give directly to candidates or regular PACs.
+
+**527 Political Organization:** Political organizations that do not expressly advocate for the election or defeat of a candidate or party. They instead raise and spend money for the purposes of issue advocacy and voter mobilization.
+
+[Help File Home](/help/) | [Full Index](/Help-File-Directory/) | [Contact Support](mailto:support@ISPolitical.com)
+
+[« FEC Campaign, Party, & PAC Filing FAQ and Resources](/FEC-Campaign-Party-PAC-Filing-FAQ-and-Resources)
+[What Is the Threshold to Register a FEC Committee? »](/What-Is-the-Threshold-to-Register-a-FEC-Committee)
+
+---
+
+# ABOUT LISTS IN ISP
+
+About Lists in ISP
+==========
+
+The Lists tab contains pages with important settings needed to get started in ISP. Below are help files for the options under the Lists tab.
+
+* [What Are Budget Categories?](https://ispolitical.com/What-Are-Budget-Categories)
+* [What Are Communication Types?](https://ispolitical.com/What-Are-Communication-Types)
+* [How Do I Add an Election?](https://ispolitical.com/How-Do-I-Add-an-Election)
+* [What Are Financial Accounts and How Do I Add Them?](https://ispolitical.com/What-Are-Financial-Accounts-and-How-Do-I-Add-Them)
+* [What Are Flags and How Do I Use Them?](https://ispolitical.com/What-Are-Flags-and-How-Do-I-Use-Them)
+* [How Do I Add & Use Genders?](https://ispolitical.com/How-Do-I-Add-Use-Genders)
+* [What Are Memberships and Membership Types?](https://ispolitical.com/What-Are-Memberships-and-Membership-Types)
+* [About Other Entities](https://ispolitical.com/About-Other-Entities)
+* [What Are Units?](https://ispolitical.com/What-Are-Units)
+* [What Are Time Tracking Categories?](https://ispolitical.com/What-Are-Time-Tracking-Categories)
+
+[Help File Home](/help/) | [Full Index](/Help-File-Directory/) | [Contact Support](mailto:support@ISPolitical.com)
+
+[« What Are Webhooks and How Do I Use Them?](/What-Are-Webhooks-and-How-Do-I-Use-Them)
+[What Are Budget Categories? »](/What-Are-Budget-Categories)
+
+---
+
 # ABOUT THE MA NON DEPOSITORY PERIODIC REPORT
 
 About the MA Non Depository Periodic Report
@@ -5139,6 +9160,41 @@ If a report you originally submitted using the vendor file method is amended man
 
 [« Missouri Campaign, Party, & PAC Filing FAQ and Resources](/Missouri-Campaign-Party-PAC-Filing-FAQ-and-Resources)
 [About the MO LCR Report »](/About-the-MO-LCR)
+
+---
+
+# MICHIGAN CAMPAIGN PARTY PAC FILING FAQ AND RESOURCES
+
+Michigan Campaign, Party, & PAC Filing FAQ and Resources
+==========
+
+Applies To: Michigan
+
+Below are links to resources to help you file your Michigan reports.
+
+**FAQ**
+
+* [When Are The Michigan Filing Deadlines?](https://ispolitical.com/When-Are-The-Michigan-Filing-Deadlines)
+* [How Do I File My Michigan Report?](https://ispolitical.com/How-Do-I-File-My-Michigan-Report)
+* [About the MI PAC Report](https://ispolitical.com/About-the-MI-PAC-Report)
+* [About the MI PAC LCR Report](https://ispolitical.com/About-the-MI-PAC-LCR-Report)
+
+**Resources**
+
+[Elections Site](https://mertsplus.com/mertsuserguide/index.php?n=MERTSCAN.UserGuide-CandidateCommittee)
+[Filing Calendar](https://mertsplus.com/mertsuserguide/index.php?n=MANUALS.PACs#PACSSTWD)
+[Filing Guide](https://mertsplus.com/mertsuserguide/index.php?n=MANUALS.HomePage)
+
+**Supported Reports**
+
+MI PAC Campaign Statement
+MI Late Contribution Reports (LCR)
+
+[Help File Home](/help/) | [Full Index](/Help-File-Directory/) | [Contact Support](mailto:support@ISPolitical.com)
+
+[⇑ About Compliance Reports](/About-Compliance-Reports)
+[« About the MA Municipal Periodic Report](/About-the-MA-Municipal-Periodic-Report)
+[When Are The Michigan Filing Deadlines? »](/When-Are-The-Michigan-Filing-Deadlines)
 
 ---
 
@@ -5260,6 +9316,44 @@ After the committee has been registered with the FEC, reports must be filed no m
 
 ---
 
+# ALABAMA CAMPAIGN PARTY PAC FILING FAQ AND RESOURCES
+
+Alabama Campaign, Party, & PAC Filing FAQ and Resources
+==========
+
+Applies To: Alabama
+
+Below are links to resources to help you file your Alabama reports.
+
+### FAQ ###
+
+* [When Are the Alabama Filing Deadlines?](https://ispolitical.com/When-Are-the-Alabama-Filing-Deadlines)
+* [About the AL PAC](https://ispolitical.com/About-the-AL-PAC)
+* [About the AL PAC Major](https://ispolitical.com/About-the-AL-PAC-Major)
+* [About the AL CEO Report](https://ispolitical.com/About-the-AL-CEO-Report)
+* [About the AL CEO Major Report](https://ispolitical.com/About-the-AL-CEO-Major-Report)
+
+**Resources**
+
+[Elections Site](http://www.alabamavotes.gov/)[
+Filing Calendar](https://www.sos.alabama.gov/alabama-votes/candidates/candidate-resources) (click FCPA Filing Calendar link **OR** Municipal Election Calendar)
+[Filing Guide](https://www.sos.alabama.gov/alabama-votes/media/campaign-finance-reports)
+
+**Supported Reports**
+
+AL CEO (Candidate & Elected Official Campaign Finance Report: Forms 1, 1A, 2-6)
+AL CEO Major (Major Contributions Report)
+AL PAC (Political Action Committee Finance Report)
+AL PAC Major (Political Action Committee Major Contribution Report)
+
+[Help File Home](/help/) | [Full Index](/Help-File-Directory/) | [Contact Support](mailto:support@ISPolitical.com)
+
+[⇑ About Compliance Reports](/About-Compliance-Reports)
+[« Best Practices for Filing FEC Amendments](/Best-Practices-for-Filing-FEC-Amendments)
+[When Are the Alabama Filing Deadlines? »](/When-Are-the-Alabama-Filing-Deadlines)
+
+---
+
 # ABOUT THE MT COMMITTEE REPORT
 
 About the MT Committee Report
@@ -5317,6 +9411,41 @@ Please note GA requires us to import all transactions and the itemization calcul
 
 [« Georgia Campaign, Party, & PAC Filing FAQ and Resources](/Georgia-Campaign-Party-PAC-Filing-FAQ-and-Resources)
 [When Are the Georgia Filing Deadlines? »](/When-Are-the-Georgia-Filing-Deadlines)
+
+---
+
+# WHEN ARE THE ALABAMA FILING DEADLINES
+
+When Are the Alabama Filing Deadlines?
+==========
+
+Applies To: Alabama
+
+Below are deadlines for Alabama compliance report filing.
+
+The Filing Deadline information provided here is offered only as a reference aide. The provided deadline information may contain inaccuracies and may not include all special elections or deadlines. For agency specific details please visit the [Alabama SoS website](https://www.sos.alabama.gov/alabama-votes/candidates/candidate-resources) .
+
+Candidate
+----------
+
+* 08/02/2024: AL CEO
+* 09/04/2024: AL CEO
+* 10/02/2024: AL CEO
+* 10/15/2024: AL CEO (1st Weekly Report for General Election)
+* 10/21/2024: AL CEO (2nd Weekly Report for General Election)
+* 10/28/2024: AL CEO (3rd Weekly Report for General Election)
+* 10/28/2024 – 11/04/2024: AL CEO Major (Daily Reports for General Election)
+* 11/04/2024: AL CEO (4th Weekly Report for General Election)
+* 01/31/2025: AL CEO (2024 Annual Report)
+
+You’re able to add Filing Deadlines found in ISP to your own digital calendar with our [Calendar Feed tool](https://ispolitical.com/Calendar-Feeds).
+
+To see more information about Alabama compliance report filing with ISP, please visit our Alabama[ Filing and FAQ Resources](https://ispolitical.com/alabama-campaign-party-pac-filing-faq-and-resources/) page.
+
+[Help File Home](/help/) | [Full Index](/Help-File-Directory/) | [Contact Support](mailto:support@ISPolitical.com)
+
+[« Alabama Campaign, Party, & PAC Filing FAQ and Resources](/Alabama-Campaign-Party-PAC-Filing-FAQ-and-Resources)
+[About the AL PAC »](/About-the-AL-PAC)
 
 ---
 
@@ -5414,6 +9543,76 @@ For more information on filing FEC amendments, click [here](https://ispolitical.
 
 ---
 
+# WHEN ARE THE MONTANA FILING DEADLINES
+
+When Are the Montana Filing Deadlines?
+==========
+
+Applies To: Montana
+
+Below are deadlines for Montana compliance report filing.
+
+The Filing Deadline information provided here is offered only as a reference aid. The provided deadline information may contain inaccuracies and may not include all special elections or deadlines. For agency-specific details please visit the [Montana SoS website](https://sosmt.gov/).
+
+Candidate
+----------
+
+* 08/20/2024 – 08/20/2024: MT Form C5
+* 09/20/2024 – 09/20/2024: MT Form C5
+* 10/15/2024 – 11/04/2024: MT Form C7
+* 10/15/2024 – 11/04/2024: MT Form C7E
+* 10/20/2024 – 10/20/2024: MT Form C5
+* 11/20/2024 – 11/20/2024: MT Form C5
+
+Incidental
+----------
+
+* 08/20/2024 – 08/20/2024: MT Form C5
+* 09/20/2024 – 09/20/2024: MT Form C5
+* 10/15/2024 – 11/04/2024: MT Form C7
+* 10/15/2024 – 11/04/2024: MT Form C7E
+* 10/20/2024 – 10/20/2024: MT Form C5
+* 11/20/2024 – 11/20/2024: MT Form C5
+
+Other
+----------
+
+* 08/20/2024 – 08/20/2024: MT Form C5
+* 09/20/2024 – 09/20/2024: MT Form C5
+* 10/20/2024 – 10/20/2024: MT Form C5
+* 11/20/2024 – 11/20/2024: MT Form C5
+
+Party
+----------
+
+* 08/20/2024 – 08/20/2024: MT Form C5
+* 09/20/2024 – 09/20/2024: MT Form C5
+* 10/15/2024 – 11/04/2024: MT Form C7
+* 10/15/2024 – 11/04/2024: MT Form C7E
+* 10/20/2024 – 10/20/2024: MT Form C5
+* 11/20/2024 – 11/20/2024: MT Form C5
+
+Political Action Committee (PAC)
+----------
+
+* 08/20/2024 – 08/20/2024: MT Form C5
+* 09/20/2024 – 09/20/2024: MT Form C5
+* 10/15/2024 – 11/04/2024: MT Form C7
+* 10/15/2024 – 11/04/2024: MT Form C7E
+* 10/20/2024 – 10/20/2024: MT Form C5
+* 11/20/2024 – 11/20/2024: MT Form C5
+
+You’re able to add Filing Deadlines found in ISP to your own digital calendar with our [Calendar Feed tool](https://ispolitical.com/Calendar-Feeds/).
+
+To see more information about Montana compliance report filing with ISP, please visit our [Montana Filing and FAQ Resources page](https://ispolitical.com/montana-campaign-party-pac-filing-faq-and-resources/).
+
+[Help File Home](/help/) | [Full Index](/Help-File-Directory/) | [Contact Support](mailto:support@ISPolitical.com)
+
+[« Montana Campaign, Party, & PAC Filing FAQ and Resources](/Montana-Campaign-Party-PAC-Filing-FAQ-and-Resources)
+[About the MT Committee Report »](/About-the-MT-Committee-Report)
+
+---
+
 # ABOUT THE IL SCHEDULE B 1
 
 About the IL Schedule B-1
@@ -5474,6 +9673,39 @@ Utilizing all ISP has to offer will make your job smoother and less time consumi
 
 [« How Can I Use ISP in My Favor?](/How-Can-I-Use-ISP-in-My-Favor)
 [What Are Accounting Practices to Keep In Mind? »](/What-Are-Accounting-Practices-to-Keep-In-Mind)
+
+---
+
+# WISCONSIN CAMPAIGN PARTY PAC FILING FAQ AND RESOURCES
+
+Wisconsin Campaign, Party, & PAC Filing FAQ and Resources
+==========
+
+Applies To: Wisconsin
+
+Below are links to resources to help you file your Wisconsin reports.
+
+**FAQ**
+
+* [When Are the Wisconsin Filing Deadlines?](https://ispolitical.com/When-Are-the-Wisconsin-Filing-Deadlines)
+* [How Do I File My Wisconsin Report?](https://ispolitical.com/How-Do-I-File-My-Wisconsin-Report)
+* [About the WI RandE Report](https://ispolitical.com/About-the-WI-RandE)
+
+**Resources**
+
+[Elections Site](https://ethics.wi.gov/pages/home.aspx)
+[Filing Calendar](https://Ethics.Wi.Gov/Pages/CampaignFinance/ReportPeriods.Aspx)
+[Filing Guide](https://Ethics.Wi.Gov/Pages/CampaignFinance/PACs.Aspx)
+
+**Supported Reports**
+
+WI RandE (Receipts and Expenditures Report)
+
+[Help File Home](/help/) | [Full Index](/Help-File-Directory/) | [Contact Support](mailto:support@ISPolitical.com)
+
+[⇑ About Compliance Reports](/About-Compliance-Reports)
+[« About the WV F7B](/About-the-WV-F7B)
+[When Are the Wisconsin Filing Deadlines? »](/When-Are-the-Wisconsin-Filing-Deadlines)
 
 ---
 
@@ -5612,6 +9844,27 @@ If you need to do a regular import that doesn’t appear to be available, such a
 
 ---
 
+# TENNESSEE CAMPAIGN PARTY PAC FILING FAQ AND RESOURCES
+
+Tennessee Campaign, Party, & PAC Filing FAQ and Resources
+==========
+
+Applies To: Tennessee
+
+**Resources**
+
+[Elections Site](https://sos.tn.gov/elections)
+[Filing Guide](https://www.tn.gov/tref/tref-candidates/tref-candidate-forms-and-publications.html)
+[Filing Calendar](https://www.tn.gov/tref/tref-candidates/tref-candidate-filing-deadlines.html)
+
+[Help File Home](/help/) | [Full Index](/Help-File-Directory/) | [Contact Support](mailto:support@ISPolitical.com)
+
+[⇑ About Compliance Reports](/About-Compliance-Reports)
+[« South Dakota Campaign, Party, & PAC Filing FAQ and Resources](/South-Dakota-Campaign-Party-PAC-Filing-FAQ-and-Resources)
+[Texas Campaign, Party, & PAC Filing FAQ and Resources »](/Texas-Campaign-Party-PAC-Filing-FAQ-and-Resources)
+
+---
+
 # ABOUT THE WA FORM C4 NON CANDIDATE
 
 About the WA Form C4 – Non-Candidate
@@ -5636,6 +9889,30 @@ For Seattle filers, access your [agency account](https://web6.seattle.gov/ethics
 [⇑ Washington Campaign, Party, & PAC Filing FAQ and Resources](/Washington-Campaign-Party-PAC-Filing-FAQ-and-Resources)
 [« About the WA Form C4 – Ballot Measure Report](/About-the-WA-Form-C4-Ballot-Measure-Report)
 [New Washington Filing System »](/New-Washington-Filing-System)
+
+---
+
+# WHEN ARE THE KENTUCKY FILING DEADLINES
+
+When Are the Kentucky Filing Deadlines?
+==========
+
+Applies To: Kentucky
+
+Below are deadlines for Kentucky compliance report filing.
+
+The Filing Deadline information provided here is offered only as a reference aide. The provided deadline information may contain inaccuracies and may not include all special elections or deadlines. For agency specific details, please visit the [Kentucky State Board of Elections](https://elect.ky.gov/Pages/default.aspx) webpage.
+
+***No deadlines are currently found.***
+
+You’re able to add Filing Deadlines found in ISP to your own digital calendar with our [Calendar Feed](https://ispolitical.com/what-are-calendar-feeds/) tool.
+
+To see more information about Kentucky compliance report filing with ISP, please visit our [Kentucky Filing and FAQ Resources](https://ispolitical.com/Kentucky-Campaign-Party-PAC-Filing-FAQ-and-Resources/) page.
+
+[Help File Home](/help/) | [Full Index](/Help-File-Directory/) | [Contact Support](mailto:support@ISPolitical.com)
+
+[« Kentucky Campaign, Party, & PAC Filing FAQ and Resources](/Kentucky-Campaign-Party-PAC-Filing-FAQ-and-Resources)
+[Louisiana Campaign, Party, & PAC Filing FAQ and Resources »](/Louisiana-Campaign-Party-PAC-Filing-FAQ-and-Resources)
 
 ---
 
@@ -5707,6 +9984,44 @@ This will create a new financial account and link it to the new filer. You may w
 [⇑ What Records are Needed for Compliance Reporting?](/What-Records-are-Needed-for-Compliance-Reporting)
 [« How Do I Add or Set a Filer?](/How-Do-I-Add-or-Set-a-Filer)
 [How Do I Find Out My State’s Filing Dates? »](/How-Do-I-Find-Out-My-State-s-Filing-Dates)
+
+---
+
+# ABOUT INDIVIDUAL RECORDS
+
+About Individual Records
+==========
+
+Entity records in ISP are designed to house numerous pieces of valuable information. Below is a breakdown of what you’ll find in an Individual record.
+
+At the top of each record you’ll find basic information, such as the name and Occupation and Employer info. If there is any contribution information, you’ll see a wrench icon where you can choose to display Key Stats, such as Most Recent Contribution, Total Donations, and more. If contact information is available, such as Email or Phone, you’ll have options to call or email them directly, as well as view their address on a map.
+
+If you are a Federal filer and have a foreign address, the FEC recommends you keep the State Abbreviation blank and put the City, County Code, and Postal Code in Address Line 2.
+
+If you need to make any edits to the name and other basic individual information, click on the green triangle in the top right corner to display a window where edits can be made.
+
+In nearly all of the sections on the page, you’ll have the option to add information. Again, this done by clicking the green triangle in the right corner of the section. Some of these sections are Transactions, Flags, Relationships, Notes, and more.
+
+If the individual is a Candidate of a committee, use the Candidate Info section on the right to add Office Sought or Office Held information. This data can play an important role when it comes to Compliance reports, including any affiliations to their committee in the Relationships section.
+
+In the bottom right corner of each Individual record is an Elected Officials section. Here will display information about the officials in that entity’s area. This will be based on the address in the record itself. If you see no information in the Elected Officials section, double check the address to ensure it is properly formatted.
+
+At the bottom of the page, use the Advanced Tools drop-up menu to make the record Inactive or Delete the record. The Delete option will not be available when the record contains critical information, such as financial transactions, for example.
+
+Finally, you can print the record details or export it to a Call Sheet using the Print/Export button at the bottom of the screen. In the Advanced Tools option, you have the ability to change a record from Individual to Organization, or vice versa. You can also see if any combining happened with this record and undo that if desired.
+
+### Related Information ###
+
+* [How Do I Use the Individual Search?](https://ispolitical.com/Using-Individual-Search)
+* [What Is Householding and How Do I Create a Householded List?](https://ispolitical.com/What-Is-Householding-and-How-Do-I-Create-a-Householded-List)
+* [How Do I Use Relationships to Add New Individuals & Copy Contact Info?](https://ispolitical.com/Using-Relationships-to-Add-New-Individual-Copy-Contact-Info)
+* [What Is Time Tracking?](https://ispolitical.com/What-Is-Time-Tracking)
+
+[Help File Home](/help/) | [Full Index](/Help-File-Directory/) | [Contact Support](mailto:support@ISPolitical.com)
+
+[⇑ About Add/Search](/About-Add-Search)
+[« How Do I Add International Addresses to ISP?](/How-Do-I-Add-International-Addresses-to-ISP)
+[How Do I Use the Individual Search? »](/Using-Individual-Search)
 
 ---
 
@@ -5856,6 +10171,253 @@ There is also a tag called Non-IE to Oppose. This functions much like the Suppor
 [⇑ California Campaign, Party, & PAC Filing FAQ and Resources](/California-Campaign-Party-PAC-Filing-FAQ-and-Resources)
 [« Best Practices for CA Warnings & Errors](/Best-Practices-for-CA-Warnings-Errors)
 [What Are Primarily Formed PACs in CA? »](/What-Are-Primarily-Formed-PACs-in-CA)
+
+---
+
+# WHAT ARE REVERSALS AND REFUNDS HOW DO I ADD THEM
+
+What Are Reversals and Refunds & How Do I Add Them?
+==========
+
+Reversals and refunds can be similar in that they’re both negative cash and negative net worth transactions. The line between the two is subtle.
+
+On internal financial reports, like a Profit & Loss statement, a Reversed Monetary Contribution will show as a negative on the profit side. In contrast, a Refunded Contribution will show up on the loss side.
+
+Which one do I use?
+----------
+
+Reversals are when the Monetary Contribution deposit is not fully completed. An example is an NSF (Non-Sufficient Funds) when a deposited check is returned for insufficient funds.
+
+A Refunded Contribution is when there is separate action taken. For example, your campaign sends the money back to a donor because they have exceeded limits.
+
+How is each reported?
+----------
+
+Most commonly, the transactions show the Reversed Monetary Contributions on the Monetary Contribution schedule as a negative and the Refunded Contributions with expenses. However, this will vary per agency, as some have specific schedules for either or both.
+
+How do I add a Refund?
+----------
+
+When creating a refund, a separate transaction will be created
+
+* **Original transaction:** This transaction most likely already exists in your database prior to the need for a refund.
+* **Refunded transaction:** This will be the second transaction created as the refund.
+
+If the original transaction exists in your database, take the following steps to create the refund. If you still need to create the original transaction, please do that before following these steps:
+
+1. From either the entity’s record or the Register, click the hotdog menu to the far right of the transaction
+2. Select Add Refund
+3. Ensure the populated fields, except for the Date, match the original transaction details
+4. If the date of the refund is different than the current date, change the Date to match when the refund occurred
+5. Complete the remaining applicable fields and click Save
+
+A typical example of when you would need to use the refund process: a contribution is deposited into your bank account; then, for various reasons, the donation must be returned to the donor. This is a refund of a Monetary Contribution.
+
+How do I add a Reversal?
+----------
+
+Similar to the refund, the reversal will also create a second transaction:
+
+* **Original transaction:** This transaction most likely already exists in your database prior to the need for a reversal.
+* **Reversed transaction:** This will be the second transaction created as the reversal.
+
+Again, if the original transaction already exists in your database, take the following steps to create the reversal. If the original transaction has not yet been created, please do so before taking the steps below.
+
+1. Create a new transaction from the entity’s record, the Register, or the Add Transaction option under the Accounting tab
+2. Match the details of the original transaction except for the Date
+3. In the Date field, use the date of the reversal
+4. Click the Is Reversal box towards the top
+5. Complete the remaining applicable fields and click Save
+
+An example of when you would use a reversal is if, after you deposit a check into your account, you receive a notification the check bounced. This becomes a reversal situation since the funds never truly hit your account.
+
+Can I just delete the original transaction?
+----------
+
+Please don’t.
+
+Keeping an accurate and complete record of everything that happened is critical for proper bookkeeping. Entering the original Monetary Contribution/Expense and then a Refunded/Reversed Contribution/Expense ensures that you can (a) properly reconcile your bank account, (b) meet legal compliance reporting needs, and (c) have a clear record for future reference.
+
+[Help File Home](/help/) | [Full Index](/Help-File-Directory/) | [Contact Support](mailto:support@ISPolitical.com)
+
+[⇑ Entering Unusual Transactions](/Entering-Unusual-Transactions)
+[« How Do I Enter Returned Checks Due to Insufficient Funds?](/How-Do-I-Enter-Returned-Checks-Due-to-Insufficient-Funds)
+[How Do I Create a Reversed Split Transaction? »](/How-Do-I-Create-a-Reversed-Split-Transaction)
+
+---
+
+# WHY ARE THERE ERRORS IN MY CA CONFIRMATION EMAIL THAT ARE NOT IN ISP
+
+Why Are There Errors in My CA Confirmation Email That Are Not in ISP?
+==========
+
+Applies To: California
+
+In confirmation emails received from the state after filing your CA 460, sometimes warnings will be included that were not listed in the ISP system. This is because in most cases, those warnings do not apply to your committee.
+
+Know that when it comes to the CA filing system, it’s well over 20 years old. In dog years, that’s at least 140 years old. Due to this, the error checking system isn’t as savvy as it could be.
+
+Not all compliance report errors and warnings are the same. In fact, some of them can be very difficult to discern. Below are some things to keep in mind or attempt if you receive an error or warning you are unsure about.
+
+**The following error messages can be ignored if the filer is not a candidate committee:**
+
+This is a warning for line: 2
+Form/Schedule: F460 Record Type: CVR
+Candidate/Officeholder’s last name is missing. Field: 49
+
+This is a warning for line: 2
+Form/Schedule: F460 Record Type: CVR
+Candidate/Officeholder’s first name is missing. Field: 50
+
+This is a warning for line: 2
+Form/Schedule: F460 Record Type: CVR
+Candidate/Officeholder’s address is missing. Field: 53
+
+This is a warning for line: 2
+Form/Schedule: F460 Record Type: CVR
+Candidate/Officeholder’s city is missing. Field: 55
+
+This is a warning for line: 2
+Form/Schedule: F460 Record Type: CVR
+Candidate/Officeholder’s state is missing. Field: 56
+
+This is a warning for line: 2
+Form/Schedule: F460 Record Type: CVR
+Candidate/Officeholder’s zip is missing. Field: 57
+
+These warnings are asking for name & contact information of the candidate associated with the committee’s. However, if your committee does not have a candidate, this would not apply. The ISP system is able to recognize this and will not list the warnings.
+
+**The following error messages can be ignored if the filer is not primarily-formed to support/oppose a specific candidate or measure:**
+
+This is a warning for line: 2
+Form/Schedule: F460 Record Type: CVR
+Support/Oppose is missing. Field: 70
+
+**The following error messages can be ignored if the filer is a candidate-controlled committee:**
+
+This is a warning for line: 2
+Form/Schedule: F460 Record Type: CVR
+Filer data missing from cover page.
+Refer to the CAL format version 2.01 for details or call your vendor.
+
+CUR,W,2,CVR,F460,1460270,6,,Required by: FIELD4 = CAO
+
+This warning is looking for an individual name – the validator thinks the actual candidate is filing the report rather than the candidate committee.
+
+For further clarification on the warnings found in the confirmation emails received, please contact the state filing agency.
+
+[Help File Home](/help/) | [Full Index](/Help-File-Directory/) | [Contact Support](mailto:support@ISPolitical.com)
+
+[⇑ What Is the CA 460 Report & How Do I Prepare and File It?](/What-Is-the-CA-46-Report-How-Do-I-Prepare-and-File-It)
+[« Why Are Lines 20 and 21 Showing as $0.00 on My Report?](/Why-Are-Lines-2-and-21-Showing-as-on-My-Report)
+[About the CA Form 461 »](/About-the-CA-Form-461)
+
+---
+
+# CONNECTICUT CAMPAIGN PARTY PAC FILING FAQ AND RESOURCES
+
+Connecticut Campaign, Party, & PAC Filing FAQ and Resources
+==========
+
+Applies To: Connecticut
+
+Below are links to resources to help you file your Connecticut reports.
+
+### FAQ ###
+
+* [When Are the Connecticut Filing Deadlines?](https://ispolitical.com/When-Are-the-Connecticut-Filing-Deadlines)
+* [SEEC Form 20 (CT) Line by Line](https://ispolitical.com/SEEC-Form-2-CT-Line-by-Line)
+* [About the CT Form 30 Report](https://ispolitical.com/About-the-CT-Form-3-Report)
+* [About the CT Form 40 Report](https://ispolitical.com/About-the-CT-Form-4-Report)
+* [How Do I E-file in Connecticut?](https://ispolitical.com/How-Do-I-E-file-in-Connecticut)
+
+### Supported Reports ###
+
+* CT Form 30 (Itemized Campaign Finance Disclosure Statement)
+
+### **External Resources** ###
+
+* [Elections Site](https://portal.ct.gov/SOTS/Common-Elements/V5-Template---Redesign/Elections-and-Voting)
+* [Filing Calendar](https://seec.ct.gov/Portal/filingcalendars)
+* [Filing Guide](https://seec.ct.gov/Portal/Publications/PubLanding)
+
+[Help File Home](/help/) | [Full Index](/Help-File-Directory/) | [Contact Support](mailto:support@ISPolitical.com)
+
+[⇑ About Compliance Reports](/About-Compliance-Reports)
+[« About the CO RCE Party Report](/About-the-CO-RCE-Party-Report)
+[When Are the Connecticut Filing Deadlines? »](/When-Are-the-Connecticut-Filing-Deadlines)
+
+---
+
+# HOW DO I USE QUICK IMPORT
+
+How Do I Use Quick Import?
+==========
+
+The Quick Import tool allows various contact and contribution information to be imported into ISP in bulk.
+
+When you choose the specific format from the drop-down menu, you will notice the info on the right side of the page changes based on each format. At the bottom of the section is a .csv template to save time creating your own .csv file. Click the link to download the template. You can then copy and paste your data into that template for import. If you save the template somewhere on your computer, you won’t have to download it each time. Simply copy and paste data each time into the saved template.
+
+It’s important to ensure the data matches the correct column format in the file so it maps the data correctly in your account. There are four formats we accept as import formats for Quick Imports:
+
+* comma-separated values (CSV)
+* tab-separated values (TSV)
+* Microsoft Excel; 2003 format (XLS)
+* Microsoft Excel; current format (XLSX)
+
+If you are creating your own spreadsheet based on the format, it’s necessary the import file has the correct extension. Also, be sure all data is on a single page or tab in the spreadsheet.
+
+Several specialized formats are also not enabled by default. Contact Support if you are looking to use a specific template that is not showing in the Format drop-down menu.
+
+### Can I undo an import? ###
+
+Making mistakes happens. If you need to undo an import, click the Undo Recent Import button at the bottom of the Quick Imports screen. In the window that appears, you’ll see all recent imports with an option to Delete.
+
+[Help File Home](/help/) | [Full Index](/Help-File-Directory/) | [Contact Support](mailto:support@ISPolitical.com)
+
+[⇑ About Tools in ISP](/About-Tools-in-ISP)
+[« What Are Quick Emails?](/What-Are-Quick-Emails)
+[What Are the Available Quick Import Formats in ISP? »](/What-Are-the-Available-Quick-Import-Formats-in-ISP)
+
+---
+
+# ABOUT COMPLIANCE TOOLS
+
+About Compliance Tools
+==========
+
+Compliance Tools are reports designed to help you keep your financial records in the best condition possible and avoid getting in trouble with filing agencies.
+
+The following reports are available:
+
+* **Best Practices:** Use this report to review any potential mistakes you may be making while working in your database
+* **Cash vs Bank Balance:** Use this report to find out which transactions are causing the discrepancy between Cash on Hand and Bank Balance values
+* **Cash vs Net Worth:** Use this report to determine what transactions make up the difference between Cash on Hand and the Net Worth amount
+* **Changed Reconciled Transactions:** Use this report to view a list of transactions that have had information changed after they have been included in a reconciled bank statement
+* **Changed Transactions:** Use this report to view a list of transactions that have been added, deleted, or edited after a specific date or report (if marked as filed has been used when filing)
+* **Check Transaction Limits:** The Check Transaction Limits report allows you to generate a report of transactions that may be over the allowable transaction limits.
+* **Contributions from Couples:** Use this report to gather a list of records entered in the system as a couple and make corrections to transactions attributed to the couple instead of the individual, as required by law
+* **Deleted Transactions:** Use this report to view and restore transactions that were deleted within a given date range
+* **Expenditure Limit:** Use this report help with staying within legal expenditure limits
+* **IRS Form 1099-MISC/NEC:** Use this report to get the necessary information for preparing IRS Form 1099-NEC (Formerly 1099-MISC)
+* **Missing Addresses:** Use this report to gather a list of records missing any piece of the address and make corrections
+* **Missing Attachment Report:** Used in conjunction with the Dropbox integration, this report allows you to easily isolate transactions that do not have a file (receipt, invoice, etc.) attached to them.
+* **Missing Candidate Links:** Use this report to view and edit candidate committees that are not linked to a candidate
+* **Missing Committee ID Numbers:** Use this report to review and update Political Committees that do not have Committee ID Numbers
+* **Missing Compliance Notes:** Use this report to view and update any transactions that are missing a Compliance Note
+* **Missing Occupation/Employer:** Use this report to gather a list of records with no Occupation and/or Employer listed and make corrections
+* **Moved Reconciled Transaction:** Use this report to view transactions that were moved to a different financial account after being reconciled
+* **Partnerships Without Splits:** Use this report to view any transactions from Partnerships, LLCs, or LLPs that do not have Splits
+* **PO Box:** Use this report to gather a list of records that contains a transaction and uses a PO Box for their primary reportable address
+* **Potential Duplicate Transactions:** Use this report to determine if transactions are doubling up
+* **Subvendors:** Use this report to verify expenses have the correct subvendors and the details associated with them are correct
+* **Support Oppose Comparison:** Use this report to review Support/Oppose memos in your database and ensure the amounts match the expense they’re associated with
+
+[Help File Home](/help/) | [Full Index](/Help-File-Directory/) | [Contact Support](mailto:support@ISPolitical.com)
+
+[⇑ About Reports in ISP](/About-Reports-in-ISP)
+[« About the WY PAC Contributions and Expenditures Report](/About-the-WY-PAC-Contributions-and-Expenditures)
+[Compliance Report Post-Generation »](/Compliance-Report-Post-Generation)
 
 ---
 
@@ -6239,6 +10801,184 @@ To file your report, download the generated zip file and extract the files insid
 
 ---
 
+# WHEN ARE THE WASHINGTON FILING DEADLINES
+
+When Are the Washington Filing Deadlines?
+==========
+
+Applies To: Washington
+
+Below are deadlines for Washington compliance report filing.
+
+The Filing Deadline information provided here is offered only as a reference aid. The provided deadline information may contain inaccuracies and may not include all special elections or deadlines. For agency-specific details please visit the [Washington PDC](https://www.pdc.wa.gov/news-events/events) website.
+
+Ballot Measure
+----------
+
+* 07/15/2024: PDC Form C3 (Candidate)
+* 07/22/2024: PDC Form C3 (Candidate)
+* 07/29/2024: PDC Form C3 (Candidate)
+* 08/05/2024: PDC Form C3 (Candidate)
+* 08/12/2024: PDC Form C3 (Candidate)
+* 08/19/2024: PDC Form C3 (Candidate)
+* 08/26/2024: PDC Form C3 (Candidate)
+* 09/03/2024: PDC Form C3 (Candidate)
+* 09/09/2024: PDC Form C3 (Candidate)
+* 09/16/2024: PDC Form C3 (Candidate)
+* 09/23/2024: PDC Form C3 (Candidate)
+* 09/30/2024: PDC Form C3 (Candidate)
+* 10/07/2024: PDC Form C3 (Candidate)
+* 10/14/2024: PDC Form C3 (Candidate)
+* 10/21/2024: PDC Form C3 (Candidate)
+* 10/28/2024: PDC Form C3 (Candidate)
+* 11/04/2024: PDC Form C3 (Candidate)
+* 11/12/2024: PDC Form C3 (Candidate) (February 2025 Special Election)
+* 11/18/2024: PDC Form C3 (Candidate) (February 2025 Special Election)
+* 11/25/2024: PDC Form C3 (Candidate) (February 2025 Special Election)
+* 12/02/2024: PDC Form C3 (Candidate) (February/April 2025 Special Elections)
+* 12/09/2024: PDC Form C3 (Candidate) (February/April 2025 Special Elections)
+* 12/10/2024: PDC Form C3 (Candidate) (Post-General)
+* 12/16/2024: PDC Form C3 (Candidate) (February/April 2025 Special Elections)
+* 12/23/2024: PDC Form C3 (Candidate) (February/April 2025 Special Elections)
+* 12/30/2024: PDC Form C3 (Candidate) (February/April 2025 Special Elections)
+* 01/06/2025: PDC Form C3 (Candidate) (February/April 2025 Special Elections)
+* 01/13/2025: PDC Form C3 (Candidate) (February/April 2025 Special Elections)
+* 01/20/2025: PDC Form C3 (Candidate) (February/April 2025 Special Elections)
+* 01/27/2025: PDC Form C3 (Candidate) (February/April 2025 Special Elections)
+
+Candidate
+----------
+
+* 07/10/2024: PDC Form C4 (Candidate)
+* 07/15/2024: PDC Form C3 (Candidate)
+* 07/16/2024: PDC Form C4 (Candidate) (21 Day Pre-Primary)
+* 07/22/2024: PDC Form C3 (Candidate)
+* 07/29/2024: PDC Form C3 (Candidate)
+* 07/30/2024: PDC Form C4 (Candidate) (7 Day Pre-Primary)
+* 08/05/2024: PDC Form C3 (Candidate)
+* 08/12/2024: PDC Form C3 (Candidate)
+* 08/12/2024: PDC Form C4 (Candidate)
+* 08/19/2024: PDC Form C3 (Candidate)
+* 08/26/2024: PDC Form C3 (Candidate)
+* 09/03/2024: PDC Form C3 (Candidate)
+* 09/09/2024: PDC Form C3 (Candidate)
+* 09/10/2024: PDC Form C4 (Candidate)
+* 09/10/2024: PDC Form C4 (Candidate)
+* 09/16/2024: PDC Form C3 (Candidate)
+* 09/23/2024: PDC Form C3 (Candidate)
+* 09/30/2024: PDC Form C3 (Candidate)
+* 10/07/2024: PDC Form C3 (Candidate)
+* 10/10/2024: PDC Form C4 (Candidate)
+* 10/14/2024: PDC Form C3 (Candidate)
+* 10/15/2024: PDC Form C4 (Candidate) (21 Day Pre-General)
+* 10/21/2024: PDC Form C3 (Candidate)
+* 10/28/2024: PDC Form C3 (Candidate)
+* 10/29/2024: PDC Form C4 (Candidate) (7 Day Pre-General)
+* 11/04/2024: PDC Form C3 (Candidate)
+* 11/12/2024: PDC Form C3 (Candidate) (February 2025 Special Election)
+* 11/12/2024: PDC Form C4 (Candidate)
+* 11/18/2024: PDC Form C3 (Candidate) (February 2025 Special Election)
+* 11/25/2024: PDC Form C3 (Candidate) (February 2025 Special Election)
+* 12/02/2024: PDC Form C3 (Candidate) (February/April 2025 Special Elections)
+* 12/09/2024: PDC Form C3 (Candidate) (February/April 2025 Special Elections)
+* 12/10/2024: PDC Form C3 (Candidate) (Post-General)
+* 12/10/2024: PDC Form C4 (Candidate) (Post-General)
+* 12/16/2024: PDC Form C3 (Candidate) (February/April 2025 Special Elections)
+* 12/23/2024: PDC Form C3 (Candidate) (February/April 2025 Special Elections)
+* 12/30/2024: PDC Form C3 (Candidate) (February/April 2025 Special Elections)
+* 01/06/2025: PDC Form C3 (Candidate) (February/April 2025 Special Elections)
+* 01/13/2025: PDC Form C3 (Candidate) (February/April 2025 Special Elections)
+* 01/20/2025: PDC Form C3 (Candidate) (February/April 2025 Special Elections)
+* 01/27/2025: PDC Form C3 (Candidate) (February/April 2025 Special Elections)
+
+Other
+----------
+
+* 07/10/2024: PDC Form C4 (Candidate)
+* 07/15/2024: PDC Form C3 (Candidate)
+* 07/16/2024: PDC Form C4 (Candidate) (21 Day Pre-Primary)
+* 07/22/2024: PDC Form C3 (Candidate)
+* 07/29/2024: PDC Form C3 (Candidate)
+* 07/30/2024: PDC Form C4 (Candidate) (7 Day Pre-Primary)
+* 08/05/2024: PDC Form C3 (Candidate)
+* 08/12/2024: PDC Form C3 (Candidate)
+* 08/12/2024: PDC Form C4 (Candidate)
+* 08/19/2024: PDC Form C3 (Candidate)
+* 08/26/2024: PDC Form C3 (Candidate)
+* 09/03/2024: PDC Form C3 (Candidate)
+* 09/09/2024: PDC Form C3 (Candidate)
+* 09/10/2024: PDC Form C4 (Candidate)
+* 09/10/2024: PDC Form C4 (Candidate)
+* 09/16/2024: PDC Form C3 (Candidate)
+* 09/23/2024: PDC Form C3 (Candidate)
+* 09/30/2024: PDC Form C3 (Candidate)
+* 10/07/2024: PDC Form C3 (Candidate)
+* 10/10/2024: PDC Form C4 (Candidate)
+* 10/14/2024: PDC Form C3 (Candidate)
+* 10/15/2024: PDC Form C4 (Candidate) (21 Day Pre-General)
+* 10/21/2024: PDC Form C3 (Candidate)
+* 10/28/2024: PDC Form C3 (Candidate)
+* 10/29/2024: PDC Form C4 (Candidate) (7 Day Pre-General)
+* 11/04/2024: PDC Form C3 (Candidate)
+* 11/12/2024: PDC Form C3 (Candidate) (February 2025 Special Election)
+* 11/12/2024: PDC Form C4 (Candidate)
+* 11/18/2024: PDC Form C3 (Candidate) (February 2025 Special Election)
+* 11/25/2024: PDC Form C3 (Candidate) (February 2025 Special Election)
+* 12/02/2024: PDC Form C3 (Candidate) (February/April 2025 Special Elections)
+* 12/09/2024: PDC Form C3 (Candidate) (February/April 2025 Special Elections)
+* 12/10/2024: PDC Form C3 (Candidate) (Post-General)
+* 12/10/2024: PDC Form C4 (Candidate) (Post-General)
+* 12/16/2024: PDC Form C3 (Candidate) (February/April 2025 Special Elections)
+* 12/23/2024: PDC Form C3 (Candidate) (February/April 2025 Special Elections)
+* 12/30/2024: PDC Form C3 (Candidate) (February/April 2025 Special Elections)
+* 01/06/2025: PDC Form C3 (Candidate) (February/April 2025 Special Elections)
+* 01/13/2025: PDC Form C3 (Candidate) (February/April 2025 Special Elections)
+* 01/20/2025: PDC Form C3 (Candidate) (February/April 2025 Special Elections)
+* 01/27/2025: PDC Form C3 (Candidate) (February/April 2025 Special Elections)
+
+You’re able to add Filing Deadlines found in ISP to your own digital calendar with our [Calendar Feed tool](https://ispolitical.com/what-are-calendar-feeds/).
+
+To see more information about Washington compliance report filing with ISP, please visit our [Washington Filing and FAQ Resources](https://ispolitical.com/washington-campaign-party-pac-filing-faq-and-resources/) page.
+
+[Help File Home](/help/) | [Full Index](/Help-File-Directory/) | [Contact Support](mailto:support@ISPolitical.com)
+
+[« Washington Campaign, Party, & PAC Filing FAQ and Resources](/Washington-Campaign-Party-PAC-Filing-FAQ-and-Resources)
+[Tokens, Passwords, and Filing Washington State (PDC) Reports »](/Tokens-Passwords-and-Filing-Washington-State-PDC-Reports)
+
+---
+
+# IOWA CAMPAIGN PARTY PAC FILING FAQ AND RESOURCES
+
+Iowa Campaign, Party, & PAC Filing FAQ and Resources
+==========
+
+Applies To: Iowa
+
+Below are links to resources to help you file your Iowa reports.
+
+### FAQ ###
+
+* [When Are the Iowa Filing Deadlines?](https://ispolitical.com/When-Are-the-Iowa-Filing-Deadlines)
+* [About the IA Form DR2 Report](https://ispolitical.com/About-the-IA-Form-DR2)
+
+**Resources**
+
+[Elections Site
+](http://sos.iowa.gov/elections/candidates/index.html)[Filing Guide](https://ethics.iowa.gov/campaigns/campaigns-101)
+[Filing Calendar](https://ethics.iowa.gov/reports/campaign-report-due-dates)
+
+**Supported Reports**
+
+IA Form DR2 (Campaign Disclosure Report)
+
+[Help File Home](/help/) | [Full Index](/Help-File-Directory/) | [Contact Support](mailto:support@ISPolitical.com)
+
+[⇑ About Compliance Reports](/About-Compliance-Reports)
+[« How do I Report Indiana Transfers-In?](/How-do-I-Report-Indiana-Transfers-In)
+[When Are the Iowa Filing Deadlines? »](/When-Are-the-Iowa-Filing-Deadlines)
+
+---
+
 # HOW DO I ADD A FULL OR PARTIAL PAYMENT TO AN ACCRUED EXPENSE
 
 How Do I Add a Full OR Partial Payment to an Accrued Expense?
@@ -6312,6 +11052,36 @@ You’re able to add Filing Deadlines found in ISP to your own digital calendar 
 To see more information about IRS compliance report filing with ISP, please visit our [IRS Filing and FAQ Resources](https://ispolitical.com/irs-filing-faq-and-resources/) page.
 
 [Help File Directory](/help/)[Contact Support](mailto:support@ISPolitical.com)
+
+---
+
+# WHY CAN T I SEE THE FEC FORM 3P
+
+Why Can’t I See the FEC Form 3P?
+==========
+
+Applies To: Federal Election Commission – Candidate Committees
+
+If you are a Form 3P filer and can’t see the Form 3P as an available report in the dropdown, there are some additional data entry steps you’ll need to take.
+
+First, ensure your [Committee and Candidate](https://ispolitical.com/what-records-are-needed-for-compliance-reporting/) records are set up.
+
+### On the Candidate Record ###
+
+* You must set Office Sought (or Office Held) to: US President.
+* Set Office Sought Jurisdiction to: Federal.
+
+### On the Committee Record ###
+
+* Set the Committee Info Type: Candidate and Jurisdiction: Federal.
+
+These additional steps ensure you are shown the correct report, either the Form 3 for House/Senate Candidates or the Form 3P for Presidential Candidates.
+
+[Help File Home](/help/) | [Full Index](/Help-File-Directory/) | [Contact Support](mailto:support@ISPolitical.com)
+
+[⇑ FEC Campaign, Party, & PAC Filing FAQ and Resources](/FEC-Campaign-Party-PAC-Filing-FAQ-and-Resources)
+[« About the FEC Form 3P Report](/About-the-FEC-Form-3P-Report)
+[About the FEC Form 3 (PAC) Report »](/About-the-FEC-Form-3-PAC-Report)
 
 ---
 
@@ -6456,6 +11226,152 @@ To file your RCE report, you must generate and download your e-file to upload to
 
 ---
 
+# WHAT ARE CHECK REQUESTS
+
+What Are Check Requests?
+==========
+
+Handling multiple check requests for various expenses can be difficult to manage. Fortunately, all the requests you receive can now be received and processed in one place in ISP.
+
+To install this tool, first select Add/Remove Tools under the Tools tab. Next, on the Tools page, type Check in the search bar. Then, click the Check Requests section header that appears under the word Available.
+
+If the feature has not been enabled yet, you’ll first see a message welcoming you to the feature and also providing an email address you can share with others. This will allow them to send the check request directly to the system instead of your email inbox.
+
+The format of the email address will be [account name]@checkrequest.ISPolitical.com.
+
+Once you’ve copied down the email address, click the Enable button at the bottom of the screen. Doing so will allow requests to be received and processed.
+
+When you receive a request for a check, you’ll see the request on the Check Requests screen, which will include the date of the request, who the request is from, and the text of their email.
+
+At the bottom of the screen, you’ll see three options:
+
+**Reject:** This option allows you to reject the request, as well as provide a reason for the rejection. Also, the individual who requested the check will receive an email notification that the check request was rejected and also see the reason why.
+
+**Skip For Now:** This option allows you to skip the request and move on to the next request if more time is needed to consider the request.
+
+**Create Expense:** This option will direct you immediately to the Add Transaction screen, where you can add the expense details, after which you’ll be able to print the check and move forward. Furthermore, the individual who requested the check will also receive an email stating the request was accepted and a check is being processed.
+
+[Help File Home](/help/) | [Full Index](/Help-File-Directory/) | [Contact Support](mailto:support@ISPolitical.com)
+
+[⇑ About Tools in ISP](/About-Tools-in-ISP)
+[« What Are Call Sheets?](/What-Are-Call-Sheets)
+[How Do I Combine Duplicates? »](/How-Do-I-Combine-Duplicates)
+
+---
+
+# FORM 3 ERRORS AND WARNINGS
+
+Form 3 Errors and Warnings
+==========
+
+Applies To: Federal Election Commission – Candidate Committees
+
+Sometimes you’ll encounter warnings or errors after generating a FEC Form 3 report that can easily be resolved. Below are a few common errors and how to get rid of them. For most of these you can use the hot dog menu to the right of the error to navigate to the specific location where the fix needs to happen.
+
+Committee or Candidate Related Issues
+----------
+
+First, review your [filer’s record settings](https://ispolitical.com/What-Records-are-Needed-for-Compliance-Reporting/). Ensuring your filer is set up correctly will save you a lot of headaches down the road.
+
+**Required Committee ID Number or Invalid FEC Committee ID Number**
+You can update this in the Committee Info section. Click the edit icon in the top right and add or edit the info in the ID Number field.
+
+**Required Treasurer**
+Make sure the treasurer has been added to the database as an Individual. If not, add the treasurer. Then navigate to the Committee record and go to the Relationships section. Click the edit icon in the top right of the section and in the window that appears, search for the Treasurer’s individual record in Affiliated and choose Treasurer from the Relationship Type menu.
+
+**Invalid FEC Candidate Office Sought ID Number**
+Navigate to the Candidate’s record and in the Candidate Info section, click the edit icon in the top right corner. In the window that appears, add or edit the Office Sought ID Number. Make sure you use the [Candidate ID](https://ispolitical.com/What-is-the-Difference-Between-FEC-Candidate-IDs-and-Committee-IDs/) rather than the Committee ID.
+
+Donor Related Issues
+----------
+
+**Required Address**
+In the donor’s Individual record, locate the Address section and click the Add icon in the right corner. Add the address and be sure to mark it as Primary Reportable.
+
+**Required Occupation and Required Employer**
+In the donor’s Individual record, specifically at the top of the record, will be where Occupation and Employer information, among other data, is found. In order to edit this information, click the edit icon in the top right and in the window that appears, add Occupation and Employer information.
+
+Transaction Related Issues
+----------
+
+**Required Note for Compliance**
+When you see this error, a specific transaction requires a note that will be included on the report explaining the purpose of the transaction. You can handle this by navigating to the transaction either from the Register or within the entity’s record, then click the transaction in question to view the details of the transaction. Locate the Compliance Note field and add the purpose of the transaction.
+
+Report Generation Related Issues
+----------
+
+**This filing is older than the last amendment**
+If you see this error, please double check the FEC ID you are using of the [report you are amending](https://ispolitical.com/Best-Practices-for-Filing-FEC-Amendments/). This can be found on your committee’s page on the FEC site. Also double check the Number of Amendments.
+
+**There is a calculation discrepancy with the current Election Cycle to Date total for Line X.**
+Current Election Cycle to Date total should be equal to Period Total plus previously filed Election Cycle to Date
+
+If you are receiving this error, most likely a transaction on a previously filed report has changed – for example, new transactions were added, an older transaction was removed, a financial account was updated, a committee type was updated, a relationship to the filer added or removed, or a transaction tag was added or removed. Any one of those actions would change how a transaction was reported and therefore impact the summary line totals.
+
+Use the Changed Transactions Report found on the [Compliance Tools](https://ispolitical.com/About-Compliance-Tools/) page under the Reports tab. In the Report menu select Changed Transactions, select the filer if there are multiple in your database, then add the Report Close Date and Report Generation Date. This will list potential transactions that may be causing the discrepancy.
+
+You can also generate reports moving back one report at a time until the report generated matches the report filed. You’ll then know the next report is where the discrepancy started. From there, do a line by line comparison with the reports to determine what transaction either went missing from the line or was added to the line.
+
+**Starting Cash On Hand not equal to Ending Cash on Hand on Previous Filed Report**
+Typically this happens when transactions have been added or removed from a financial account or database after a report has been filed. Just as with a line calculation discrepancy, this can be determined by comparing reports that have been filed with the same report freshly generated out of the system. Once you locate when they match, the report after that will be where the discrepancy occurred.
+
+**Calculation discrepancy with the current Election Cycle to Date total for Lines 11ai and 11aii but not 11aiii.**
+If you are receiving this error for lines 11ai and 11ai but not 11aiii, the cause is likely the value you entered for Previous Unitemized Individual Donations when generating the report. Confirm that is correct or use the Get from FEC feature.
+
+[Help File Home](/help/) | [Full Index](/Help-File-Directory/) | [Contact Support](mailto:support@ISPolitical.com)
+
+[⇑ About the FEC Form 3 Report](/About-the-FEC-Form-3-Report)
+[« How Do I Pull a Transaction to a Specific Line on the FEC Form 3?](/How-Do-I-Pull-a-Transaction-to-a-Specific-Line-on-the-FEC-Form-3)
+[How Do I Add a Form 3Z to the FEC Form 3 Report? »](/How-Do-I-Add-a-Form-3Z-to-the-FEC-Form-3-Report)
+
+---
+
+# WHEN ARE THE NORTH DAKOTA FILING DEADLINES
+
+When Are the North Dakota Filing Deadlines?
+==========
+
+Applies To: North Dakota
+
+Below are deadlines for North Dakota compliance report filing.
+
+The Filing Deadline information provided here is offered only as a reference aide. The provided deadline information may contain inaccuracies and may not include all special elections or deadlines. For agency specific details please visit the [North Dakota SoS website](https://vip.sos.nd.gov/PortalListDetails.aspx?ptlhPKID=109&ptlPKID=2#content-start).
+
+Candidate
+----------
+
+* 10/04/2024: ND Campaign Disclosure Statement (SFN 53970) (Pre-General)
+* 01/31/2025: ND Campaign Disclosure Statement (SFN 53970) (Year-End)
+
+You’re able to add Filing Deadlines found in ISP to your own digital calendar with our [Calendar Feed Tool](https://ispolitical.com/Calendar-Feeds/).
+
+To see more information about North Dakota compliance report filing with ISP, please visit our [North Dakota Filing and FAQ Resources](https://ispolitical.com/North-Dakota-Campaign-Party-PAC-Filing-FAQ-and-Resources/) page.
+
+[Help File Home](/help/) | [Full Index](/Help-File-Directory/) | [Contact Support](mailto:support@ISPolitical.com)
+
+[⇑ North Dakota Campaign, Party, & PAC Filing FAQ and Resources](/North-Dakota-Campaign-Party-PAC-Filing-FAQ-and-Resources)
+[« ND Form Sfn 53970 Line by Line](/ND-Form-Sfn-5397-Line-by-Line)
+[Ohio Campaign, Party, & PAC Filing FAQ and Resources »](/Ohio-Campaign-Party-PAC-Filing-FAQ-and-Resources)
+
+---
+
+# ABOUT RECORD DEPOSIT
+
+About Record Deposit
+==========
+
+* [How Do I Record a Deposit?](https://ispolitical.com/How-Do-I-Record-a-Deposit)
+* [How Do I Update OR Edit a Deposit?](https://ispolitical.com/How-Do-I-Update-OR-Edit-a-Deposit)
+* [How Do I Add Refunds to Integrations Deposits?](https://ispolitical.com/Adding-Refunds-to-Integrations-Deposits)
+
+[Help File Home](/help/) | [Full Index](/Help-File-Directory/) | [Contact Support](mailto:support@ISPolitical.com)
+
+[⇑ About Accounting in ISP](/About-Accounting-in-ISP)
+[« What Is Bank Statement Reconciliation & How Do I Use It?](/What-Is-Bank-Statement-Reconciliation-How-Do-I-Use-It)
+[How Do I Record a Deposit? »](/How-Do-I-Record-a-Deposit)
+
+---
+
 # WHY ARE LINES 2 AND 21 SHOWING AS ON MY REPORT
 
 Why Are Lines 20 and 21 Showing as $0.00 on My Report?
@@ -6562,6 +11478,41 @@ Note: Quick Emails will only be an option on individual records with emails alre
 
 ---
 
+# KANSAS CAMPAIGN PARTY PAC FILING FAQ AND RESOURCES
+
+Kansas Campaign, Party, & PAC Filing FAQ and Resources
+==========
+
+Applies To: Kansas
+
+Below are links to resources to help you file your Kansas reports.
+
+### FAQ ###
+
+* [When Are the Kansas Filing Deadlines?](https://ispolitical.com/When-Are-the-Kansas-Filing-Deadlines)
+* [About the KS PAC Report](https://ispolitical.com/About-the-KS-PAC-Report)
+* [About the KS Last Minute Report](https://ispolitical.com/About-the-KS-Last-Minute-Report)
+
+**Resources**
+
+[Elections Site
+](https://sos.ks.gov/elections/elections.html)[Filing Guide](https://ethics.kansas.gov/campaign-finance/publications/)
+[Filing Calendar](http://ethics.ks.gov/CFAForms/CFAReportDueDates.pdf)
+[FAQ](http://ethics.ks.gov/CFAForms/FrequentlyAskedQuestions.html)
+
+**Supported Reports**
+
+KS Last Minute Report (LMR)
+KS PAC Report
+
+[Help File Home](/help/) | [Full Index](/Help-File-Directory/) | [Contact Support](mailto:support@ISPolitical.com)
+
+[⇑ About Compliance Reports](/About-Compliance-Reports)
+[« About the IA Form DR2 Report](/About-the-IA-Form-DR2)
+[When Are the Kansas Filing Deadlines? »](/When-Are-the-Kansas-Filing-Deadlines)
+
+---
+
 # FINANCIAL REPORT RECIPE DONORS BY QUARTER USING CONDUIT DATE
 
 Financial Report Recipe: Donors by Quarter Using Conduit Date
@@ -6640,6 +11591,837 @@ This report also supports Investments. Create a Financial Account with Investmen
 
 ---
 
+# HELP FILE DIRECTORY
+
+Help File Directory
+==========
+
+1. [Professional Political Firm Directory](https://ispolitical.com/Professional-Political-Firm-Directory)
+2. [How Do I Get Started in ISP?](https://ispolitical.com/How-Do-I-Get-Started-in-ISP)
+1. [Which Browser Should I Use?](https://ispolitical.com/Which-Browser-Should-I-Use)
+2. [What Is the Multi-Account Dashboard?](https://ispolitical.com/What-Is-the-Multi-Account-Dashboard)
+3. [What Is the Initial Account Set Up & Agreement?](https://ispolitical.com/What-Is-the-Initial-Account-Set-Up-Agreement)
+4. [What Are the Tabs on the Dashboard?](https://ispolitical.com/What-Are-the-Tabs-on-the-Dashboard)
+5. [How Do I Set Up My Compliance Reporting?](https://ispolitical.com/How-Do-I-Set-Up-My-Compliance-Reporting)
+6. [How Do I Get Data in My New Database?](https://ispolitical.com/How-Do-I-Get-Data-in-My-New-Database)
+7. [How Do I Use Quick Search?](https://ispolitical.com/How-Do-I-Use-Quick-Search)
+8. [What Are the Dashboard Charts and Graphs?](https://ispolitical.com/What-Are-the-Dashboard-Charts-and-Graphs)
+9. [What Is the Dashboard Customization?](https://ispolitical.com/What-Is-the-Dashboard-Customization)
+10. [What Are the Key Statistics on the Dashboard?](https://ispolitical.com/What-Are-the-Key-Statistics-on-the-Dashboard)
+11. [What Are Pending Imports and How Do I Process Them?](https://ispolitical.com/What-Are-Pending-Imports-and-How-Do-I-Process-Them)
+12. [What Do the Different Button Colors Mean?](https://ispolitical.com/What-Do-the-Different-Button-Colors-Mean)
+
+3. [How Can I Use ISP in My Favor?](https://ispolitical.com/How-Can-I-Use-ISP-in-My-Favor)
+1. [What Are ISP Best Practices?](https://ispolitical.com/What-Are-ISP-Best-Practices)
+2. [What Are Accounting Practices to Keep In Mind?](https://ispolitical.com/What-Are-Accounting-Practices-to-Keep-In-Mind)
+3. [How Can I Best Manage Duplicates in My Database?](https://ispolitical.com/How-Can-I-Best-Manage-Duplicates-in-My-Database)
+4. [Compliance Errors and Descriptions in ISP](https://ispolitical.com/Compliance-Errors-and-Descriptions-in-ISP)
+5. [What Are Volunteer Sign Up Form Options in ISP?](https://ispolitical.com/What-Are-Volunteer-Sign-Up-Form-Options-in-ISP)
+
+4. [About Accounting in ISP](https://ispolitical.com/About-Accounting-in-ISP)
+1. [What Are MIA Donation Totals?](https://ispolitical.com/What-Are-MIA-Donation-Totals)
+2. [What Are Key Statistics?](https://ispolitical.com/What-Are-Key-Statistics)
+3. [About Transactions](https://ispolitical.com/About-Transactions)
+1. [How Do I Add a Contribution to Other Committees?](https://ispolitical.com/How-Do-I-Add-a-Contribution-to-Other-Committees)
+2. [How Do I Add New Transactions?](https://ispolitical.com/How-Do-I-Add-New-Transactions)
+3. [What Are the Available Transaction Types in ISP?](https://ispolitical.com/What-Are-the-Available-Transaction-Types-in-ISP)
+4. [What Are Transaction Limits?](https://ispolitical.com/What-Are-Transaction-Limits)
+5. [About Aggregates](https://ispolitical.com/About-Aggregates)
+6. [What Do the Different Colors Mean When Adding Transactions?](https://ispolitical.com/What-Do-the-Different-Colors-Mean-When-Adding-Transactions)
+7. [Entering Unusual Transactions](https://ispolitical.com/Entering-Unusual-Transactions)
+1. [How Do I Enter Returned Checks Due to Insufficient Funds?](https://ispolitical.com/How-Do-I-Enter-Returned-Checks-Due-to-Insufficient-Funds)
+2. [What Are Reversals and Refunds & How Do I Add Them?](https://ispolitical.com/What-Are-Reversals-and-Refunds-How-Do-I-Add-Them)
+3. [How Do I Create a Reversed Split Transaction?](https://ispolitical.com/How-Do-I-Create-a-Reversed-Split-Transaction)
+4. [How Do I Create an Independent Expenditure?](https://ispolitical.com/How-Do-I-Create-an-Independent-Expenditure)
+5. [How Do I Add a Reattribution OR Redesignation?](https://ispolitical.com/How-Do-I-Add-a-Reattribution-OR-Redesignation)
+6. [How Do I Void A Recorded Check?](https://ispolitical.com/How-Do-I-Void-a-Recorded-Check)
+7. [How Do I Add Conduit Transactions & Processing Fees?](https://ispolitical.com/How-Do-I-Add-Conduit-Transactions-Processing-Fees)
+
+8. [What Is an Accrued Expense?](https://ispolitical.com/What-Is-an-Accrued-Expense)
+1. [How Do I Create and Report Accrued Expenses Without the Invoice?](https://ispolitical.com/How-Do-I-Create-and-Report-Accrued-Expenses-Without-the-Invoice)
+
+9. [How Do I Create ActBlue Conduit Transaction Deposit After an Import?](https://ispolitical.com/How-Do-I-Create-ActBlue-Conduit-Transaction-Deposit-After-an-Import)
+1. [How Do I Add ActBlue Fees?](https://ispolitical.com/How-Do-I-Add-ActBlue-Fees)
+
+10. [How Do I Enter Conduit and Earmarked Transactions?](https://ispolitical.com/How-Do-I-Enter-Conduit-and-Earmarked-Transactions)
+11. [How Do I Record Inkind Made Transactions?](https://ispolitical.com/How-Do-I-Record-Inkind-Made-Transactions)
+12. [What Are Levin Funds and How Do I Add Them?](https://ispolitical.com/What-Are-Levin-Funds-and-How-Do-I-Add-Them)
+13. [How Do I Enter a Non-Travel Advance of Personal Funds?](https://ispolitical.com/How-Do-I-Enter-a-Non-Travel-Advance-of-Personal-Funds)
+14. [How Do I Record Loans? ](https://ispolitical.com/How-Do-I-Record-Loans)
+15. [How Do I Record Petty Cash Transactions?](https://ispolitical.com/How-to-Record-Petty-Cash)
+16. [What Are Memos & Splits and How Do I Add Them?](https://ispolitical.com/What-Are-Memos-Splits-and-How-Do-I-Add-Them)
+17. [How Do I Add a Support/Oppose Memo?](https://ispolitical.com/How-Do-I-Add-a-Support-Oppose-Memo)
+18. [What Are Monetary Contribution Transaction Tags?](https://ispolitical.com/What-Are-Monetary-Contribution-Transaction-Tags)
+19. [What Are Expense Transaction Tags and How Do I Use Them?](https://ispolitical.com/What-Are-Expense-Transaction-Tags-and-How-Do-I-Use-Them)
+20. [What Are Internal Transfers?](https://ispolitical.com/About-Internal-Transfers)
+21. [How Do I Create a Reimbursement?](https://ispolitical.com/How-to-Create-a-Reimbursement)
+
+4. [What Are Allocations & How Do I Use Them?](https://ispolitical.com/What-Are-Allocations-How-Do-I-Use-Them)
+1. [What Is an Allocation Transfer?](https://ispolitical.com/What-Is-an-Allocation-Transfer)
+
+5. [About Balances](https://ispolitical.com/About-Balances)
+1. [How Do I Create Transactions Considered Debt?](https://ispolitical.com/How-Do-I-Create-Transactions-Considered-Debt)
+2. [How Do I Add a Full OR Partial Payment to an Accrued Expense?](https://ispolitical.com/How-Do-I-Add-a-Full-OR-Partial-Payment-to-an-Accrued-Expense)
+3. [How Do I Add a Loan Repayment or Forgiveness?](https://ispolitical.com/How-Do-I-Add-a-Loan-Repayment-or-Forgiveness)
+4. [How Do I Generate Reports of Pledges & Targets?](https://ispolitical.com/How-Do-I-Generate-Reports-of-Pledges-Targets)
+5. [How Do I Enter Credit Card Purchases?](https://ispolitical.com/How-Do-I-Enter-Credit-Card-Purchases)
+
+6. [What Are Budgets and How Do I Add One?](https://ispolitical.com/What-Are-Budgets-and-How-Do-I-Add-One)
+7. [What Are Intra-Account Transfers?](https://ispolitical.com/What-Are-Intra-Account-Transfers)
+8. [What Is JFC Management?](https://ispolitical.com/What-Is-JFC-Management)
+9. [About Check Printing](https://ispolitical.com/About-Check-Printing)
+1. [How Do I Print Checks?](https://ispolitical.com/How-Do-I-Print-Checks)
+2. [How Do I Batch Print Checks?](https://ispolitical.com/Batch-Check-Printing)
+
+10. [What Is Bank Statement Reconciliation & How Do I Use It?](https://ispolitical.com/What-Is-Bank-Statement-Reconciliation-How-Do-I-Use-It)
+11. [About Record Deposit](https://ispolitical.com/About-Record-Deposit)
+1. [How Do I Record a Deposit?](https://ispolitical.com/How-Do-I-Record-a-Deposit)
+2. [How Do I Update OR Edit a Deposit?](https://ispolitical.com/How-Do-I-Update-OR-Edit-a-Deposit)
+3. [How Do I Add Refunds to Integrations Deposits?](https://ispolitical.com/Adding-Refunds-to-Integrations-Deposits)
+
+12. [What Are Recurring Transactions and How Do I Add One?](https://ispolitical.com/What-Are-Recurring-Transactions-and-How-Do-I-Add-One)
+13. [What Is the Register?](https://ispolitical.com/What-Is-the-Register)
+14. [About Thank Donors](https://ispolitical.com/About-Thank-Donors)
+1. [How Do I Thank Donors & View Previously Thanked Donors?](https://ispolitical.com/How-Do-I-Thank-Donors-View-Previously-Thanked-Donors)
+2. [How Do I Create Thank You Letters Using Microsoft Word?](https://ispolitical.com/Creating-Thank-You-Letters)
+
+5. [About Add/Search](https://ispolitical.com/About-Add-Search)
+1. [About Entities in ISP](https://ispolitical.com/About-Entities-in-ISP)
+1. [How Do I Combine Duplicates in Search Results?](https://ispolitical.com/How-Do-I-Combine-Duplicates-in-Search-Results)
+2. [How Do I Create New Relationships?](https://ispolitical.com/How-Do-I-Create-New-Relationships)
+3. [What Are Pledges & Targets and How Do I Add Them to Records?](https://ispolitical.com/About-Pledges-Targets-and-How-to-Add-Them-to-Records)
+4. [How Do I Track Pledges?](https://ispolitical.com/Adding-and-Tracking-Pledges)
+5. [How Do I Generate Call Sheets?](https://ispolitical.com/How-Do-I-Generate-Call-Sheets)
+6. [How Do I Add International Addresses to ISP?](https://ispolitical.com/How-Do-I-Add-International-Addresses-to-ISP)
+
+2. [About Individual Records](https://ispolitical.com/About-Individual-Records)
+1. [How Do I Use the Individual Search?](https://ispolitical.com/Using-Individual-Search)
+2. [What Is Householding and How Do I Create a Householded List?](https://ispolitical.com/What-Is-Householding-and-How-Do-I-Create-a-Householded-List)
+3. [How Do I Use Relationships to Add New Individuals & Copy Contact Info?](https://ispolitical.com/Using-Relationships-to-Add-New-Individual-Copy-Contact-Info)
+4. [What Is Time Tracking?](https://ispolitical.com/What-Is-Time-Tracking)
+
+3. [About Organization Records](https://ispolitical.com/About-Organization-Records)
+1. [How Do I Use the Organization Search?](https://ispolitical.com/How-Do-I-Use-the-Organization-Search)
+
+4. [What Is Advanced Search and How Do I Use It?](https://ispolitical.com/What-Is-Advanced-Search-and-How-Do-I-Use-It)
+1. [What Are the New Search Group and Add Compound Rule Buttons in Advanced Search?](https://ispolitical.com/What-Are-the-New-Search-Group-and-Add-Compound-Rule-Buttons-in-Advanced-Search)
+2. [How Do I Filter My Advanced Search by State and Local Districts?](https://ispolitical.com/How-Do-I-Filter-My-Advanced-Search-by-State-and-Local-Districts)
+3. [What Are Advanced Search Recipes?](https://ispolitical.com/What-Are-Advanced-Search-Recipes)
+1. [How Do I Locate Donors Over the Limit?](https://ispolitical.com/How-Do-I-Locate-Donors-Over-the-Limit)
+2. [How Do I Find Transactions Added on a Specific Date?](https://ispolitical.com/How-Do-I-Find-Transactions-Added-on-a-Specific-Date)
+3. [How Do I Locate First Time Donors Using Advanced Search?](https://ispolitical.com/How-Do-I-Locate-First-Time-Donors-Using-Advanced-Search)
+4. [How Do I Exclude Results Based on Flags Using Advanced Search?](https://ispolitical.com/How-Do-I-Exclude-Results-Based-on-Flags-Using-Advanced-Search)
+5. [How Do I Isolate Out-Of-State Income Using Advanced Search?](https://ispolitical.com/How-Do-I-Isolate-Out-Of-State-Income-Using-Advanced-Search)
+6. [How Do I Find All PACs That Gave in the Primary and General Cycle?](https://ispolitical.com/How-Do-I-Find-All-PACs-That-Gave-in-the-Primary-and-General-Cycle)
+7. [How Do I Find Donors Who Gave to the Primary but Not the General?](https://ispolitical.com/How-Do-I-Find-Donors-Who-Gave-to-the-Primary-but-Not-the-General)
+8. [How Do I Find Non-donors?](https://ispolitical.com/How-Do-I-Find-Non-donors)
+9. [How Do I Find Communications Made By Date and/or Type?](https://ispolitical.com/How-Do-I-Find-Communications-Made-By-Date-and-or-Type)
+10. [How Do I Locate Foreign Addresses Using Advanced Search?](https://ispolitical.com/How-Do-I-Locate-Foreign-Addresses-Using-Advanced-Search)
+
+4. [How Do I Set Flags Using Advanced Search & AI?](https://ispolitical.com/How-to-Set-Flags-Using-Advanced-Search)
+5. [How Do I Copy Data Between My Accounts?](https://ispolitical.com/How-Do-I-Copy-Data-Between-My-Accounts)
+6. [How Do I Create and Manage Custom Exports?](https://ispolitical.com/How-Do-I-Create-and-Manage-Custom-Exports)
+7. [What Is the Difference Between Actor and User Fields in Advanced Search?](https://ispolitical.com/Difference-Between-Actor-and-User-Fields-in-Advanced-Search)
+8. [How Do I Locate Uncontacted Individuals Using Advanced Search?](https://ispolitical.com/How-Do-I-Locate-Uncontacted-Individuals-Using-Advanced-Search)
+
+6. [About Reports in ISP](https://ispolitical.com/About-Reports-in-ISP)
+1. [About Compliance Reports](https://ispolitical.com/About-Compliance-Reports)
+1. [What Are Compliance Reports?](https://ispolitical.com/What-Are-Compliance-Reports)
+2. [Beta Compliance Reports](https://ispolitical.com/Beta-Compliance-Reports)
+3. [About Generating and Filing Compliance Reports](https://ispolitical.com/About-Generating-and-Filing-Compliance-Reports)
+4. [Why Is My Compliance Report Cash on Hand Different From My Register Cash on Hand?](https://ispolitical.com/Why-Is-My-Compliance-Report-Cash-on-Hand-Different-From-My-Register-Cash-on-Hand)
+5. [What Records are Needed for Compliance Reporting?](https://ispolitical.com/What-Records-are-Needed-for-Compliance-Reporting)
+1. [How Do I Add or Set a Filer?](https://ispolitical.com/How-Do-I-Add-or-Set-a-Filer)
+2. [How Do I Add Multiple Filers or Change the Existing Filer?](https://ispolitical.com/How-to-Add-Multiple-Filers-to-Your-Database-or-Change-the-Existing-Filer)
+
+6. [How Do I Find Out My State’s Filing Dates?](https://ispolitical.com/How-Do-I-Find-Out-My-State-s-Filing-Dates)
+7. [What Are the Sort Order Options for Compliance Reports?](https://ispolitical.com/What-Are-the-Sort-Order-Options-for-Compliance-Reports)
+8. [I Didn’t File My Report, What Should I Do Now?](https://ispolitical.com/I-Didn-t-File-My-Report-What-Should-I-Do-Now)
+9. [How Do I Prepare My Termination Report?](https://ispolitical.com/Preparing-for-a-Termination-Report-How-to-Close-Your-ISP-Account)
+10. [What Is the Password Safe?](https://ispolitical.com/What-Is-the-Password-Safe)
+11. [IRS Filing FAQ and Resources](https://ispolitical.com/IRS-Filing-FAQ-and-Resources)
+1. [What Is the IRS Form 8872 & How Do I Prepare and File It?](https://ispolitical.com/What-Is-the-IRS-Form-8872-How-Do-I-Prepare-and-File-It)
+2. [Do I Need to File the IRS Form 8871/8872?](https://ispolitical.com/Do-I-Need-to-File-the-IRS-Form-8871-8872)
+3. [Do I Need an Ein and How Do I Apply for One?](https://ispolitical.com/Do-I-Need-an-Ein-and-How-Do-I-Apply-for-One)
+4. [When Are the IRS Filing Deadlines?](https://ispolitical.com/When-Are-the-IRS-Filing-Deadlines)
+
+12. [FEC Campaign, Party, & PAC Filing FAQ and Resources](https://ispolitical.com/FEC-Campaign-Party-PAC-Filing-FAQ-and-Resources)
+1. [About the FEC Form 3 Report](https://ispolitical.com/About-the-FEC-Form-3-Report)
+1. [How Do I Pull a Transaction to a Specific Line on the FEC Form 3?](https://ispolitical.com/How-Do-I-Pull-a-Transaction-to-a-Specific-Line-on-the-FEC-Form-3)
+2. [How Do I Report a Transfer Received From a Joint Fundraising Committee (JFC)?](https://ispolitical.com/How-Do-I-Report-a-Transfer-Received-From-a-Joint-Fundraising-Committee-JFC)
+1. [How Do I Report a Transfer From a Joint Fundraising Committee (JFC) To Joint Fundraising Participants?](https://ispolitical.com/How-Do-I-Report-a-Transfer-From-a-Joint-Fundraising-Committee-JFC-To-Joint-Fundraising-Participants)
+
+3. [About Post-election or Year-End With Column C Reports](https://ispolitical.com/About-Post-election-or-Year-End-With-Column-C-Reports)
+4. [Form 3 Errors and Warnings](https://ispolitical.com/Form-3-Errors-and-Warnings)
+5. [How Do I Add a Form 3Z to the FEC Form 3 Report?](https://ispolitical.com/How-Do-I-Add-a-Form-3Z-to-the-FEC-Form-3-Report)
+6. [What Are Nominee Fund Transfers?](https://ispolitical.com/What-Are-Nominee-Fund-Transfers)
+
+2. [What Federal Committee Types Are Available in ISP?](https://ispolitical.com/What-Federal-Committee-Types-Are-Available-in-ISP)
+3. [What Is the Threshold to Register a FEC Committee?](https://ispolitical.com/What-Is-the-Threshold-to-Register-a-FEC-Committee)
+4. [How Do I Generate and E-file With the FEC?](https://ispolitical.com/How-Do-I-Generate-and-E-file-With-the-FEC)
+5. [When Are the FEC Filing Deadlines?](https://ispolitical.com/When-Are-the-FEC-Filing-Deadlines)
+6. [How Do I Add Candidate and Committee Records Directly From the FEC?](https://ispolitical.com/How-Do-I-Add-Candidate-and-Committee-Records-Directly-From-the-FEC)
+1. [Why Isn’t Candidate Information Pulling Properly to the FEC Form 3X?](https://ispolitical.com/Why-Isn-t-Candidate-Information-Pulling-Properly-to-the-FEC-Form-3X)
+
+7. [What Is the Difference Between FEC Candidate IDs and Committee IDs?](https://ispolitical.com/What-is-the-Difference-Between-FEC-Candidate-IDs-and-Committee-IDs)
+8. [About FEC Conduit (Earmark) Memos](https://ispolitical.com/About-FEC-Conduit-Earmark-Memos)
+9. [What Are Carey Committees and Carey Accounts?](https://ispolitical.com/What-Are-Carey-Committees-and-Carey-Accounts)
+10. [About Super PACs](https://ispolitical.com/About-Super-PACs)
+11. [How Do I Report Inkind Transactions Paid by the Candidate?](https://ispolitical.com/How-Do-I-Report-Inkind-Transactions-Paid-by-the-Candidate)
+12. [How Do I Report Auction Items and Proceeds From Sales on FEC Reports?](https://ispolitical.com/How-Do-I-Report-Auction-Items-and-Proceeds-From-Sales-on-FEC-Reports)
+13. [How Do I Report FEC Late Partnership Information?](https://ispolitical.com/How-Do-I-Report-FEC-Late-Partnership-Information)
+14. [What Are the Sort Order Options for the FEC Reports?](https://ispolitical.com/What-Are-the-Sort-Order-Options-for-the-FEC-Reports)
+15. [How Do I Report Advances for Travel?](https://ispolitical.com/How-Do-I-Report-Advances-for-Travel)
+16. [How Do Federal and Non-federal IE’s Pull to Reports?](https://ispolitical.com/How-Do-Federal-and-Non-federal-IE-s-Pull-to-Reports)
+17. [Why Is My IE Appearing on Line 21(B)? About Paying First and Disseminating Later](https://ispolitical.com/Why-Is-My-IE-Appearing-on-Line-21-B-About-Paying-First-and-Disseminating-Later)
+18. [Why Are Dashboard Key Stats Different Than Line 11 Totals on FEC Reports?](https://ispolitical.com/Why-Are-Dashboard-Key-Stats-Different-Than-Line-11-Totals-on-FEC-Reports)
+19. [How Should Debt that is Forgiven Appear on the FEC Form 3/3X/3P?](https://ispolitical.com/How-Should-Debt-that-is-Forgiven-Appear-on-the-FEC-Form-3-3X-3P)
+20. [What Are Estimated Expenses for Form 5 and 24/48 Hour IE Reports?](https://ispolitical.com/Estimated-Expenses-for-Form-and-hour-IE-reports)
+21. [Why Isn’t the Split of My Accrued Expense Payment Showing on My FEC Report?](https://ispolitical.com/Why-Isn-t-the-Split-of-My-Accrued-Expense-Payment-Showing-on-My-FEC-Report)
+22. [About the FEC Form 1 Report](https://ispolitical.com/About-the-FEC-Form-1-Report)
+23. [How Do I Prepare and Generate the FEC Form 1?](https://ispolitical.com/How-Do-I-Prepare-and-Generate-the-FEC-Form-1)
+1. [What Do I Need to File an Amended Form 1?](https://ispolitical.com/What-Do-I-Need-to-File-an-Amended-Form-1)
+
+24. [FEC Form 1M (Notice of Multi-Candidate Status)](https://ispolitical.com/FEC-Form-M-Notice-of-Multi-Candidate-Status)
+25. [What Is the Form 2 and When Do I File It?](https://ispolitical.com/What-Is-the-Form-2-and-When-Do-I-File-It)
+26. [Why Can’t I See the FEC Form 3?](https://ispolitical.com/Why-Can-t-I-See-the-FEC-Form-3)
+27. [About the FEC Form 3P Report](https://ispolitical.com/About-the-FEC-Form-3P-Report)
+28. [Why Can’t I See the FEC Form 3P?](https://ispolitical.com/Why-Can-t-I-See-the-FEC-Form-3P)
+29. [About the FEC Form 3 (PAC) Report](https://ispolitical.com/About-the-FEC-Form-3-PAC-Report)
+30. [Different Options for FEC Form 3X Filing](https://ispolitical.com/Different-Options-for-FEC-Form-3X-Filing)
+31. [How Do I Pull a Transaction to a Specific Line on the FEC Form 3X?](https://ispolitical.com/How-Do-I-Pull-a-Transaction-to-a-Specific-Line-on-the-FEC-Form-3X)
+1. [How Do Allocations Appear on the FEC Form 3X Report?](https://ispolitical.com/How-Do-Allocations-Appear-on-the-FEC-Form-3X-Report)
+2. [How Do I Get the Multi-Candidate Box Checked?](https://ispolitical.com/How-Do-I-Get-the-Multi-Candidate-Box-Checked)
+3. [Prohibited Inkind Contributions for Allocable Activities](https://ispolitical.com/Prohibited-Inkind-Contributions-for-Allocable-Activities)
+4. [What Is the 0% Federal Allocation Used For?](https://ispolitical.com/what-is-the-0-federal-allocation-used-for)
+
+32. [FEC Form 3X (Party): How Do I Pull a Transaction to a Specific Line?](https://ispolitical.com/FEC-Form-3X-Party-How-Do-I-Pull-a-Transaction-to-a-Specific-Line)
+33. [About the FEC Form 5 Report](https://ispolitical.com/About-the-FEC-Form-5-Report)
+34. [About the FEC Form 6 Report](https://ispolitical.com/About-the-FEC-Form-6-Report)
+35. [About the FEC Form 24-IE Report](https://ispolitical.com/About-the-FEC-Form-24-IE-Report)
+36. [About the FEC Form 48-IE Report](https://ispolitical.com/About-the-FEC-Form-48-IE-Report)
+37. [About the FEC Form 99 Report](https://ispolitical.com/About-the-FEC-Form-99-Report)
+38. [About Report Post-Generation](https://ispolitical.com/About-Report-Post-Generation)
+1. [What Are FEC System Errors and How Do I Fix Them?](https://ispolitical.com/What-Are-FEC-System-Errors-and-How-Do-I-Fix-Them)
+2. [Wrong FEC Password Error Troubleshooting](https://ispolitical.com/Wrong-FEC-Password-Error-Troubleshooting)
+3. [How Do I Correct Disallowed Reporting Description Warnings Or Provide Accurate Compliance Notes on Reports?](https://ispolitical.com/How-Do-I-Correct-Disallowed-Reporting-Description-Warnings-Or-Provide-Accurate-Compliance-Notes-on-Reports)
+4. [Why Are Transactions Not Itemized on FEC Reports?](https://ispolitical.com/Why-Are-Transactions-Not-Itemized-on-FEC-Reports)
+5. [Why Are My Accrued Expenses Not Itemizing on Schedule D?](https://ispolitical.com/Why-Are-My-Accrued-Expenses-Not-Itemizing-on-Schedule-D)
+6. [Why Are My FEC Reports Aggregating Differently in ISP?](https://ispolitical.com/Why-Are-My-FEC-Reports-Aggregating-Differently-in-ISP)
+7. [Why Are My Inkinds Itemizing on Schedule B?](https://ispolitical.com/Why-Are-My-Inkinds-Itemizing-on-Schedule-B)
+8. [About FEC Backdoor Passwords](https://ispolitical.com/About-FEC-Backdoor-Passwords)
+9. [My FEC Report Failed While Processing. Now What?](https://ispolitical.com/My-FEC-Report-Failed-While-Processing-Now-What)
+
+39. [Best Practices for Filing FEC Amendments](https://ispolitical.com/Best-Practices-for-Filing-FEC-Amendments)
+
+13. [Alabama Campaign, Party, & PAC Filing FAQ and Resources](https://ispolitical.com/Alabama-Campaign-Party-PAC-Filing-FAQ-and-Resources)
+1. [When Are the Alabama Filing Deadlines?](https://ispolitical.com/When-Are-the-Alabama-Filing-Deadlines)
+2. [About the AL PAC](https://ispolitical.com/About-the-AL-PAC)
+3. [About the AL PAC Major](https://ispolitical.com/About-the-AL-PAC-Major)
+4. [About the AL CEO Report](https://ispolitical.com/About-the-AL-CEO-Report)
+5. [About the AL CEO Major Report](https://ispolitical.com/About-the-AL-CEO-Major-Report)
+
+14. [Alaska Campaign, Party, & PAC Filing FAQ and Resources](https://ispolitical.com/Alaska-Campaign-Party-PAC-Filing-FAQ-and-Resources)
+1. [When Are the Alaska Filing Deadlines?](https://ispolitical.com/When-Are-the-Alaska-Filing-Deadlines)
+
+15. [Arizona Campaign, Party, & PAC Filing FAQ and Resources](https://ispolitical.com/Arizona-Campaign-Party-PAC-Filing-FAQ-and-Resources)
+1. [When Are the Arizona Filing Deadlines](https://ispolitical.com/When-Are-the-Arizona-Filing-Deadlines)
+2. [About the AZ Periodic Report / PAC Bulk Import](https://ispolitical.com/About-the-AZ-Periodic-Report-PAC-Bulk-Import)
+3. [About the AZ IE Trigger Report](https://ispolitical.com/About-the-AZ-IE-Trigger-Report)
+
+16. [Arkansas Campaign, Party, & PAC Filing FAQ and Resources](https://ispolitical.com/Arkansas-Campaign-Party-PAC-Filing-FAQ-and-Resources)
+1. [When Are the Arkansas Filing Deadlines?](https://ispolitical.com/When-Are-the-Arkansas-Filing-Deadlines)
+
+17. [California Campaign, Party, & PAC Filing FAQ and Resources](https://ispolitical.com/California-Campaign-Party-PAC-Filing-FAQ-and-Resources)
+1. [How Do I File a CA Form 496?](https://ispolitical.com/How-Do-I-File-a-CA-Form-496)
+1. [How Do I Report Accrued Expenses Splits with an IE Support/Oppose Memo on the CA 496?](https://ispolitical.com/How-Do-I-Report-Accrued-Expenses-Splits-with-an-IE-Support-Oppose-Memo-on-the-CA-496)
+
+2. [When Are the California Filing Deadlines?](https://ispolitical.com/When-Are-the-California-Filing-Deadlines)
+3. [How Do I Add Candidate and Committee Records Directly From the CA SOS?](https://ispolitical.com/How-Do-I-Add-Candidate-and-Committee-Records-Directly-From-the-CA-SOS)
+4. [Best Practices for CA Warnings & Errors](https://ispolitical.com/Best-Practices-for-CA-Warnings-Errors)
+5. [What Does This CA Efile System Return Message Mean?](https://ispolitical.com/What-Does-This-CA-Efile-System-Return-Message-Mean)
+6. [Reporting Rules for Joint FEC/CA Filings](https://ispolitical.com/Reporting-Rules-for-Joint-FEC-CA-Filings)
+7. [What Are Primarily Formed PACs in CA?](https://ispolitical.com/What-Are-Primarily-Formed-PACs-in-CA)
+8. [What Are CA Local Signers and Pins (NetFile)?](https://ispolitical.com/What-Are-CA-Local-Signers-and-Pins-NetFile)
+1. [Can I File a Report if I Don’t Have a FPPC ID Yet?](https://ispolitical.com/Can-I-File-a-Report-if-I-Don-t-Have-a-FPPC-ID-Yet)
+
+9. [What Are Aggregates by Relationships on CA Report?](https://ispolitical.com/What-Are-Aggregates-by-Relationships-on-CA-Report)
+10. [What Are CA LLC/LLP Reporting Requirements?](https://ispolitical.com/What-Are-CA-LLC-LLP-Reporting-Requirements)
+11. [How Do I Report Contributions Made to Committees Without ID Numbers?](https://ispolitical.com/How-Do-I-Report-Contributions-Made-to-Committees-Without-ID-Numbers)
+12. [Where Do I File as a Local CA Filer if the “Efile Report to Local” Button Is Not Available (ECampaign & Efs)?](https://ispolitical.com/Where-Do-I-File-as-a-Local-CA-Filer-if-the-Efile-Report-to-Local-Button-Is-Not-Available-ECampaign-Efs)
+13. [About the CA Form 400](https://ispolitical.com/About-the-CA-Form-4)
+14. [About the CA Form 401](https://ispolitical.com/About-the-CA-Form-4-1)
+15. [About the CA Form 410](https://ispolitical.com/About-the-CA-Form-41)
+16. [What Is the CA 460 Report & How Do I Prepare and File It?](https://ispolitical.com/What-Is-the-CA-46-Report-How-Do-I-Prepare-and-File-It)
+1. [CA 460 Line by Line](https://ispolitical.com/CA-46-Line-by-Line)
+2. [Checkboxes for Sch D on CA 460](https://ispolitical.com/Checkboxes-for-Sch-D-on-CA-46)
+3. [Reporting Splits on CA 460](https://ispolitical.com/Reporting-Splits-on-CA-46)
+4. [Why Are Lines 20 and 21 Showing as $0.00 on My Report?](https://ispolitical.com/Why-Are-Lines-2-and-21-Showing-as-on-My-Report)
+5. [Why Are There Errors in My CA Confirmation Email That Are Not in ISP?](https://ispolitical.com/Why-Are-There-Errors-in-My-CA-Confirmation-Email-That-Are-Not-in-ISP)
+
+17. [About the CA Form 461](https://ispolitical.com/About-the-CA-Form-461)
+1. [About the CA Form 461-Non-committee Report](https://ispolitical.com/About-the-CA-Form-461-Non-committee-Report)
+2. [About the CA Form 461-Reverse Report](https://ispolitical.com/About-the-CA-Form-461-Reverse-Report)
+
+18. [About the CA Form 462 Report](https://ispolitical.com/About-the-CA-Form-462-Report)
+19. [About the CA Form 497 Report](https://ispolitical.com/About-the-CA-Form-497-Report)
+1. [How Do I File a CA Form 497?](https://ispolitical.com/How-Do-I-File-a-CA-Form-497)
+2. [How Do I File a CA Amendment?](https://ispolitical.com/How-Do-I-File-a-CA-Amendment)
+3. [ActBlue Transactions as the Intermediary on 497 Reports](https://ispolitical.com/ActBlue-Transactions-as-the-Intermediary-on-497-Reports)
+
+20. [About the CA Form 497 — Reverse](https://ispolitical.com/About-the-CA-Form-497-Reverse)
+21. [About the CA Form 498](https://ispolitical.com/About-the-CA-Form-498)
+22. [About the CA Form 501 Report](https://ispolitical.com/About-the-CA-Form-5-1-Report)
+23. [Issues With California’s PDF Converting Program](https://ispolitical.com/Issues-With-California-s-PDF-Converting-Program)
+24. [How Do I File as a Local CA Filer When the E-file Report to Local Button Is Available (NetFile)?](https://ispolitical.com/How-Do-I-File-as-a-Local-CA-Filer-When-the-E-file-Report-to-Local-Button-Is-Available-NetFile)
+25. [What Is eSignature and How Do I Use It?](https://ispolitical.com/What-Is-eSignature-and-How-Do-I-Use-It)
+26. [My Local Filing With NetFile Just Failed. Now What?](https://ispolitical.com/My-Local-Filing-With-NetFile-Just-Failed-Now-What)
+27. [Where Do I Get the Original CA Filing ID Number?](https://ispolitical.com/Where-Do-I-Get-the-Original-CA-Filing-ID-Number)
+
+18. [Colorado Campaign, Party, & PAC Filing FAQ and Resources](https://ispolitical.com/Colorado-Campaign-Party-PAC-Filing-FAQ-and-Resources)
+1. [When Are the Colorado Filing Deadlines?](https://ispolitical.com/When-Are-the-Colorado-Filing-Deadlines)
+2. [About the CO RCE Report](https://ispolitical.com/About-the-CO-RCE-Report)
+3. [About the CO RCE Major](https://ispolitical.com/About-the-CO-RCE-Major)
+4. [About the CO RCE Party Report](https://ispolitical.com/About-the-CO-RCE-Party-Report)
+
+19. [Connecticut Campaign, Party, & PAC Filing FAQ and Resources](https://ispolitical.com/Connecticut-Campaign-Party-PAC-Filing-FAQ-and-Resources)
+1. [When Are the Connecticut Filing Deadlines?](https://ispolitical.com/When-Are-the-Connecticut-Filing-Deadlines)
+2. [SEEC Form 20 (CT) Line by Line](https://ispolitical.com/SEEC-Form-2-CT-Line-by-Line)
+3. [About the CT Form 30 Report](https://ispolitical.com/About-the-CT-Form-3-Report)
+4. [About the CT Form 40 Report](https://ispolitical.com/About-the-CT-Form-4-Report)
+5. [How Do I E-file in Connecticut?](https://ispolitical.com/How-Do-I-E-file-in-Connecticut)
+
+20. [Delaware Campaign, Party, & PAC Filing FAQ and Resources](https://ispolitical.com/Delaware-Campaign-Party-PAC-Filing-FAQ-and-Resources)
+1. [When Are the Delaware Filing Deadlines?](https://ispolitical.com/When-Are-the-Delaware-Filing-Deadlines)
+
+21. [Florida Campaign, Party, & PAC Filing FAQ and Resources](https://ispolitical.com/Florida-Campaign-Party-PAC-Filing-FAQ-and-Resources)
+1. [When Are the Florida Filing Deadlines?](https://ispolitical.com/When-Are-the-Florida-Filing-Deadlines)
+2. [About the FL DS-DE Report](https://ispolitical.com/About-the-FL-DS-DE-Report)
+3. [About the FL Testimonial Report](https://ispolitical.com/About-the-FL-Testimonial-Report)
+4. [How Do I Meet Florida’s 106.0701 Reporting Requirements in ISP?](https://ispolitical.com/How-Do-I-Meet-Florida-s-1-6-7-1-Reporting-Requirements-in-ISP)
+
+22. [Georgia Campaign, Party, & PAC Filing FAQ and Resources](https://ispolitical.com/Georgia-Campaign-Party-PAC-Filing-FAQ-and-Resources)
+1. [How Do I Efile With Georgia?](https://ispolitical.com/How-Do-I-Efile-With-Georgia)
+2. [When Are the Georgia Filing Deadlines?](https://ispolitical.com/When-Are-the-Georgia-Filing-Deadlines)
+3. [About the GA Two Business Day Report](https://ispolitical.com/About-the-GA-Two-Business-Day-Report)
+4. [About the GA CCDR Report](https://ispolitical.com/About-the-GA-CCDR-Report)
+5. [About the GA CCDR (Easy Vote) Report](https://ispolitical.com/About-the-GA-CCDR-Easy-Vote-Report)
+
+23. [Hawaii Campaign, Party, & PAC Filing FAQ and Resources](https://ispolitical.com/Hawaii-Campaign-Party-PAC-Filing-FAQ-and-Resources)
+1. [When Are the Hawaii Filing Deadlines?](https://ispolitical.com/When-Are-the-Hawaii-Filing-Deadlines)
+
+24. [Idaho Campaign, Party, & PAC Filing FAQ and Resources](https://ispolitical.com/Idaho-Campaign-Party-PAC-Filing-FAQ-and-Resources)
+1. [When Are the Idaho Filing Deadlines?](https://ispolitical.com/When-Are-the-Idaho-Filing-Deadlines)
+
+25. [Illinois Campaign, Party, & PAC Filing FAQ and Resources](https://ispolitical.com/Illinois-Campaign-Party-PAC-Filing-FAQ-and-Resources)
+1. [When Are the Illinois Filing Deadlines](https://ispolitical.com/When-Are-the-Illinois-Filing-Deadlines)
+2. [About the IL Schedule A-1](https://ispolitical.com/About-the-IL-Schedule-A-1)
+3. [About the IL Schedule B-1](https://ispolitical.com/About-the-IL-Schedule-B-1)
+4. [About the IL Form D-2](https://ispolitical.com/About-the-IL-Form-D-2)
+
+26. [Indiana Campaign, Party, & PAC Filing FAQ and Resources](https://ispolitical.com/Indiana-Campaign-Party-PAC-Filing-FAQ-and-Resources)
+1. [When Are the Indiana Filing Deadlines?](https://ispolitical.com/When-Are-the-Indiana-Filing-Deadlines)
+2. [About the Indiana CFA-4](https://ispolitical.com/About-the-Indiana-CFA-4)
+3. [About the IN CFA5](https://ispolitical.com/About-the-IN-CFA5)
+4. [About the IN CFA11](https://ispolitical.com/About-the-IN-CFA11)
+5. [How do I Report Indiana Transfers-In?](https://ispolitical.com/How-do-I-Report-Indiana-Transfers-In)
+
+27. [Iowa Campaign, Party, & PAC Filing FAQ and Resources](https://ispolitical.com/Iowa-Campaign-Party-PAC-Filing-FAQ-and-Resources)
+1. [When Are the Iowa Filing Deadlines?](https://ispolitical.com/When-Are-the-Iowa-Filing-Deadlines)
+2. [About the IA Form DR2 Report](https://ispolitical.com/About-the-IA-Form-DR2)
+
+28. [Kansas Campaign, Party, & PAC Filing FAQ and Resources](https://ispolitical.com/Kansas-Campaign-Party-PAC-Filing-FAQ-and-Resources)
+1. [When Are the Kansas Filing Deadlines?](https://ispolitical.com/When-Are-the-Kansas-Filing-Deadlines)
+2. [About the KS PAC Report](https://ispolitical.com/About-the-KS-PAC-Report)
+3. [About the KS Last Minute Report](https://ispolitical.com/About-the-KS-Last-Minute-Report)
+
+29. [Kentucky Campaign, Party, & PAC Filing FAQ and Resources](https://ispolitical.com/Kentucky-Campaign-Party-PAC-Filing-FAQ-and-Resources)
+1. [When Are the Kentucky Filing Deadlines?](https://ispolitical.com/When-Are-the-Kentucky-Filing-Deadlines)
+
+30. [Louisiana Campaign, Party, & PAC Filing FAQ and Resources](https://ispolitical.com/Louisiana-Campaign-Party-PAC-Filing-FAQ-and-Resources)
+1. [When Are the Louisiana Deadlines?](https://ispolitical.com/When-Are-the-Louisiana-Deadlines)
+2. [About the LA Form 202 Report](https://ispolitical.com/About-the-LA-Form-2-2-Report)
+3. [About the LA Form 203 Report](https://ispolitical.com/About-the-LA-Form-2-3-Report)
+
+31. [Maine Campaign, Party, & PAC Filing FAQ and Resources](https://ispolitical.com/Maine-Campaign-Party-PAC-Filing-FAQ-and-Resources)
+1. [When Are the Maine Filing Deadlines?](https://ispolitical.com/When-Are-the-Maine-Filing-Deadlines)
+2. [How Do I E-file IN Maine?](https://ispolitical.com/How-Do-I-E-file-IN-Maine)
+3. [About the ME CFR – PAC Report](https://ispolitical.com/About-the-ME-CFR-PAC)
+4. [About the ME 24Hour – PAC](https://ispolitical.com/About-the-ME-24Hour-PAC)
+
+32. [Maryland Campaign, Party, & PAC Filing FAQ and Resources](https://ispolitical.com/Maryland-Campaign-Party-PAC-Filing-FAQ-and-Resources)
+1. [When Are the Maryland Filing Deadlines?](https://ispolitical.com/When-Are-the-Maryland-Filing-Deadlines)
+
+33. [Massachusetts Campaign, Party, & PAC Filing FAQ and Resources](https://ispolitical.com/Massachusetts-Campaign-Party-PAC-Filing-FAQ-and-Resources)
+1. [When Are the Massachusetts Filing Deadlines?](https://ispolitical.com/When-Are-the-Massachusetts-Filing-Deadlines)
+2. [About the MA Deposit Report](https://ispolitical.com/About-the-MA-Deposit-Report)
+3. [About the MA Depository Credit Card Report](https://ispolitical.com/About-the-MA-Depository-Credit-Card-Report)
+4. [About the MA Depository Periodic Report](https://ispolitical.com/About-the-MA-Depository-Periodic-Report)
+5. [About the MA Depository Reimbursement Report](https://ispolitical.com/About-the-MA-Depository-Reimbursement-Report)
+6. [About the MA Depository Subvendor Report](https://ispolitical.com/About-the-MA-Depository-Subvendor-Report)
+7. [About the MA Non Depository LCR Report](https://ispolitical.com/About-the-MA-Non-Depository-LCR-Report)
+8. [About the MA Non Depository Periodic Report](https://ispolitical.com/About-the-MA-Non-Depository-Periodic-Report)
+9. [About the MA Municipal Periodic Report](https://ispolitical.com/About-the-MA-Municipal-Periodic-Report)
+
+34. [Michigan Campaign, Party, & PAC Filing FAQ and Resources](https://ispolitical.com/Michigan-Campaign-Party-PAC-Filing-FAQ-and-Resources)
+1. [When Are The Michigan Filing Deadlines?](https://ispolitical.com/When-Are-The-Michigan-Filing-Deadlines)
+2. [How Do I File My Michigan Report?](https://ispolitical.com/How-Do-I-File-My-Michigan-Report)
+3. [About the MI PAC Report](https://ispolitical.com/About-the-MI-PAC-Report)
+4. [About the MI PAC LCR Report](https://ispolitical.com/About-the-MI-PAC-LCR-Report)
+
+35. [Minnesota Campaign, Party, & PAC Filing FAQ and Resources](https://ispolitical.com/Minnesota-Campaign-Party-PAC-Filing-FAQ-and-Resources)
+1. [When Are the Minnesota Filing Deadlines?](https://ispolitical.com/When-Are-the-Minnesota-Filing-Deadlines)
+2. [MN Hennepin County: Line by Line](https://ispolitical.com/MN-Hennepin-County-Line-by-Line)
+3. [MN CAND Report: Line by Line](https://ispolitical.com/MN-CAND-Report-Line-by-Line)
+4. [About the MN 24 Hour CAND Report](https://ispolitical.com/About-the-MN-24-Hour-CAND-Report)
+5. [About the MN – PCF Report](https://ispolitical.com/About-the-MN-PCF-Report)
+6. [About the MN 24 Hour PCF Report](https://ispolitical.com/About-the-MN-24-Hour-PCF-Report)
+
+36. [Mississippi Campaign, Party, & PAC Filing FAQ and Resources](https://ispolitical.com/Mississippi-Campaign-Party-PAC-Filing-FAQ-and-Resources)
+1. [When Are the Mississippi Deadlines?](https://ispolitical.com/When-Are-the-Mississippi-Deadlines)
+2. [About the MS Report of Receipts and Disbursements](https://ispolitical.com/About-the-MS-Report-of-Receipts-and-Disbursements)
+3. [About the MS 48 Hour Report of Reportable Contributions](https://ispolitical.com/About-the-MS-48-Hour-Report-of-Reportable-Contributions)
+
+37. [Missouri Campaign, Party, & PAC Filing FAQ and Resources](https://ispolitical.com/Missouri-Campaign-Party-PAC-Filing-FAQ-and-Resources)
+1. [When Are the Missouri Filing Deadlines?](https://ispolitical.com/When-Are-the-Missouri-Filing-Deadlines)
+2. [About the Missouri AI PAC Trigger Report](https://ispolitical.com/About-the-Missouri-AI-PAC-Trigger-Report)
+3. [About the MO Committee Disclosure Report](https://ispolitical.com/About-the-MO-Committee-Disclosure-Report)
+4. [About the MO LCR Report](https://ispolitical.com/About-the-MO-LCR)
+
+38. [Montana Campaign, Party, & PAC Filing FAQ and Resources](https://ispolitical.com/Montana-Campaign-Party-PAC-Filing-FAQ-and-Resources)
+1. [When Are the Montana Filing Deadlines?](https://ispolitical.com/When-Are-the-Montana-Filing-Deadlines)
+2. [About the MT Committee Report](https://ispolitical.com/About-the-MT-Committee-Report)
+3. [About the MT Form C7 Report](https://ispolitical.com/About-the-MT-Form-C7)
+4. [About the MT Form C7E Report](https://ispolitical.com/About-the-MT-Form-C7E)
+
+39. [Nebraska Campaign, Party, & PAC Filing FAQ and Resources](https://ispolitical.com/Nebraska-Campaign-Party-PAC-Filing-FAQ-and-Resources)
+40. [Nevada Campaign, Party, & PAC Filing FAQ and Resources](https://ispolitical.com/Nevada-Campaign-Party-PAC-Filing-FAQ-and-Resources)
+1. [About the NV Candidate Contributions and Expenditures- Legal Defense Fund Report](https://ispolitical.com/About-the-NV-Candidate-Contributions-and-Expenditures-Legal-Defense-Fund-Report)
+1. [How Do I Setup a Nevada Legal Defense Fund in ISP?](https://ispolitical.com/How-Do-I-Setup-a-Nevada-Legal-Defense-Fund-in-ISP)
+
+2. [About the NV Candidate Contributions and Expenditures Report](https://ispolitical.com/About-the-NV-Candidate-Contributions-and-Expenditures-Report)
+3. [When Are the Nevada Filing Deadlines?](https://ispolitical.com/When-Are-the-Nevada-Filing-Deadlines)
+4. [What’s the Difference Between E-file and Paper Only Reports for Nevada?](https://ispolitical.com/What-s-the-Difference-Between-E-file-and-Paper-Only-Reports-for-Nevada)
+5. [About the NV Committee Contributions and Expenditures Report](https://ispolitical.com/About-the-NV-Committee-Contributions-and-Expenditures)
+
+41. [New Hampshire Campaign, Party, & PAC Filing FAQ and Resources](https://ispolitical.com/New-Hampshire-Campaign-Party-PAC-Filing-FAQ-and-Resources)
+1. [When Are the New Hampshire Filing Deadlines?](https://ispolitical.com/When-Are-the-New-Hampshire-Filing-Deadlines)
+2. [About the NH – R and E](https://ispolitical.com/About-the-NH-R-and-E)
+3. [NH R and E (Candidate Version) Line by Line](https://ispolitical.com/NH-R-and-E-Candidate-Version-Line-by-Line)
+4. [About the NH – LCR Report](https://ispolitical.com/About-the-NH-LCR-Report)
+5. [About the NH – IE Report](https://ispolitical.com/About-the-NH-IE)
+
+42. [New Jersey Campaign, Party & PAC Filing FAQ and Resources](https://ispolitical.com/New-Jersey-Campaign-Party-PAC-Filing-FAQ-and-Resources)
+1. [When Are the New Jersey Filing Deadlines?](https://ispolitical.com/When-Are-the-New-Jersey-Filing-Deadlines)
+2. [NJ Form R-1 Line by Line](https://ispolitical.com/NJ-Form-R-1-Line-by-Line)
+3. [About the NJ Form R1 48HR Report](https://ispolitical.com/About-the-NJ-Form-R1-48HR)
+
+43. [New Mexico Campaign, Party, & PAC Filing FAQ and Resources](https://ispolitical.com/New-Mexico-Campaign-Party-PAC-Filing-FAQ-and-Resources)
+1. [When Are the New Mexico Filing Deadlines?](https://ispolitical.com/When-Are-the-New-Mexico-Filing-Deadlines)
+2. [About the NM Campaign Finance Report](https://ispolitical.com/About-the-NM-Campaign-Finance-Report)
+3. [About the NM Supplemental Report](https://ispolitical.com/About-the-NM-Supplemental-Report)
+
+44. [New York Campaign, Party, & PAC Filing FAQ and Resources](https://ispolitical.com/New-York-Campaign-Party-PAC-Filing-FAQ-and-Resources)
+1. [When Are the New York Filing Deadlines?](https://ispolitical.com/When-Are-the-New-York-Filing-Deadlines)
+2. [New York January Periodic Settings](https://ispolitical.com/New-York-January-Periodic-Settings)
+3. [NY Common Import Errors](https://ispolitical.com/NY-Common-Import-Errors)
+4. [What Are the Transaction Method Rules for NY Reports?](https://ispolitical.com/What-Are-the-Transaction-Method-Rules-for-NY-Reports)
+5. [About the NY CF-01 Report](https://ispolitical.com/About-the-NY-CF-1-Report)
+1. [Tips and Best Practices for the New York CF-01 Report](https://ispolitical.com/Tips-and-Best-Practices-for-the-New-York-CF-1-Report)
+
+6. [About the NY Cf-07 (Authorized User Designation and Removal Form)](https://ispolitical.com/About-the-NY-Cf-7-Authorized-User-Designation-and-Removal-Form)
+7. [About the NY Weekly/24-Hour Report](https://ispolitical.com/About-the-NY-Weekly-24-Hour-Report)
+8. [How Do I File an Amended NY Report?](https://ispolitical.com/How-Do-I-File-an-Amended-NY-Report)
+
+45. [North Carolina Campaign, Party, & PAC Filing FAQ and Resources](https://ispolitical.com/North-Carolina-Campaign-Party-PAC-Filing-FAQ-and-Resources)
+1. [When Are the North Carolina Filing Deadlines?](https://ispolitical.com/When-Are-the-North-Carolina-Filing-Deadlines)
+2. [NC Form 1000 Line by Line](https://ispolitical.com/NC-Form-Line-By-Line)
+3. [About the NC Form 2220 Report](https://ispolitical.com/About-the-NC-Form-2220)
+4. [About the NC Form 4100 Report](https://ispolitical.com/About-the-NC-Form-41-Report)
+
+46. [North Dakota Campaign, Party, & PAC Filing FAQ and Resources](https://ispolitical.com/North-Dakota-Campaign-Party-PAC-Filing-FAQ-and-Resources)
+1. [ND Form Sfn 53970 Line by Line](https://ispolitical.com/ND-Form-Sfn-5397-Line-by-Line)
+2. [When Are the North Dakota Filing Deadlines?](https://ispolitical.com/When-Are-the-North-Dakota-Filing-Deadlines)
+
+47. [Ohio Campaign, Party, & PAC Filing FAQ and Resources](https://ispolitical.com/Ohio-Campaign-Party-PAC-Filing-FAQ-and-Resources)
+1. [When Are the Ohio Filing Deadlines?](https://ispolitical.com/When-Are-the-Ohio-Filing-Deadlines)
+2. [About the OH Standard Report](https://ispolitical.com/About-the-OH-Standard-Report)
+3. [About the OH Form 30C Report](https://ispolitical.com/About-the-OH-Form-3-C-Report)
+
+48. [Oklahoma Campaign, Party, & PAC Filing FAQ and Resources](https://ispolitical.com/Oklahoma-Campaign-Party-PAC-Filing-FAQ-and-Resources)
+49. [Oregon Campaign, Party, & PAC Filing FAQ and Resources](https://ispolitical.com/Oregon-Campaign-Party-PAC-Filing-FAQ-and-Resources)
+1. [When Are the Oregon Filing Deadlines?](https://ispolitical.com/When-Are-the-Oregon-Filing-Deadlines)
+2. [How Do I Add Reimbursements to Personal Expenses for Oregon Compliance Reports?](https://ispolitical.com/How-Do-I-Add-Reimbursements-to-Personal-Expenses-for-Oregon-Compliance-Reports)
+3. [How Do I Pull “Employer/Occupation letter sent date” for Reporting?](https://ispolitical.com/How-Do-I-Pull-Employer-Occupation-letter-sent-date-for-Reporting)
+4. [How Do I E-file With ORESTAR?](https://ispolitical.com/How-Do-I-E-file-With-ORESTAR)
+
+50. [Pennsylvania Campaign, Party, & PAC Filing FAQ and Resources](https://ispolitical.com/Pennsylvania-Campaign-Party-PAC-Filing-FAQ-and-Resources)
+1. [When Are the Pennsylvania Filing Deadlines?](https://ispolitical.com/When-Are-the-Pennsylvania-Filing-Deadlines)
+2. [What Is the Pennsylvania Apply to File Process?](https://ispolitical.com/What-Is-the-Pennsylvania-Apply-to-File-Process)
+3. [About the PA Late Contribution Report (24 Hour Report)](https://ispolitical.com/About-the-PA-Late-Contribution-Report-24-Hour-Report)
+4. [About the PA DSEB-502 Report](https://ispolitical.com/About-the-PA-DSEB-5-2-Report)
+5. [About the PA DSEB-502 Version: Federal PAC Filing State Report](https://ispolitical.com/About-the-PA-DSEB-5-2-Version-Federal-PAC-Filing-State-Report)
+
+51. [Rhode Island Campaign, Party, & PAC Filing FAQ and Resources](https://ispolitical.com/Rhode-Island-Campaign-Party-PAC-Filing-FAQ-and-Resources)
+52. [South Carolina Campaign, Party, & PAC Filing FAQ and Resources](https://ispolitical.com/South-Carolina-Campaign-Party-PAC-Filing-FAQ-and-Resources)
+53. [South Dakota Campaign, Party, & PAC Filing FAQ and Resources](https://ispolitical.com/South-Dakota-Campaign-Party-PAC-Filing-FAQ-and-Resources)
+54. [Tennessee Campaign, Party, & PAC Filing FAQ and Resources](https://ispolitical.com/Tennessee-Campaign-Party-PAC-Filing-FAQ-and-Resources)
+55. [Texas Campaign, Party, & PAC Filing FAQ and Resources](https://ispolitical.com/Texas-Campaign-Party-PAC-Filing-FAQ-and-Resources)
+1. [When Are the Texas Filing Deadlines?](https://ispolitical.com/When-Are-the-Texas-Filing-Deadlines)
+2. [How Do I Populate the Cover Page on My TX Report?](https://ispolitical.com/How-Do-I-Populate-the-Cover-Page-on-My-TX-Report)
+3. [How Do I Pull Candidate Info to Section 9 on Schedule F1?](https://ispolitical.com/How-Do-I-Pull-Candidate-Info-to-Section-9-on-Schedule-F1)
+4. [How Do I Enter Non-itemized Transactions for My TX Reports?](https://ispolitical.com/How-Do-I-Enter-Non-itemized-Transactions-for-My-TX-Reports)
+5. [About the TX COH Report](https://ispolitical.com/About-the-TX-COH-Report)
+6. [About the TX COH-SS Report](https://ispolitical.com/About-the-TX-COH-SS-Report)
+7. [About the TX GPAC Report](https://ispolitical.com/About-the-TX-GPAC-Report)
+8. [About the TX MPAC Report](https://ispolitical.com/About-the-TX-MPAC-Report)
+9. [About the TX SPAC Report](https://ispolitical.com/About-the-TX-SPAC-Report)
+10. [About the TX DAILY-C COH Report](https://ispolitical.com/About-the-TX-DAILY-C-COH-Report)
+11. [About the TX DAILY-C PAC Report](https://ispolitical.com/About-the-TX-DAILY-C-PAC-Report)
+12. [About the TX DAILY-E PAC Report](https://ispolitical.com/About-the-TX-DAILY-E-PAC-Report)
+
+56. [Utah Campaign, Party, & PAC Filing FAQ and Resources](https://ispolitical.com/Utah-Campaign-Party-PAC-Filing-FAQ-and-Resources)
+57. [Vermont Campaign, Party, & PAC Filing FAQ and Resources](https://ispolitical.com/Vermont-Campaign-Party-PAC-Filing-FAQ-and-Resources)
+1. [About the VT Disclosure Report](https://ispolitical.com/About-the-VT-Disclosure-Report)
+2. [About the VT Mass Media Report](https://ispolitical.com/About-the-VT-Mass-Media-Report)
+
+58. [Virginia Campaign, Party, & PAC Filing FAQ and Resources](https://ispolitical.com/Virginia-Campaign-Party-PAC-Filing-FAQ-and-Resources)
+1. [When Are the Virginia Filing Deadlines?](https://ispolitical.com/When-Are-the-Virginia-Filing-Deadlines)
+2. [About the VA Compliance Report](https://ispolitical.com/About-the-VA-Compliance-Report)
+3. [About the VA Large Contribution Report](https://ispolitical.com/About-the-VA-Large-Contribution-Report)
+4. [About the VA Non-Candidate Compliance Report](https://ispolitical.com/About-the-VA-Non-Candidate-Compliance-Report)
+
+59. [Washington Campaign, Party, & PAC Filing FAQ and Resources](https://ispolitical.com/Washington-Campaign-Party-PAC-Filing-FAQ-and-Resources)
+1. [When Are the Washington Filing Deadlines?](https://ispolitical.com/When-Are-the-Washington-Filing-Deadlines)
+2. [Tokens, Passwords, and Filing Washington State (PDC) Reports](https://ispolitical.com/Tokens-Passwords-and-Filing-Washington-State-PDC-Reports)
+3. [How Do I Add Candidate and Committee Records Directly From the WA PDC?](https://ispolitical.com/How-Do-I-Add-Candidate-and-Committee-Records-Directly-From-the-WA-PDC)
+4. [How Do I Create a Compliant WA Surplus Account?](https://ispolitical.com/How-Do-I-Create-a-Compliant-WA-Surplus-Account)
+5. [How Do I Set up Seattle Efiling?](https://ispolitical.com/How-Do-I-Set-up-Seattle-Efiling)
+6. [What Is the WA Auction Report?](https://ispolitical.com/What-Is-the-WA-Auction-Report)
+7. [About the WA C3 Report](https://ispolitical.com/About-the-WA-C3-Report)
+1. [WA Form C3 and Voucher Contributions](https://ispolitical.com/WA-Form-C3-and-Voucher-Contributions)
+2. [About Seattle Low-Cost Fundraisers](https://ispolitical.com/About-Seattle-Low-Cost-Fundraisers)
+
+8. [About the WA Form C3 – Non-Candidate Report](https://ispolitical.com/About-the-WA-Form-C3-Non-Candidate-Report)
+9. [About the WA C4 Report](https://ispolitical.com/About-the-WA-C4-Report)
+1. [WA C4 (PDC) Line by Line](https://ispolitical.com/WA-C4-PDC-Line-by-Line)
+2. [How Are Refunded Contributions Reported on the C4 Report?](https://ispolitical.com/How-Are-Refunded-Contributions-Reported-on-the-C4-Report)
+3. [How Does the 21 Day Limit on Debts Before They Become Loans Impact Reporting?](https://ispolitical.com/How-Does-the-21-Day-Limit-on-Debts-Before-They-Become-Loans-Impact-Reporting)
+4. [How Are Refunded Contributions Reported on WA C4 PDC vs Seattle?](https://ispolitical.com/How-Are-Refunded-Contributions-Reported-on-WA-C4-PDC-vs-Seattle)
+5. [How Do I Add and Report Negatives in Deposit Batches?](https://ispolitical.com/How-Do-I-Add-and-Report-Negatives-in-Deposit-Batches)
+6. [How Do I Add and Report Accrued Expense Payments on the C4?](https://ispolitical.com/How-Do-I-Add-and-Report-Accrued-Expense-Payments-on-the-C4)
+7. [Why Are My Accrued Expenses Itemizing Incorrectly on the WA C4?](https://ispolitical.com/Why-Are-My-Accrued-Expenses-Itemizing-Incorrectly-on-the-WA-C4)
+
+10. [About the WA Form C4 – Ballot Measure Report](https://ispolitical.com/About-the-WA-Form-C4-Ballot-Measure-Report)
+11. [About the WA Form C4 – Non-Candidate](https://ispolitical.com/About-the-WA-Form-C4-Non-Candidate)
+12. [New Washington Filing System](https://ispolitical.com/New-Washington-Filing-System)
+13. [My PDC C3 Amendment Filed as a New Report – How Do I Fix That?](https://ispolitical.com/My-PDC-C3-Amendment-Filed-as-a-New-Report-How-Do-I-Fix-That)
+14. [What Is the WA PDC Last Minute Contributions Report?](https://ispolitical.com/What-Is-the-WA-PDC-Last-Minute-Contributions-Report)
+
+60. [West Virginia Campaign, Party, & PAC Filing FAQ and Resources](https://ispolitical.com/West-Virginia-Campaign-Party-PAC-Filing-FAQ-and-Resources)
+1. [When Are the West Virginia Filing Deadlines?](https://ispolitical.com/When-Are-the-West-Virginia-Filing-Deadlines)
+2. [About the WV F7 Report](https://ispolitical.com/About-the-WV-F7-Report)
+3. [About the WV F7B](https://ispolitical.com/About-the-WV-F7B)
+
+61. [Wisconsin Campaign, Party, & PAC Filing FAQ and Resources](https://ispolitical.com/Wisconsin-Campaign-Party-PAC-Filing-FAQ-and-Resources)
+1. [When Are the Wisconsin Filing Deadlines?](https://ispolitical.com/When-Are-the-Wisconsin-Filing-Deadlines)
+2. [How Do I File My Wisconsin Report?](https://ispolitical.com/How-Do-I-File-My-Wisconsin-Report)
+3. [About the WI RandE Report](https://ispolitical.com/About-the-WI-RandE)
+
+62. [Wyoming Campaign, Party, & PAC Filing FAQ and Resources](https://ispolitical.com/Wyoming-Campaign-Party-PAC-Filing-FAQ-and-Resources)
+1. [When Are the Wyoming Filing Deadlines?](https://ispolitical.com/When-Are-the-Wyoming-Filing-Deadlines)
+2. [About the WY PAC Contributions and Expenditures Report](https://ispolitical.com/About-the-WY-PAC-Contributions-and-Expenditures)
+
+2. [About Compliance Tools](https://ispolitical.com/About-Compliance-Tools)
+3. [Compliance Report Post-Generation](https://ispolitical.com/Compliance-Report-Post-Generation)
+1. [How Do I Generate a PDF Version of My Compliance Report?](https://ispolitical.com/How-Do-I-Generate-a-PDF-Version-of-My-Compliance-Report)
+2. [Using the Mark as Filed Feature](https://ispolitical.com/Using-the-Mark-as-Filed-Feature)
+
+4. [Policy on Legal Advice](https://ispolitical.com/Policy-on-Legal-Advice)
+5. [About Financial Reports](https://ispolitical.com/About-Financial-Reports)
+1. [What Are the Financial Reports in ISP?](https://ispolitical.com/What-Are-the-Financial-Reports-in-ISP)
+2. [How Do I Use the Columns to Gather Contact Info for the Financial Report Export?](https://ispolitical.com/How-Do-I-Use-the-Columns-to-Gather-Contact-Info-for-the-Financial-Report-Export)
+3. [What Is the Financial Transaction Report?](https://ispolitical.com/What-Is-the-Financial-Transaction-Report)
+1. [How Do I Find Transactions Linked to a Specific Event?](https://ispolitical.com/How-Do-I-Find-Transactions-Linked-to-a-Specific-Event)
+2. [Financial Report Recipe: Donors by Quarter Using Conduit Date](https://ispolitical.com/Financial-Report-Recipe-Donors-by-Quarter-Using-Conduit-Date)
+3. [Financial Report Recipe: Exclude Refunds](https://ispolitical.com/Financial-Report-Recipe-Exclude-Refunds)
+
+4. [How and When Do I Use Bulk Update?](https://ispolitical.com/How-and-When-Do-I-Use-Bulk-Update)
+1. [How Can I Force-Itemize Transactions Below the Itemization Threshold?](https://ispolitical.com/How-Can-I-Force-Itemize-Transactions-Below-the-Itemization-Threshold)
+
+6. [About Fundraising/Analysis Reports](https://ispolitical.com/About-Fundraising-Analysis-Reports)
+1. [What Are the Pledge or Target Metrics Reports?](https://ispolitical.com/What-is-the-Metrics-Report)
+
+7. [How Do I Create a Scheduled Report?](https://ispolitical.com/How-Do-I-Create-a-Scheduled-Report)
+1. [What Are the to and From Date Options for Scheduled Reports?](https://ispolitical.com/What-Are-the-to-and-From-Date-Options-for-Scheduled-Reports)
+
+7. [About Tools in ISP](https://ispolitical.com/About-Tools-in-ISP)
+1. [What Are Calendar Feeds?](https://ispolitical.com/What-Are-Calendar-Feeds)
+2. [What Is Call Time and How Do I Use It?](https://ispolitical.com/What-Is-Call-Time-and-How-Do-I-Use-It)
+1. [What Are Call Time Settings?](https://ispolitical.com/What-Are-Call-Time-Settings)
+
+3. [What Is ai@ISP?](https://ispolitical.com/What-Is-ai-ISP)
+1. [Which Report Filings Does AI Check?](https://ispolitical.com/Which-Report-Filings-Does-AI-Check)
+2. [How Do I Set the AI Alert for Over the Limit Contributions?](https://ispolitical.com/How-Do-I-Set-the-AI-Alert-for-Over-the-Limit-Contributions)
+
+4. [How Do I Use BCC Emails to Add Communications?](https://ispolitical.com/How-Do-I-Use-BCC-Emails-to-Add-Communications)
+5. [What Is the Calendar and Recurring Calendar Entries?](https://ispolitical.com/What-Is-the-Calendar-and-Recurring-Calendar-Entries)
+6. [What Are Call Sheets?](https://ispolitical.com/What-Are-Call-Sheets)
+7. [What Are Check Requests?](https://ispolitical.com/What-Are-Check-Requests)
+8. [How Do I Combine Duplicates?](https://ispolitical.com/How-Do-I-Combine-Duplicates)
+9. [How Do I Create Drip Campaigns & Drip Emails?](https://ispolitical.com/How-Do-I-Create-Drip-Campaigns-Drip-Emails)
+1. [What Are the Add Drip Email Options?](https://ispolitical.com/What-Are-the-Add-Drip-Email-Options)
+2. [How Do I Set up Automated Drip Campaigns?](https://ispolitical.com/How-to-Set-Up-Automated-Drip-Campaigns)
+
+10. [What Are Events & How Do I Use Them?](https://ispolitical.com/What-Are-Events-How-Do-I-Use-Them)
+1. [What Is Event Management?](https://ispolitical.com/What-Is-Event-Management)
+
+11. [What Are External Data Sources?](https://ispolitical.com/What-Are-External-Data-Sources)
+12. [What Is Form Builder & How Do I Use It?](https://ispolitical.com/What-Is-Form-Builder-How-Do-I-Use-It)
+13. [How Do I Link Spouses?](https://ispolitical.com/How-to-Link-Spouses)
+14. [What Is the Marketing Link Builder Tool?](https://ispolitical.com/What-Is-the-Marketing-Link-Builder-Tool)
+15. [What Is the Soft Credits Tool?](https://ispolitical.com/What-Is-the-Soft-Credits-Tool)
+16. [What Is External ID Tracking?](https://ispolitical.com/What-Is-External-ID-Tracking)
+17. [What Is the Compliance Report Excel Export?](https://ispolitical.com/What-Is-the-Compliance-Report-Excel-Export)
+18. [What Are Third Party Donations?](https://ispolitical.com/What-Are-Third-Party-Donations)
+19. [How Do I Set Up & Print Envelopes?](https://ispolitical.com/How-Do-I-Set-Up-Print-Envelopes)
+20. [What Are Quick Emails?](https://ispolitical.com/What-Are-Quick-Emails)
+21. [How Do I Use Quick Import?](https://ispolitical.com/How-Do-I-Use-Quick-Import)
+1. [What Are the Available Quick Import Formats in ISP?](https://ispolitical.com/What-Are-the-Available-Quick-Import-Formats-in-ISP)
+
+22. [What Is Rocket Management?](https://ispolitical.com/What-Is-Rocket-Management)
+23. [What Are Tickets & Ticket Areas and How Do I Add Them?](https://ispolitical.com/What-Are-Tickets-Ticket-Areas-and-How-Do-I-Add-Them)
+24. [What Are Reminders?](https://ispolitical.com/What-Are-Reminders)
+1. [What Are Reminder Types?](https://ispolitical.com/What-Are-Reminder-Types)
+
+25. [What Are Webhooks and How Do I Use Them?](https://ispolitical.com/What-Are-Webhooks-and-How-Do-I-Use-Them)
+
+8. [About Lists in ISP](https://ispolitical.com/About-Lists-in-ISP)
+1. [What Are Budget Categories?](https://ispolitical.com/What-Are-Budget-Categories)
+1. [What Is Multi-Dimensional Budgeting & How Do I Use It?](https://ispolitical.com/What-Is-Multi-Dimensional-Budgeting-How-Do-I-Use-It)
+
+2. [What Are Communication Types?](https://ispolitical.com/What-Are-Communication-Types)
+3. [How Do I Add an Election?](https://ispolitical.com/How-Do-I-Add-an-Election)
+4. [What Are Financial Accounts and How Do I Add Them?](https://ispolitical.com/What-Are-Financial-Accounts-and-How-Do-I-Add-Them)
+1. [How Do I Use Financial Accounts for Virtual Accounting?](https://ispolitical.com/How-Do-I-Use-Financial-Accounts-for-Virtual-Accounting)
+
+5. [What Are Flags and How Do I Use Them?](https://ispolitical.com/What-Are-Flags-and-How-Do-I-Use-Them)
+1. [How Do I Set the Flag Icon?](https://ispolitical.com/How-Do-I-Set-the-Flag-Icon)
+
+6. [How Do I Add & Use Genders?](https://ispolitical.com/How-Do-I-Add-Use-Genders)
+7. [What Are Memberships and Membership Types?](https://ispolitical.com/What-Are-Memberships-and-Membership-Types)
+8. [About Other Entities](https://ispolitical.com/About-Other-Entities)
+1. [What Is an Anonymous Transaction and How Do I Add One?](https://ispolitical.com/What-Is-an-Anonymous-Transaction-and-How-Do-I-Add-One)
+2. [How Do I Add a Ballot Measure?](https://ispolitical.com/How-Do-I-Add-a-Ballot-Measure)
+3. [What Is a Bookkeeping Transaction and How Do I Add One?](https://ispolitical.com/What-Is-a-Bookkeeping-Transaction-and-How-Do-I-Add-One)
+
+9. [What Are Units?](https://ispolitical.com/What-Are-Units)
+10. [What Are Time Tracking Categories?](https://ispolitical.com/What-Are-Time-Tracking-Categories)
+
+9. [About Integrations in ISP](https://ispolitical.com/About-Integrations-in-ISP)
+1. [What Is Magic Match and How Do I Use It?](https://ispolitical.com/What-Is-Magic-Match-and-How-Do-I-Use-It)
+2. [What Are the Credit Card Processing Options at ISP?](https://ispolitical.com/What-Are-the-Credit-Card-Processing-Options-at-ISP)
+1. [Credit Card Failure Codes](https://ispolitical.com/Credit-Card-Failure-Codes)
+
+3. [How Do I Set up an ActBlue Integration?](https://ispolitical.com/How-Do-I-Set-up-an-ActBlue-Integration)
+1. [What Are the ActBlue Settings?](https://ispolitical.com/What-Are-the-ActBlue-Settings)
+2. [How Do I Use the ActBlue Quick Import?](https://ispolitical.com/How-Do-I-Use-the-ActBlue-Quick-Import)
+
+4. [How Do I Set up the Anedot Integration?](https://ispolitical.com/How-Do-I-Set-up-the-Anedot-Integration)
+5. [How Do I Set up the Constant Contact Integration?](https://ispolitical.com/How-Do-I-Set-up-the-Constant-Contact-Integration)
+6. [How Do I Set up the Dropbox Integration?](https://ispolitical.com/How-Do-I-Set-up-the-Dropbox-Integration)
+7. [How Do I Create the eFundraising Connections Integration?](https://ispolitical.com/How-Do-I-Create-the-eFundraising-Connections-Integration)
+8. [What Is the Xodo Sign Integration and How Do I Use It?](https://ispolitical.com/What-Is-the-Xodo-Sign-Integration-and-How-Do-I-Use-It)
+9. [How Do I Set up a Kindful Integration?](https://ispolitical.com/How-Do-I-Set-Up-a-Kindful-Integration)
+10. [What Is the Mailchimp Integration and How Do I Add It?](https://ispolitical.com/What-Is-the-Mailchimp-Integration-and-How-Do-I-Add-It)
+1. [Dealing with SPAM Filters](https://ispolitical.com/Dealing-with-SPAM-Filters)
+2. [Why Emails May Bounce/Won’t Send Out](https://ispolitical.com/Why-Emails-May-Bounce-Won-t-Send-Out)
+
+11. [Why Are My Broadcast Emails Taking So Long to Be Delivered?](https://ispolitical.com/Why-Are-My-Broadcast-Emails-Taking-So-Long-to-Be-Delivered)
+12. [How Do I Set up a NationBuilder Integration?](https://ispolitical.com/How-Do-I-Set-up-a-NationBuilder-Integration)
+13. [Ninja Forms Integration Setup](https://ispolitical.com/Ninja-Forms-Integration-Setup)
+14. [How Do I Set up the Numero Integration?](https://ispolitical.com/How-do-I-Set-Up-the-Numero-Integration)
+15. [How Do I Set Up and Use the NetFile Integration?](https://ispolitical.com/How-Do-I-Set-Up-and-Use-the-NetFile-Integration)
+16. [How Do I Set Up The Raise The Money Integration?](https://ispolitical.com/How-do-I-Set-Up-The-Raise-The-Money-Integration)
+17. [How Do I Add the Stripe Integration in ISP?](https://ispolitical.com/How-Do-I-Add-the-Stripe-Integration-in-ISP)
+18. [How Do I Add the Targeted Victory Integration?](https://ispolitical.com/How-Do-I-Add-the-Targeted-Victory-Integration)
+19. [How Do I Set up the WinRed Integration?](https://ispolitical.com/How-Do-I-Set-up-the-WinRed-Integration)
+1. [How Do I Use Quick Imports for WinRed Transactions?](https://ispolitical.com/How-Do-I-Use-Quick-Imports-for-WinRed-Transactions)
+2. [How Do I Create a WinRed Conduit Check?](https://ispolitical.com/How-Do-I-Create-a-WinRed-Conduit-Check)
+3. [WinRed Integration Troubleshooting](https://ispolitical.com/WinRed-Integration-Troubleshooting)
+4. [How Do I Export Data Out of WinRed for Quick Imports in ISP?](https://ispolitical.com/How-Do-I-Export-Data-Out-of-WinRed-for-Quick-Imports-in-ISP)
+
+20. [About ISP’s API](https://ispolitical.com/About-ISP-s-API)
+1. [How Do I Set Up Authentication with ISP’s API?](https://ispolitical.com/How-Do-I-Set-Up-Authentication-with-ISP-s-API)
+2. [How Do I Add Political Committees via ISP’s API?](https://ispolitical.com/How-Do-I-Add-Political-Committees-via-ISP-s-API)
+3. [What Fields Are Available for API Submissions?](https://ispolitical.com/What-Fields-Are-Available-for-API-Submissions)
+4. [How Do I Add Online Donations via ISP’s API?](https://ispolitical.com/How-Do-I-Add-Online-Donations-via-ISP-s-API)
+5. [How Do I Add Fees and Other Expenses via Isp’s API?](https://ispolitical.com/How-Do-I-Add-Fees-and-Other-Expenses-via-Isp-s-API)
+6. [How Do I Add Deposit Batches via ISP’s API?](https://ispolitical.com/How-Do-I-Add-Deposit-Batches-via-ISP-s-API)
+7. [How Do I Add Volunteers With Flags Via ISP’s API?](https://ispolitical.com/How-Do-I-Add-Volunteers-With-Flags-Via-ISP-s-API)
+8. [API Sample Code: Javascript](https://ispolitical.com/API-Sample-Code-Javascript)
+9. [Budget Category Request API](https://ispolitical.com/Budget-Category-Request-API)
+10. [Deposit Batches Request API](https://ispolitical.com/Deposit-Batches-Request-API)
+
+10. [About System Options in ISP](https://ispolitical.com/About-System-Options-in-ISP)
+1. [How Do I Use the Account Management Page?](https://ispolitical.com/How-Do-I-Use-the-Account-Management-Page)
+2. [How Do I Change My Password?](https://ispolitical.com/How-Do-I-Change-My-Password)
+3. [What Is Two Factor Authorization and How Do I Set It Up?](https://ispolitical.com/What-Is-Two-Factor-Authorization-and-How-Do-I-Set-It-Up)
+1. [What Is Authy and How Do I Use It?](https://ispolitical.com/What-Is-Authy-and-How-Do-I-Use-It)
+
+4. [About Users](https://ispolitical.com/About-Users)
+1. [How Do I Add New & Existing Users to a Database?](https://ispolitical.com/How-Do-I-Add-New-Existing-Users-to-a-Database)
+2. [What Are the Different User Permissions in ISP?](https://ispolitical.com/What-Are-the-Different-User-Permissions-in-ISP)
+
+5. [What Are Hotkeys?](https://ispolitical.com/What-Are-Hotkeys)
+
+11. [About Consultant Tools in ISP](https://ispolitical.com/About-Consultant-Tools-in-ISP)
+1. [What Is ai@ISP in Consultant Tools?](https://ispolitical.com/What-Is-ai-ISP-in-Consultant-Tools)
+2. [What Is Data Flow and How Do I Use It?](https://ispolitical.com/What-Is-Data-Flow-and-How-Do-I-Use-It)
+3. [What Is the File Compliance Reports Page in Consultant Tools?](https://ispolitical.com/What-Is-the-File-Compliance-Reports-Page-in-Consultant-Tools)
+4. [What Is the Filing Deadlines Calendar in Consultant Tools?](https://ispolitical.com/What-Is-the-Filing-Deadlines-Calendar-in-Consultant-Tools)
+5. [What Are Key Stats in Consultant Tools?](https://ispolitical.com/What-Are-Key-Stats-in-Consultant-Tools)
+6. [What Is Cross-Account Check Printing in Consulting Tools?](https://ispolitical.com/What-Is-Cross-Account-Check-Printing-in-Consulting-Tools)
+7. [What Is the My Firm Page in Consultant Tools?](https://ispolitical.com/What-Is-the-My-Firm-Page-in-Consultant-Tools)
+8. [What Is the Firm Details Page in Consultant Tools?](https://ispolitical.com/What-Is-the-Firm-Details-Page-in-Consultant-Tools)
+
+12. [Useful Information in ISP](https://ispolitical.com/Useful-Information-in-ISP)
+1. [General Tools and Tips](https://ispolitical.com/General-Tools-and-Tips)
+2. [How Do I Pull a Final Export on My Own?](https://ispolitical.com/How-Do-I-Pull-a-Final-Export-on-My-Own)
+3. [How Do I Capture Video With Windows 10?](https://ispolitical.com/How-Do-I-Capture-Video-With-Windows-1)
+
+---
+
+# HOW DO I FILE A CA FORM 496
+
+How Do I File a CA Form 496?
+==========
+
+Applies To: California
+
+The CA FPPC Form 496 compliance report is used to report Independent Expenditures that are $1,000 or more in aggregate to support (or oppose) a single candidate (or committee) 90 days before an election.
+
+If you are expecting a transaction to pull to this report, make sure there is a Support/Oppose Memo on the transaction. More specifically, a S/O Memo with the IE to Support or IE to Oppose tag. If there are multiple reports, they will generate in alphabetical order based on the S/O Memo.
+
+If a transaction pulls to this report that you are not expecting, then this could be due to the designated election. For example, if the Current Election is Non-Election, then the report uses the date it is generated (in lieu of an election date) and goes back 90 days from this report generation date.
+
+Included on the FPPC Form 496 are contributions received that are $100 or more per transaction since the last filed statement (Form 460, for example).
+
+How do I set up the Form 496 Report in ISPolitical?
+----------
+
+When generating a FPPC Form 496 in ISPolitical, navigate to the Reports tab, then Compliance. On the resulting criteria page, set up the following required fields:
+
+**Filer**: Make sure the correct person/entity is selected (if you have more than one).
+**Compliance Report:** Select the CA Form 496 from the listed report types.
+**Compliance Report Version:** Select either the Standard version, or the Ten Business Day version. The Ten Business Day version is filed by state and local committees making Independent
+Expenditures associated with a Ballot Measure whose combined total
+is $5,000 or more any time outside of the 90 days before an election.
+**Current Election**: The report will use the Current Election field to determine the 90-day report period for the Independent Expenditures.
+**From/To Dates**: This sets the starting date and ending date for the Contributions. Make sure to enter the From Date as the day after the closing date of the last filed report.
+
+For Example: Your last filed report is the April Quarterly. That report’s close date was 3/31. The date you would enter in the From Date field would be 4/1.
+
+**Entity**: This is an optional field. If you know the name of the Support/Oppose entity, you can begin typing the name to search and choose, and generate the report for the specific entity. Leaving this field blank will randomly select the Support/Oppose Memo that applies.
+
+How do I generate Form 496 reports for multiple candidates/committees?
+----------
+
+The Form 496 is unique in that a new report is needed for each candidate or committee with an Independent Expenditures over $1,000 in aggregate in the period or contributions over $100 since the last filed report.
+
+It’s quite common for a committee to have an expense for one business that supports 4 different candidates.
+
+In this type of situation, follow these steps to generate multiple Form 496 reports:
+
+1. Run the report. ISPolitical will automatically select your first candidate/committee and generate a Form 496 report.
+2. Review the data.
+3. Make sure you file the report and then click Mark As Filed once you receive confirmation.
+4. Click Regenerate. The candidate/committee automatically selected in step 1 will be skipped and the next one automatically selected.
+5. Repeat until all candidates/committees have a corresponding Form 496 report.
+
+[Help File Home](/help/) | [Full Index](/Help-File-Directory/) | [Contact Support](mailto:support@ISPolitical.com)
+
+[« California Campaign, Party, & PAC Filing FAQ and Resources](/California-Campaign-Party-PAC-Filing-FAQ-and-Resources)
+[How Do I Report Accrued Expenses Splits with an IE Support/Oppose Memo on the CA 496? »](/How-Do-I-Report-Accrued-Expenses-Splits-with-an-IE-Support-Oppose-Memo-on-the-CA-496)
+
+---
+
+# SOUTH CAROLINA CAMPAIGN PARTY PAC FILING FAQ AND RESOURCES
+
+South Carolina Campaign, Party, & PAC Filing FAQ and Resources
+==========
+
+Applies To: South Carolina
+
+**Resources**
+
+[Elections Site](https://www.scvotes.gov/)
+[Filing Guide
+](https://ethics.sc.gov/index.php/campaigns/election-material)[Filing Calendar](https://ethics.sc.gov/index.php/campaigns/election-material)
+
+[Help File Home](/help/) | [Full Index](/Help-File-Directory/) | [Contact Support](mailto:support@ISPolitical.com)
+
+[⇑ About Compliance Reports](/About-Compliance-Reports)
+[« Rhode Island Campaign, Party, & PAC Filing FAQ and Resources](/Rhode-Island-Campaign-Party-PAC-Filing-FAQ-and-Resources)
+[South Dakota Campaign, Party, & PAC Filing FAQ and Resources »](/South-Dakota-Campaign-Party-PAC-Filing-FAQ-and-Resources)
+
+---
+
+# ABOUT THE FEC FORM 3 REPORT
+
+About the FEC Form 3 Report
+==========
+
+Applies To: Federal Election Commission
+
+The FEC Form 3 Report is a disclosure report of Receipts and Disbursements for authorized committees. To generate the report, go to the Reports tab, then to Compliance. On the resulting screen will be the criteria you’ll need to set to generate the report. Be sure to use the correct criteria to generate the necessary and compliant results. Some fields, including Previous General Election Date, can have a significant effect on totals.
+
+* The 012 Splits Independent of Whole version itemizes splits with reporting code 012 on Line 21 regardless of the whole parent reporting code.
+* The 012 Splits with Whole version itemizes splits on Line 21 if the whole transaction has reporting code 012.
+
+Neither version is the right one, as this is a stylistic choice. The FEC has no preferred method.
+
+The report parameter fields are as follows:
+
+**Date Range:** Please ensure that your date range lines up with either standard FEC reporting dates or dates that are specific to your report. i.e. Pre-Primary, Post-General, etc.
+
+**Current Election:** You will see a dropdown that contains all of the elections that are set up for your campaign.
+
+**Previous General Election:** This field is extremely important to ensure you have the correct dates so to avoid errors.
+
+**Amended:** If you are filing an amendment, if this is a new report this box should not be clicked. If you are filing an amendment you will click this box and additional fields will appear. You will need to select the report in which you are amending. All reports filed out of ISP will appear in the dropdown, if you filed your report outside of ISP you will select Filed Outside of ISP. You will then need your Original Report Number, this number will start with FEC-. The last additional field is the Number of Amendments. We recommend that amendment numbers go in order starting at 1.
+
+**Report Period:** The available report periods will appear in the dropdown.
+
+**Previously Unitemized Individual Donations:** This is another very important field that is required on your report. This number needs to be correct or it could cause calculation errors on your report. You have two options for filling in this field:
+
+* You can locate the number on the previously filed report. If your previously filed report was a Post-General or Year End with Col C, use the amount found in Col C here instead. Previous unitemized individual donations are reported on Line 11aii, Column B of your previously filed report.
+
+OR
+
+* You can click Get From FEC.
+
+Aggregates for a new election cycle will restart the day after the election. If you have a whole transaction before the election and a split below the itemization threshold after the election, that split will not itemize on the report.
+
+**All Caps:** This will generate your entire report in all caps.
+
+**Sort Order:** If you click the dropdown this will give a variety of ways in which you can have your report sorted.
+
+**EXCLUDE Unitemized Transfer Total:** Checking this box removes the Total Unitemized transaction on Line 12. If this box is unchecked, the system will pull the total of untemized splits as a memo transaction, rather than the total of splits when the transaction is unitemized. Additionally, if the total of splits is less than the whole amount, the system pulls a memo transaction for the difference.
+
+**Notes:** The notes block has a character max of 4000 characters. An example of when this could be used is if you need to inform the FEC of best efforts to obtain Occupation/Employer information or of a contribution over the limit that will be refunded on the next report.
+
+We recommend upon completion of generating your report, that you save it as a PDF for your records or to compare to other reports. This must be done at the time of generation, or you will not be able to save it as a PDF without generating it. You can also download the e-filing for your records as well.
+
+Additionally, if there is no Employer information for a particular Individual, then the words Information Requested will populate in the Name of Employer field. Likewise, if there is no Occupation information, then these words will populate in the Occupation field.
+
+[Help File Home](/help/) | [Full Index](/Help-File-Directory/) | [Contact Support](mailto:support@ISPolitical.com)
+
+[« FEC Campaign, Party, & PAC Filing FAQ and Resources](/FEC-Campaign-Party-PAC-Filing-FAQ-and-Resources)
+[How Do I Pull a Transaction to a Specific Line on the FEC Form 3? »](/How-Do-I-Pull-a-Transaction-to-a-Specific-Line-on-the-FEC-Form-3)
+
+---
+
 # ABOUT THE MA DEPOSITORY SUBVENDOR REPORT
 
 About the MA Depository Subvendor Report
@@ -6714,6 +12496,56 @@ At this point, click the red Add as Exclusion button. The Search Criteria will t
 [⇑ What Are Advanced Search Recipes?](/What-Are-Advanced-Search-Recipes)
 [« How Do I Use Advanced Search to Locate Donors Over the Limit?](/How-Do-I-Use-Advanced-Search-to-Locate-Donors-Over-the-Limit)
 [How Do I Find Donors Who Gave to the Primary but Not the General? »](/How-Do-I-Use-Advanced-Search-to-Locate-Donors-Who-Gave-to-the-Primary-but-Not-the-General)
+
+---
+
+# WHAT ARE RECURRING TRANSACTIONS AND HOW DO I ADD ONE
+
+What Are Recurring Transactions and How Do I Add One?
+==========
+
+Recurring Transactions are typically used for any transactions that may regularly occur on the same day of the month, whether it be a regular donor or a monthly expense.
+
+How do I add a recurring transaction?
+----------
+
+Under the Accounting tab, select Recurring Transactions. On the resulting screen you’ll see any existing transactions already designated as recurring transactions.
+
+To add a new recurring transaction, click the Add Recurring Transaction button at the bottom of the screen. A new window will appear and will display as any standard transaction add does in ISP. Complete the needed and applicable details of the transaction and click Add Recurring Transaction.
+
+Once added, the transaction will then appear on the main Recurring Transactions screen with any of the following details that were added during the process.
+
+**Transaction Type:** This will tell you what transaction type the recurring transaction it is, whether it’s an Expense or Monetary Contribution or any other type selected when it was created. Click the type to make any edits to the transaction.
+
+**Next Date:** This is the next date the recurring transaction will process and appear as such in your database.
+
+**Name:** This is the entity’s name where the recurring transaction lives.
+
+**Number:** If you added a number, such as a check number, it will display here.
+
+**Budget Category:** Any Budget Category you chose for this transaction will show here.
+
+**Internal Note:** If you added an Internal Note to the recurring transaction, it will show in this column.
+
+**Election:** This is the Election chosen when the recurring transaction was created.
+
+**Amount:** This will display the amount of the recurring transaction, as well as the abbreviation of the Financial Account it is associated with.
+
+To the right of the Amount column are two other icons.
+
+**Message:** If you hover your mouse over this icon, it will display all notes, such as Compliance, Check, and Internal Notes, as well as the Reporting Code used.
+
+**Info:** Hover over this with your mouse to show if the transaction has been cleared via Reconciliation, as well as who created it and/or edited it, if applicable.
+
+Recurring transactions will not be entered when your account is dormant. However, due to timing issues, a transaction set to be added within approximately 24 hours of an account going dormant may still get added. Be sure to review all Recurring transactions prior to the account going Dormant.
+
+If you’d like to change something about all of your recurring transactions at once, click the Bulk Update button at the bottom of the page. This allows you to change the election or financial account associated with them.
+
+[Help File Home](/help/) | [Full Index](/Help-File-Directory/) | [Contact Support](mailto:support@ISPolitical.com)
+
+[⇑ About Accounting in ISP](/About-Accounting-in-ISP)
+[« How Do I Add Refunds to Integrations Deposits?](/Adding-Refunds-to-Integrations-Deposits)
+[What Is the Register? »](/What-Is-the-Register)
 
 ---
 
@@ -6890,6 +12722,46 @@ PAC-JFCs that only support federal candidates must file reports using the Form 3
 [⇑ FEC Campaign, Party, & PAC Filing FAQ and Resources](/FEC-Campaign-Party-PAC-Filing-FAQ-and-Resources)
 [« What Are Nominee Fund Transfers?](/What-Are-Nominee-Fund-Transfers)
 [About the FEC Form 3 (PAC) Report »](/About-the-FEC-Form-3-PAC-Report)
+
+---
+
+# WHAT ARE BUDGET CATEGORIES
+
+What Are Budget Categories?
+==========
+
+Tracking your finances and their source is an important part of any campaign. In ISP, Budget Categories are a great way to understand where transactions occur and how they play a role in your committee’s finances.
+
+Under the Lists tab, select Budget Categories. On the resulting screen will be a list of Budget Categories already existing in your database. You can choose to view all Active, Inactive, or All Budget Categories.
+
+To the left of each budget category is a red X that allows you to remove the Budget Category from the list. If it is in use (i.e. at least one transaction has that Budget Category selected), it will instead be made Inactive so it no longer appears in your list of Budget Category options when creating a transaction.
+
+To the right is a hot dog menu with an option to Merge any budget categories that are duplicates of each other.
+
+You can also click on each Budget Category to edit the name and which Parent Category it belongs to. Parent Categories are more global in purpose and can cover multiple similar Budget Categories. For example, you could have an Administrative Parent Category with Budget Categories such as Bookkeeping or Bank Fees linked to the Parent Category.
+
+At the bottom of the screen are other actions you can take.
+
+### Print ###
+
+This will print the list of budget categories to a PDF.
+
+### Import Budget Categories ###
+
+If you handle multiple accounts, you can import in specific budget categories from that account into another. In the window that appears, choose the Category (or Categories), then click Import Budget Categories.
+
+### Delete Unused Categories ###
+
+This will remove any categories that have not been used yet, allowing you to keep your list uncluttered.
+
+### Inactivate Old Categories ###
+
+This is another tool to help keep your list free from categories that are no longer in use. Clicking this will move Active categories that have not been used in a while over to the Inactive designation and list. If you need to reactivate an inactive Budget Category, click on the red Inactive button.
+
+[Help File Home](/help/) | [Full Index](/Help-File-Directory/) | [Contact Support](mailto:support@ISPolitical.com)
+
+[« About Lists in ISP](/About-Lists-in-ISP)
+[What Are Communication Types? »](/What-Are-Communication-Types)
 
 ---
 
@@ -7071,6 +12943,235 @@ No efiling capabilities yet, must file on paper. For more information see: [http
 
 ---
 
+# WASHINGTON CAMPAIGN PARTY PAC FILING FAQ AND RESOURCES
+
+Washington Campaign, Party, & PAC Filing FAQ and Resources
+==========
+
+Applies To: Washington
+
+Below are links to FAQs and resources to help you file your Washington reports.
+
+### FAQ ###
+
+* [When Are the Washington Filing Deadlines?](https://ispolitical.com/When-Are-the-Washington-Filing-Deadlines)
+* [Tokens, Passwords, and Filing Washington State (PDC) Reports](https://ispolitical.com/Tokens-Passwords-and-Filing-Washington-State-PDC-Reports)
+* [How Do I Add Candidate and Committee Records Directly From the WA PDC?](https://ispolitical.com/How-Do-I-Add-Candidate-and-Committee-Records-Directly-From-the-WA-PDC)
+* [How Do I Create a Compliant WA Surplus Account?](https://ispolitical.com/How-Do-I-Create-a-Compliant-WA-Surplus-Account)
+* [How Do I Set up Seattle Efiling?](https://ispolitical.com/How-Do-I-Set-up-Seattle-Efiling)
+* [What Is the WA Auction Report?](https://ispolitical.com/What-Is-the-WA-Auction-Report)
+* [About the WA C3 Report](https://ispolitical.com/About-the-WA-C3-Report)
+* [About the WA Form C3 – Non-Candidate Report](https://ispolitical.com/About-the-WA-Form-C3-Non-Candidate-Report)
+* [About the WA C4 Report](https://ispolitical.com/About-the-WA-C4-Report)
+* [About the WA Form C4 – Ballot Measure Report](https://ispolitical.com/About-the-WA-Form-C4-Ballot-Measure-Report)
+* [About the WA Form C4 – Non-Candidate](https://ispolitical.com/About-the-WA-Form-C4-Non-Candidate)
+* [New Washington Filing System](https://ispolitical.com/New-Washington-Filing-System)
+* [My PDC C3 Amendment Filed as a New Report – How Do I Fix That?](https://ispolitical.com/My-PDC-C3-Amendment-Filed-as-a-New-Report-How-Do-I-Fix-That)
+* [What Is the WA PDC Last Minute Contributions Report?](https://ispolitical.com/What-Is-the-WA-PDC-Last-Minute-Contributions-Report)
+
+### Supported Reports ###
+
+* WA Form C3 (Cash Receipts, Monetary Contributions
+* WA Form C3 Non-Candidate
+* WA Form C4 (Campaign Summary Report)
+* WA Form C4 Non-Candidate
+
+### Form Specific Information ###
+
+* [Why Are My Accrued Expenses Itemizing Incorrectly on the WA C4?](https://ispolitical.com/accrued-expenses-itemizing-threshold-wa-c4/)
+* [Form C4 & Accrued Expense Payments](https://ispolitical.com/wa-form-c4-and-accrued-expense-payments/)
+* [Voucher Contributions on the WA Form C3](https://ispolitical.com/wa-form-c3-supports-voucher-contributions/)
+* [WA Form C3 Auction Report](https://ispolitical.com/wa-auction-report/)
+* [Debts Becoming Loans on the C4](https://ispolitical.com/21-day-limit-on-debts-before-they-become-loans-wa/)
+
+### External Resources ###
+
+* [Elections Site](https://www.sos.wa.gov/elections/)
+* [Filing Calendar](https://Www.Pdc.Wa.Gov/Calendar-Of-Events)
+* [Filing Guide](https://Www.Pdc.Wa.Gov/Learn/Publications)
+
+[Help File Home](/help/) | [Full Index](/Help-File-Directory/) | [Contact Support](mailto:support@ISPolitical.com)
+
+[⇑ About Compliance Reports](/About-Compliance-Reports)
+[« About the VA Non-Candidate Compliance Report](/About-the-VA-Non-Candidate-Compliance-Report)
+[When Are the Washington Filing Deadlines? »](/When-Are-the-Washington-Filing-Deadlines)
+
+---
+
+# NORTH DAKOTA CAMPAIGN PARTY PAC FILING FAQ AND RESOURCES
+
+North Dakota Campaign, Party, & PAC Filing FAQ and Resources
+==========
+
+Applies To: North Dakota
+
+Below are links to resources to help you file your North Dakota campaign finance reports.
+
+****FAQ****
+
+**[When are the North Dakota Filing Deadlines?](https://ispolitical.com/When-Are-the-North-Dakota-Filing-Deadlines/?refresh=21316)
+
+**Resources**
+
+[Elections Site
+](https://sos.nd.gov/)[Campaign Finance Homepage](https://vip.sos.nd.gov/PortalListDetails.aspx?ptlhPKID=116&ptlPKID=2)
+[Filing Calendar
+](https://vip.sos.nd.gov/PortalListDetails.aspx?ptlhPKID=109&ptlPKID=2)[Local Candidate Filing Information
+](https://vip.sos.nd.gov/PortalListDetails.aspx?ptlhPKID=110&ptlPKID=2#content-start)[E-filing Information](https://cf.sos.nd.gov/manage/management.aspx)
+
+**Supported Reports**
+
+[Campaign Disclosure Statement (SFN 53970)](https://ispolitical.com/ND-Form-Sfn-5397-Line-by-Line/)**
+
+**[Help File Home](/help/) | [Full Index](/Help-File-Directory/) | [Contact Support](mailto:support@ISPolitical.com)
+
+[⇑ About Compliance Reports](/About-Compliance-Reports)
+[« About the NC Form 4100 Report](/About-the-NC-Form-41-Report)
+[ND Form Sfn 53970 Line by Line »](/ND-Form-Sfn-5397-Line-by-Line)**
+
+---
+
+# WHEN ARE THE CALIFORNIA FILING DEADLINES
+
+When Are the California Filing Deadlines?
+==========
+
+Applies To: California
+
+Below are deadlines for California compliance report filing.
+
+The Filing Deadline information provided here is offered only as a reference aide. The provided deadline information may contain inaccuracies and may not include all special elections or deadlines. For agency specific details please visit the [CA FPPC page on When To File Campaign Statements](https://www.fppc.ca.gov/learn/campaign-rules/where-and-when-to-file-campaign-statements/when-to-file-campaign-statements-state-local-filing-schedules.html).
+
+Authorized
+----------
+
+* 07/31/2024: CA Form 460
+* 09/26/2024: CA Form 460
+* 10/24/2024: CA Form 460
+
+Ballot Measure
+----------
+
+* 07/31/2024: CA Form 460
+* 09/26/2024: CA Form 460
+* 10/24/2024: CA Form 460
+
+Candidate
+----------
+
+* 07/31/2024: CA Form 460
+* 09/26/2024: CA Form 460
+* 10/24/2024: CA Form 460
+
+Caucus
+----------
+
+* 07/31/2024: CA Form 460
+* 09/26/2024: CA Form 460
+* 10/24/2024: CA Form 460
+
+Other
+----------
+
+* 07/31/2024: CA Form 460
+* 09/26/2024: CA Form 460
+* 10/24/2024: CA Form 460
+
+Party
+----------
+
+* 07/31/2024: CA Form 460
+* 09/26/2024: CA Form 460
+* 10/24/2024: CA Form 460
+
+Political Action Committee (PAC)
+----------
+
+* 07/31/2024: CA Form 460
+* 09/26/2024: CA Form 460
+* 10/24/2024: CA Form 460
+
+Recipient
+----------
+
+* 07/31/2024: CA Form 460
+* 09/26/2024: CA Form 460
+* 10/24/2024: CA Form 460
+
+Slate Mailer
+----------
+
+* 07/31/2024: CA Form 401 (Semi-Annual for Slate Mailers participating in the March Primary)
+* 07/31/2024: CA Form 460
+* 08/07/2024 – 11/05/2024: CA Form 498 (Late Payment Rec’d Report)
+* 09/26/2024: CA Form 401 (1st Pre-Election Report for Nov 5 2024 Election)
+* 09/26/2024: CA Form 460
+* 10/24/2024: CA Form 401 (2nd Pre-Election Report for Nov 5 2024 Election)
+* 10/24/2024: CA Form 460
+* 01/31/2025: CA Form 401 (Semi-Annual Report)
+
+Small Contributor
+----------
+
+* 07/31/2024: CA Form 460
+* 09/26/2024: CA Form 460
+* 10/24/2024: CA Form 460
+
+Super PAC
+----------
+
+* 07/31/2024: CA Form 460
+* 09/26/2024: CA Form 460
+* 10/24/2024: CA Form 460
+
+You’re able to add Filing Deadlines found in ISP to your own digital calendar with our [Calendar Feed tool](https://ispolitical.com/Calendar-Feeds).
+
+To see more information about California compliance report filing with ISP, please visit our [California Filing and FAQ Resources](https://ispolitical.com/california-campaign-party-pac-filing-faq-and-resources/) page.
+
+[Help File Home](/help/) | [Full Index](/Help-File-Directory/) | [Contact Support](mailto:support@ISPolitical.com)
+
+[⇑ California Campaign, Party, & PAC Filing FAQ and Resources](/California-Campaign-Party-PAC-Filing-FAQ-and-Resources)
+[« How Do I Report Accrued Expenses Splits with an IE Support/Oppose Memo on the CA 496?](/How-Do-I-Report-Accrued-Expenses-Splits-with-an-IE-Support-Oppose-Memo-on-the-CA-496)
+[How Do I Add Candidate and Committee Records Directly From the CA SOS? »](/How-Do-I-Add-Candidate-and-Committee-Records-Directly-From-the-CA-SOS)
+
+---
+
+# HOW DO I CREATE ACTBLUE CONDUIT TRANSACTION DEPOSIT AFTER AN IMPORT
+
+How Do I Create ActBlue Conduit Transaction Deposit After an Import?
+==========
+
+One of the many ways transactions can be received and entered into the ISP system is through the [ActBlue integration](https://ispolitical.com/how-do-i-set-up-an-actblue-integration/). After they have been imported into the system, you have the option of recording the ActBlue conduit (earmark) deposit separate from the rest of the undeposited transactions.
+
+How do I record an ActBlue deposit?
+----------
+
+On the Record Deposit screen, you’ll see a list of transactions ready to be deposited. If any of the contributions are part of an ActBlue conduit contribution, ensure the checkbox next to the transaction(s) in question is selected, then click the Record ActBlue Conduit Check button at the bottom of the screen. Note that the Record ActBlue Conduit Check option will not appear unless you have the ActBlue integration installed.
+
+In the window that appears, you’ll have the option of setting the Check Date, Check Amount, Election, and Budget Category.
+
+When determining the date to use for the whole, you should use the day the money was deposited into your account.
+
+When the transaction is saved, it will automatically populate the Transaction Tag field with Conduit – Conduit Check. This will not update the Tag field for Splits. If needed, that must be done separately.
+
+Once you’ve added the applicable details, click the Add button.
+
+This will direct you to the Edit Transaction screen where you’ll need to complete the main transaction details. You’ll notice, however, that most of the main details are filled in, and also the transactions you selected from the Deposit screen are showing as Splits.
+
+After entering in all the details, choose either Save or Save & New at the bottom to finalize and add the ActBlue deposit to the system.
+
+**Related Information**
+
+* [How Do I Add ActBlue Fees?](https://ispolitical.com/How-Do-I-Add-ActBlue-Fees)
+
+[Help File Home](/help/) | [Full Index](/Help-File-Directory/) | [Contact Support](mailto:support@ISPolitical.com)
+
+[⇑ About Transactions](/About-Transactions)
+[« How Do I Create and Report Accrued Expenses Without the Invoice?](/How-Do-I-Create-and-Report-Accrued-Expenses-Without-the-Invoice)
+[How Do I Add ActBlue Fees? »](/How-Do-I-Add-ActBlue-Fees)
+
+---
+
 # ABOUT THE CT FORM 3 REPORT
 
 About the CT Form 30 Report
@@ -7087,6 +13188,1082 @@ If you open the downloaded e-file, you might get a scary looking warning. Don’
 [⇑ Connecticut Campaign, Party, & PAC Filing FAQ and Resources](/Connecticut-Campaign-Party-PAC-Filing-FAQ-and-Resources)
 [« SEEC Form 20 (CT) Line by Line](/SEEC-Form-2-CT-Line-by-Line)
 [About the CT Form 40 Report »](/About-the-CT-Form-4-Report)
+
+---
+
+# SIMPLIFYING CAMPAIGN FINANCE WITH ISPS ESSENTIAL TOOLS
+
+Simplifying Campaign Finance with ISP’s Essential Tools
+==========
+
+<img alt="Screenshot 2024-06-19 at 10.26.06 PM" src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%201244%201238'%3E%3C/svg%3E" title="Screenshot 2024-06-19 at 10.26.06 PM" height="1238" width="1244" />\<img fetchpriority="high" decoding="async" class="fl-photo-img wp-image-1517 size-full" src="https://ispolitical.com/wp-content/uploads/2024/06/Screenshot-2024-06-19-at-10.26.06 PM.png" alt="Screenshot 2024-06-19 at 10.26.06 PM" itemprop="image" height="1238" width="1244" title="Screenshot 2024-06-19 at 10.26.06 PM" srcset="https://ispolitical.com/wp-content/uploads/2024/06/Screenshot-2024-06-19-at-10.26.06 PM.png 1244w, https://ispolitical.com/wp-content/uploads/2024/06/Screenshot-2024-06-19-at-10.26.06 PM-300x300.png 300w, https://ispolitical.com/wp-content/uploads/2024/06/Screenshot-2024-06-19-at-10.26.06 PM-1024x1019.png 1024w, https://ispolitical.com/wp-content/uploads/2024/06/Screenshot-2024-06-19-at-10.26.06 PM-150x150.png 150w, https://ispolitical.com/wp-content/uploads/2024/06/Screenshot-2024-06-19-at-10.26.06 PM-768x764.png 768w" sizes="(max-width: 1244px) 100vw, 1244px" /\>
+
+Managing a campaign’s finances can be complex and time-consuming. However, ISP’s suite of campaign finance solutions and tools is designed to streamline and simplify this process, enabling campaign treasurers and finance teams to focus on what truly matters: winning the campaign. Let’s take a peek at the core tools offered by ISP that make campaign finance management easier and more efficient.
+
+Efficient Financial Management
+----------
+
+### Campaign Check Requests ###
+
+Handling check requests can often be a cumbersome task, involving multiple steps and significant manual effort. ISP revolutionizes this process with a dedicated tool and email address for managing check requests. Here's how it works:
+
+* **Streamlined Submissions:** Staff can submit check requests along with the necessary backup documentation directly through a designated email address.
+* **Seamless Management:** These requests are then easily managed within the ISP system, where you can review, approve, and create payments efficiently.
+* **Enhanced Accuracy:** By centralizing this process, ISP reduces the risk of errors and ensures that all financial transactions are accurately recorded and processed in a timely manner.
+
+### Campaign Budgeting ###
+
+Budgeting is a critical aspect of campaign finance management, and ISP's powerful budgeting tool ensures that you can manage your finances effectively and proactively.
+
+* **Flexible Budget Creation:** Create budgets for any time period and as many different budgets as needed, tailored to the specific requirements of your campaign. ISP even offers multidimensional budgeting for large and sophisiticated political committees.
+* **Easy Oversight:** Monitor your budget anytime, allowing you to identify potential issues early and address them before they escalate.
+* **Comprehensive Overview:** Gain a clear and comprehensive overview of your financial status, helping you make informed decisions and maintain financial health throughout the campaign.
+
+### Enhancing Campaign Donor Relations ###
+
+### Thank Campaign Donors ###
+
+Acknowledging donors is not just a courtesy, it’s a critical part of building and maintaining strong relationships. ISP’s integrated thank you tool simplifies this process, ensuring that every donor feels appreciated.
+
+* **Automated Thank You Letters:** Generate and manage thank you letters with ease, saving time and ensuring consistency.
+* **Targeted Messaging:** Customize letters based on donation amounts or budget categories, allowing for personalized and meaningful communication.
+* **Efficient Follow-Up:** By automating this process, you ensure timely and accurate acknowledgments, strengthening donor loyalty and encouraging future contributions.
+
+Streamlined Campaign Issue Management
+----------
+
+### Campaign Service Tickets (\*for large committees) ###
+
+Managing issues and inquiries from community members is crucial for maintaining transparency and trust. ISP’s ticketing tool provides a comprehensive solution for tracking and managing these interactions.
+
+* **Issue Tracking:** Track any issues raised by community members directly from your database, ensuring nothing falls through the cracks.
+* **Status Management:** Add tickets to individual records and keep track of their open/close status, providing clear visibility into ongoing issues.
+* **Email Integration:** Communicate directly with individuals about their issues via integrated email functionality, streamlining responses and ensuring timely follow-up.
+
+Optimized Fundraising Management
+----------
+
+### JFC Management ###
+
+**Joint Fundraising Committees (JFCs)** are a valuable strategy for raising additional funds, but they can also be a bookkeeping nightmare. ISP’s JFC management tool transforms this complex process into a manageable task.
+
+* * **Donation and Expense Tracking:** Easily track all donations and expenses associated with JFCs, ensuring accurate record-keeping.
+
+* **Automated Data Flow:** if both all participating committees use ISP, the data flow is simple and quick.
+
+* **Generate Reports Easily for Participating Committees:** ISP generates teh data files participating committees need for compliance.
+
+* **Fund Transfers:** Simplify the process of transferring funds between committees, use a variety of transaction selection models (ie FIFO or LIFO), avoiding errors and excessive donations.
+* **Compliance Management:** Manage reporting requirements efficiently, ensuring compliance with all relevant regulations.
+* **Enhanced Collaboration:** When participants also use ISP, the tool becomes even more powerful, allowing you to see past donations and avoid over-the-limit allocations, fostering better coordination and cooperation.
+
+Convenient Campaign Scheduling and Reminders
+----------
+
+### Campaign Calendar Feeds ###
+
+Keeping track of important dates and deadlines is vital for any campaign. ISP’s exclusive calendar feeds bring critical information directly to your preferred calendar application.
+
+* **Automated Updates:** Filing deadlines, reminders, campaign events, and more automatically appear on your Google or Outlook calendar.
+* **Centralized Scheduling:** Manage all your important dates in one place, reducing the risk of missing crucial deadlines and ensuring better organization.
+* **Seamless Integration:** With calendar feeds, you can integrate campaign schedules with your existing workflow, enhancing efficiency and time management.
+
+Do You Have the Tools You Need For a Successful Campaign?
+----------
+
+ISP’s campaign finance solutions and tools are designed to simplify the complexities of [managing campaign finances](https://ispolitical.com/), enhance donor relations, streamline issue management, optimize fundraising efforts, and ensure you never miss an important date. By leveraging these powerful tools, campaign treasurers and finance teams can focus on what truly matters: driving the campaign to success. Embrace the future of campaign finance management with ISP and experience the difference today.
+
+You May Like These Blogs
+----------
+
+[Understanding FEC Filing Deadlines: The Breakdown](https://ispolitical.com/understanding-fec-filing-deadlines-the-breakdown/)
+----------
+
+The Federal Election Commission (FEC) plays a pivotal role in maintaining the integrity of campaign finance in the United States.…
+
+[Read More](https://ispolitical.com/understanding-fec-filing-deadlines-the-breakdown/)
+
+[Why You Should Have a Professional Campaign Treasurer](https://ispolitical.com/why-you-should-have-a-professional-campaign-treasurer/)
+----------
+
+Running a political campaign is a complex and demanding endeavor. Amidst the whirlwind of events, rallies, and policy planning, one…
+
+[Read More](https://ispolitical.com/why-you-should-have-a-professional-campaign-treasurer/)
+
+[Know How to Increase Donors to Your Political Campaign](https://ispolitical.com/know-how-to-increase-donors-to-your-political-campaign/)
+----------
+
+Running a successful political campaign requires more than just a strong message and a dedicated team. It requires funding, and…
+
+[Read More](https://ispolitical.com/know-how-to-increase-donors-to-your-political-campaign/)
+
+---
+
+# CA 46 LINE BY LINE
+
+CA 460 Line by Line
+==========
+
+Applies To: California
+
+The CA 460 report is used by recipient committees to report both expenditures and receipts. Use the line by line guide below to ensure or troubleshoot data on the report is appearing where it should.
+
+Please note the date of election will only pull to the report if you are running a Pre-Election report (Primary or General). The date will not pull to the report if you are running a Semi-Annual Report.
+
+### Cover Page ###
+
+### Section 1: Type of Recipient Committee ###
+
+This information is pulled from the Filer Committee Type within the Committee record.
+
+* **Officeholder, Candidate Controlled Committee:** Filer Committee Type is Candidate
+* **State Candidate Election Committee:** Candidate Record is affiliated with the Filer Committee Entity Record vis Relationships. Also ensure the Office Sought is one of the following:
+* Governor
+* Lieutenant Governor
+* Secretary of State
+* State Controller
+* Attorney General
+* State Treasurer
+* Insurance Commissioner
+* Superintendent of Public Instruction
+* Supreme Court Justice
+* State Senator
+* State Assembly Person
+* Board of Equalization Member
+* Public Employees Retirement System
+* State Appellate Court Justice
+
+* **Recall:** Current Election is a Recall Election
+* **General Purpose Committee:** Filer Committee type is NOT Candidate or Ballot Measure. Also ensure there is no individual linked to your Filer Entity Record with either the Supported Candidate or Opposed Candidate relationship.
+* **Sponsored:** Sponsored is checked in the Committee Info on the Filer Entity Record
+* **Small Contributor Committee:** Filer Committee type is Small Contributor Committee
+* **Political Party / Central Committee:** Filer Committee type is Party
+* **Primarily Formed Ballot Measure:** Filer Committee type is Ballot Measure
+* **Controlled:** Controlled box is checked in the Committee Info on the Filer Entity Record
+* **Primarily Formed Candidate/Officeholder Committee:** Individual is linked to your Filer Entity Record with either the Supported Candidate or Opposed Candidate relationship.
+
+### Section 2: Type of Statement
+###
+
+This is determined by the Report Period dropdown menu on the criteria screen when generating the report.
+
+### Section 3: Committee Information ###
+
+* Committee contact info pulls directly from the committee record itself. Address marked as Primary will pull to the first instance of address; Address marked is Mailing will pull to the second instance (if different).
+* Treasurer(s) / Assistant Treasurer(s) must be linked via Relationships on the Filer Committee entity record.
+
+### Section 4: Verification ###
+
+* **Executed on:** The date you generate the report
+* **Signers:** Based on the Relationships found on the Filer Committee entity record. These can be selected during the report generation process. You can select up to four signers, but only the first is required. Note that these signer fields will not appear for local filers filing with Netfile.
+
+### Cover Page, Part 2 ###
+
+### Section 5: Officeholder or Candidate Controlled Committee ###
+
+* The Filer committee type must be Candidate.
+* Candidate must be linked as Candidate / Candidate of to the Filer, and must be marked as Primary for the Filer.
+* Address is the primary address on the linked Candidate’s record.
+* Office Sought or Office Held, Jurisdiction Description and District Number of the linked Candidate must be filled in.
+
+### Section 5 (b): Related Committees Not Included in this Statement ###
+
+* Related Committee must be a Political Committee linked to the Filer using the Authorized Committee/Authorized Committee of Relationship. There can be multiple committees.
+* If the Controlled box is checked under Committee Info on the linked committee, the Yes box will be checked under Controlled Committee? section.
+
+### Section 6: Primarily Formed Ballot Measure Committee ###
+
+* First [create a Ballot Measure](https://ispolitical.com/how-do-i-add-a-ballot-measure/). Ensure the Letter or Number and Jurisdiction fields are filled out.
+* Next link Ballot Measure with Ballot Measure Supported or Ballot Measure Opposed.
+
+### Section 6(b): Identify the controlling officeholder, candidate, or state measure proponent, if any ###
+
+* Filer committee type must be Candidate or Ballot Measure.
+* Filer must have Controlled checked under Committee Info.
+* Filer must have a linked Candidate using the Candidate/Candidate of Relationship.
+* Address is the primary address on the linked Candidate’s record.
+* Office Sought or Office Held and District Number of the linked Candidate must be filled in.
+
+### Section 7: Primarily Formed Candidate/Officeholder Committee ###
+
+* Candidate must be linked via either Opposed Candidate/Candidate Opposed By or Supported Candidate/Candidate Supported By relationship.
+* Linked Candidate must have Office Sought filled in.
+
+### Summary Page ###
+
+### Contributions Received ###
+
+### Line 1 (Schedule A – Monetary Contributions) ###
+
+* **Transaction Types:** Monetary Contributions (including contributions with tags Conduit-Conduit Check, Conduit-Donor Check, and Transfer), Loan Received Balance Reduction, Enforceable Pledge Payment, Enforceable Pledge (as memo), Anonymous Monetary Contributions (always unitemized)
+
+### Line 2 (Schedule B-Part 1, Loans Received) ###
+
+* **Transaction Type:** Loans Received
+
+### Line 3, SUBTOTAL CASH CONTRIBUTIONS ###
+
+* Total of Line 1 and Line 2
+
+### Line 4 (Schedule C, Nonmonetary Contributions) ###
+
+* **Transaction Types:** Inkind Contribution (including contributions with tags Conduit – Inkind), Accrued Expense Balance Reduction
+
+### Line 5, TOTAL CONTRIBUTIONS RECEIVED ###
+
+### Expenditures Made ###
+
+### Line 6 (Schedule E, Payments Made) ###
+
+* **Transaction Types:** Expenses, Accrued Expense Payment, Loan Made Balance Reduction, Non-Monetary Expense (as memo), Refunded Contribution, Allocation Transfer Made (from State to Federal), Loan Rec’d Interest Payment
+
+### Line 7 (Schedule H, Loans Made to Others) ###
+
+* **Transaction Type:** Loan Made
+
+### Line 8, SUBTOTAL CASH PAYMENTS ###
+
+* Total of Line 6 and Line 7
+
+### Line 9 (Schedule F, Accrued Expenses) ###
+
+* **Transaction Type:** Accrued Expense
+
+### Line 10 (Schedule C, Nonmonetary Contributions) ###
+
+* **Transaction Type:** Inkind Contribution (including contributions with tags Conduit – Inkind), Accrued Expense Balance Reduction
+
+### Line 11, TOTAL EXPENDITURES MADE ###
+
+* Total of Lines 8, 9, and 10
+
+### Current Cash Statement ###
+
+### Line 12, Beginning Cash Balance ###
+
+* This is the total from Line 16 on the previous report
+
+### Line 13, Cash Receipts ###
+
+* Amount from Line 3 (Subtotal Cash Contributions) on main Summary Page
+
+### Line 14 (Schedule I, Misc Increases to Cash) ###
+
+* Transaction Type: Other Income, Anonymous Other Income (always unitemized), Allocation Transfer (Federal to State), Refunded Expense
+
+### Line 15, Cash Payments ###
+
+* Amount from Line 8 (Subtotal Cash Payments) on main Summary Page
+
+### Line 16, ENDING CASH BALANCE ###
+
+* Add Lines 12, 13, and 14, then subtract Line 15
+
+### Line 17 (Schedule B-Part 2, Loan Guarantors) ###
+
+* Transaction Type: Loan Received Guarantee
+
+### Cash Equivalents and Outstanding Debts ###
+
+### Line 18, Cash Equivalents ###
+
+* Ending Investment Balance pulled from the criteria screen when generating the report
+
+### Line 19, Outstanding Debts ###
+
+* Total of Line 2 and Line 9 from Column B
+
+### Line 22, Expenditure Ceiling Summary for State Candidates
+###
+
+The following transactions are included in the Line 22 calculation:
+
+###  ###
+
+### NOT INCLUDED IN SUMMARY TOTALS ###
+
+Schedule D, Summary of Expenditures Supporting/Opposing Others:
+
+* **Transaction Type:** Support/Oppose Memos, Loan Made Balance Reduction
+
+Schedule G, Payments Made by an Agent or Independent Contractor:
+
+* **Transaction Type:** Expense (split), Accrued Expense (split), State Portion of Allocated Expense, State Portion of Allocated Accrued Expense Payment, State Portion of Allocated Non-Monetary Expense (as memo)
+* In-kind Contributions, except from Party Committees
+* Expenses, Accrued Expenses, Non-Monetary Expenses, and Refunded Expenses, except those with the Exempt from Expenditure Ceiling tag
+* Sch G has a $500 itemization threshold.
+
+[Help File Home](/help/) | [Full Index](/Help-File-Directory/) | [Contact Support](mailto:support@ISPolitical.com)
+
+[« What Is the CA 460 Report & How Do I Prepare and File It?](/What-Is-the-CA-46-Report-How-Do-I-Prepare-and-File-It)
+[Checkboxes for Sch D on CA 460 »](/Checkboxes-for-Sch-D-on-CA-46)
+
+---
+
+# ABOUT TOOLS IN ISP
+
+About Tools in ISP
+==========
+
+The Tools tab contains options for both basic and complex tasks needed for data integrity. Below are help files for the options found under the Tools tab.
+
+ai@ISP
+----------
+
+![ai@ISP logo](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%200%200'%3E%3C/svg%3E)\<img decoding="async" src="https://app.ISPolitical.com/Public/ToolImage/4" class="integration-or-tool-logo" alt="ai@ISP logo" /\>
+
+ai@ISP is an intelligent bot that will help you manage your work and take care of mundane tasks for you so you can focus on what’s important.
+
+[Learn More](https://ispolitical.com/What-Is-ai-ISP).
+
+BCC Emails
+----------
+
+![BCC Emails logo](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%200%200'%3E%3C/svg%3E)\<img decoding="async" src="https://app.ISPolitical.com/Public/ToolImage/5" class="integration-or-tool-logo" alt="BCC Emails logo" /\>
+
+If you are emailing an entity outside of ISP, use the BCC Emails option to automatically log the email in Communications.
+
+[Learn More](https://ispolitical.com/How-Do-I-Use-BCC-Emails-to-Add-Communications).
+
+Calendar Feeds
+----------
+
+![Calendar Feeds logo](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%200%200'%3E%3C/svg%3E)\<img decoding="async" src="https://app.ISPolitical.com/Public/ToolImage/6" class="integration-or-tool-logo" alt="Calendar Feeds logo" /\>
+
+Calendar Feeds utilizes iCalendar, a protocol which allows you to store and exchange calendaring and scheduling information with your personal calendar, whether that’s through Gmail, Outlook, or a different calendar.
+
+[Learn More](https://ispolitical.com/What-Are-Calendar-Feeds).
+
+Call Time
+----------
+
+![Call Time logo](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%200%200'%3E%3C/svg%3E)\<img decoding="async" src="https://app.ISPolitical.com/Public/ToolImage/7" class="integration-or-tool-logo" alt="Call Time logo" /\>
+
+Use Call Time to create a call script for each of your users, as well as set what they can see and/or edit in entity and transaction records.
+
+[Learn More](https://ispolitical.com/What-Are-Call-Time-Settings).
+
+Check Requests
+----------
+
+![Check Requests logo](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%200%200'%3E%3C/svg%3E)\<img decoding="async" src="https://app.ISPolitical.com/Public/ToolImage/8" class="integration-or-tool-logo" alt="Check Requests logo" /\>
+
+The Check Requests page will contain any and all emailed requests for checks to cover expenses.
+
+[Learn More](https://ispolitical.com/What-Are-Check-Requests).
+
+Combine Duplicates
+----------
+
+![Combine Duplicates logo](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%200%200'%3E%3C/svg%3E)\<img decoding="async" src="https://app.ISPolitical.com/Public/ToolImage/9" class="integration-or-tool-logo" alt="Combine Duplicates logo" /\>
+
+The Combine Duplicates page allows you to view potential duplicates in your database using various search criteria. You can then determine whether you want to combine them, as well as customizing what data is merged, or determining if the two records listed are not duplicates.
+
+[Learn More](https://ispolitical.com/How-Do-I-Combine-Duplicates).
+
+Drip Campaigns
+----------
+
+![Drip Campaigns logo](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%200%200'%3E%3C/svg%3E)\<img decoding="async" src="https://app.ISPolitical.com/Public/ToolImage/10" class="integration-or-tool-logo" alt="Drip Campaigns logo" /\>
+
+Drip Campaigns allows you to create a series of emails to go out over a set and staggered period of time. For example, if you have an upcoming fundraising event, ISP can automatically send emails over several days leading up to the event to provide reminders and more information about the event.
+
+[Learn More](https://ispolitical.com/How-Do-I-Create-Drip-Campaigns-Drip-Emails).
+
+Link Spouses
+----------
+
+![Link Spouses logo](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%200%200'%3E%3C/svg%3E)\<img decoding="async" src="https://app.ISPolitical.com/Public/ToolImage/11" class="integration-or-tool-logo" alt="Link Spouses logo" /\>
+
+The Link Spouses page lists records that could potentially be joined as spouses.
+
+[Learn More](https://ispolitical.com/How-to-Link-Spouses).
+
+Quick Emails
+----------
+
+![Quick Emails logo](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%200%200'%3E%3C/svg%3E)\<img decoding="async" src="https://app.ISPolitical.com/Public/ToolImage/12" class="integration-or-tool-logo" alt="Quick Emails logo" /\>
+
+Instead of sending out emails to an entire email list, use Quick Emails to contact individuals on a one-at-a-time basis.
+
+[Learn More](https://ispolitical.com/What-Are-Quick-Emails).
+
+Quick Imports
+----------
+
+![Quick Imports logo](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%200%200'%3E%3C/svg%3E)\<img decoding="async" src="https://app.ISPolitical.com/Public/ToolImage/13" class="integration-or-tool-logo" alt="Quick Imports logo" /\>
+
+Used to import data via various formatting options.
+
+[Learn More](https://ispolitical.com/How-Do-I-Use-Quick-Import).
+
+Rocket Management
+----------
+
+![Rocket Management logo](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%200%200'%3E%3C/svg%3E)\<img decoding="async" src="https://app.ISPolitical.com/Public/ToolImage/15" class="integration-or-tool-logo" alt="Rocket Management logo" /\>
+
+The Rocket mobile app for ISP allows you to manage call time, track progress, and follow up with donors and constituents. This page within ISP gives you the ability to control how the call time app operates.
+
+Tickets
+----------
+
+![Tickets logo](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%200%200'%3E%3C/svg%3E)\<img decoding="async" src="https://app.ISPolitical.com/Public/ToolImage/16" class="integration-or-tool-logo" alt="Tickets logo" /\>
+
+Using Tickets, you can track any of your community member’s issues
+directly from your database. Add tickets to individual records and keep
+track of open/close status.
+
+Email integrations allow you to communicate directly with the individual about their issue.
+
+[Learn More](https://ispolitical.com/What-Are-Tickets-Ticket-Areas-and-How-Do-I-Add-Them).
+
+Time Tracking
+----------
+
+![Time Tracking logo](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%200%200'%3E%3C/svg%3E)\<img decoding="async" src="https://app.ISPolitical.com/Public/ToolImage/18" class="integration-or-tool-logo" alt="Time Tracking logo" /\>
+
+The Time Tracking System allows you to track staff and/or volunteers’ hours spent working on your campaign.
+
+[Learn More](https://ispolitical.com/What-Is-Time-Tracking).
+
+Pledges & Targets
+----------
+
+![Pledges & Targets logo](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%200%200'%3E%3C/svg%3E)\<img decoding="async" src="https://app.ISPolitical.com/Public/ToolImage/19" class="integration-or-tool-logo" alt="Pledges &#038; Targets logo" /\>
+
+Use the Pledges & Targets section to add either a Pledge or Target to the record. These are used for setting financial goals and meeting them.
+
+[Learn More](https://ispolitical.com/About-Pledges-Targets-and-How-to-Add-Them-to-Records).
+
+Third Party Donations
+----------
+
+![Third Party Donations logo](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%200%200'%3E%3C/svg%3E)\<img decoding="async" src="https://app.ISPolitical.com/Public/ToolImage/20" class="integration-or-tool-logo" alt="Third Party Donations logo" /\>
+
+The Third Party Donations section allows users to add donations to Third Party recipients.
+
+Elected Officials
+----------
+
+![Elected Officials logo](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%200%200'%3E%3C/svg%3E)\<img decoding="async" src="https://app.ISPolitical.com/Public/ToolImage/21" class="integration-or-tool-logo" alt="Elected Officials logo" /\>
+
+The Elected Officials section contains all elected officials from Federal to Local offices, all based on the Primary address in the record. These are automatically pulled by the system.
+
+Membership
+----------
+
+![Membership logo](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%200%200'%3E%3C/svg%3E)\<img decoding="async" src="https://app.ISPolitical.com/Public/ToolImage/24" class="integration-or-tool-logo" alt="Membership logo" /\>
+
+The Membership tool allows you to your track your members, including join dates.
+
+You can track as many different membership types as you want. Mange your membership types by going to Lists \> Membership Types.
+
+[Learn More](https://ispolitical.com/What-Are-Memberships-and-Membership-Types).
+
+JFC Management
+----------
+
+![JFC Management logo](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%200%200'%3E%3C/svg%3E)\<img decoding="async" src="https://app.ISPolitical.com/Public/ToolImage/27" class="integration-or-tool-logo" alt="JFC Management logo" /\>
+
+The JFC Management tool gives you a series of specialized tracking systems for managing a Joint Fundraising Committee and allocating donations between the participating committees.
+
+[Learn More](https://ispolitical.com/What-Is-JFC-Management).
+
+Carey Accounts
+----------
+
+![Carey Accounts logo](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%200%200'%3E%3C/svg%3E)\<img decoding="async" src="https://app.ISPolitical.com/Public/ToolImage/28" class="integration-or-tool-logo" alt="Carey Accounts logo" /\>
+
+Carey Committees (also known as a Hybrid PACs) maintains one bank account for making contributions in connection with federal elections and a separate “non-contribution account” for making independent expenditures. ISP’s Carey Account tools allow you to handle the tracking and appropriate reporting for this seperate account.
+
+[Learn More](https://ispolitical.com/What-Are-Carey-Committees-and-Carey-Accounts).
+
+IRS Reports
+----------
+
+![IRS Reports logo](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%200%200'%3E%3C/svg%3E)\<img decoding="async" src="https://app.ISPolitical.com/Public/ToolImage/29" class="integration-or-tool-logo" alt="IRS Reports logo" /\>
+
+This tool adds the IRS 8872 report to your Compliance Reports.
+
+Preserve Older Occupation & Employer
+----------
+
+![Preserve Older Occupation & Employer logo](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%200%200'%3E%3C/svg%3E)\<img decoding="async" src="https://app.ISPolitical.com/Public/ToolImage/30" class="integration-or-tool-logo" alt="Preserve Older Occupation &#038; Employer logo" /\>
+
+By default, old information is overwritten with new information during imports and duplicate combining. With this tool installed, old Occupation & Employer info will remain and not be overwritten by new information.
+
+Preserve Older Address
+----------
+
+![Preserve Older Address logo](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%200%200'%3E%3C/svg%3E)\<img decoding="async" src="https://app.ISPolitical.com/Public/ToolImage/32" class="integration-or-tool-logo" alt="Preserve Older Address logo" /\>
+
+By default, new information assumed to be better during imports and duplicate combining. With this tool, the older address will remain the Primary address.
+
+Compliance Report Excel Export
+----------
+
+![Compliance Report Excel Export logo](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%200%200'%3E%3C/svg%3E)\<img decoding="async" src="https://app.ISPolitical.com/Public/ToolImage/33" class="integration-or-tool-logo" alt="Compliance Report Excel Export logo" /\>
+
+This tool allows you to download your compliance report in Excel format containing the same data as is included in the e-filing. This option will be found at the bottom of the screen after generating the compliance report.
+
+While not valid for filing, viewing in Excel can be useful for reviewing data in bulk.
+
+Events
+----------
+
+![Events logo](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%200%200'%3E%3C/svg%3E)\<img decoding="async" src="https://app.ISPolitical.com/Public/ToolImage/34" class="integration-or-tool-logo" alt="Events logo" /\>
+
+Use the Events tool to track fundraising events and opportunities, as well as donors and their donations.
+
+[Learn More](https://ispolitical.com/What-Are-Events-How-Do-I-Use-Them).
+
+International Addresses
+----------
+
+![International Addresses logo](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%200%200'%3E%3C/svg%3E)\<img decoding="async" src="https://app.ISPolitical.com/Public/ToolImage/35" class="integration-or-tool-logo" alt="International Addresses logo" /\>
+
+International Addresses allows you to add addresses from numerous countries around the world.
+
+[Learn More](https://ispolitical.com/How-Do-I-Add-International-Addresses-to-ISP).
+
+Florida 106.0701 Reporting
+----------
+
+![Florida 106.0701 Reporting logo](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%200%200'%3E%3C/svg%3E)\<img decoding="async" src="https://app.ISPolitical.com/Public/ToolImage/36" class="integration-or-tool-logo" alt="Florida 106.0701 Reporting logo" /\>
+
+Creates and keeps updated an HTML report that meets 106.0701 requirements. This report can be included in your website via an iFrame. See our help file for more information.
+
+[Learn More](https://ispolitical.com/How-Do-I-Meet-Florida-s-1-6-7-1-Reporting-Requirements-in-ISP).
+
+Soft Credits
+----------
+
+![Soft Credits logo](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%200%200'%3E%3C/svg%3E)\<img decoding="async" src="https://app.ISPolitical.com/Public/ToolImage/37" class="integration-or-tool-logo" alt="Soft Credits logo" /\>
+
+Do you have a group of ambassadors that help you raise money?
+
+The soft credit system allows you to track and credit these valuable fundraisers.
+
+External ID Tracking
+----------
+
+![External ID Tracking logo](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%200%200'%3E%3C/svg%3E)\<img decoding="async" src="https://app.ISPolitical.com/Public/ToolImage/38" class="integration-or-tool-logo" alt="External ID Tracking logo" /\>
+
+The External Data Sources tool allows you to track ID Numbers and other identifiers from external software programs and data sources. This tool will add a new section to Individual and Organization records where you can add more details.
+
+Form Builder
+----------
+
+![Form Builder logo](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%200%200'%3E%3C/svg%3E)\<img decoding="async" src="https://app.ISPolitical.com/Public/ToolImage/40" class="integration-or-tool-logo" alt="Form Builder logo" /\>
+
+The Form Builder tool gives you more control when building and creating forms for volunteers and other similar purposes. Logos, customized emails, and other important features are available to you when building a new form.
+
+Call Sheets
+----------
+
+![Call Sheets logo](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%200%200'%3E%3C/svg%3E)\<img decoding="async" src="https://app.ISPolitical.com/Public/ToolImage/41" class="integration-or-tool-logo" alt="Call Sheets logo" /\>
+
+Generate detailed reports designed for making fundraising phone calls. You can include Flag names or descriptions on the call sheet, as well as Key Stats that provide important donation details for the individual you’ll be connecting with.
+
+[Learn More](https://ispolitical.com/What-Are-Call-Sheets).
+
+Print Envelopes
+----------
+
+![Print Envelopes logo](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%200%200'%3E%3C/svg%3E)\<img decoding="async" src="https://app.ISPolitical.com/Public/ToolImage/42" class="integration-or-tool-logo" alt="Print Envelopes logo" /\>
+
+Print envelopes from individual and organization records.
+
+[Learn More](https://ispolitical.com/How-Do-I-Set-Up-Print-Envelopes).
+
+Webhooks
+----------
+
+![Webhooks logo](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%200%200'%3E%3C/svg%3E)\<img decoding="async" src="https://app.ISPolitical.com/Public/ToolImage/43" class="integration-or-tool-logo" alt="Webhooks logo" /\>
+
+If you are using an outside source to manage donors and donor contact info, you can use Webhooks to transmit that data from ISP to the data housing program you’re using. Donation and basic donor contact info will be captured with Webhooks and sent to your source in near real time.
+
+[Learn More](https://ispolitical.com/What-Are-Webhooks-and-How-Do-I-Use-Them).
+
+Marketing Link Builder
+----------
+
+![Marketing Link Builder logo](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%200%200'%3E%3C/svg%3E)\<img decoding="async" src="https://app.ISPolitical.com/Public/ToolImage/44" class="integration-or-tool-logo" alt="Marketing Link Builder logo" /\>
+
+The Marketing Link Builder assists you in creating and tracking marketing links.
+
+Reminders
+----------
+
+![Reminders logo](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%200%200'%3E%3C/svg%3E)\<img decoding="async" src="https://app.ISPolitical.com/Public/ToolImage/45" class="integration-or-tool-logo" alt="Reminders logo" /\>
+
+Use Reminders to make sure you and your staff are keeping up with constituent communication. You can assign Reminders to different staff and provide dates to be sure they don’t miss the contact.
+
+[Learn More](https://ispolitical.com/What-Are-Reminders).
+
+Calendar
+----------
+
+![Calendar logo](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%200%200'%3E%3C/svg%3E)\<img decoding="async" src="https://app.ISPolitical.com/Public/ToolImage/46" class="integration-or-tool-logo" alt="Calendar logo" /\>
+
+The Calendar tool is a simple scheduling solution that will be integrated into ISP. From here, you can add and track important dates and the staff involved.
+
+[Learn More](https://ispolitical.com/What-Is-the-Calendar-and-Recurring-Calendar-Entries).
+
+Units
+----------
+
+![Units logo](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%200%200'%3E%3C/svg%3E)\<img decoding="async" src="https://app.ISPolitical.com/Public/ToolImage/47" class="integration-or-tool-logo" alt="Units logo" /\>
+
+The Units tool allows a client to sub-divide their database, including security and financial reporting. This commonly would be used for large organizations that have divisions, such as regional chapters, while still running everything within a single legal entity.
+
+[Learn More](https://ispolitical.com/What-Are-Units).
+
+Headshots
+----------
+
+![Headshots logo](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%200%200'%3E%3C/svg%3E)\<img decoding="async" src="https://app.ISPolitical.com/Public/ToolImage/57" class="integration-or-tool-logo" alt="Headshots logo" /\>
+
+Support headshots for Individual records
+
+Multi-Dimensional Budgeting
+----------
+
+![Multi-Dimensional Budgeting logo](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%200%200'%3E%3C/svg%3E)\<img decoding="async" src="https://app.ISPolitical.com/Public/ToolImage/66" class="integration-or-tool-logo" alt="Multi-Dimensional Budgeting logo" /\>
+
+Allows tracking of financial activity on more than one dimension.
+
+Recommended only for larger organizations, such as those that have regions and large departments.
+
+[Help File Home](/help/) | [Full Index](/Help-File-Directory/) | [Contact Support](mailto:support@ISPolitical.com)
+
+[« What Are the to and From Date Options for Scheduled Reports?](/What-Are-the-to-and-From-Date-Options-for-Scheduled-Reports)
+[What Are Calendar Feeds? »](/What-Are-Calendar-Feeds)
+
+---
+
+# ARIZONA CAMPAIGN PARTY PAC FILING FAQ AND RESOURCES
+
+Arizona Campaign, Party, & PAC Filing FAQ and Resources
+==========
+
+Applies To: Arizona
+
+Below are links to resources to help you file your Arizona reports.
+
+### FAQ ###
+
+* [When Are the Arizona Filing Deadlines](https://ispolitical.com/When-Are-the-Arizona-Filing-Deadlines)
+* [About the AZ Periodic Report / PAC Bulk Import](https://ispolitical.com/About-the-AZ-Periodic-Report-PAC-Bulk-Import)
+* [About the AZ IE Trigger Report](https://ispolitical.com/About-the-AZ-IE-Trigger-Report)
+
+**Resources**
+
+[Elections Site](http://www.azsos.gov/elections)
+[Filing Calendar](https://Azsos.Gov/Elections/Elections-Calendar-Upcoming-Events)
+[Filing Guide](https://azsos.gov/elections/campaign-finance-reporting)
+
+**Supported Reports**
+
+AZ PAC Comprehensive Campaign Finance Reports (also known as “Bulk Import”)
+AZ IE Trigger Report
+
+[Help File Home](/help/) | [Full Index](/Help-File-Directory/) | [Contact Support](mailto:support@ISPolitical.com)
+
+[⇑ About Compliance Reports](/About-Compliance-Reports)
+[« When Are the Alaska Filing Deadlines?](/When-Are-the-Alaska-Filing-Deadlines)
+[When Are the Arizona Filing Deadlines »](/When-Are-the-Arizona-Filing-Deadlines)
+
+---
+
+# ABOUT ENTITIES IN ISP
+
+About Entities in ISP
+==========
+
+The Add/Search tab allows you to add and search for Entities in your database.
+
+* [How Do I Combine Duplicates in Search Results?](https://ispolitical.com/How-Do-I-Combine-Duplicates-in-Search-Results)
+* [How Do I Create New Relationships?](https://ispolitical.com/How-Do-I-Create-New-Relationships)
+* [What Are Pledges & Targets and How Do I Add Them to Records?](https://ispolitical.com/About-Pledges-Targets-and-How-to-Add-Them-to-Records)
+* [How Do I Track Pledges?](https://ispolitical.com/Adding-and-Tracking-Pledges)
+* [How Do I Generate Call Sheets?](https://ispolitical.com/How-Do-I-Generate-Call-Sheets)
+* [How Do I Add International Addresses to ISP?](https://ispolitical.com/How-Do-I-Add-International-Addresses-to-ISP)
+
+[Help File Home](/help/) | [Full Index](/Help-File-Directory/) | [Contact Support](mailto:support@ISPolitical.com)
+
+[« About Add/Search](/About-Add-Search)
+[How Do I Combine Duplicates in Search Results? »](/How-Do-I-Combine-Duplicates-in-Search-Results)
+
+---
+
+# PROFESSIONAL POLITICAL FIRM DIRECTORY
+
+Professional Political Firm Directory
+==========
+
+Compliance professionals are worth their weight in gold. When you need one, the need is great. But, it can be tough to know which compliance professionals to trust.
+
+The firms listed in this directory work with ISP regularly and often exclusively. Through the rigor and grind of their work, each proved their sophistication and expertise.
+
+Any political compliance firm listed has our vote of confidence.
+
+---
+
+KAL Group
+----------
+
+Party: Republican | Agencies: Arizona, California, Federal Election Commission, Oregon, Texas, Washington
+
+The KAL Group has been providing campaign finance back-office services for over 18 years. Principal Kelly Lawler has over 20 years of experience in the field. She and her staff work hard to address each client’s unique and individual needs. They support candidates from School Boards to US Senate. Their unique approach to customer service sets them apart from their competitors.
+
+Kelly Lawler
+
+PO Box 730
+
+Hilmar, CA 95324
+
+https://www.thekalgroup.com/home
+
+(209) 656-1542
+
+kellylawler@thekalgroup.com
+
+---
+
+![Argo Strategies logo](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%200%200'%3E%3C/svg%3E)\<img decoding="async" class="integration-or-tool-logo" src="https://app.ISPolitical.com/Public/FirmLogo/3" alt="Argo Strategies logo" /\>
+
+Argo Strategies
+----------
+
+Party: Democratic
+
+We are a full-service Democratic consulting firm with more than 25 years of experience in campaigns and public affairs. Founded in 2005, Argo Strategies has helped more than 400 candidates and ballot measures across more than a dozen states win their races.
+
+Jason Bennett
+
+[https://www.argo.us](https://www.argo.us/)
+
+PO Box 9100, Seattle, WA 98109
+
+info@argo.us
+
+(206) 745-2010
+
+---
+
+In Compliance
+----------
+
+Party: Republican
+
+In Compliance Inc has spent more than a decade assisting candidates and political committees with all of their compliance and bookkeeping needs. From start to finish, we will be there to make sure you are compliant with the ever-changing world of campaign finance. Our stellar record and happy clientele are a testament to the commitment we have to our clients. Contact us today to discuss how we can be of assistance to you.
+
+Chrissie Hastie, President/CEO
+
+PO Box 751271
+
+Las Vegas, NV 89136
+
+[https://www.incompliance.net](https://www.incompliance.net/)
+
+chrissie@InCompliance.net
+
+(702) 259-5559
+
+---
+
+Political Communications, Inc.
+----------
+
+Party: Republican | Agencies: California, Federal Election Commission, Georgia, Illinois, Nevada, Texas, Virginia
+
+---
+
+Briana Bilbray, CPA
+----------
+
+Party: Republican
+
+CA/FED Political Accounting and Reporting Services
+
+Briana Bilbray, CPA
+
+970 Seacoast Drive, Ste 7
+
+Imperial Beach, CA 91932
+
+Phone: (619) 852-7546 | Fax: (619) 924-7149
+
+---
+
+ElectionMachine
+----------
+
+Party: Democratic
+
+GOP State/Fed Accounting & Reporting Services
+
+Paula Edwards, CPA, MST, LLP
+
+1629 K Street, N.W. Suite 300
+
+Washington, D.C. 20006
+
+paula.edwards@electionmachine.com
+
+(202) 882-4640
+
+---
+
+C&I Consulting
+----------
+
+Party: Democratic
+
+Established in 2013, C&I Consulting has quickly grown to be the premier political fundraising and compliance firm on California’s Central Coast. With over 30 years of combined experience, C&I is proficient in political and non-profit fundraising, event coordination, and political reporting and compliance services. We have worked with clients of all sizes and can work with you to customize a package of services for your campaign or organization.
+
+Jen Cooper
+
+Monica Intaglietta
+
+[https://www.cicsb.com](https://www.cicsb.com/)
+
+Santa Barbara, CA
+
+jen@cicsb.com, Monica@cicsb.com
+
+(805) 448-9470
+
+---
+
+McCauley Associates
+----------
+
+Party: Republican
+
+Established in 2005, McCauley & Associates, P.C., is a certified public accounting firm that provides full caging, accounting, treasury, and reporting services for a large variety of political reporting entities, including Congressional and Senate campaigns, PACs, State and Local parties or candidate committees as well as other political entities, including 527 and 501 (c)(4) organizations.
+
+Mike McCauley
+
+370 East South Temple, Ste. 580
+
+Salt Lake City, UT 84111
+
+>
+>
+> [Home](https://politicalcomplianceservices.com/)
+>
+>
+
+<iframe loading="lazy" class="wp-embedded-content" sandbox="allow-scripts" security="restricted" style="position: absolute; clip: rect(1px, 1px, 1px, 1px);" title="“Home” — McCauley &amp; Associates, PC" src="about:blank" data-secret="ZWBjVAvRw3" width="500" height="282" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" data-rocket-lazyload="fitvidscompatible" data-lazy-src="https://politicalcomplianceservices.com/embed/#?secret=GRpGN0Be8k#?secret=ZWBjVAvRw3"></iframe>
+
+\<iframe class="wp-embedded-content" sandbox="allow-scripts" security="restricted" style="position: absolute; clip: rect(1px, 1px, 1px, 1px);" title="&#8220;Home&#8221; &#8212; McCauley &amp; Associates, PC" src="https://politicalcomplianceservices.com/embed/#?secret=GRpGN0Be8k#?secret=ZWBjVAvRw3" data-secret="ZWBjVAvRw3" width="500" height="282" frameborder="0" marginwidth="0" marginheight="0" scrolling="no"\>\</iframe\>
+
+Mikem@mccauleyassociatespc.com
+
+Office: (385) 202-7284
+
+Mobile: (801) 664-2155
+
+---
+
+Laura Schwartz Accounts
+----------
+
+Party: Democratic
+
+Laura has worked as a treasurer for Federal and New York State political campaigns for approximately 20 years. She has extensive experience with Congressional campaigns, federal PACs, and statewide campaigns. Laura is an accountant who has previously worked for PwC in both New York City and Stamford, CT.
+
+[lauraschwartz99@gmail.com](mailto:lauraschwartz99@gmail.com)
+
+---
+
+Computare.Partners
+----------
+
+Party: Democratic
+
+Political Accounting, Reporting, and Fundraising services for FL, MS & Federal.
+
+Jonathan Brill
+
+(813) 733-0070
+
+jonathan@computare.partners
+
+701 S. Howard Avenue #106-813
+
+Tampa, FL 33606
+
+---
+
+Comer Consulting
+----------
+
+Party: Republican
+
+GOP Political Fundraising. NY State and FEC
+
+Christina Comer
+
+csofiacomer@gmail.com
+
+---
+
+KM Strategies
+----------
+
+Party: Democratic
+
+At KM Strategies, our dedicated, experienced team generates innovative ideas and implements successful strategies to ensure our client’s fundraising success. Since 2004, we have led the field in fundraising strategy for campaigns at the local, state, and federal level. We’ve worked on ballot initiatives, for non-profits, and with a wide array of candidates.
+
+Kelli Maruccia
+
+835 5th Avenue
+
+San Diego, CA
+
+[https://www.kmstrategies.net/](https://www.kmstrategies.net/)
+
+(619) 239-1721
+
+---
+
+C&E Systems
+----------
+
+Party: Democratic
+
+While you’re fighting for a more progressive Oregon, the C&E team will manage your campaign compliance and reporting. C&E Systems has been serving our client’s compliance needs since 1998. We have more expertise with Oregon Campaign Finance Law and Reporting worked on ballot initiatives, for non-profits, and with a wide array of candidates. Our efficient bookkeeping and reporting save you time and money so you can put your energy to work campaigning and winning elections.
+
+Jef Green
+
+3321 SE 20th Ave. Portland, OR 97202
+
+[https://www.c-esystems.com](https://www.c-esystems.com/)
+
+info@c-esystems.com
+
+(503) 295-1981
+
+---
+
+Jukus Campaign Finance PLLC
+----------
+
+Party: Republican
+
+Running for political office and need help forming your committee, filing campaign finance reports, and keeping track of financial transactions? Jukus Campaign Finance PLLC can help. We provide a variety of accounting and compliance services for campaigns.
+
+Joel Jukus
+
+4031 Thicket Ln
+
+Harrisburg, PA 17110
+
+https://www.jukuscampaignfinance.com
+
+jljukus@gmail.com
+
+(717) 395-1636
+
+---
+
+SP-Strategies
+----------
+
+Party: Democratic | Agencies: California
+
+---
+
+Campaign Finance Services (CFS)
+----------
+
+Party: Democratic
+
+Compliance done right. Campaign Financial Services (CFS) is a campaign finance and consulting firm that specializes in providing a full range of financial services for federal campaigns, political action committees (PACs), and party committees. With over 50 years of collective political experience, we have a track record of providing exceptional service to campaigns and PACs across the nation. CFS redefines the way campaigns manage their operations, making them more efficient and professional. By improving a candidate’s resources, we are able to both maximize a campaign’s cash on hand and better secure election. CFS manages all aspects of bookkeeping, payroll, federal and state taxes, and compliance with the Federal Election Commission (FEC). At Campaign Finance Services, we believe in the importance of professionalizing the financial operations of every campaign- from inception. We believe that our service brings great stability to the campaign trail, and we are passionate about that priority!
+
+Emily Hoover
+
+[https://www.campaignfinancial.com/](https://www.campaignfinancial.com/)
+
+PO Box 30844 Bethesda, MD 20824-0844
+
+(301) 654-3220
+
+info@campaignfinancial.com
+
+---
+
+Grays Consulting
+----------
+
+Party: Democratic
+
+Amy Gray
+
+amy@graysconsulting.com
+
+---
+
+CCA Enterprise
+----------
+
+Party: Democratic
+
+CCA Enterprise is an emerging growth consulting firm. We passionately serve a variety of political committees, nonprofit organizations, and private business enterprises. Our goal is to ensure that every client gets the most out of their dollar and their time.
+
+Wade Cowper
+
+224 Anacapa St. Suite 2C
+
+Santa Barbara, CA 93101
+
+[https://www.ccaenterprise.com](https://www.ccaenterprise.com/)
+
+wade@ccaenterprise.com
+
+---
+
+Cardinal Compliance Group
+----------
+
+Party: Republican | Agencies: Alabama
+
+---
+
+Bison Strategies
+----------
+
+Party: Democratic
+
+Building the infrastructure of change, Bison Strategies was founded to help good people get back into the business of doing good work. We design internal systems that enable changemakers to focus solely on creating change. With over 15 years of experience in the heart of the progressive movement, building the infrastructure of change is what we know and do. Let us get you off the ground, back on track, and on to the next level.
+
+Brandon Philipczyk
+
+https://www.bisonstrategies.net/
+
+brandon@bisonstrategies.net
+
+(651) 769-3196
+
+---
+
+C&A Consulting LLC
+----------
+
+Party: Democratic
+
+We handle all specifics needed for State filing with the Oregon State Election Division for many Legislators, Candidates for state, county, and local offices, as well as numerous Political Action Committees. We also support Federal Candidate filing.
+
+Carol Russell
+
+russell.cna@outlook.com
+
+[Help File Home](/help/) | [Full Index](/Help-File-Directory/) | [Contact Support](mailto:support@ISPolitical.com)
+
+[How Do I Get Started in ISP? »](/How-Do-I-Get-Started-in-ISP)
 
 ---
 
@@ -7215,6 +14392,113 @@ If you’re trying to amend a prior report to be an amendment, generate the repo
 
 ---
 
+# UNDERSTANDING FEC FILING DEADLINES THE BREAKDOWN
+
+Understanding FEC Filing Deadlines: The Breakdown
+==========
+
+<img alt="Screenshot 2024-06-19 at 10.22.49 PM" src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%201240%201242'%3E%3C/svg%3E" title="Screenshot 2024-06-19 at 10.22.49 PM" height="1242" width="1240" />\<img fetchpriority="high" decoding="async" class="fl-photo-img wp-image-1513 size-full" src="https://ispolitical.com/wp-content/uploads/2024/06/Screenshot-2024-06-19-at-10.22.49 PM.png" alt="Screenshot 2024-06-19 at 10.22.49 PM" itemprop="image" height="1242" width="1240" title="Screenshot 2024-06-19 at 10.22.49 PM" srcset="https://ispolitical.com/wp-content/uploads/2024/06/Screenshot-2024-06-19-at-10.22.49 PM.png 1240w, https://ispolitical.com/wp-content/uploads/2024/06/Screenshot-2024-06-19-at-10.22.49 PM-300x300.png 300w, https://ispolitical.com/wp-content/uploads/2024/06/Screenshot-2024-06-19-at-10.22.49 PM-1022x1024.png 1022w, https://ispolitical.com/wp-content/uploads/2024/06/Screenshot-2024-06-19-at-10.22.49 PM-150x150.png 150w, https://ispolitical.com/wp-content/uploads/2024/06/Screenshot-2024-06-19-at-10.22.49 PM-768x769.png 768w" sizes="(max-width: 1240px) 100vw, 1240px" /\>
+
+The Federal Election Commission (FEC) plays a pivotal role in maintaining the integrity of campaign finance in the United States. It's crucial for political treasurers and campaign managers to understand the intricacies of what an FEC filing is to ensure compliance and avoid penalties. This guide will walk you through the essentials of FEC filings, including what they are, who needs to file them, and the important deadlines you need to be aware of.
+
+What is an FEC Filing?
+----------
+
+An FEC filing is a report submitted to the Federal Election Commission by political committees, including candidate committees, party committees, and political action committees (PACs). These filings disclose the campaign’s financial activities, including contributions received, expenditures made, and debts incurred. The primary goal is to promote transparency, ethical behavior, and accountability in the electoral process.
+
+Who Needs to File With the FEC?
+----------
+
+FEC candidate filings are mandatory for any individual or entity involved in federal elections, including:
+
+* **Candidate Committees:** Individuals running for federal office must register and file periodic reports with the FEC.
+* **Party Committees:** National, state, and local party committees must report their financial activities.
+* **Political Action Committees (PACs):** PACs, including Super PACs, must file reports on their fundraising and spending.
+* **527 Organizations:** These tax-exempt groups must disclose their election-related activities to the FEC.
+
+FEC Filing Deadlines
+----------
+
+Understanding the FEC filing deadlines is crucial for compliance. The FEC filing schedule includes regular, periodic filings, and additional reports due before and after elections. Key deadlines include:
+
+* **Quarterly Reports:** Most committees must file quarterly, with deadlines on April 15, July 15, October 15, and January 31.
+* **Pre-Election Reports:** Due 12 days before any election in which the committee is involved.
+* **Post-Election Reports:** Due 30 days after the general election.
+* **Monthly Reports:** Some committees, like national party committees, must file monthly reports.
+
+Failure to adhere to these deadlines can result in significant fines and penalties. Fore more information about filing and deadlines, visit the [FEC website](https://www.fec.gov/help-candidates-and-committees/dates-and-deadlines/).
+
+Electronic Filing with the FEC
+----------
+
+The FEC encourages committees to use electronic filing, which is faster and more efficient. Committees that raise or spend more than $50,000 in a calendar year are required to file electronically. Benefits of electronic filing include:
+
+* **Speed and Efficiency:** Electronic filings are processed more quickly than paper filings.
+* **Immediate Confirmation:** Committees receive immediate confirmation of receipt.
+* **Access to Software:** The FEC provides free software to facilitate electronic filing, though you will undoubtedly want to pull your hair out while using it.
+
+For more detailed guidance on electronic filing, visit the [FEC's electronic filing page](https://www.fec.gov/help-candidates-and-committees/filing-reports/electronic-filing/).
+
+FAQs
+----------
+
+### What happens if I miss an FEC filing deadline? ###
+
+If you miss an FEC filing deadline, your committee may be subject to fines and penalties. The FEC has an [Administrative Fines Program](https://www.fec.gov/legal-resources/enforcement/administrative-fines/calculating-administrative-fines/) that assesses penalties based on the length of the delay and the amount of financial activity that was not reported on time. It’s crucial to adhere to all deadlines to avoid these penalties.
+
+### Can I amend an FEC filing after it has been submitted? ###
+
+Yes, you can amend an FEC filing after it has been submitted. If you discover an error or omission in your report, you should file an amendment as soon as possible. The FEC allows for amendments to ensure that all information is accurate and up-to-date.
+
+### What is the threshold for mandatory electronic filing? ###
+
+Committees that receive contributions or make expenditures exceeding $50,000 in a calendar year are required to file electronically. This threshold ensures that high-activity committees use the more efficient and accurate electronic filing system.
+
+### How do I register a new committee with the FEC? ###
+
+To register a new committee with the FEC, you need to file a Statement of Organization ([Form 1](https://www.fec.gov/resources/cms-content/documents/policy-guidance/fecfrm1i.pdf)). This form provides basic information about your committee, such as its name, address, and the names of the treasurer and other key officers. You must file this form within 10 days of raising or spending more than $1,000 in contributions or expenditures.
+
+### What types of contributions need to be reported in FEC filings? ###
+
+All types of contributions need to be reported in FEC filings, including monetary donations, in-kind contributions (goods and services), loans, and advances. Each type of contribution has specific reporting requirements, and it is important to provide detailed information about the source, amount, and date of each contribution.
+
+Compliance and Best Practices
+----------
+
+To ensure compliance with FEC rules and regulations:
+
+* **Stay Informed:** Regularly check the FEC’s website for updates on filing requirements and deadlines.
+* **Use Software Solutions:** Employ campaign accounting software, like [ISPolitical](https://ispolitical.com/), to automate and streamline the filing process.
+* **Consult with Experts:** Consider hiring a compliance expert or legal advisor to help navigate complex regulations. Compliance deadlines and requirements are built-in to ISPolitical’s [political campaign accounting software](https://ispolitical.com/).
+
+By staying informed and leveraging the right tools, campaign treasurers can manage their FEC filings effectively, ensuring their campaigns remain compliant and transparent. Political campaign accounting software that integrates with the FEC reporting platform while keeping users informed about reporting requirements and deadlines is invaluable; it’s probably the best investment a campaign can make to ensure their campaign is ship shape and above board. Learn more about how this kind of software can enhance and safeguard your campaign [here](https://ispolitical.com/).
+
+You May Like These Blogs
+----------
+
+[Simplifying Campaign Finance with ISP’s Essential Tools](https://ispolitical.com/simplifying-campaign-finance-with-isps-essential-tools/)
+----------
+
+Managing a campaign’s finances can be complex and time-consuming. However, ISP’s suite of campaign finance solutions and tools is designed…
+
+[Read More](https://ispolitical.com/simplifying-campaign-finance-with-isps-essential-tools/)
+
+[Why You Should Have a Professional Campaign Treasurer](https://ispolitical.com/why-you-should-have-a-professional-campaign-treasurer/)
+----------
+
+Running a political campaign is a complex and demanding endeavor. Amidst the whirlwind of events, rallies, and policy planning, one…
+
+[Read More](https://ispolitical.com/why-you-should-have-a-professional-campaign-treasurer/)
+
+[Know How to Increase Donors to Your Political Campaign](https://ispolitical.com/know-how-to-increase-donors-to-your-political-campaign/)
+----------
+
+Running a successful political campaign requires more than just a strong message and a dedicated team. It requires funding, and…
+
+[Read More](https://ispolitical.com/know-how-to-increase-donors-to-your-political-campaign/)
+
+---
+
 # NEW YORK JANUARY PERIODIC SETTINGS
 
 New York January Periodic Settings
@@ -7284,6 +14568,30 @@ If a transaction is associated with a Levin account, the transaction will pull t
 [⇑ About Transactions](/About-Transactions)
 [« How Do I Record In-Kind Made Transactions?](/How-Do-I-Record-In-Kind-Made-Transactions)
 [How Do I Record Loans? »](/How-Do-I-Record-Loans)
+
+---
+
+# WHEN ARE THE MINNESOTA FILING DEADLINES
+
+When Are the Minnesota Filing Deadlines?
+==========
+
+Applies To: Minnesota
+
+Below are deadlines for Minnesota compliance report filing.
+
+The Filing Deadline information provided here is offered only as a reference aide. The provided deadline information may contain inaccuracies and may not include all special elections or deadlines. For agency specific details please visit the [Minnesota Campaign Finance Board website](https://cfb.mn.gov/).
+
+***No deadlines are currently found.***
+
+You’re able to add Filing Deadlines found in ISP to your own digital calendar with our [Calendar Feed tool](https://ispolitical.com/Calendar-Feeds).
+
+To see more information about Minnesota compliance report filing with ISP, please visit our [Minnesota Filing and FAQ Resources](https://ispolitical.com/minnesota-campaign-party-pac-filing-faq-and-resources/) page.
+
+[Help File Home](/help/) | [Full Index](/Help-File-Directory/) | [Contact Support](mailto:support@ISPolitical.com)
+
+[« Minnesota Campaign, Party, & PAC Filing FAQ and Resources](/Minnesota-Campaign-Party-PAC-Filing-FAQ-and-Resources)
+[MN Hennepin County: Line by Line »](/MN-Hennepin-County-Line-by-Line)
 
 ---
 
@@ -7539,6 +14847,96 @@ At this point, click Save, then click Check My Report For Errors. Use the TEC [P
 
 ---
 
+# UTILIZING DATA ANALYTICS TO BOOST POLITICAL CAMPAIGN CONTRIBUTIONS
+
+Utilizing Data Analytics to Boost Political Campaign Contributions
+==========
+
+<img alt="Screenshot 2024-05-09 at 11.46.39 AM" src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%203720%202120'%3E%3C/svg%3E" title="Screenshot 2024-05-09 at 11.46.39 AM" height="2120" width="3720" />\<img fetchpriority="high" decoding="async" class="fl-photo-img wp-image-1483 size-full" src="https://ispolitical.com/wp-content/uploads/2024/05/Screenshot-2024-05-09-at-11.46.39 AM.png" alt="Screenshot 2024-05-09 at 11.46.39 AM" itemprop="image" height="2120" width="3720" title="Screenshot 2024-05-09 at 11.46.39 AM" srcset="https://ispolitical.com/wp-content/uploads/2024/05/Screenshot-2024-05-09-at-11.46.39 AM.png 3720w, https://ispolitical.com/wp-content/uploads/2024/05/Screenshot-2024-05-09-at-11.46.39 AM-300x171.png 300w, https://ispolitical.com/wp-content/uploads/2024/05/Screenshot-2024-05-09-at-11.46.39 AM-1024x584.png 1024w, https://ispolitical.com/wp-content/uploads/2024/05/Screenshot-2024-05-09-at-11.46.39 AM-768x438.png 768w, https://ispolitical.com/wp-content/uploads/2024/05/Screenshot-2024-05-09-at-11.46.39 AM-1536x875.png 1536w, https://ispolitical.com/wp-content/uploads/2024/05/Screenshot-2024-05-09-at-11.46.39 AM-2048x1167.png 2048w" sizes="(max-width: 3720px) 100vw, 3720px" /\>
+
+In today's competitive political landscape, successful campaigns hinge on strategic fundraising efforts. With data analytics, campaign teams can refine their strategies, identify potential donors, and maximize contributions more effectively than ever. Let’s explore how political campaigns can utilize campaign analytics tools to streamline fundraising efforts and drive success.
+
+Understanding Campaign Analytics
+----------
+
+Campaign analytics encompass the political campaign data analysis processes used to evaluate performance, identify opportunities, and optimize fundraising efforts. This includes analyzing past donor data, identifying patterns, and gaining insights into potential future contributors. This is made a lot easier when your accounting software is highly integrated with all aspects of your campaign.
+
+Using Campaign Analytics Tools
+----------
+
+Tools for data analytics for political campaigns provide a suite of functionalities designed to streamline and optimize fundraising:
+
+* **Data Tracking:** Tools like ISPolitical's web-based accounting & [fundraising](https://ispolitical.com/fundraising/) platform offer comprehensive tracking of campaign data. This includes monitoring donations, potential donors, historical contributors, and various interest groups. For instance, campaign teams can track animal lovers or sports enthusiasts and target them with specific fundraising emails based on those interests.
+* **Reporting:** Good campaign analytics tools provide instant access to donation data, allowing teams to monitor and evaluate fundraising efforts. This immediate insight into contributions from call sheets, drip email campaigns, and other initiatives enables agile adjustments and more strategic planning. If your political accounting software doesn’t have these capabilities, it may be time to consider a more [robust tool](https://ispolitical.com/).
+* **Micro & Macro Targeting:** Campaign teams can leverage data analytics software to create both micro and macro-targeted fundraising lists. These lists are based on donor interests, demographics, and past contributions, allowing campaigns to tailor their outreach efforts for maximum impact. Having a tool that keeps track of this data while integrating with all your campaign tools is invaluable.
+
+Boosting Contributions with Data Analytics for Political Campaigns
+----------
+
+### Identifying Potential Donors Using Analytics ###
+
+Political campaigns can use data analytics software to segment potential donors based on past contributions, interests, and demographics. This segmentation helps to craft targeted messages that resonate with each group. For example, a campaign might send a dog-loving candidate's picture to potential donors who love animals, pairing it with a compelling fundraising ask.
+
+### Optimizing Fundraising Efforts Using Analytics ###
+
+Data analytics helps campaigns optimize their fundraising strategies by:
+
+* **Refining messaging:** By using political campaign data analysis, teams can assess the effectiveness of past messaging strategies and tailor future messages accordingly. For instance, they can identify the types of appeals that resonate most with specific donor groups, increasing the likelihood of contributions.
+* **Streamlining operations:** Campaign analytics tools allow teams to integrate third-party fundraising processors, including Winred, Actblue, Efundraising, Anedot, and Nationbuilder. This integration simplifies the donation process, reducing friction for donors and increasing the likelihood of contributions.
+
+Reporting and Analysis
+----------
+
+Because of the vast kinds of data that analytics tools amass, using analytics to pull specific information that should be included on specific reports makes sense. Data analytics software provides instant reporting capabilities, offering comprehensive insights into the success of fundraising efforts:
+
+* **Tracking:** Campaign teams can monitor contributions, assess the effectiveness of specific initiatives and making data-driven adjustments.
+* **Custom Reports:** Pulling out the data that needs to be reported to specific political entities in order to remain transparent is easy with the right software. ISPolitical’s software is fully customizable, and reports can be automated so you never miss a beat!
+* **Legacy donor management:** Analytics tools also help campaigns maintain relationships with previous donors, keeping track of their contributions and engagement levels. This aids in nurturing long-term support, ensuring sustained fundraising success.
+
+Why Data Analytics for Political Campaigns Matters
+----------
+
+Political campaigns that embrace data analytics gain a competitive edge by:
+
+* **Making informed decisions:** Access to comprehensive campaign data provides insights into donation patterns, campaign performance metrics, and donor preferences, enabling teams to tailor their fundraising strategies. This data-driven approach allows campaigns to allocate resources more effectively, focusing on high-impact initiatives and maximizing returns.
+* **Building stronger relationships:** By maintaining communication and cultivating relationships with legacy donors, campaigns can ensure long-term support and financial stability. ISPolitical’s [fundraising software](https://ispolitical.com/fundraising/) integrates seamlessly with your email and text programs to make communications based on historic relationships easier.
+* **Staying agile:** Insights allow campaign teams to adapt quickly to changing circumstances, ensuring they stay ahead of the competition. This also helps you to stay super responsive when public news or new information can affect your campaign.
+
+Are You Utilizing Political Campaign Data Analysis in Your Campaigns?
+----------
+
+Like any industry, the political sphere has become increasingly data-driven. If you aren’t making use of tools that help collect and analyze the data that affects your campaigns, you are missing out on potential opportunities.
+
+Data analytics software is revolutionizing political campaign fundraising, offering tools and insights that help teams identify potential donors, optimize fundraising efforts, and build lasting relationships.
+
+By embracing campaign analytics tools like the ones that are built into ISPolitical's [political accounting software](https://ispolitical.com/), campaigns can access their full fundraising potential.
+
+You May Like These Blogs
+----------
+
+[Simplifying Campaign Finance with ISP’s Essential Tools](https://ispolitical.com/simplifying-campaign-finance-with-isps-essential-tools/)
+----------
+
+Managing a campaign’s finances can be complex and time-consuming. However, ISP’s suite of campaign finance solutions and tools is designed…
+
+[Read More](https://ispolitical.com/simplifying-campaign-finance-with-isps-essential-tools/)
+
+[Understanding FEC Filing Deadlines: The Breakdown](https://ispolitical.com/understanding-fec-filing-deadlines-the-breakdown/)
+----------
+
+The Federal Election Commission (FEC) plays a pivotal role in maintaining the integrity of campaign finance in the United States.…
+
+[Read More](https://ispolitical.com/understanding-fec-filing-deadlines-the-breakdown/)
+
+[Why You Should Have a Professional Campaign Treasurer](https://ispolitical.com/why-you-should-have-a-professional-campaign-treasurer/)
+----------
+
+Running a political campaign is a complex and demanding endeavor. Amidst the whirlwind of events, rallies, and policy planning, one…
+
+[Read More](https://ispolitical.com/why-you-should-have-a-professional-campaign-treasurer/)
+
+---
+
 # WHAT IS HOUSEHOLDING AND HOW DO I CREATE A HOUSEHOLDED LIST
 
 What Is Householding and How Do I Create a Householded List?
@@ -7715,6 +15113,140 @@ Below is a line by line guide for the North Carolina Form 1000 report.
 
 ---
 
+# MAXIMIZING POLITICAL CAMPAIGN FUNDRAISING EFFICIENCY WITH CRM INTEGRATION
+
+Maximizing Political Campaign Fundraising Efficiency with CRM Integration
+==========
+
+<img alt="image (1)" src="https://ispolitical.com/wp-content/uploads/bb-plugin/cache/image-1-landscape-9356830e780f116842b0d9737c3a56b1-0clh73kqjd5i.png" title="image (1)" height="1024" width="1024" />
+
+A CRM (Customer Relationship Management) system for political campaigns is a software tool designed to help political organizations manage and streamline their interactions with supporters, donors, volunteers, and other stakeholders. The primary goal of a CRM for political campaigns is to raise more money in less time by enhancing communication, organizing data, and improving overall campaign efficiency.
+
+Navigating FEC Compliance While Fundraising
+----------
+
+FEC compliance reporting involves intricate and nuanced processes that demand meticulous attention to detail. From contribution limits to reporting deadlines, political treasurers must adhere to myriad laws for a campaign to stay within legal bounds. The consequences of non-compliance can range from jail time and monetary fines to reputational damage, making it imperative for campaigns to invest in tools that streamline and simplify these reporting obligations.
+
+Key Political CRM Software Features For Campaign Fundraising
+----------
+
+Here are some key features and functionalities typically found in a good CRM for political campaigns and fundraising:
+
+### Contact Management: ###
+
+* Store and organize contact information for supporters, donors, volunteers, and other stakeholders.
+* Maintain a centralized database with details such as names, addresses, phone numbers, and email addresses.
+
+### Fundraising Management: ###
+
+* Track and manage fundraising efforts, including donation history and contribution amounts.
+* Provide tools for creating and managing fundraising campaigns and events.
+
+### Communication Tools: ###
+
+* Facilitate communication with supporters through email, SMS, or other messaging platforms.
+* Maintain a record of communication history with each contact, enabling personalized outreach.
+
+### Campaign Analytics: ###
+
+* Offer reporting and analytics features to track the effectiveness of campaigns.
+* Provide insights into donor behavior, campaign performance, and overall engagement.
+
+### Compliance Reporting: ###
+
+* Ensure compliance with election regulations and reporting requirements.
+* Generate reports and documentation required by regulatory bodies, such as the Federal Election Commission (FEC) for federal campaigns and PACs.
+
+### Integration with Political Processors: ###
+
+* Integrate with third-party political processors to streamline donation processing. Most contributions use credit cards in 2024.
+* Ensure accurate and timely recording of financial transactions.
+
+### User Permissions and Security: ###
+
+* Implement security features to protect sensitive campaign data.
+* Allow customization of user permissions to control access to different features within the CRM.
+
+### Mobile Accessibility: ###
+
+* Provide mobile applications or responsive interfaces for access on various devices.
+* Enable campaign staff and volunteers to stay connected and manage data on the go.
+
+### Automation and Workflow Management: ###
+
+* Automate routine tasks, such as sending thank-you emails or updating occupation/employer information.
+* Implement workflows to streamline processes and ensure consistency in campaign operations.
+
+### Volunteer Management: ###
+
+* Track and manage volunteers, their roles, and activities.
+* Coordinate volunteer efforts for canvassing, phone banking, and other campaign activities.
+
+A well-designed CRM for political campaigns can significantly contribute to the success of a political campaign by improving organization, communication, and data-driven decision-making. It allows campaign teams to focus on building meaningful relationships with supporters and optimizing their overall outreach strategy.
+
+Why ISPolitical is the Clear Choice
+----------
+
+ISPolitical stands out as the clear choice for political CRM software for campaign fundraising due to its comprehensive suite of features tailored to the unique challenges of political campaigns:
+
+Expertise in FEC Compliance Reporting:
+
+* ISPolitical's decades long experience in FEC compliance reporting software ensures campaigns navigate election regulations in style, mitigating the risks associated with compliance challenges.
+
+Efficient Fundraising Management:
+
+* ISPolitical offers robust tools for tracking and managing fundraising efforts. Its sophisticated donation tracking and campaign management features empower campaigns to optimize their fundraising strategies.
+
+Communication Excellence:
+
+* ISP provides or integrates with most popular political communication tools, facilitating personalized outreach through email, SMS, and messaging platforms.
+
+Seamless Integration with Political Processors:
+
+* The integration capabilities of ISPolitical with third-party political processors streamline donation processing. This ensures accurate and timely recording of financial transactions.
+
+Robust User Permissions and Security:
+
+* ISPolitical places a strong emphasis on security, implementing features to protect sensitive campaign data. The customization of user permissions adds a layer of control, safeguarding access to different CRM features.
+
+One ISP Review Says It All:
+----------
+
+"Having previously used FECFile as well as NGP for handling my client's compliance needs, I was blown away by how easy it is to bulk import donor data and seamlessly file reports."
+
+\-Tyger
+
+Integrate Your CRM With Your Political Campaign Accounting Software
+----------
+
+ISPolitical's tailored features and commitment to addressing the specific needs of political campaigns make it the standout choice for maximizing fundraising efficiency. Its holistic approach ensures campaigns can navigate compliance, streamline operations, and build meaningful connections with supporters, ultimately contributing to campaign success. If you would like to learn more about a CRM for political campaigns or any of our other products, [contact us](https://ispolitical.com/contact/) and we will answer all of your questions.
+
+You May Like These Blogs
+----------
+
+[Simplifying Campaign Finance with ISP’s Essential Tools](https://ispolitical.com/simplifying-campaign-finance-with-isps-essential-tools/)
+----------
+
+Managing a campaign’s finances can be complex and time-consuming. However, ISP’s suite of campaign finance solutions and tools is designed…
+
+[Read More](https://ispolitical.com/simplifying-campaign-finance-with-isps-essential-tools/)
+
+[Understanding FEC Filing Deadlines: The Breakdown](https://ispolitical.com/understanding-fec-filing-deadlines-the-breakdown/)
+----------
+
+The Federal Election Commission (FEC) plays a pivotal role in maintaining the integrity of campaign finance in the United States.…
+
+[Read More](https://ispolitical.com/understanding-fec-filing-deadlines-the-breakdown/)
+
+[Why You Should Have a Professional Campaign Treasurer](https://ispolitical.com/why-you-should-have-a-professional-campaign-treasurer/)
+----------
+
+Running a political campaign is a complex and demanding endeavor. Amidst the whirlwind of events, rallies, and policy planning, one…
+
+[Read More](https://ispolitical.com/why-you-should-have-a-professional-campaign-treasurer/)
+
+---
+
 # ABOUT THE CA FORM 497 REVERSE
 
 About the CA Form 497 — Reverse
@@ -7743,6 +15275,28 @@ Using the Entity dropdown, find the name of the donor that qualifies as a Major 
 [⇑ California Campaign, Party, & PAC Filing FAQ and Resources](/California-Campaign-Party-PAC-Filing-FAQ-and-Resources)
 [« ActBlue Transactions as the Intermediary on 497 Reports](/ActBlue-Transactions-as-the-Intermediary-on-497-Reports)
 [About the CA Form 501 Report »](/About-the-CA-Form-5-1-Report)
+
+---
+
+# HOW DO I REPORT A TRANSFER FROM A JOINT FUNDRAISING COMMITTEE JFC TO JOINT FUNDRAISING PARTICIPANTS
+
+How Do I Report a Transfer From a Joint Fundraising Committee (JFC) To Joint Fundraising Participants?
+==========
+
+Applies To: Federal Election Commission – Political Action Committees (PACs)
+
+When a Joint Fundraising Committee (JFC) transfers net proceeds to joint fundraising participants, it is reported as a Transfer to Affiliated Committees on Line 22 of the FEC Form 3X. If your JFC committee files a Form 3, it would be reported as a Transfer to Other Authorized Committee on Line 18.
+
+In order for these transactions to pull to the appropriate line, you will need to do a few things:
+
+1. All joint fundraising participant committee records in ISP must be linked to the JFC filer record as an Affiliated Committee relationship type.
+
+2. Transfer disbursements to the joint fundraising participants must include the reporting code of 011—Political Contributions.
+
+[Help File Home](/help/) | [Full Index](/Help-File-Directory/) | [Contact Support](mailto:support@ISPolitical.com)
+
+[« How Do I Report a Transfer Received From a Joint Fundraising Committee (JFC)?](/How-Do-I-Report-a-Transfer-Received-From-a-Joint-Fundraising-Committee-JFC)
+[About Post-election or Year-End With Column C Reports »](/About-Post-election-or-Year-End-With-Column-C-Reports)
 
 ---
 
@@ -7785,6 +15339,348 @@ This is a paper-only form. You must print the PDF, sign it, date it, and submit 
 [⇑ North Carolina Campaign, Party, & PAC Filing FAQ and Resources](/North-Carolina-Campaign-Party-PAC-Filing-FAQ-and-Resources)
 [« About the NC Form 2220 Report](/About-the-NC-Form-2220)
 [North Dakota Campaign, Party, & PAC Filing FAQ and Resources »](/North-Dakota-Campaign-Party-PAC-Filing-FAQ-and-Resources)
+
+---
+
+# WHEN ARE THE MICHIGAN FILING DEADLINES
+
+When Are The Michigan Filing Deadlines?
+==========
+
+Applies To: Michigan
+
+Below are deadlines for Michigan compliance report filing.
+
+The Filing Deadline information provided here is offered only as a reference aide. The provided deadline information may contain inaccuracies and may not include all special elections or deadlines. For agency specific details please visit the Michigan SoS website .
+
+527 Political Organization
+----------
+
+* 07/25/2024: MI PAC (July Quarterly)
+* 07/25/2024: MI PAC (May 7th Election- July Quarterly)
+* 07/26/2024: MI PAC (Aug. 6th Primary- Pre-Primary Report)
+* 09/05/2024: MI PAC (Aug. 6th Primary- Post-Election Report)
+* 10/25/2024: MI PAC (October Quarterly)
+* 10/25/2024: MI PAC (Nov. 5th General- Pre-Election Report)
+* 12/05/2024: MI PAC (Nov. 5th General- Post-Election Report)
+
+Ballot Measure
+----------
+
+* 07/25/2024: MI PAC (July Quarterly)
+* 07/25/2024: MI PAC (May 7th Election- July Quarterly)
+* 07/26/2024: MI PAC (Aug. 6th Primary- Pre-Primary Report)
+* 09/05/2024: MI PAC (Aug. 6th Primary- Post-Election Report)
+* 10/25/2024: MI PAC (October Quarterly)
+* 10/25/2024: MI PAC (Nov. 5th General- Pre-Election Report)
+* 12/05/2024: MI PAC (Nov. 5th General- Post-Election Report)
+
+Independent Expenditure
+----------
+
+* 07/25/2024: MI PAC (July Quarterly)
+* 07/25/2024: MI PAC (May 7th Election- July Quarterly)
+* 07/26/2024: MI PAC (Aug. 6th Primary- Pre-Primary Report)
+* 09/05/2024: MI PAC (Aug. 6th Primary- Post-Election Report)
+* 10/25/2024: MI PAC (October Quarterly)
+* 10/25/2024: MI PAC (Nov. 5th General- Pre-Election Report)
+* 12/05/2024: MI PAC (Nov. 5th General- Post-Election Report)
+
+Other
+----------
+
+* 07/25/2024: MI PAC (July Quarterly)
+* 07/25/2024: MI PAC (May 7th Election- July Quarterly)
+* 07/26/2024: MI PAC (Aug. 6th Primary- Pre-Primary Report)
+* 09/05/2024: MI PAC (Aug. 6th Primary- Post-Election Report)
+* 10/25/2024: MI PAC (October Quarterly)
+* 10/25/2024: MI PAC (Nov. 5th General- Pre-Election Report)
+* 12/05/2024: MI PAC (Nov. 5th General- Post-Election Report)
+
+Party
+----------
+
+* 07/25/2024: MI PAC (July Quarterly)
+* 07/25/2024: MI PAC (May 7th Election- July Quarterly)
+* 07/26/2024: MI PAC (Aug. 6th Primary- Pre-Primary Report)
+* 09/05/2024: MI PAC (Aug. 6th Primary- Post-Election Report)
+* 10/25/2024: MI PAC (October Quarterly)
+* 10/25/2024: MI PAC (Nov. 5th General- Pre-Election Report)
+* 12/05/2024: MI PAC (Nov. 5th General- Post-Election Report)
+
+Political Action Committee (PAC)
+----------
+
+* 07/25/2024: MI PAC (July Quarterly)
+* 07/25/2024: MI PAC (May 7th Election- July Quarterly)
+* 07/26/2024: MI PAC (Aug. 6th Primary- Pre-Primary Report)
+* 09/05/2024: MI PAC (Aug. 6th Primary- Post-Election Report)
+* 10/25/2024: MI PAC (October Quarterly)
+* 10/25/2024: MI PAC (Nov. 5th General- Pre-Election Report)
+* 12/05/2024: MI PAC (Nov. 5th General- Post-Election Report)
+
+You’re able to add Filing Deadlines found in ISP to your own digital calendar with our Calendar Feed tool.
+
+To see more information about Michigan compliance report filing with ISP, please visit our Michigan Filing and FAQ Resources page.
+
+[Help File Home](/help/) | [Full Index](/Help-File-Directory/) | [Contact Support](mailto:support@ISPolitical.com)
+
+[« Michigan Campaign, Party, & PAC Filing FAQ and Resources](/Michigan-Campaign-Party-PAC-Filing-FAQ-and-Resources)
+[How Do I File My Michigan Report? »](/How-Do-I-File-My-Michigan-Report)
+
+---
+
+# WHAT ARE HOTKEYS
+
+What Are Hotkeys?
+==========
+
+Hotkeys allow you quickly navigate to a page or process in ISP using the keyboard.
+
+A list of hotkeys will show up in ISPolitical at anytime by clicking Alt + /, or navigating to System, then to Hotkeys.
+
+What are the available hotkeys in ISP?
+----------
+
+**Alt + A:** Go to Add Transaction
+
+**Alt + R:** Go to Register
+
+**Alt + D:** Go to Record Deposit
+
+**Alt + I:** Go to Individual Search
+
+**Alt + O:** Go to Organizations Search
+
+**Alt + N:** Save/Add & New
+
+**Alt + W:** Switch Accounts
+
+**Alt + /:** Show Hotkeys Help
+
+**Alt + 1:** Go to Compliance Reports
+
+**Alt + 2:** Go to Compliance Tools
+
+**Alt + 3:** Go to Financial Reports
+
+**Alt + 4:** Go to Fundraising/Analysis
+
+**Alt + 6:** Go to Quick Lists
+
+**Alt + 7:** Go to Scheduled Reports
+
+[Help File Home](/help/) | [Full Index](/Help-File-Directory/) | [Contact Support](mailto:support@ISPolitical.com)
+
+[⇑ About System Options in ISP](/About-System-Options-in-ISP)
+[« What Are the Different User Permissions in ISP?](/What-Are-the-Different-User-Permissions-in-ISP)
+[About Consultant Tools in ISP »](/About-Consultant-Tools-in-ISP)
+
+---
+
+# NH R AND E CANDIDATE VERSION LINE BY LINE
+
+NH R and E (Candidate Version) Line by Line
+==========
+
+Applies To: New Hampshire
+
+NOTES:
+
+* NH efiling does not support the concept of splits or memos. Typically states want to see where the money originated/ended up, so we itemize splits as cash-impact transactions, and do not itemize the whole/parent transaction.
+* NH efiling does not support the concept of negative transactions, so they are listed as positive receipts on the opposite schedule. (ie: reversed receipts as positive expenses; reversed expenses as positive receipts)
+
+DETAILED SUMMARY PAGE
+----------
+
+**RECEIPTS TOTALS**
+**Line 1 – Itemized Receipts**
+
+* **Transaction Type(s):** Monetary Contribution
+* All contributions over $50 will be itemized
+
+**Line 2 – Unitemized Receipts**
+
+* **Transaction Type(s):** Enforceable Pledge Payment, Monetary Contribution, Other Income, Reversed Expense, Loan Received
+* The Column B totals are calculated with the data provided in the Previous Total of Receipts Unitemized field on the Reports Generation Screen
+
+**Line 3- Interest Earned**
+
+* **Transaction Type(s):** Interest Earned, Reversed Expense
+* This was the best place to list reversed expenses – as a positive receipt that is not a contribution
+* This line total will be of itemized transactions; unitemized will pull to Line 2
+
+**Line 4 – Loans Received**
+
+* **Transaction Type(s):** Loans Received
+* This line total will be of itemized transactions; unitemized will pull to Line 2
+
+**Line 5 – Returned Receipts**
+
+* **Transaction Type(s):** Refunded Contribution
+* All Refunded Contributions will pull to this line, regardless of amount
+
+**Line 6 – Total Receipts**
+
+* The sum of Lines 1-4, minus Line 5
+
+**EXPENDITURES TOTALS**
+**Line 7 – Itemized Expenditures (excluding Independent Expenditures)**
+
+* **Transaction Type(s):** Accrued Expense Payment, Expense, Support/Oppose Memo without tag IE to Support or IE to Oppose, Loan Received Repayment, Reversed Monetary Contribution, Reversed Other Income
+* All expenditures over $50 will be itemized
+
+**Line 8 – Unitemized Expenditures (excluding Independent Expenditures)**
+
+* **Transaction Type(s):** Accrued Expense Payment, Expense, Support/Oppose Memo either with or without tag IE to Support or IE to Oppose, Reversed Monetary Contribution, Reversed Other Income
+
+**Line 9 – Independent Expenditures**
+
+* **Transaction Type(s):** Support/Oppose Memo with tag IE to Support or IE to Oppose
+* IEs have a different itemization amount – IEs over $1000 instead of $50 will be itemized
+* This line total will be of itemized transactions; unitemized will pull to Line 8
+
+**Line 10 – Loan Payments**
+
+* **Transaction Type(s):** Loans Received Repayment
+* This line total will be of itemized transactions; unitemized will pull to Line 8
+
+**Line 11 – Returned Expenditures**
+
+* **Transaction Type(s):** Refunded Expense
+* All Refunded Expenses will pull to this line, regardless of amount
+
+**Line 12 – Total Expenditures**
+
+* The sum of Lines 7-9, minus Lines 10 & 11
+
+**LOAN TOTALS**
+**Line 13 – Outstanding Loan Balance Due (from Previous Reporting Period)**
+
+* Amount will auto-populate the outstanding balance due at the start of the period
+
+**Line 13a – Loan Interest Owed**
+
+* ***This line is unsupported at this time.*** Please contact support if required
+
+**Line 14 – Loans Received**
+
+* **Transaction Type(s):** Loan Received
+
+**Line 15 – Loan Payments Made**
+
+* **Transaction Type(s):** Loan Received Repayment
+
+**Line 16 – Loan Forgiven**
+
+* **Transaction Type(s):** Loan Received Balance Reduction
+
+**Line 17 – Outstanding Loan Balance at Close of Reporting Period**
+
+* Amount will auto-populate the outstanding balance due at the end of the period
+
+**IN-KIND TOTALS
+Line 18 – In-Kind (Non-Money) Receipts**
+
+* **Transaction Type(s):** Inkind Contribution
+* These transactions will be itemized on the Receipts schedule
+
+**Line 19 – Returned In-Kind (Non-Money) Receipts**
+
+* ***This line is unsupported at this time.*** Please contact support if required
+
+**Line 20 – Total In-Kind (Non-Money) Receipts**
+
+* Line 18 minus Line 19
+
+**Line 21 – In-Kind (Non-Money) Expenditures**
+
+* **Transaction Type(s):** Non-Monetary Expense
+* These transactions will be itemized on the Expenses schedule
+
+**Line 22 – Returned In-Kind (Non-Money) Expenditures**
+
+* ***This line is unsupported at this time.*** Please contact support if required
+
+**Line 23 – Total In-Kind (Non-Money) Receipts**
+
+* Line 21 minus Line 22
+
+**Line 22 – In-Kind (Non-Money) Transaction Balance**
+
+* Line 20 minus Line 23
+
+----------
+
+SUMMARY PAGE
+----------
+
+**Line A – Balance at the Beginning of this Period**
+
+* Amount will auto-populate the Starting Cash on Hand for the start of the period
+
+**Line B – Total Monetary Receipts**
+
+* Column 1 will pull the Line 6 Period total from the Detailed Summary Page
+* Column 2 will pull the Line 6 Campaign to Date total from the Detailed Summary Page
+
+**Line C- In-Kind (Non-Money) Receipts**
+
+* Column 1 will pull the Line 18 Period total from the Detailed Summary Page
+* Column 2 will pull the Line 18 Campaign to Date total from the Detailed Summary Page
+
+**Line D – Number of Contributors**
+
+* Column 1 will calculate the number of transactions on the Receipts schedule – including Monetary Contributions, Enforceable Pledge Payments, Inkind Contributions, Reversed Expenses, Refunded Contributions, Other Income and Loans Received – for the period
+* Column 2 will calculate the number of transactions on the Receipts schedule – including Monetary Contributions, Enforceable Pledge Payments, Inkind Contributions, Reversed Expenses, Refunded Contributions, Other Income and Loans Received – for the cycle starting the day after the Previous General Election Date, as provided on the Report Generation Screen
+
+**Line E – Number of Receipts Unitemized**
+
+* Column 1 will calculate the number of unitemized transactions on the “Receipts” schedule – including Monetary Contributions, Enforceable Pledge Payments, Inkind Contributions, Reversed Expenses, Other Income and Loans Received – for the period
+* Column 2 will add the number of unitemized transactions in the period (as found in Column 1) with the Previous Number of Receipt Unitemized, as provided on the Report Generation Screen
+
+**Line F – Total Receipts**
+
+* Column 1 is the sum of Column 1 for Lines B + C
+* Column 2 is the sum of Column 2 for Lines B + C
+
+**Line G – Total Monetary Expenditures**
+
+* Column 1 will pull the Line 12 Period total from the Detailed Summary Page
+* Column 2 will pull the Line 12 Campaign to Date total from the Detailed Summary Page
+
+**Line H – Number of Independent Expenditures**
+
+* Column 1 will calculate the number of itemized IE transactions for the period
+* Column 2 will calculate the number of itemized IE transactions for the cycle starting the day after the Previous General Election Date, as provided on the Report Generation Screen
+
+**Line I – In-Kind (Non-Money) Expenditures**
+
+* Column 1 will pull the Line 23 Period total from the Detailed Summary Page
+* Column 2 will pull the Line 23 Campaign to Date total from the Detailed Summary Page
+
+**Line J – Total Expenditures**
+
+* Column 1 is the sum of Column 1 for Lines G + I
+* Column 2 is the sum of Column 2 for Lines G + I
+
+**Line K – (Cash) Balance at the End of this Reporting Period**
+
+* This is the total of Column 1, Lines A + B – G
+
+**Line L – Outstanding Loan Balance**
+
+* This will pull the Line 17 total from the Detailed Summary Page
+
+**Line M – Available Funds**
+
+* This is the total of Column 1, Line K minus Line L
+
+[Help File Home](/help/) | [Full Index](/Help-File-Directory/) | [Contact Support](mailto:support@ISPolitical.com)
+
+[⇑ New Hampshire Campaign, Party, & PAC Filing FAQ and Resources](/New-Hampshire-Campaign-Party-PAC-Filing-FAQ-and-Resources)
+[« About the NH – R and E](/About-the-NH-R-and-E)
+[About the NH – LCR Report »](/About-the-NH-LCR-Report)
 
 ---
 
@@ -8250,6 +16146,26 @@ Each reporting period will have its own expected set of dates. Confirm the date 
 
 ---
 
+# ABOUT FINANCIAL REPORTS
+
+About Financial Reports
+==========
+
+Financial Reports allow you to gather financial information on all the financial data in your database.
+
+* [What Are the Financial Reports in ISP?](https://ispolitical.com/What-Are-the-Financial-Reports-in-ISP)
+* [How Do I Use the Columns to Gather Contact Info for the Financial Report Export?](https://ispolitical.com/How-Do-I-Use-the-Columns-to-Gather-Contact-Info-for-the-Financial-Report-Export)
+* [What Is the Financial Transaction Report?](https://ispolitical.com/What-Is-the-Financial-Transaction-Report)
+* [How and When Do I Use Bulk Update?](https://ispolitical.com/How-and-When-Do-I-Use-Bulk-Update)
+
+[Help File Home](/help/) | [Full Index](/Help-File-Directory/) | [Contact Support](mailto:support@ISPolitical.com)
+
+[⇑ About Reports in ISP](/About-Reports-in-ISP)
+[« Policy on Legal Advice](/Policy-on-Legal-Advice)
+[What Are the Financial Reports in ISP? »](/What-Are-the-Financial-Reports-in-ISP)
+
+---
+
 # ABOUT THE IN CFA11
 
 About the IN CFA11
@@ -8314,6 +16230,130 @@ Once you have completed these fields and clicked the Add button, on the main scr
 
 ---
 
+# ABOUT THE FEC FORM 6 REPORT
+
+About the FEC Form 6 Report
+==========
+
+Applies To: Federal Election Commission
+
+The FEC Form 6 Report is used for a 48-Hour Notice of Contributions and Loans Received to disclose the receipt of contributions of $1,000 or more within 20 days before an election. Form 6 is intended for Principal Campaign Committees that meet the mentioned threshold.
+
+When filing this report, the following transaction types are supported if a contribution exceeds $1,000.
+
+* Monetary and in-kind Contributions
+* Loans that are not bank loans
+* Advances
+* Contributions
+* Personal loans, endorsements of bank loans
+* Advances made by the candidate
+* Candidate’s personal credit cards
+
+The 48-hour Notice requirement does not apply to contributions previously disclosed on reports.
+
+Additionally, if there is no Employer information for a particular Individual, then the words Information Requested will populate in the Name of Employer field. Likewise, if there is no Occupation information, then these words will populate in the Occupation field.
+
+[Help File Home](/help/) | [Full Index](/Help-File-Directory/) | [Contact Support](mailto:support@ISPolitical.com)
+
+[⇑ FEC Campaign, Party, & PAC Filing FAQ and Resources](/FEC-Campaign-Party-PAC-Filing-FAQ-and-Resources)
+[« About the FEC Form 5 Report](/About-the-FEC-Form-5-Report)
+[About the FEC Form 24-IE Report »](/About-the-FEC-Form-24-IE-Report)
+
+---
+
+# WHEN ARE THE VIRGINIA FILING DEADLINES
+
+When Are the Virginia Filing Deadlines?
+==========
+
+Applies To: Virginia
+
+Below are deadlines for Virginia compliance report filing.
+
+The Filing Deadline information provided here is offered only as a reference aid. The provided deadline information may contain inaccuracies and may not include all special elections or deadlines. For agency-specific details please visit the [Virginia Department of Elections](https://www.elections.virginia.gov/candidatepac-info/candidate-calendar/index.html) website.
+
+Candidate
+----------
+
+* 07/15/2024: VA Compliance Report (Candidate Committees)
+* 09/16/2024: VA Compliance Report (Candidate Committees)
+* 10/15/2024: VA Compliance Report (Candidate Committees)
+* 10/25/2024 – 11/04/2024: VA Large Contribution Report (Candidate Committees)
+* 10/28/2024: VA Compliance Report (Candidate Committees)
+* 12/05/2024: VA Compliance Report (Candidate Committees)
+* 01/15/2025: VA Compliance Report (Cadidate Committees)
+
+Other
+----------
+
+* 07/15/2024: VA Compliance Report (Candidate Committees)
+* 09/16/2024: VA Compliance Report (Candidate Committees)
+* 10/15/2024: VA Compliance Report (Candidate Committees)
+* 10/25/2024 – 11/04/2024: VA Large Contribution Report (Candidate Committees)
+* 10/28/2024: VA Compliance Report (Candidate Committees)
+* 12/05/2024: VA Compliance Report (Candidate Committees)
+* 01/15/2025: VA Compliance Report (Cadidate Committees)
+
+Party
+----------
+
+* 07/15/2024: VA Non-Candidate Compliance Report (Party Committees)
+* 09/16/2024: VA Non-Candidate Compliance Report (PAC)
+* 10/15/2024: VA Non-Candidate Compliance Report (PAC)
+* 10/15/2024: VA Non-Candidate Compliance Report (Party Committees)
+* 01/15/2025: VA Non-Candidate Compliance Report (PAC)
+* 01/15/2025: VA Non-Candidate Compliance Report (Party Committees)
+
+Political Action Committee (PAC)
+----------
+
+* 07/15/2024: VA Non-Candidate Compliance Report (Party Committees)
+* 09/16/2024: VA Non-Candidate Compliance Report (PAC)
+* 10/15/2024: VA Non-Candidate Compliance Report (PAC)
+* 10/15/2024: VA Non-Candidate Compliance Report (Party Committees)
+* 10/25/2024 – 11/04/2024: VA Large Contribution Report (Candidate Committees)
+* 01/15/2025: VA Non-Candidate Compliance Report (PAC)
+* 01/15/2025: VA Non-Candidate Compliance Report (Party Committees)
+
+You’re able to add Filing Deadlines found in ISP to your own digital calendar with our [Calendar Feed tool](https://ispolitical.com/what-are-calendar-feeds/).
+
+To see more information about Virginia compliance report filing with ISP, please visit our [Virginia Filing and FAQ Resources](https://ispolitical.com/virginia-campaign-party-pac-filing-faq-and-resources/) page.
+
+[Help File Home](/help/) | [Full Index](/Help-File-Directory/) | [Contact Support](mailto:support@ISPolitical.com)
+
+[« Virginia Campaign, Party, & PAC Filing FAQ and Resources](/Virginia-Campaign-Party-PAC-Filing-FAQ-and-Resources)
+[About the VA Compliance Report »](/About-the-VA-Compliance-Report)
+
+---
+
+# LOUISIANA CAMPAIGN PARTY PAC FILING FAQ AND RESOURCES
+
+Louisiana Campaign, Party, & PAC Filing FAQ and Resources
+==========
+
+Applies To: Louisiana
+
+Below are links to resources to help you file your Louisiana campaign finance reports.
+
+**Resources**
+
+[Elections Site](https://www.sos.la.gov/ElectionsAndVoting/Pages/default.aspx)
+[Filing Guide](https://ethics.la.gov/EthicsPublicationSearch.aspx?portal=CampFinLaws)
+[Filing Calendar](https://ethics.la.gov/CampFinanFilingSchedulesArch.aspx)
+
+**Supported Reports**
+
+* LA Form 202 (Committee’s Report Form)
+* LA Form 203 (Committee’s Special Report)
+
+[Help File Home](/help/) | [Full Index](/Help-File-Directory/) | [Contact Support](mailto:support@ISPolitical.com)
+
+[⇑ About Compliance Reports](/About-Compliance-Reports)
+[« When Are the Kentucky Filing Deadlines?](/When-Are-the-Kentucky-Filing-Deadlines)
+[When Are the Louisiana Deadlines? »](/When-Are-the-Louisiana-Deadlines)
+
+---
+
 # HOW DO I ENTER CREDIT CARD PURCHASES
 
 How Do I Enter Credit Card Purchases?
@@ -8344,6 +16384,23 @@ Using the example above, let’s include interest charges. For May, you accrued 
 [⇑ About Balances](/About-Balances)
 [« How Do I Generate Reports of Pledges & Targets?](/How-Do-I-Generate-Reports-of-Pledges-Targets)
 [What Are Budgets and How Do I Add One? »](/About-Budgets)
+
+---
+
+# ABOUT ADD SEARCH
+
+About Add/Search
+==========
+
+* [About Entities in ISP](https://ispolitical.com/About-Entities-in-ISP)
+* [About Individual Records](https://ispolitical.com/About-Individual-Records)
+* [About Organization Records](https://ispolitical.com/About-Organization-Records)
+* [What Is Advanced Search and How Do I Use It?](https://ispolitical.com/What-Is-Advanced-Search-and-How-Do-I-Use-It)
+
+[Help File Home](/help/) | [Full Index](/Help-File-Directory/) | [Contact Support](mailto:support@ISPolitical.com)
+
+[« How Do I Create Thank You Letters Using Microsoft Word?](/Creating-Thank-You-Letters)
+[About Entities in ISP »](/About-Entities-in-ISP)
 
 ---
 
@@ -8391,6 +16448,46 @@ About AI Imports
 
 ---
 
+# VIRGINIA CAMPAIGN PARTY PAC FILING FAQ AND RESOURCES
+
+Virginia Campaign, Party, & PAC Filing FAQ and Resources
+==========
+
+Applies To: Virginia
+
+Below are links to resources to help you file your Virginia reports.
+
+Please be aware that in order to efile Campaign Finance Reports with VA using ISP, you must first designate us as the third party vendor on the Statement of Org, which can be filed or amended using the [paper report](https://www.elections.virginia.gov/candidatepac-info/) or State’s [site](https://cf.elections.virginia.gov/Account/LogOn?ReturnUrl=%2f).
+
+### FAQ ###
+
+* [When Are the Virginia Filing Deadlines?](https://ispolitical.com/When-Are-the-Virginia-Filing-Deadlines)
+* [About the VA Compliance Report](https://ispolitical.com/About-the-VA-Compliance-Report)
+* [About the VA Large Contribution Report](https://ispolitical.com/About-the-VA-Large-Contribution-Report)
+* [About the VA Non-Candidate Compliance Report](https://ispolitical.com/About-the-VA-Non-Candidate-Compliance-Report)
+
+**Resources**
+
+[Elections Site](http://elections.virginia.gov/)
+[Filing Calendar](https://www.elections.virginia.gov/candidatepac-info/candidate-calendar/)– Candidates
+[Filing Calendar](https://www.elections.virginia.gov/candidatepac-info/political-committees/political-action-committees/)– PACs
+[Filing Calendar](https://www.elections.virginia.gov/media/formswarehouse/campaign-finance/2024/2024-Political-Party-Deadlines.pdf)– Parties
+[Filing Guide](https://www.elections.virginia.gov/candidatepac-info/regulation-and-policies/)
+
+**Supported Reports**
+
+VA Compliance Report
+VA Large Contribution Report
+VA Non-Candidate Compliance Report
+
+[Help File Home](/help/) | [Full Index](/Help-File-Directory/) | [Contact Support](mailto:support@ISPolitical.com)
+
+[⇑ About Compliance Reports](/About-Compliance-Reports)
+[« About the VT Mass Media Report](/About-the-VT-Mass-Media-Report)
+[When Are the Virginia Filing Deadlines? »](/When-Are-the-Virginia-Filing-Deadlines)
+
+---
+
 # HOW DO I REPORT AUCTION ITEMS AND PROCEEDS FROM SALES ON FEC REPORTS
 
 How Do I Report Auction Items and Proceeds From Sales on FEC Reports?
@@ -8432,6 +16529,27 @@ At the bottom of the screen is the Print Checks button to begin printing the che
 [⇑ About Consultant Tools in ISP](/About-Consultant-Tools-in-ISP)
 [« What Are Key Stats in Consultant Tools?](/What-Are-Key-Stats-in-Consultant-Tools)
 [What Is the Manage Firm Page in Consultant Tools? »](/What-Is-the-Manage-Firm-Page-in-Consultant-Tools)
+
+---
+
+# RHODE ISLAND CAMPAIGN PARTY PAC FILING FAQ AND RESOURCES
+
+Rhode Island Campaign, Party, & PAC Filing FAQ and Resources
+==========
+
+Applies To: Rhode Island
+
+**Resources**
+
+[Elections Site](https://elections.ri.gov/)
+[Filing Guide](https://elections.ri.gov/finance/manuals/)
+[Filing Calendar](https://elections.ri.gov/finance/schedules/)
+
+[Help File Home](/help/) | [Full Index](/Help-File-Directory/) | [Contact Support](mailto:support@ISPolitical.com)
+
+[⇑ About Compliance Reports](/About-Compliance-Reports)
+[« About the PA DSEB-502 Version: Federal PAC Filing State Report](/About-the-PA-DSEB-5-2-Version-Federal-PAC-Filing-State-Report)
+[South Carolina Campaign, Party, & PAC Filing FAQ and Resources »](/South-Carolina-Campaign-Party-PAC-Filing-FAQ-and-Resources)
 
 ---
 
@@ -8646,6 +16764,41 @@ When data comes in through an integration, it’s missing two pieces of key info
 
 ---
 
+# ABOUT TRANSACTIONS
+
+About Transactions
+==========
+
+* [How Do I Add a Contribution to Other Committees?](https://ispolitical.com/How-Do-I-Add-a-Contribution-to-Other-Committees)
+* [How Do I Add New Transactions?](https://ispolitical.com/How-Do-I-Add-New-Transactions)
+* [What Are the Available Transaction Types in ISP?](https://ispolitical.com/What-Are-the-Available-Transaction-Types-in-ISP)
+* [What Are Transaction Limits?](https://ispolitical.com/What-Are-Transaction-Limits)
+* [About Aggregates](https://ispolitical.com/About-Aggregates)
+* [What Do the Different Colors Mean When Adding Transactions?](https://ispolitical.com/What-Do-the-Different-Colors-Mean-When-Adding-Transactions)
+* [Entering Unusual Transactions](https://ispolitical.com/Entering-Unusual-Transactions)
+* [What Is an Accrued Expense?](https://ispolitical.com/What-Is-an-Accrued-Expense)
+* [How Do I Create ActBlue Conduit Transaction Deposit After an Import?](https://ispolitical.com/How-Do-I-Create-ActBlue-Conduit-Transaction-Deposit-After-an-Import)
+* [How Do I Enter Conduit and Earmarked Transactions?](https://ispolitical.com/How-Do-I-Enter-Conduit-and-Earmarked-Transactions)
+* [How Do I Record Inkind Made Transactions?](https://ispolitical.com/How-Do-I-Record-Inkind-Made-Transactions)
+* [What Are Levin Funds and How Do I Add Them?](https://ispolitical.com/What-Are-Levin-Funds-and-How-Do-I-Add-Them)
+* [How Do I Enter a Non-Travel Advance of Personal Funds?](https://ispolitical.com/How-Do-I-Enter-a-Non-Travel-Advance-of-Personal-Funds)
+* [How Do I Record Loans? ](https://ispolitical.com/How-Do-I-Record-Loans)
+* [How Do I Record Petty Cash Transactions?](https://ispolitical.com/How-to-Record-Petty-Cash)
+* [What Are Memos & Splits and How Do I Add Them?](https://ispolitical.com/What-Are-Memos-Splits-and-How-Do-I-Add-Them)
+* [How Do I Add a Support/Oppose Memo?](https://ispolitical.com/How-Do-I-Add-a-Support-Oppose-Memo)
+* [What Are Monetary Contribution Transaction Tags?](https://ispolitical.com/What-Are-Monetary-Contribution-Transaction-Tags)
+* [What Are Expense Transaction Tags and How Do I Use Them?](https://ispolitical.com/What-Are-Expense-Transaction-Tags-and-How-Do-I-Use-Them)
+* [What Are Internal Transfers?](https://ispolitical.com/About-Internal-Transfers)
+* [How Do I Create a Reimbursement?](https://ispolitical.com/How-to-Create-a-Reimbursement)
+
+[Help File Home](/help/) | [Full Index](/Help-File-Directory/) | [Contact Support](mailto:support@ISPolitical.com)
+
+[⇑ About Accounting in ISP](/About-Accounting-in-ISP)
+[« What Are Key Statistics?](/What-Are-Key-Statistics)
+[How Do I Add a Contribution to Other Committees? »](/How-Do-I-Add-a-Contribution-to-Other-Committees)
+
+---
+
 # ABOUT THE FL DS DE REPORT
 
 About the FL DS-DE Report
@@ -8701,6 +16854,116 @@ In that window you can rename it by clicking the pencil icon, as well as open th
 
 [⇑ Useful Information in ISP](/Useful-Information-in-ISP)
 [« How Do I Pull a Final Export On My Own?](/How-Do-I-Pull-a-Final-Export-On-My-Own)
+
+---
+
+# WHAT IS ADVANCED SEARCH AND HOW DO I USE IT
+
+What Is Advanced Search and How Do I Use It?
+==========
+
+Advanced Search allows you to create and run detailed and specific searches on various data points in your database. The results you receive via Advanced Search will be record-based. This means that when using this search method, you search for entities (Individuals and Organizations). If you are looking for specific transaction searches, [Financial Reports](https://ispolitical.com/how-to-generate-financial-reports/) will handle these needs.
+
+There are two parts to Advanced Search: (1) searching for entities, and (2) using your search results.
+
+### (1) Searching for Entities ###
+
+Advanced Search has four different modes for searching: Power Mode, Communication Filters, Contribution Filters, and Other Favorites. Contribution Filters and Other Favorites allow for quick and easy searching of common fields. Power Mode, however, is generally the mode to utilize as you begin your Advanced Search.
+
+### **Power Mode**   ###
+
+This function provides full system functionality and enables a search with robust criteria options. As with all four search modes, the Add Rule section is where you select the criteria that determine your results. In Power Mode, the following four fields appear under the Add Rule section header:
+
+* **Area:** In the Select an area drop-down menu, choose from elements of an entity’s record, e.g., Addresses, Contributions, Flags, Key Stats.
+* **Field:** In the Select a field drop-down menu, you will choose an option that is a subset of the chosen Area. For example, if you selected Addresses, you could select State.
+* **Relationship:** In the Select a relationship drop-down menu, choose how to define the chosen Field further. For example, if you selected State and want only to find Addresses within a particular State, you would select Is Any of; in contrast, if you want to exclude Addresses from a specific State, you would select Is Not Any of.
+* **Value:** Click in this box to access the drop-down menu. This is where you will either type the data point (e.g., the name of the State) or choose from a list of provided data points.
+
+Once you have created your query, click the Add Rule button. This action will copy your selected criteria from the Add Rule section and paste it into the Search Criteria section. In many instances, this is the point at which you can click the Run Search button to complete your Advanced Search.
+
+If your query is more complex, you may need to utilize one or more of the other three buttons.
+
+The Add as Exclusion button will direct the system not to include any entities found with the criteria selected. After you click to add the rule, the buttons New Search Group and Add Compound Rule appear. These are advanced features that are used for more complex searches.
+
+On the far left of the rule is an Edit button. Clicking this pulls the rule back into the Add Rule section to make changes. On the far right of the rule is a red X, which will remove the rule entirely from the Search Criteria section.
+
+### **Communications Filters**  ###
+
+This mode allows you to search entities based solely on communication information.
+
+You can select any Communication Type(s) within your chosen date range on this page.
+
+### **Contribution Filters**  ###
+
+This mode allows you to search entities based solely on contribution information.
+
+When using this mode, you can determine how the system searches for contribution information within a record. These are Total Contributions, Most Recent Contribution, and Any Contribution. You can also narrow down search results based on Date Range, Amount Range, and Election.
+
+When you’ve chosen or entered all the criteria, you’ll again have the buttons described above to add the rule to the Search Criteria section.
+
+### **Other Favorites**  ###
+
+This mode is used for other Address and Flag-related results.
+
+This mode allows you to select from various Address and Flag-related data points. For example, you can determine your results based on City, County, ZIP Code, and State. Use the Flags field to locate entities that have specific flags.
+
+When you’ve chosen or entered all the criteria, you’ll again have the buttons described above to add the rule to the Search Criteria section.
+
+### (2) Using Your Search Results ###
+
+You have several options for using your results, including displaying, exporting, and bulk updating the data. Most options are found on the Exports & Actions menu:
+
+* **Run Search:** Generates the search results directly on the screen.
+* **Excel: Custom Export:** Select any Custom Export spreadsheet formats you’ve created.
+* **Call Sheets:** Generates PDF pages of the results and will include basic contribution and contact information.
+* **Copy To Another Account:** If you manage multiple accounts, this will copy the entities, including their contact information, and add them to the account of your choice.
+* **Excel: Basic Contact Information:** Provides a spreadsheet with entity contact information only.
+* **Excel Donor Summary:** Provides donor-specific information.
+* **Excel Detailed Fundraising Export:** Provides most of the donor information and additional fundraising details.
+* **Excel: Detailed Fundraising Export by Household:** This is the same as above, but it will group records linked with the spouse relationship.
+* **Set Communications:** Apply a communication to the records found in your results.
+* **Set Flags:** Select a flag to apply to all the records in your results.
+* **Set Followup Reminders:** Create a reminder to contact the entity on a later or specific date.
+* **Set Pledges/Targets:** Create and set a Pledge or Target for the results of your search.
+* **Start Drip Campaign:** Begin an email Drip Campaign with the entities in your search results, as well as allow AI to update the campaign for you.
+* **View Records:** Opens the record’s details page, starting with the first result. You will have an option at the bottom left and right of the entity records to flip through the records displayed.
+* **Save & Run Search:** Provides the ability to save the search criteria in case it is a report you will run frequently, as well as generate the results directly on the screen.
+
+### Other Actions ###
+
+Saved Searches is where you will find all of the searches that you have saved. This is also where you can manage them by removing or updating the name of a saved search.
+
+Custom Exports allows you to update and create Custom Exports you would like to use to export only the details you want.
+
+On the Scheduled Reports page, you are able to select your Saved Advanced Searches as a Report option. Note that this will only be a Scheduled Report option if you have a Custom Export already built.
+
+### **Advanced Search Recipes**  ###
+
+Here are step-by-step instructions on how to generate some of the more common searches:
+
+* [How Do I Exclude Results Based on Flags?](https://ispolitical.com/in-the-advanced-search-how-do-i-exclude-results-based-on-flags/)
+* [All Non-Donors](https://ispolitical.com/advanced-search-recipe-find-non-donors/)
+* [Transactions by Creation Date](https://ispolitical.com/advanced-search-recipe-transactions-by-creation-date/)
+* [Donors Over the Limit](https://ispolitical.com/advanced-search-recipes-overlimit-donors/)
+* [State and Local Districts](https://ispolitical.com/advanced-search-recipe-state-local-districts/)
+* [General Election Non-Donors](https://ispolitical.com/advanced-search-general-non-donors/)
+
+### Related Information ###
+
+* [What Are the New Search Group and Add Compound Rule Buttons in Advanced Search?](https://ispolitical.com/What-Are-the-New-Search-Group-and-Add-Compound-Rule-Buttons-in-Advanced-Search)
+* [How Do I Filter My Advanced Search by State and Local Districts?](https://ispolitical.com/How-Do-I-Filter-My-Advanced-Search-by-State-and-Local-Districts)
+* [What Are Advanced Search Recipes?](https://ispolitical.com/What-Are-Advanced-Search-Recipes)
+* [How Do I Set Flags Using Advanced Search & AI?](https://ispolitical.com/How-to-Set-Flags-Using-Advanced-Search)
+* [How Do I Copy Data Between My Accounts?](https://ispolitical.com/How-Do-I-Copy-Data-Between-My-Accounts)
+* [How Do I Create and Manage Custom Exports?](https://ispolitical.com/How-Do-I-Create-and-Manage-Custom-Exports)
+* [What Is the Difference Between Actor and User Fields in Advanced Search?](https://ispolitical.com/Difference-Between-Actor-and-User-Fields-in-Advanced-Search)
+* [How Do I Locate Uncontacted Individuals Using Advanced Search?](https://ispolitical.com/How-Do-I-Locate-Uncontacted-Individuals-Using-Advanced-Search)
+
+[Help File Home](/help/) | [Full Index](/Help-File-Directory/) | [Contact Support](mailto:support@ISPolitical.com)
+
+[⇑ About Add/Search](/About-Add-Search)
+[« How Do I Use the Organization Search?](/How-Do-I-Use-the-Organization-Search)
+[What Are the New Search Group and Add Compound Rule Buttons in Advanced Search? »](/What-Are-the-New-Search-Group-and-Add-Compound-Rule-Buttons-in-Advanced-Search)
 
 ---
 
@@ -8840,6 +17103,65 @@ If after filing directly from ISP or uploading via NetFile’s API you get a ret
 [⇑ California Campaign, Party, & PAC Filing FAQ and Resources](/California-Campaign-Party-PAC-Filing-FAQ-and-Resources)
 [« Issues With California’s PDF Converting Program](/Issues-With-California-s-PDF-Converting-Program)
 [What Is eSignature and How Do I Use It? »](/What-Is-eSignature-and-How-Do-I-Use-It)
+
+---
+
+# WHEN ARE THE INDIANA FILING DEADLINES
+
+When Are the Indiana Filing Deadlines?
+==========
+
+Applies To: Indiana
+
+Below are deadlines for Indiana compliance report filing.
+
+The Filing Deadline information provided here is offered only as a reference aide. The provided deadline information may contain inaccuracies and may not include all special elections or deadlines. For agency specific details please visit the [Indiana Campaign Finance page](https://www.in.gov/sos/elections/campaign-finance/).
+
+Candidate
+----------
+
+* 07/01/2024 – 07/15/2024: IN CFA11 (2024 Statewide Candidate Supplemental Report)
+* 07/15/2024: IN CFA4 (Quarterly Report- Statewide Candidate)
+* 07/15/2024: IN CFA4 (Semi-Annual Report- Statewide Candidate)
+* 10/01/2024 – 10/15/2024: IN CFA11 (2024 Statewide Candidate Supplemental Reports)
+* 10/12/2024 – 11/03/2024: IN CFA11 (2024 General Election Supplemental Reports)
+* 10/15/2024: IN CFA4 (Quarterly Report- Statewide Candidate)
+* 10/18/2024: IN CFA4 (2024 Pre-Election Report)
+* 10/22/2024 – 10/28/2024: IN CFA11 (2024 Statewide Candidate Supplemental Reports)
+* 10/29/2024: IN CFA4 (Quarterly Report- Statewide Candidate)
+* 01/15/2025: IN CFA4 (2024 Annual Report)
+* 03/03/2025: IN CFA4 (2024 Annual Report (Regular Party Comte.))
+
+Party
+----------
+
+* 07/15/2024: IN CFA4 (Quarterly Report- Statewide Candidate)
+* 07/15/2024: IN CFA4 (Semi-Annual Report- Statewide Candidate)
+* 10/15/2024: IN CFA4 (Quarterly Report- Statewide Candidate)
+* 10/18/2024: IN CFA4 (2024 Pre-Election Report)
+* 10/29/2024: IN CFA4 (Quarterly Report- Statewide Candidate)
+* 01/15/2025: IN CFA4 (2024 Annual Report)
+* 03/03/2025: IN CFA4 (2024 Annual Report (Regular Party Comte.))
+
+Political Action Committee (PAC)
+----------
+
+* 07/15/2024: IN CFA4 (Quarterly Report- Statewide Candidate)
+* 07/15/2024: IN CFA4 (Semi-Annual Report- Statewide Candidate)
+* 10/15/2024: IN CFA4 (Quarterly Report- Statewide Candidate)
+* 10/18/2024: IN CFA4 (2024 Pre-Election Report)
+* 10/29/2024: IN CFA4 (Quarterly Report- Statewide Candidate)
+* 01/15/2025: IN CFA4 (2024 Annual Report)
+* 03/03/2025: IN CFA4 (2024 Annual Report (Regular Party Comte.))
+
+You’re able to add Filing Deadlines found in ISP to your own digital calendar with our [Calendar Feed tool](https://ispolitical.com/Calendar-Feeds).
+
+To see more information about Indiana compliance report filing with ISP, please visit our [Indiana Filing and FAQ Resources](https://ispolitical.com/indiana-campaign-party-pac-filing-faq-and-resources/) page.
+
+[Help File Home](/help/) | [Full Index](/Help-File-Directory/) | [Contact Support](mailto:support@ISPolitical.com)
+
+[« Indiana Campaign, Party, & PAC Filing FAQ and Resources](/Indiana-Campaign-Party-PAC-Filing-FAQ-and-Resources)
+[About the Indiana CFA-4 »](/About-the-Indiana-CFA-4)
 
 ---
 
@@ -9003,6 +17325,111 @@ You can also verify if AI is turned on to set Flags to new records by navigating
 
 ---
 
+# MASTERING FEC REPORTING COMMON MISTAKES TO AVOID WITH FECFILE SOFTWARE
+
+Mastering FEC Reporting: Common Mistakes to Avoid with FECFile Software
+==========
+
+<img alt="image (3)" src="https://ispolitical.com/wp-content/uploads/2024/03/image-3.png" title="image (3)" height="1024" width="1024" />
+
+Accurate and timely financial reporting is not just a legal obligation but a crucial way to maintain transparency and public trust. As campaigns navigate the intricate landscape of Federal Election Commission (FEC) requirements, many rely on FECFile software for submitting their financial reports. However, despite its prevalence, FECFile is not immune to common mistakes that can have significant repercussions.
+
+Let’s explore the challenges that political teams face and the potential consequences of inaccuracies. Then, let’s take a look at a solution – ISPolitical's [political accounting software](https://ispolitical.com/compliance/) – designed to not only streamline the reporting process but also eliminate most, if not all, of the errors associated with FECFile.
+
+Common Mistakes with the FECFile Software
+----------
+
+Understanding these pitfalls is crucial for any political campaign aiming to master FEC reporting:
+
+**Inaccurate Data Entry**
+
+* **Typographical Errors:** Misplaced digits or misspelled names leading to discrepancies.
+* **Incorrect Amounts and Dates:** Entering wrong contribution or expenditure amounts, and overlooking transaction dates.
+
+**Missing or Incomplete Information**
+
+* **Required Fields:** Oversight in filling mandatory sections of the FEC forms.
+* **Incomplete Donor Details:** Failing to provide comprehensive information about contributors, violating FEC guidelines.
+
+**Late Submission**
+
+* **Missed Deadlines:** Failure to adhere to FEC filing deadlines, resulting in penalties and legal implications.
+* **Consequences:** Increased scrutiny, potential fines, and damage to campaign reputation.
+
+**Compliance Issues**
+
+* **Contribution Limit Violations:** Unintentional breaches of contribution limits, leading to legal repercussions.
+* **Transaction Reporting Failures:** Neglecting to report specific transactions, jeopardizing campaign compliance.
+
+**Software Navigation Challenges**
+
+* **Interface Navigation Difficulty:** Challenges in navigating the FECFile interface, causing delays and errors.
+* **Lack of User-Friendly Features:** The absence of intuitive features hinders efficient use.
+
+The Impact of FECFile Mistakes on Campaigns
+----------
+
+### Fines and Penalties ###
+
+* **Non-compliance:** risks substantial fines, draining campaign resources.
+* **Legal Implications:** Inaccurate reporting may result in legal consequences, even imprisonment.
+* **Potential Fines:** Impacting the campaign's financial stability.
+
+### Reputational Damage ###
+
+* **Public Perception:** Financial reporting errors erode public trust and confidence in the campaign.
+* **Impact on Donor Confidence:** Mistakes may discourage donors, affecting the campaign's fundraising efforts.
+
+Understanding the repercussions of FEC reporting mistakes underscores the urgency for precise and timely submissions. Let’s see how ISPolitical's advanced technology offers a simple and easy solution to mitigate these risks.
+
+ISPolitical's Solution
+----------
+
+**Innovative Technology:** ISPolitical utilizes advanced AI technology to revolutionize FEC reporting.
+
+**Streamlined Process:** The software simplifies data entry and navigation for efficient financial reporting.
+
+**Error Detection:** ISP boasts the world’s most sophisticated set of compliance report errors, alerts, and warnings. Built with the help of AI analysis, ISP’s reports are proven by getting about half the RFAIs that competitors average.
+
+**Built-in Compliance Check:** ISPolitical's software includes features for proactive compliance management.
+
+**Simplified Navigation:** Intuitive design to enhance ease of use and reduce the likelihood of errors.
+
+Discover how ISPolitical's solution not only simplifies FEC reporting but also acts as a proactive safeguard against common pitfalls. [Contact](https://ispolitical.com/contact/) ISP today for a free trial to try it out for yourself.
+
+Tired Of Making Mistakes Using the FECFile Software?
+----------
+
+The burden of FEC reporting mistakes can be overwhelming. If you find yourself fatigued by the common pitfalls associated with FECFile, it's time to embrace a solution that not only streamlines the reporting process but also eliminates the risk of errors. ISPolitical's cutting-edge political accounting software, fortified by AI technology and a user-friendly interface, stands as a beacon of accuracy and efficiency. Say goodbye to fines, legal complications, and reputational damage. Take charge of your campaign's financial reporting with ISPolitical – where precision meets simplicity. Make the switch today and experience a new era of mastery in FEC reporting. Your campaign deserves it.
+
+[CONTACT ISP](https://ispolitical.com/contact/)
+
+You May Like These Blogs
+----------
+
+[Simplifying Campaign Finance with ISP’s Essential Tools](https://ispolitical.com/simplifying-campaign-finance-with-isps-essential-tools/)
+----------
+
+Managing a campaign’s finances can be complex and time-consuming. However, ISP’s suite of campaign finance solutions and tools is designed…
+
+[Read More](https://ispolitical.com/simplifying-campaign-finance-with-isps-essential-tools/)
+
+[Understanding FEC Filing Deadlines: The Breakdown](https://ispolitical.com/understanding-fec-filing-deadlines-the-breakdown/)
+----------
+
+The Federal Election Commission (FEC) plays a pivotal role in maintaining the integrity of campaign finance in the United States.…
+
+[Read More](https://ispolitical.com/understanding-fec-filing-deadlines-the-breakdown/)
+
+[Why You Should Have a Professional Campaign Treasurer](https://ispolitical.com/why-you-should-have-a-professional-campaign-treasurer/)
+----------
+
+Running a political campaign is a complex and demanding endeavor. Amidst the whirlwind of events, rallies, and policy planning, one…
+
+[Read More](https://ispolitical.com/why-you-should-have-a-professional-campaign-treasurer/)
+
+---
+
 # OHIO CAMPAIGN PARTY PAC FILING FAQ AND RESOURCES
 
 Ohio Campaign, Party, & PAC Filing FAQ and Resources
@@ -9029,6 +17456,30 @@ OH Standard Report
 [⇑ About Compliance Reports](/About-Compliance-Reports)
 [« North Dakota Campaign, Party, & PAC Filing FAQ and Resources](/North-Dakota-Campaign-Party-PAC-Filing-FAQ-and-Resources)
 [Oklahoma Campaign, Party, & PAC Filing FAQ and Resources »](/Oklahoma-Campaign-Party-PAC-Filing-FAQ-and-Resources)
+
+---
+
+# WHEN ARE THE DELAWARE FILING DEADLINES
+
+When Are the Delaware Filing Deadlines?
+==========
+
+Applies To: Delaware
+
+Below are deadlines for Delaware compliance report filing.
+
+The Filing Deadline information provided here is offered only as a reference aide. The provided deadline information may contain inaccuracies and may not include all special elections or deadlines. For agency specific details, please visit the [Delaware Elections](https://elections.delaware.gov/index.shtml) webpage.
+
+***No deadlines are currently found.***
+
+You’re able to add Filing Deadlines found in ISP to your own digital calendar with our [Calendar Feed](https://ispolitical.com/what-are-calendar-feeds/) tool.
+
+To see more information about Delaware compliance report filing with ISP, please visit our [Delaware Filing and FAQ Resources](https://ispolitical.com/Delaware-Campaign-Party-PAC-Filing-FAQ-and-Resources/) page.
+
+[Help File Home](/help/) | [Full Index](/Help-File-Directory/) | [Contact Support](mailto:support@ISPolitical.com)
+
+[« Delaware Campaign, Party, & PAC Filing FAQ and Resources](/Delaware-Campaign-Party-PAC-Filing-FAQ-and-Resources)
+[Florida Campaign, Party, & PAC Filing FAQ and Resources »](/Florida-Campaign-Party-PAC-Filing-FAQ-and-Resources)
 
 ---
 
@@ -9110,6 +17561,67 @@ Please note, per the PDC, this in-kind loan only applies to candidates:
 
 ---
 
+# HOW DO I LOCATE DONORS OVER THE LIMIT
+
+How Do I Locate Donors Over the Limit?
+==========
+
+There are a couple of different ways to locate donors that are potentially over the legal limit. The easiest option is to click on Reports and then Compliance Tools. On this page, there is a report called Check Transaction Limits. Using this report, you can select your chosen date range and easily view transactions that may be over the limit.
+
+You can also use Advanced Search to find these donors. The specific rules would depend on your agency, but the following three-part search is typical.
+
+Part 1: Limit to Individuals
+
+----------
+
+* Area: Entities
+* Field: Entity Type
+* Relationship: Is Any Of
+* Value: Individual.
+
+Click Add Rule.
+
+Part 2: Limit to the Current Election
+
+----------
+
+* Area: Contributions (this includes monetary, inkind, and refunded contributions)
+* Field: Election
+* Relationship: Is Any Of
+* Value: (select your current election)
+
+Click Add Rule.
+
+Part 3: Limit by Total Contributed
+
+----------
+
+* Area: Contributions
+* Field: Total Value
+* Relationship: Is More Than
+* Value: (limit amount)
+
+For example, if the limit on contributions from individuals is $2700.00, in the value field, you would enter $2700.
+
+Click Add **Compound** Rule.
+
+Adding as a compound rule is necessary to ensure that the amount is limited to only the election you selected in part 2.
+
+Using your Search
+
+----------
+
+To generate the report, click the Run Search button at the bottom.
+
+If you plan to run this specific search frequently, click Save & Run Search. This will allow you to give the search a notable name and save it as a Saved Search. To locate it later, click the Saved Search button and select the saved search from the menu that appears.
+
+[Help File Home](/help/) | [Full Index](/Help-File-Directory/) | [Contact Support](mailto:support@ISPolitical.com)
+
+[« What Are Advanced Search Recipes?](/What-Are-Advanced-Search-Recipes)
+[How Do I Find Transactions Added on a Specific Date? »](/How-Do-I-Find-Transactions-Added-on-a-Specific-Date)
+
+---
+
 # GENERAL TOOLS AND TIPS
 
 General Tools and Tips
@@ -9123,6 +17635,27 @@ A smooth and logical process is important when it comes to using any software. I
 
 [« Useful Information in ISP](/Useful-Information-in-ISP)
 [How Do I Pull a Final Export On My Own? »](/How-Do-I-Pull-a-Final-Export-On-My-Own)
+
+---
+
+# ALASKA CAMPAIGN PARTY PAC FILING FAQ AND RESOURCES
+
+Alaska Campaign, Party, & PAC Filing FAQ and Resources
+==========
+
+Applies To: Alaska
+
+**Resources**
+
+[Elections Site](https://elections.alaska.gov/)
+[Filing Calendar](https://doa.alaska.gov/apoc/FilerResources/campaignDisclosure.html) (scroll to bottom of page and find **Election Reporting Deadlines**)
+[Filing Guide](https://doa.alaska.gov/apoc/FilerResources/campaignDisclosure.html)
+
+[Help File Home](/help/) | [Full Index](/Help-File-Directory/) | [Contact Support](mailto:support@ISPolitical.com)
+
+[⇑ About Compliance Reports](/About-Compliance-Reports)
+[« About the AL CEO Major Report](/About-the-AL-CEO-Major-Report)
+[When Are the Alaska Filing Deadlines? »](/When-Are-the-Alaska-Filing-Deadlines)
 
 ---
 
@@ -9284,6 +17817,134 @@ When generating your compliance report, choose your new filer committee as the �
 
 ---
 
+# ABOUT INTEGRATIONS IN ISP
+
+About Integrations in ISP
+==========
+
+ISP integrates with a wide variety of systems to make your operations run more smoothly. Fundraising, accounting, and information management is easier with ISP’s integrations.
+
+Online Donations
+
+![eFundraising Connections logo](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%200%200'%3E%3C/svg%3E)\<img decoding="async" src="https://app.ISPolitical.com/Public/IntegrationImage/3" class="integration-or-tool-logo" alt="eFundraising Connections logo" /\>
+
+eFund Connect is a powerful payment processing platform that helps political campaigns of all sizes to raise more money online. Build your contributor base with a fully integrated donation accounting software solution that adopts your campaign’s theme and imagery. Easily collect donations, set up and manage events, track donor contact data and produce results. eFund Connect makes accepting political contributions easy, fast, accountable and secure. No start-up or monthly subscription fees.
+
+[Read More About eFundraising Connections](https://ispolitical.com/How-Do-I-Create-the-eFundraising-Connections-Integration).
+
+Online Donations
+
+![Anedot logo](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%200%200'%3E%3C/svg%3E)\<img decoding="async" src="https://app.ISPolitical.com/Public/IntegrationImage/4" class="integration-or-tool-logo" alt="Anedot logo" /\>
+
+Anedot is the most trusted political and non-partisan donation platform in the United States and works seamlessly with ISP to give your donors insights in realtime. Anedot empowers you with tools to raise more money including one click Instant Donations, customizable recurring options, post-donation upsells, donor recovery, and more. Anedot’s DonorID Network allows any donor on the network to donate to you effortlessly with a single click. Don’t lose another donor – get started with Anedot today!
+
+[Read More About Anedot](https://ispolitical.com/How-Do-I-Set-up-the-Anedot-Integration).
+
+Fundraising Platform
+
+![Kindful logo](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%200%200'%3E%3C/svg%3E)\<img decoding="async" src="https://app.ISPolitical.com/Public/IntegrationImage/9" class="integration-or-tool-logo" alt="Kindful logo" /\>
+
+Kindful is a cloud-based donor management platform that helps nonprofits amplify their fundraising, simplify their donor management, and maximize their impact.
+
+[Read More About Kindful](https://ispolitical.com/How-Do-I-Set-Up-a-Kindful-Integration).
+
+Document Storage
+
+![Dropbox logo](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%200%200'%3E%3C/svg%3E)\<img decoding="async" src="https://app.ISPolitical.com/Public/IntegrationImage/10" class="integration-or-tool-logo" alt="Dropbox logo" /\>
+
+Dropbox is a home for all of your work. With the added benefits of cloud storage, you can store and share files, collaborate on projects and bring your best ideas to life – whether you’re working alone or as part of a team.
+
+[Read More About Dropbox](https://ispolitical.com/How-Do-I-Set-up-the-Dropbox-Integration).
+
+Website Builder
+
+![NationBuilder logo](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%200%200'%3E%3C/svg%3E)\<img decoding="async" src="https://app.ISPolitical.com/Public/IntegrationImage/2004" class="integration-or-tool-logo" alt="NationBuilder logo" /\>
+
+NationBuilder powers thousands of high-stakes campaigns and movements around the globe. It offers all the tools you need to run and win, all in one place. Get out the vote and bring people to the polls with powerful field tools, a fully-integrated website and voter database, expert email targeting, and streamlined fundraising and donor management. Bring your community to life with dynamic profiles that update with every interaction and automatically sync with public social media. Now serving more than 9,000 customers in 112 countries.
+
+[Read More About NationBuilder](https://ispolitical.com/How-Do-I-Set-up-a-NationBuilder-Integration).
+
+Online Donations
+
+![ActBlue logo](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%200%200'%3E%3C/svg%3E)\<img decoding="async" src="https://app.ISPolitical.com/Public/IntegrationImage/2005" class="integration-or-tool-logo" alt="ActBlue logo" /\>
+
+ActBlue offers the best tools and the most reliable service, at a price any campaign can afford.Every candidate and committee that uses ActBlue has access to software designed for major federal campaigns, built on top of technical infrastructure benchmarked at the highest levels. ActBlue handles the fundraising volume of thousands of federal, state and local committees, day in and day out. Where other vendors crash, ActBlue runs smoothly.
+
+[Read More About ActBlue](https://ispolitical.com/How-Do-I-Set-up-an-ActBlue-Integration).
+
+Broadcast Email
+
+![Mailchimp logo](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%200%200'%3E%3C/svg%3E)\<img decoding="async" src="https://app.ISPolitical.com/Public/IntegrationImage/2008" class="integration-or-tool-logo" alt="Mailchimp logo" /\>
+
+Mailchimp is the world’s largest provider of broadcast email tools with over 300 billion emails sent every year.
+
+The Mailchimp integration allows you to automatically create and update a Mailchimp audience based on your ISP database. From Mailchimp, you can also choose between mailing to your entire database or audience segments based on saved searches.
+
+[Read More About Mailchimp](https://ispolitical.com/What-Is-the-Mailchimp-Integration-and-How-Do-I-Add-It).
+
+Fundraising Consultant
+
+![Targeted Victory logo](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%200%200'%3E%3C/svg%3E)\<img decoding="async" src="https://app.ISPolitical.com/Public/IntegrationImage/2012" class="integration-or-tool-logo" alt="Targeted Victory logo" /\>
+
+Built by digital marketers, Targeted Victory is a full service strategy and marketing agency providing optimized outcomes in the digital age. We focus on winning political elections and on solving global corporate challenges. Our clients, including national political and international decision makers, count on our team of top strategists to provide comprehensive solutions and strategic counsel on public affairs, advertising, media planning, fundraising and reputation management.
+
+[Read More About Targeted Victory](https://ispolitical.com/How-Do-I-Add-the-Targeted-Victory-Integration).
+
+Online Donations
+
+![WinRed logo](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%200%200'%3E%3C/svg%3E)\<img decoding="async" src="https://app.ISPolitical.com/Public/IntegrationImage/2017" class="integration-or-tool-logo" alt="WinRed logo" /\>
+
+WinRed changes how conservative & center-right groups fundraise online. WinRed technology allows you to quickly and securely accept donations from your supporters!
+
+[Read More About WinRed](https://ispolitical.com/How-Do-I-Set-up-the-WinRed-Integration).
+
+Online Forms
+
+![Ninja Forms logo](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%200%200'%3E%3C/svg%3E)\<img decoding="async" src="https://app.ISPolitical.com/Public/IntegrationImage/2019" class="integration-or-tool-logo" alt="Ninja Forms logo" /\>
+
+Ninja Forms is the the Drag and Drop WordPress Form Builder. Easy integration with ISP for volunteer, email list, and other signup forms.
+
+e-Signature
+
+![Xodo Sign logo](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%200%200'%3E%3C/svg%3E)\<img decoding="async" src="https://app.ISPolitical.com/Public/IntegrationImage/2022" class="integration-or-tool-logo" alt="Xodo Sign logo" /\>
+
+The Xodo Sign (formerly eversign) integration allows you to send e-Documents for signature directly through the ISP platform and get signed documents automatically handled.
+
+[Read More About Xodo Sign](https://ispolitical.com/What-Is-the-Xodo-Sign-Integration-and-How-Do-I-Use-It).
+
+Call Time
+
+![Numero logo](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%200%200'%3E%3C/svg%3E)\<img decoding="async" src="https://app.ISPolitical.com/Public/IntegrationImage/2026" class="integration-or-tool-logo" alt="Numero logo" /\>
+
+Numero, the campaign fundraising and call time software for Democrats.
+
+[Read More About Numero](https://ispolitical.com/How-do-I-Set-Up-the-Numero-Integration).
+
+Online Donations
+
+![Raise The Money logo](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%200%200'%3E%3C/svg%3E)\<img decoding="async" src="https://app.ISPolitical.com/Public/IntegrationImage/2027" class="integration-or-tool-logo" alt="Raise The Money logo" /\>
+
+Raise The Money is software designed to help campaigns accept donations. Just embed the Online Contribution Form on your website. Raise The Money allows you to collect contributions from your website and even through email links. We handle the processing, keep up with your contributions, and you get your money into your bank account the next day. Raise The Money uses a flat-rate pricing structure. You only pay when you receive a contribution. Using the service is absolutely free.
+
+[Read More About Raise The Money](https://ispolitical.com/How-do-I-Set-Up-The-Raise-The-Money-Integration).
+
+Email
+
+![Constant Contact logo](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%200%200'%3E%3C/svg%3E)\<img decoding="async" src="https://app.ISPolitical.com/Public/IntegrationImage/2031" class="integration-or-tool-logo" alt="Constant Contact logo" /\>
+
+Since 1995, Constant Contact has focused on giving small organizations a way to level the playing field against their larger competitors.
+
+The Constant Contact integration allows you to automatically send your ISP email list over to Constant Contact for emailing. As data changes in ISP, it automatically gets pushed to Constant Contact.
+
+[Read More About Constant Contact](https://ispolitical.com/How-Do-I-Set-up-the-Constant-Contact-Integration).
+
+[Help File Home](/help/) | [Full Index](/Help-File-Directory/) | [Contact Support](mailto:support@ISPolitical.com)
+
+[« What Are Time Tracking Categories?](/What-Are-Time-Tracking-Categories)
+[What Is Magic Match and How Do I Use It? »](/What-Is-Magic-Match-and-How-Do-I-Use-It)
+
+---
+
 # HOW DO FEDERAL AND NON FEDERAL IE S PULL TO REPORTS
 
 How Do Federal and Non-federal IE’s Pull to Reports?
@@ -9343,6 +18004,42 @@ Log into your [state account](https://beacon.arizona.vote/Account/Login?ReturnUr
 [⇑ Arizona Campaign, Party, & PAC Filing FAQ and Resources](/Arizona-Campaign-Party-PAC-Filing-FAQ-and-Resources)
 [« About the AZ Bulk Import – PAC](/About-the-AZ-Bulk-Import-PAC)
 [Arkansas Campaign, Party, & PAC Filing FAQ and Resources »](/Arkansas-Campaign-Party-PAC-Filing-FAQ-and-Resources)
+
+---
+
+# INDIANA CAMPAIGN PARTY PAC FILING FAQ AND RESOURCES
+
+Indiana Campaign, Party, & PAC Filing FAQ and Resources
+==========
+
+Applies To: Indiana
+
+Below are links to resources to help you file your Indiana reports.
+
+### FAQ ###
+
+* [When Are the Indiana Filing Deadlines?](https://ispolitical.com/When-Are-the-Indiana-Filing-Deadlines)
+* [About the Indiana CFA-4](https://ispolitical.com/About-the-Indiana-CFA-4)
+* [About the IN CFA5](https://ispolitical.com/About-the-IN-CFA5)
+* [About the IN CFA11](https://ispolitical.com/About-the-IN-CFA11)
+* [How do I Report Indiana Transfers-In?](https://ispolitical.com/How-do-I-Report-Indiana-Transfers-In)
+
+### Resources ###
+
+[Elections Site
+](http://www.in.gov/sos/elections/)[Filing Calendar](https://www.in.gov/sos/elections/campaign-finance/)
+[Filing Guide](https://www.in.gov/sos/elections/campaign-finance/)
+
+### Supported Reports ###
+
+IN CFA4 (Report of Receipts and Expenditures of a Political Committee)
+IN CFA5 (Notice of Contribution or Expenditure to Candidate’s Committee)
+
+[Help File Home](/help/) | [Full Index](/Help-File-Directory/) | [Contact Support](mailto:support@ISPolitical.com)
+
+[⇑ About Compliance Reports](/About-Compliance-Reports)
+[« About the IL Form D-2](/About-the-IL-Form-D-2)
+[When Are the Indiana Filing Deadlines? »](/When-Are-the-Indiana-Filing-Deadlines)
 
 ---
 
@@ -9468,6 +18165,248 @@ As for the CA 460, there are specific data entry steps necessary in order to acc
 
 ---
 
+# WHEN ARE THE ILLINOIS FILING DEADLINES
+
+When Are the Illinois Filing Deadlines
+==========
+
+Applies To: Illinois
+
+Below are deadlines for Illinois compliance report filing.
+
+The Filing Deadline information provided here is offered only as a reference aide. The provided deadline information may contain inaccuracies and may not include all special elections or deadlines. For agency specific details please visit the [Illinois State Board of Elections website](https://www.elections.il.gov/Default.aspx).
+
+Ballot Measure
+----------
+
+* 07/15/2024: IL Form D-2
+* 10/15/2024: IL Form D-2
+* 01/15/2025: IL Form D-2
+
+Candidate
+----------
+
+* 07/15/2024: IL Form D-2
+* 10/15/2024: IL Form D-2
+* 01/15/2025: IL Form D-2
+
+Independent Expenditure
+----------
+
+* 07/15/2024: IL Form D-2
+* 10/15/2024: IL Form D-2
+* 01/15/2025: IL Form D-2
+
+Party
+----------
+
+* 07/15/2024: IL Form D-2
+* 10/15/2024: IL Form D-2
+* 01/15/2025: IL Form D-2
+
+Political Action Committee (PAC)
+----------
+
+* 07/15/2024: IL Form D-2
+* 10/15/2024: IL Form D-2
+* 01/15/2025: IL Form D-2
+
+You’re able to add Filing Deadlines found in ISP to your own digital calendar with our [Calendar Feed tool](https://ispolitical.com/Calendar-Feeds).
+
+To see more information about Illinois compliance report filing with ISP, please visit our [Illinois Filing and FAQ Resources](https://ispolitical.com/illinois-campaign-party-pac-filing-faq-and-resources/) page.
+
+[Help File Home](/help/) | [Full Index](/Help-File-Directory/) | [Contact Support](mailto:support@ISPolitical.com)
+
+[« Illinois Campaign, Party, & PAC Filing FAQ and Resources](/Illinois-Campaign-Party-PAC-Filing-FAQ-and-Resources)
+[About the IL Schedule A-1 »](/About-the-IL-Schedule-A-1)
+
+---
+
+# WHEN ARE THE ARIZONA FILING DEADLINES
+
+When Are the Arizona Filing Deadlines
+==========
+
+Applies To: Arizona
+
+Below are deadlines for Arizona compliance report filing.
+
+The Filing Deadline information provided here is offered only as a reference aide. The provided deadline information may contain inaccuracies and may not include all special elections or deadlines. For agency specific details, please visit the [Arizona Campaign Finance webpage](https://azsos.gov/elections/campaign-finance-reporting).
+
+527 Political Organization
+----------
+
+* 07/15/2024: AZ Periodic Report
+* 07/20/2024: AZ Periodic Report
+* 10/15/2024: AZ Periodic Report
+* 10/26/2024: AZ Periodic Report
+* 01/15/2025: AZ Periodic Report
+
+Ballot Measure
+----------
+
+* 07/15/2024: AZ Periodic Report
+* 07/20/2024: AZ Periodic Report
+* 10/15/2024: AZ Periodic Report
+* 10/26/2024: AZ Periodic Report
+* 01/15/2025: AZ Periodic Report
+
+Independent Expenditure
+----------
+
+* 07/15/2024: AZ Periodic Report
+* 07/20/2024: AZ Periodic Report
+* 10/15/2024: AZ Periodic Report
+* 10/26/2024: AZ Periodic Report
+* 01/15/2025: AZ Periodic Report
+
+Other
+----------
+
+* 07/15/2024: AZ Periodic Report
+* 07/20/2024: AZ Periodic Report
+* 10/15/2024: AZ Periodic Report
+* 10/26/2024: AZ Periodic Report
+* 01/15/2025: AZ Periodic Report
+
+Party
+----------
+
+* 07/15/2024: AZ Periodic Report
+* 07/20/2024: AZ Periodic Report
+* 10/15/2024: AZ Periodic Report
+* 10/26/2024: AZ Periodic Report
+* 01/15/2025: AZ Periodic Report
+
+Political Action Committee (PAC)
+----------
+
+* 07/15/2024: AZ Periodic Report
+* 07/20/2024: AZ Periodic Report
+* 10/15/2024: AZ Periodic Report
+* 10/26/2024: AZ Periodic Report
+* 01/15/2025: AZ Periodic Report
+
+You’re able to add Filing Deadlines found in ISP to your own digital calendar with our [Calendar Feed tool](https://ispolitical.com/Calendar-Feeds).
+
+To see more information about Arizona compliance report filing with ISP, please visit our [Arizona Filing and FAQ Resources](https://ispolitical.com/arizona-campaign-party-pac-filing-faq-and-resources/) page.
+
+[Help File Home](/help/) | [Full Index](/Help-File-Directory/) | [Contact Support](mailto:support@ISPolitical.com)
+
+[« Arizona Campaign, Party, & PAC Filing FAQ and Resources](/Arizona-Campaign-Party-PAC-Filing-FAQ-and-Resources)
+[About the AZ Periodic Report / PAC Bulk Import »](/About-the-AZ-Periodic-Report-PAC-Bulk-Import)
+
+---
+
+# HOW AND WHEN DO I USE BULK UPDATE
+
+How and When Do I Use Bulk Update?
+==========
+
+If you need to update transactions en masse, you can use the Bulk Update option. This option is available in the Financial Reports area using the Transactions Report. If you are editing a recorded deposit, you’ll have the same options (i.e., once you have recorded your deposit, click the Related Pages button at the bottom of the page).
+
+*Please note that changing transactions in bulk can significantly impact compliance reports. Use extreme caution with this tool, and be sure these are the changes you want to make.*
+
+Once you have generated your report, click the Actions button at the bottom of the page. Select Bulk Update from this button’s drop-up menu. On the Bulk Update Transactions page, click the orange Update button. Make your selection from this button’s drop-up menu (i.e., what you want to change), which includes
+
+* **Budget Category:** Choose which Budget Category you want the transactions list to have.
+
+* **Date:** To change the date in bulk for your transactions, use the Update Date option.
+
+* **Election:** Select the Election from the drop-down list of active elections in your database to update the transactions to have the same election designation.
+* **Event:** Add or Update multiple transactions with the Update Event option to include or edit Events tied to the transactions found in your report.
+* **Financial Account:** If you need to move multiple transactions from one Financial Account to another in your database, use this option.
+
+* **Force Itemize:** Update transactions so they itemize on Compliance reports regardless of amount.
+* **Notes:** In this window, you can select which note to update, whether it’s the Compliance Note, Check Note, or Internal Note. You can also update all the Note types at the same time.
+* **Reporting Code:** This option lets you change the Reporting Code for all transactions in the results.
+* **Transaction Method:** Use this to change the method the transaction was made.
+* Remove Transaction Tags: If you have transactions with a Tag and would like to remove the tag, this option removes all Tags associated with the transactions in the list. Please note this option will not appear unless transactions exist in the database with Tags and fall within the report’s criteria.
+
+In the Bulk Update window, make the change (i.e., what you want to change it to) and click the green Update button.
+
+At the bottom of the Bulk Update page is a Delete Transactions option. This allows you to delete the transactions that show in the report results.
+
+[Help File Home](/help/) | [Full Index](/Help-File-Directory/) | [Contact Support](mailto:support@ISPolitical.com)
+
+[⇑ About Financial Reports](/About-Financial-Reports)
+[« Financial Report Recipe: Exclude Refunds](/Financial-Report-Recipe-Exclude-Refunds)
+[About Fundraising/Analysis Reports »](/About-Fundraising-Analysis-Reports)
+
+---
+
+# WHAT IS THE FINANCIAL TRANSACTION REPORT
+
+What Is the Financial Transaction Report?
+==========
+
+One of the many Financial reports you can generate is the Transactions report. This report allows you to view and export transactions in your database.
+
+In the Search section are various fields and menus to narrow or broaden the results. To the right in the section header is a dropdown to add different search options. These include:
+
+* **Transaction Type:** Choose one or more transaction types
+* **Budget Category:** Choose one or more budget categories
+* **Election:** Choose one or more elections
+* **Financial Accounts:** Choose one or more financial accounts
+* **Entity Types:** Choose one or more entity types
+* **Events:** Choose one or more events
+* **Amount Range:** Use a range of dates to narrow your search
+* **Compliance Note Is/Contains:** Use this field to find results that is all of or contains the text in a compliance note
+* **Internal Note Is/Contains:** Use this field to find results that is all of or contains the text in an internal note
+* **Check Note Is/Contains:** Use this field to find results that is all of or contains the text in a check note
+* **Advanced Searches:** Locate results from one of your saved Advanced Search templates
+* **Creator:** Narrow your results by the creator of a transaction
+* **Editor:** Narrow your results by the editor of a transaction
+
+To the right of each option is a red X, which will simply remove them from view and place them in the Add dropdown.
+
+If you are searching by Date, you can click the field name and choose from four different Date type options.
+
+* **Transaction Date:** This is the date used for the transaction.
+* **Whole Date:** This is the date of the transaction’s whole, if it is a non-deposit split.
+* **Creation Date:** This is the date the transaction was created in your database. This can often be different than the date of the transaction.
+* **Edit Date:** This is the date if the transaction was edited at any time.
+
+Towards the bottom of the Search section are Split and Memo Handling options. These allow you to include or exclude Splits and Wholes, as well as Memos and Non-Memos.
+
+Another search option is the Reported Handling trio of choices. Use these to filter results by whether they’re on a report marked as filed or not. Please note the option for Reported will only provide results that are itemized transactions and not included in any aggregates.
+
+Use the Deposited filter to narrow your results down to whether or not transactions are in a deposit batch, not in a deposit batch, or both in a batch and outside of one.
+
+After you’ve chosen the criteria for the report, you can then determine what specific columns of information you’d like to see, including sorting the data or aggregating transaction totals.
+
+In the Display section is your option field for Columns. These are how your data will display on the screen, as well as export to a spreadsheet.
+
+The Columns section contains all the ways to display the data, ranging from basic info like Amount and Date to more complex or in-depth data, such Allocation or Transaction Tags, if applicable.
+
+It’s important to note that some Column options, such as All Emails and All Phones, take the system longer to sort through, which can cause the report generation time to be a little longer than usual.
+
+There are three fields that, while similar, can affect your report totals in different ways:
+
+* **Amount:** the raw amount of the transaction.
+* **Net Worth Impact:** the transaction’s impact on the organization’s net worth.
+* **Cash Impact:** the transaction’s impact on the organization’s cash.
+
+These fields will have different numbers based on the nature of the transaction. For example, a $500 expense would have values of:
+
+* Amount: $500
+* Net Worth Impact: -$500
+* Cash Impact: -$500
+
+An In-Kind Contribution of $200 would have values of:
+
+* Amount: $200
+* Net Worth Impact: $0
+* Cash Impact: $0
+
+[Help File Home](/help/) | [Full Index](/Help-File-Directory/) | [Contact Support](mailto:support@ISPolitical.com)
+
+[⇑ About Financial Reports](/About-Financial-Reports)
+[« How Do I Use the Columns to Gather Contact Info for the Financial Report Export?](/How-Do-I-Use-the-Columns-to-Gather-Contact-Info-for-the-Financial-Report-Export)
+[How Do I Find Transactions Linked to a Specific Event? »](/How-Do-I-Find-Transactions-Linked-to-a-Specific-Event)
+
+---
+
 # HOW DO I SET UP AUTHENTICATION WITH ISP S API
 
 How Do I Set Up Authentication with ISP’s API?
@@ -9583,6 +18522,46 @@ All Pennsylvania e-filers must use the Apply to File registration process prior 
 [⇑ Pennsylvania Campaign, Party, & PAC Filing FAQ and Resources](/Pennsylvania-Campaign-Party-PAC-Filing-FAQ-and-Resources)
 [« When Are the Pennsylvania Filing Deadlines?](/When-Are-the-Pennsylvania-Filing-Deadlines)
 [About the PA Late Contribution Report (24 Hour Report) »](/About-the-PA-Late-Contribution--24-Hour-Report-)
+
+---
+
+# HOW DO I REPORT A TRANSFER RECEIVED FROM A JOINT FUNDRAISING COMMITTEE JFC
+
+How Do I Report a Transfer Received From a Joint Fundraising Committee (JFC)?
+==========
+
+Applies To: Federal Election Commission – Candidate Committees, Political Action Committees (PACs), Party Committees
+
+Typically, when a committee receives a transfer from a Joint Fundraising Committee (JFC), the portion the filing committee receives will be less than the total of all the original contributions.
+
+When this is entered into ISP, the total of splits will be greater than the whole amount. The FEC expects this.
+
+In order to ensure the Transfer pulls to the FEC to Line 12, one of the two following conditions must be met:
+
+* The whole (parent) entity must have a “relationship” with the filer committee
+* The whole (parent) transaction must have the tag “Transfer”
+
+You do not need to have both.
+
+Exceptions
+----------
+
+When your transfer contains original contributions for a Recount election, you’ll need to remove/delete the splits from the main transfer transaction, and create a new transaction with the pro-rated amount as the whole amount.
+
+Then, when making a deposit, ensure both the original and the Recount contributions are in the same deposit batch.
+
+Can I run multiple transfers on the same date?
+----------
+
+You can have multiple transfers on the same date. The best way to handle this is to create the transfers individually, even if dates of transactions may overlap.
+
+First, record the new contributions as usual in the JFC Management tool. Then make a JFC Transfer covering only the dates involving the new contributions. This will record a new JFC Transfer that might need slight editing if there are overlapping contributions. If there are no overlaps between contributions received, then you would just have a smaller second transfer.
+
+[Help File Home](/help/) | [Full Index](/Help-File-Directory/) | [Contact Support](mailto:support@ISPolitical.com)
+
+[⇑ About the FEC Form 3 Report](/About-the-FEC-Form-3-Report)
+[« How Do I Pull a Transaction to a Specific Line on the FEC Form 3?](/How-Do-I-Pull-a-Transaction-to-a-Specific-Line-on-the-FEC-Form-3)
+[About Post-election or Year-End With Column C Reports »](/About-Post-election-or-Year-End-With-Column-C-Reports)
 
 ---
 
@@ -9706,6 +18685,44 @@ The following information will be returned:
 
 ---
 
+# WHAT IS ESIGNATURE AND HOW DO I USE IT
+
+What Is eSignature and How Do I Use It?
+==========
+
+Applies To: California
+
+California allows you and others to electronically sign compliance reports. In conjunction with the Xodo Sign integration, you can use the eSignature process for CA compliance reports. This will allow you to electronically send the report to another person to sign the PDF copy before submitting it to the state.
+
+If Xodo Sign has not been added as an integration in your database yet, navigate to the Integrations page first and [install Xodo Sign](http://install Xodo Signhttps://ispolitical.com/What-Is-the-Xodo-Sign-Integration-and-How-Do-I-Use-It/). You must have this integration installed in your database before using eSignature.
+
+How do I send it to someone else for their signature?
+----------
+
+After Xodo Sign has been added to your database, generate the CA report. At the bottom of the screen, click the Filing button, and you’ll see an option for Send PDF for eSignature. Clicking that will open a window where you will add the Name and Email Address of those who need to sign it.
+
+The individual will receive an email from ISP stating a Compliance report needs their signature. They will complete the eSignature process via Xodo Sign.
+
+How do I know they signed it?
+----------
+
+After generating the report, you’ll see another button labeled Related Pages. In that menu is an option called eSignature Report Status. Click that, and you’ll be directed to the eSignature Reports page. The eSignature Reports Status page allows you to track the progress of any reports that require an electronic signature. These results happen in real time so the moment an eSignature has been added to the report, this page will update automatically.
+
+On this screen, you’ll see several columns. The first two will be the Report Name and the Form/Version information. The next two will be status-related columns.
+
+* **Forwarded To State:** This column will show either True or False. Once all signers have added their signatures to the report, it will be submitted to the state, and the status will show True. If no signers have signed it, it will display False.
+* **Missing Signers:** If the status is False, this column will display who has not signed the report yet.
+
+Note: Once the state receives digitally signed compliance reports, these documents are stored in its secure digital system. Digitally signed statements are the equivalent of the state’s paper forms, so they are managed in a similar manner. They will be logged and stored, and they can be pulled for official copy requests; however, they will not be displayed on Cal-Access.
+
+[Help File Home](/help/) | [Full Index](/Help-File-Directory/) | [Contact Support](mailto:support@ISPolitical.com)
+
+[⇑ California Campaign, Party, & PAC Filing FAQ and Resources](/California-Campaign-Party-PAC-Filing-FAQ-and-Resources)
+[« How Do I File as a Local CA Filer When the E-file Report to Local Button Is Available (NetFile)?](/How-Do-I-File-as-a-Local-CA-Filer-When-the-E-file-Report-to-Local-Button-Is-Available-NetFile)
+[My Local Filing With NetFile Just Failed. Now What? »](/My-Local-Filing-With-NetFile-Just-Failed-Now-What)
+
+---
+
 # USING THE MARK AS FILED FEATURE
 
 Using the Mark as Filed Feature
@@ -9726,6 +18743,142 @@ If you receive notifications for reports you’ve already marked as filed or fil
 [⇑ Compliance Report Post-Generation](/Compliance-Report-Post-Generation)
 [« How Do I Generate a PDF Version of My Compliance Report?](/How-Do-I-Generate-a-PDF-Version-of-My-Compliance-Report)
 [About Financial Reports »](/About-Financial-Reports)
+
+---
+
+# KNOW HOW TO INCREASE DONORS TO YOUR POLITICAL CAMPAIGN
+
+Know How to Increase Donors to Your Political Campaign
+==========
+
+<img alt="Screenshot 2024-06-19 at 10.18.45 PM" src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%201238%201236'%3E%3C/svg%3E" title="Screenshot 2024-06-19 at 10.18.45 PM" height="1236" width="1238" />\<img fetchpriority="high" decoding="async" class="fl-photo-img wp-image-1509 size-full" src="https://ispolitical.com/wp-content/uploads/2024/06/Screenshot-2024-06-19-at-10.18.45 PM.png" alt="Screenshot 2024-06-19 at 10.18.45 PM" itemprop="image" height="1236" width="1238" title="Screenshot 2024-06-19 at 10.18.45 PM" srcset="https://ispolitical.com/wp-content/uploads/2024/06/Screenshot-2024-06-19-at-10.18.45 PM.png 1238w, https://ispolitical.com/wp-content/uploads/2024/06/Screenshot-2024-06-19-at-10.18.45 PM-300x300.png 300w, https://ispolitical.com/wp-content/uploads/2024/06/Screenshot-2024-06-19-at-10.18.45 PM-1024x1022.png 1024w, https://ispolitical.com/wp-content/uploads/2024/06/Screenshot-2024-06-19-at-10.18.45 PM-150x150.png 150w, https://ispolitical.com/wp-content/uploads/2024/06/Screenshot-2024-06-19-at-10.18.45 PM-768x767.png 768w" sizes="(max-width: 1238px) 100vw, 1238px" /\>
+
+Running a successful political campaign requires more than just a strong message and a dedicated team. It requires funding, and lots of it! Attracting political donors can be challenging, but with the right strategies and tools, you can effectively increase your campaign donors and secure the financial support you need. In this article, we’ll explore proven methods to find political donors and raise funds for your political campaign.
+
+Understanding Who Funds Political Campaigns
+----------
+
+Before diving into strategies, it's crucial to understand who funds political campaigns. Political donors come from various backgrounds, including:
+
+* **Individuals:** Everyday citizens who believe in your cause.
+* **Businesses:** Companies that support your policies.
+* **Political Action Committees (PACs):** Organizations that pool contributions to support or oppose candidates.
+* **Interest Groups:** Groups focused on specific issues aligning with your campaign.
+
+How to Find Campaign Donors
+----------
+
+Finding campaign donors requires a mix of research, networking, and outreach. Here are some effective ways to find political donors:
+
+* **Leverage Your Network**
+
+* Start with friends, family, and acquaintances. Personal connections are often the most willing to support your campaign.
+* Attend local community events and political gatherings to meet potential donors.
+* Your phone contacts and email client have more people in there than you would imagine. These are a great start.
+
+* **Utilize Social Media**
+
+* Use platforms like Facebook, Twitter, and LinkedIn to reach a broader audience. Share your campaign’s vision and updates regularly. Start with your existing network and build from there.
+* Always use contrasting colors when posting images. Your first job is to stop their scroll.
+* Ask questions on social media. The more comments, likes, and interactions you get, the more the algorithm will share your post.
+* Reply to comments. Spark the algorithm but having a conversation with your supporters. The more times they comment, the more people will see your post.
+
+* **Email Campaigns**
+
+* Send personalized emails to potential donors. Use email marketing tools to segment your audience and tailor your messages accordingly.
+* Highlight the impact of their donations and provide easy-to-use donation links like those provided by [Anedot](https://www.anedot.com/), [ActBlue](https://secure.actblue.com/), [Winred](https://winred.com/), or [E-Fundrasing](https://www.efundraisingconnections.com/). \*Make sure to use a political credit card processor as the big, out of the box options rarely provide all the data your treasurer needs to keep you compliant.
+
+* **Host Fundraising Events**
+
+* Organize events like dinners, rallies, and auctions. These provide opportunities to connect with potential donors in person.
+* Ensure these events are well-publicized and offer something of value to attendees.
+
+* **Phone Banking**
+
+* Reach out to potential donors through phone calls. Prepare a script that clearly communicates your campaign’s goals and the importance of their contribution.
+* Fundraising software like [ISP](http://www.ispolitical.com) has tools to make sure you get the most from your calls. A smartly designed call campaign is the difference between striking out and striking gold!
+
+How to Raise Funds for Your Political Campaign
+----------
+
+Raising funds effectively involves not just finding donors but also convincing them to contribute. Here’s how you can achieve this:
+
+* **Clear and Compelling Messaging**
+
+* Craft a compelling narrative that explains why your campaign matters. Use stories and data to make your case.
+* Shorter is better. Donors are capricious and will immediately reject long appeals if faced with a wall of text or asked to watch a 2 minute video before the ask comes.
+* Clearly outline how the funds will be used and the impact they will have.
+* Be specific with each number. Research shows that detailing all numbers down to the one column will increase trust and the likelihood of donations.
+* Don’t sell too much, too fast. It’s easier to get a second donation than the first. Ask for small, easy to give donations and then ask the same donor for more, later.
+* Use your data to determine how much to ask the donor for. Then confidently ask for that much money. Do not be shy. Do not be scared.
+
+* **Offer Multiple Donation Options**
+
+* Make it as easy as possible to give money. An extra click online can reduce the number of donations by as much as 90%. The easier it is to give, the more money you will get.
+* Provide various ways for donors to contribute, such as online payments, checks, or cash donations at events.
+* Use a reliable political donation platform that ensures a seamless and secure transaction process. Do NOT use out of the box small business solutions like PayPal. They do not collect the right data for compliance and are not optimized for political donations.
+
+* **Follow Up and Show Appreciation**
+
+* Always thank your donors promptly. Personalize your thank-you messages to show genuine appreciation.
+* Keep donors updated on your campaign’s progress and the impact of their contributions.
+
+* **Utilize Good Accounting Software**
+
+* Effective fundraising also involves excellent record-keeping and donor management. This is where ISPolitical’s accounting software can make a significant difference.
+* Our software helps you track donations, manage donor information, and gain insights into donor behavior. This allows you to identify and target likely donors more effectively.
+
+FAQs
+----------
+
+### What are the most effective ways to identify potential political donors? ###
+
+Identifying potential political donors involves a combination of research and networking. Start by examining your existing connections—friends, family, colleagues, and community members. Use social media platforms to engage with supporters and expand your reach. Additionally, consider attending community events, and collaborating with local businesses and interest groups that align with your campaign's goals. You can buy donor data from various data brokers, but you should be careful and know what you’re doing. It’s not easy to make this profitable.
+
+### How can I keep track of all my campaign donors and their contributions? ###
+
+Keeping track of campaign donors and their contributions can be streamlined with the right tools. Accounting software like [ISPolitical](https://ispolitical.com/) can help manage donor information, track contributions, and provide insights into donor behavior. This ensures you maintain accurate records, understand donation patterns, and can effectively follow up with and thank your donors.
+
+### What should I include in my fundraising emails to make them more effective? ###
+
+To make your fundraising emails more effective, personalize them to address the recipient by name and acknowledge their previous support if applicable. Clearly explain your campaign's goals, how their donation will make a difference, and provide a compelling call-to-action. Including success stories, testimonials, and visual elements like images or videos can also enhance the email's impact. Avoid long emails, walls of text, a plethora of links and complicated or equivical asks.
+
+### How can I ensure that my fundraising events are successful? ###
+
+Successful fundraising events require careful planning and promotion. Choose a theme or format that resonates with your audience, and ensure the event offers value, whether through engaging speakers, entertainment, or networking opportunities. Promote the event through social media, email, and local media outlets. Additionally, follow up with attendees after the event to thank them and keep them engaged with your campaign.
+
+### What legal considerations should I be aware of when raising funds for a political campaign? ###
+
+When raising funds for a political campaign, it's important to adhere to all [legal regulations and reporting requirements](https://ispolitical.com/compliance/). This includes understanding contribution limits, ensuring proper documentation of all donations, and filing regular reports with the appropriate election authorities. Using accounting software like ISPolitical can help manage compliance by keeping accurate records and generating necessary reports.
+
+Have Enough Donors For Your Campaign?
+----------
+
+Increasing donors to your political campaign requires a strategic approach and the right tools. By leveraging your network, using social media, hosting events, and employing [effective accounting software](https://ispolitical.com/) like ISPolitical, you can boost your fundraising efforts and ensure your campaign has the financial support it needs. Remember, successful fundraising is about building relationships and showing donors the tangible impact of their contributions.
+
+You May Like These Blogs
+----------
+
+[Simplifying Campaign Finance with ISP’s Essential Tools](https://ispolitical.com/simplifying-campaign-finance-with-isps-essential-tools/)
+----------
+
+Managing a campaign’s finances can be complex and time-consuming. However, ISP’s suite of campaign finance solutions and tools is designed…
+
+[Read More](https://ispolitical.com/simplifying-campaign-finance-with-isps-essential-tools/)
+
+[Understanding FEC Filing Deadlines: The Breakdown](https://ispolitical.com/understanding-fec-filing-deadlines-the-breakdown/)
+----------
+
+The Federal Election Commission (FEC) plays a pivotal role in maintaining the integrity of campaign finance in the United States.…
+
+[Read More](https://ispolitical.com/understanding-fec-filing-deadlines-the-breakdown/)
+
+[Why You Should Have a Professional Campaign Treasurer](https://ispolitical.com/why-you-should-have-a-professional-campaign-treasurer/)
+----------
+
+Running a political campaign is a complex and demanding endeavor. Amidst the whirlwind of events, rallies, and policy planning, one…
+
+[Read More](https://ispolitical.com/why-you-should-have-a-professional-campaign-treasurer/)
 
 ---
 
@@ -9776,6 +18929,248 @@ However, if you need to file more than one report, follow these steps to generat
 
 ---
 
+# WHEN ARE THE FLORIDA FILING DEADLINES
+
+When Are the Florida Filing Deadlines?
+==========
+
+Applies To: Florida
+
+Below are deadlines for Florida compliance report filing.
+
+The Filing Deadline information provided here is offered only as a reference aide. The provided deadline information may contain inaccuracies and may not include all special elections or deadlines. For agency specific details please visit the [Florida Campaign Finance page](https://dos.myflorida.com/elections/candidates-committees/campaign-finance/).
+
+Candidate
+----------
+
+* 07/12/2024: FL DS-DE (Electioneering Comm. 2024 P2A)
+* 07/19/2024: FL DS-DE (Candidate 2024 P3)
+* 07/19/2024: FL DS-DE (PAC/IE-Only/Electioneering Comm. 2024 P3)
+* 07/26/2024: FL DS-DE (Candidate/PAC/IE-Only/Electioneering Comm. 2024 P4)
+* 08/02/2024: FL DS-DE (Candidate/PAC/IE-Only/Electioneering Comm. 2024 P5)
+* 08/09/2024: FL DS-DE (Candidate/PAC/IE-Only/Electioneering Comm. 2024 P6)
+* 08/16/2024: FL DS-DE (Candidate/PAC/IE-Only/Electioneering Comm. 2024 P7)
+* 08/16/2024: FL DS-DE (Party/Affiliated Comte. 2024 P7)
+* 08/16/2024: FL DS-DE (Special Primary (SP2) for District 24)
+* 08/23/2024: FL DS-DE (PAC/IE-Only/Electioneering Comm. 2024 P7A)
+* 08/30/2024: FL DS-DE (Candidate 2024 G1)
+* 08/30/2024: FL DS-DE (PAC/IE-Only/Electioneering Comm. 2024 G1)
+* 09/06/2024: FL DS-DE (PAC/IE-Only/Electioneering Comm. 2024 G1A)
+* 09/13/2024: FL DS-DE (Candidate 2024 G2)
+* 09/13/2024: FL DS-DE (PAC/IE-Only/Electioneering Comm. 2024 G2)
+* 09/20/2024: FL DS-DE (PAC/IE-Only/Electioneering Comm. 2024 G2A)
+* 09/27/2024: FL DS-DE (Candidate 2024 G3)
+* 09/27/2024: FL DS-DE (PAC/IE-Only/Electioneering Comm. 2024 G3)
+* 10/04/2024: FL DS-DE (PAC/IE-Only/Electioneering Comm. 2024 G3A)
+* 10/11/2024: FL DS-DE (Candidate 2024 G4)
+* 10/11/2024: FL DS-DE (PAC/IE-Only/Electioneering Comm. 2024 G4)
+* 10/11/2024: FL DS-DE (Special General (SG1) for District 24)
+* 10/18/2024: FL DS-DE (PAC/IE-Only/Electioneering Comm. 2024 G4A)
+* 10/25/2024: FL DS-DE (Candidate 2024 G5)
+* 10/25/2024: FL DS-DE (PAC/IE-Only/Electioneering Comm. 2024 G5)
+* 10/26/2024: FL DS-DE (PAC/IE-Only/Electioneering Comm. 2024 D1)
+* 10/27/2024: FL DS-DE (PAC/IE-Only/Electioneering Comm. 2024 D2)
+* 10/28/2024: FL DS-DE (PAC/IE-Only/Electioneering Comm. 2024 D3)
+* 10/29/2024: FL DS-DE (PAC/IE-Only/Electioneering Comm. 2024 D4)
+* 10/30/2024: FL DS-DE (PAC/IE-Only/Electioneering Comm. 2024 D5)
+* 10/31/2024: FL DS-DE (PAC/IE-Only/Electioneering Comm. 2024 D6)
+* 11/01/2024: FL DS-DE (Candidate 2024 G6)
+* 11/01/2024: FL DS-DE (PAC/IE-Only/Electioneering Comm. 2024 G6)
+* 11/01/2024: FL DS-DE (Party/Affiliated Comte. 2024 G7)
+* 11/01/2024: FL DS-DE (Special General (SG2) for District 24)
+* 11/02/2024: FL DS-DE (Electioneering Comm. 2024 D7)
+* 11/03/2024: FL DS-DE (Electioneering Comm. 2024 D8)
+* 11/04/2024: FL DS-DE (Electioneering Comm. 2024 D9)
+* 12/10/2024: FL DS-DE (Special General (SG3) for District 24 – Non-Candidate Committees ONLY)
+* 01/10/2025: FL DS-DE (Quarterly 2024 Q4)
+
+Electioneering Communication Organization
+----------
+
+* 07/12/2024: FL DS-DE (Electioneering Comm. 2024 P2A)
+* 07/19/2024: FL DS-DE (Candidate 2024 P3)
+* 07/19/2024: FL DS-DE (PAC/IE-Only/Electioneering Comm. 2024 P3)
+* 07/26/2024: FL DS-DE (Candidate/PAC/IE-Only/Electioneering Comm. 2024 P4)
+* 08/02/2024: FL DS-DE (Candidate/PAC/IE-Only/Electioneering Comm. 2024 P5)
+* 08/09/2024: FL DS-DE (Candidate/PAC/IE-Only/Electioneering Comm. 2024 P6)
+* 08/16/2024: FL DS-DE (Candidate/PAC/IE-Only/Electioneering Comm. 2024 P7)
+* 08/16/2024: FL DS-DE (Party/Affiliated Comte. 2024 P7)
+* 08/16/2024: FL DS-DE (Special Primary (SP2) for District 24)
+* 08/23/2024: FL DS-DE (PAC/IE-Only/Electioneering Comm. 2024 P7A)
+* 08/30/2024: FL DS-DE (Candidate 2024 G1)
+* 08/30/2024: FL DS-DE (PAC/IE-Only/Electioneering Comm. 2024 G1)
+* 09/06/2024: FL DS-DE (PAC/IE-Only/Electioneering Comm. 2024 G1A)
+* 09/13/2024: FL DS-DE (Candidate 2024 G2)
+* 09/13/2024: FL DS-DE (PAC/IE-Only/Electioneering Comm. 2024 G2)
+* 09/20/2024: FL DS-DE (PAC/IE-Only/Electioneering Comm. 2024 G2A)
+* 09/27/2024: FL DS-DE (Candidate 2024 G3)
+* 09/27/2024: FL DS-DE (PAC/IE-Only/Electioneering Comm. 2024 G3)
+* 10/04/2024: FL DS-DE (PAC/IE-Only/Electioneering Comm. 2024 G3A)
+* 10/11/2024: FL DS-DE (Candidate 2024 G4)
+* 10/11/2024: FL DS-DE (PAC/IE-Only/Electioneering Comm. 2024 G4)
+* 10/11/2024: FL DS-DE (Special General (SG1) for District 24)
+* 10/18/2024: FL DS-DE (PAC/IE-Only/Electioneering Comm. 2024 G4A)
+* 10/25/2024: FL DS-DE (Candidate 2024 G5)
+* 10/25/2024: FL DS-DE (PAC/IE-Only/Electioneering Comm. 2024 G5)
+* 10/26/2024: FL DS-DE (PAC/IE-Only/Electioneering Comm. 2024 D1)
+* 10/27/2024: FL DS-DE (PAC/IE-Only/Electioneering Comm. 2024 D2)
+* 10/28/2024: FL DS-DE (PAC/IE-Only/Electioneering Comm. 2024 D3)
+* 10/29/2024: FL DS-DE (PAC/IE-Only/Electioneering Comm. 2024 D4)
+* 10/30/2024: FL DS-DE (PAC/IE-Only/Electioneering Comm. 2024 D5)
+* 10/31/2024: FL DS-DE (PAC/IE-Only/Electioneering Comm. 2024 D6)
+* 11/01/2024: FL DS-DE (Candidate 2024 G6)
+* 11/01/2024: FL DS-DE (PAC/IE-Only/Electioneering Comm. 2024 G6)
+* 11/01/2024: FL DS-DE (Party/Affiliated Comte. 2024 G7)
+* 11/01/2024: FL DS-DE (Special General (SG2) for District 24)
+* 11/02/2024: FL DS-DE (Electioneering Comm. 2024 D7)
+* 11/03/2024: FL DS-DE (Electioneering Comm. 2024 D8)
+* 11/04/2024: FL DS-DE (Electioneering Comm. 2024 D9)
+* 12/10/2024: FL DS-DE (Special General (SG3) for District 24 – Non-Candidate Committees ONLY)
+* 01/10/2025: FL DS-DE (Quarterly 2024 Q4)
+
+Independent Expenditure
+----------
+
+* 07/12/2024: FL DS-DE (Electioneering Comm. 2024 P2A)
+* 07/19/2024: FL DS-DE (Candidate 2024 P3)
+* 07/19/2024: FL DS-DE (PAC/IE-Only/Electioneering Comm. 2024 P3)
+* 07/26/2024: FL DS-DE (Candidate/PAC/IE-Only/Electioneering Comm. 2024 P4)
+* 08/02/2024: FL DS-DE (Candidate/PAC/IE-Only/Electioneering Comm. 2024 P5)
+* 08/09/2024: FL DS-DE (Candidate/PAC/IE-Only/Electioneering Comm. 2024 P6)
+* 08/16/2024: FL DS-DE (Candidate/PAC/IE-Only/Electioneering Comm. 2024 P7)
+* 08/16/2024: FL DS-DE (Party/Affiliated Comte. 2024 P7)
+* 08/16/2024: FL DS-DE (Special Primary (SP2) for District 24)
+* 08/23/2024: FL DS-DE (PAC/IE-Only/Electioneering Comm. 2024 P7A)
+* 08/30/2024: FL DS-DE (Candidate 2024 G1)
+* 08/30/2024: FL DS-DE (PAC/IE-Only/Electioneering Comm. 2024 G1)
+* 09/06/2024: FL DS-DE (PAC/IE-Only/Electioneering Comm. 2024 G1A)
+* 09/13/2024: FL DS-DE (Candidate 2024 G2)
+* 09/13/2024: FL DS-DE (PAC/IE-Only/Electioneering Comm. 2024 G2)
+* 09/20/2024: FL DS-DE (PAC/IE-Only/Electioneering Comm. 2024 G2A)
+* 09/27/2024: FL DS-DE (Candidate 2024 G3)
+* 09/27/2024: FL DS-DE (PAC/IE-Only/Electioneering Comm. 2024 G3)
+* 10/04/2024: FL DS-DE (PAC/IE-Only/Electioneering Comm. 2024 G3A)
+* 10/11/2024: FL DS-DE (Candidate 2024 G4)
+* 10/11/2024: FL DS-DE (PAC/IE-Only/Electioneering Comm. 2024 G4)
+* 10/11/2024: FL DS-DE (Special General (SG1) for District 24)
+* 10/18/2024: FL DS-DE (PAC/IE-Only/Electioneering Comm. 2024 G4A)
+* 10/25/2024: FL DS-DE (Candidate 2024 G5)
+* 10/25/2024: FL DS-DE (PAC/IE-Only/Electioneering Comm. 2024 G5)
+* 10/26/2024: FL DS-DE (PAC/IE-Only/Electioneering Comm. 2024 D1)
+* 10/27/2024: FL DS-DE (PAC/IE-Only/Electioneering Comm. 2024 D2)
+* 10/28/2024: FL DS-DE (PAC/IE-Only/Electioneering Comm. 2024 D3)
+* 10/29/2024: FL DS-DE (PAC/IE-Only/Electioneering Comm. 2024 D4)
+* 10/30/2024: FL DS-DE (PAC/IE-Only/Electioneering Comm. 2024 D5)
+* 10/31/2024: FL DS-DE (PAC/IE-Only/Electioneering Comm. 2024 D6)
+* 11/01/2024: FL DS-DE (Candidate 2024 G6)
+* 11/01/2024: FL DS-DE (PAC/IE-Only/Electioneering Comm. 2024 G6)
+* 11/01/2024: FL DS-DE (Party/Affiliated Comte. 2024 G7)
+* 11/01/2024: FL DS-DE (Special General (SG2) for District 24)
+* 11/02/2024: FL DS-DE (Electioneering Comm. 2024 D7)
+* 11/03/2024: FL DS-DE (Electioneering Comm. 2024 D8)
+* 11/04/2024: FL DS-DE (Electioneering Comm. 2024 D9)
+* 12/10/2024: FL DS-DE (Special General (SG3) for District 24 – Non-Candidate Committees ONLY)
+* 01/10/2025: FL DS-DE (Quarterly 2024 Q4)
+
+Party
+----------
+
+* 07/12/2024: FL DS-DE (Electioneering Comm. 2024 P2A)
+* 07/19/2024: FL DS-DE (Candidate 2024 P3)
+* 07/19/2024: FL DS-DE (PAC/IE-Only/Electioneering Comm. 2024 P3)
+* 07/26/2024: FL DS-DE (Candidate/PAC/IE-Only/Electioneering Comm. 2024 P4)
+* 08/02/2024: FL DS-DE (Candidate/PAC/IE-Only/Electioneering Comm. 2024 P5)
+* 08/09/2024: FL DS-DE (Candidate/PAC/IE-Only/Electioneering Comm. 2024 P6)
+* 08/16/2024: FL DS-DE (Candidate/PAC/IE-Only/Electioneering Comm. 2024 P7)
+* 08/16/2024: FL DS-DE (Party/Affiliated Comte. 2024 P7)
+* 08/16/2024: FL DS-DE (Special Primary (SP2) for District 24)
+* 08/23/2024: FL DS-DE (PAC/IE-Only/Electioneering Comm. 2024 P7A)
+* 08/30/2024: FL DS-DE (Candidate 2024 G1)
+* 08/30/2024: FL DS-DE (PAC/IE-Only/Electioneering Comm. 2024 G1)
+* 09/06/2024: FL DS-DE (PAC/IE-Only/Electioneering Comm. 2024 G1A)
+* 09/13/2024: FL DS-DE (Candidate 2024 G2)
+* 09/13/2024: FL DS-DE (PAC/IE-Only/Electioneering Comm. 2024 G2)
+* 09/20/2024: FL DS-DE (PAC/IE-Only/Electioneering Comm. 2024 G2A)
+* 09/27/2024: FL DS-DE (Candidate 2024 G3)
+* 09/27/2024: FL DS-DE (PAC/IE-Only/Electioneering Comm. 2024 G3)
+* 10/04/2024: FL DS-DE (PAC/IE-Only/Electioneering Comm. 2024 G3A)
+* 10/11/2024: FL DS-DE (Candidate 2024 G4)
+* 10/11/2024: FL DS-DE (PAC/IE-Only/Electioneering Comm. 2024 G4)
+* 10/11/2024: FL DS-DE (Special General (SG1) for District 24)
+* 10/18/2024: FL DS-DE (PAC/IE-Only/Electioneering Comm. 2024 G4A)
+* 10/25/2024: FL DS-DE (Candidate 2024 G5)
+* 10/25/2024: FL DS-DE (PAC/IE-Only/Electioneering Comm. 2024 G5)
+* 10/26/2024: FL DS-DE (PAC/IE-Only/Electioneering Comm. 2024 D1)
+* 10/27/2024: FL DS-DE (PAC/IE-Only/Electioneering Comm. 2024 D2)
+* 10/28/2024: FL DS-DE (PAC/IE-Only/Electioneering Comm. 2024 D3)
+* 10/29/2024: FL DS-DE (PAC/IE-Only/Electioneering Comm. 2024 D4)
+* 10/30/2024: FL DS-DE (PAC/IE-Only/Electioneering Comm. 2024 D5)
+* 10/31/2024: FL DS-DE (PAC/IE-Only/Electioneering Comm. 2024 D6)
+* 11/01/2024: FL DS-DE (Candidate 2024 G6)
+* 11/01/2024: FL DS-DE (PAC/IE-Only/Electioneering Comm. 2024 G6)
+* 11/01/2024: FL DS-DE (Party/Affiliated Comte. 2024 G7)
+* 11/01/2024: FL DS-DE (Special General (SG2) for District 24)
+* 11/02/2024: FL DS-DE (Electioneering Comm. 2024 D7)
+* 11/03/2024: FL DS-DE (Electioneering Comm. 2024 D8)
+* 11/04/2024: FL DS-DE (Electioneering Comm. 2024 D9)
+* 12/10/2024: FL DS-DE (Special General (SG3) for District 24 – Non-Candidate Committees ONLY)
+* 01/10/2025: FL DS-DE (Quarterly 2024 Q4)
+
+Political Action Committee (PAC)
+----------
+
+* 07/12/2024: FL DS-DE (Electioneering Comm. 2024 P2A)
+* 07/19/2024: FL DS-DE (Candidate 2024 P3)
+* 07/19/2024: FL DS-DE (PAC/IE-Only/Electioneering Comm. 2024 P3)
+* 07/26/2024: FL DS-DE (Candidate/PAC/IE-Only/Electioneering Comm. 2024 P4)
+* 08/02/2024: FL DS-DE (Candidate/PAC/IE-Only/Electioneering Comm. 2024 P5)
+* 08/09/2024: FL DS-DE (Candidate/PAC/IE-Only/Electioneering Comm. 2024 P6)
+* 08/16/2024: FL DS-DE (Candidate/PAC/IE-Only/Electioneering Comm. 2024 P7)
+* 08/16/2024: FL DS-DE (Party/Affiliated Comte. 2024 P7)
+* 08/16/2024: FL DS-DE (Special Primary (SP2) for District 24)
+* 08/23/2024: FL DS-DE (PAC/IE-Only/Electioneering Comm. 2024 P7A)
+* 08/30/2024: FL DS-DE (Candidate 2024 G1)
+* 08/30/2024: FL DS-DE (PAC/IE-Only/Electioneering Comm. 2024 G1)
+* 09/06/2024: FL DS-DE (PAC/IE-Only/Electioneering Comm. 2024 G1A)
+* 09/13/2024: FL DS-DE (Candidate 2024 G2)
+* 09/13/2024: FL DS-DE (PAC/IE-Only/Electioneering Comm. 2024 G2)
+* 09/20/2024: FL DS-DE (PAC/IE-Only/Electioneering Comm. 2024 G2A)
+* 09/27/2024: FL DS-DE (Candidate 2024 G3)
+* 09/27/2024: FL DS-DE (PAC/IE-Only/Electioneering Comm. 2024 G3)
+* 10/04/2024: FL DS-DE (PAC/IE-Only/Electioneering Comm. 2024 G3A)
+* 10/11/2024: FL DS-DE (Candidate 2024 G4)
+* 10/11/2024: FL DS-DE (PAC/IE-Only/Electioneering Comm. 2024 G4)
+* 10/11/2024: FL DS-DE (Special General (SG1) for District 24)
+* 10/18/2024: FL DS-DE (PAC/IE-Only/Electioneering Comm. 2024 G4A)
+* 10/25/2024: FL DS-DE (Candidate 2024 G5)
+* 10/25/2024: FL DS-DE (PAC/IE-Only/Electioneering Comm. 2024 G5)
+* 10/26/2024: FL DS-DE (PAC/IE-Only/Electioneering Comm. 2024 D1)
+* 10/27/2024: FL DS-DE (PAC/IE-Only/Electioneering Comm. 2024 D2)
+* 10/28/2024: FL DS-DE (PAC/IE-Only/Electioneering Comm. 2024 D3)
+* 10/29/2024: FL DS-DE (PAC/IE-Only/Electioneering Comm. 2024 D4)
+* 10/30/2024: FL DS-DE (PAC/IE-Only/Electioneering Comm. 2024 D5)
+* 10/31/2024: FL DS-DE (PAC/IE-Only/Electioneering Comm. 2024 D6)
+* 11/01/2024: FL DS-DE (Candidate 2024 G6)
+* 11/01/2024: FL DS-DE (PAC/IE-Only/Electioneering Comm. 2024 G6)
+* 11/01/2024: FL DS-DE (Party/Affiliated Comte. 2024 G7)
+* 11/01/2024: FL DS-DE (Special General (SG2) for District 24)
+* 11/02/2024: FL DS-DE (Electioneering Comm. 2024 D7)
+* 11/03/2024: FL DS-DE (Electioneering Comm. 2024 D8)
+* 11/04/2024: FL DS-DE (Electioneering Comm. 2024 D9)
+* 12/10/2024: FL DS-DE (Special General (SG3) for District 24 – Non-Candidate Committees ONLY)
+* 01/10/2025: FL DS-DE (Quarterly 2024 Q4)
+
+You’re able to add Filing Deadlines found in ISP to your own digital calendar with our [Calendar Feed tool](https://ispolitical.com/Calendar-Feeds).
+
+To see more information about Florida compliance report filing with ISP, please visit our [Florida Filing and FAQ Resources](https://ispolitical.com/florida-campaign-party-pac-filing-faq-and-resources/) page.
+
+[Help File Home](/help/) | [Full Index](/Help-File-Directory/) | [Contact Support](mailto:support@ISPolitical.com)
+
+[« Florida Campaign, Party, & PAC Filing FAQ and Resources](/Florida-Campaign-Party-PAC-Filing-FAQ-and-Resources)
+[About the FL DS-DE Report »](/About-the-FL-DS-DE-Report)
+
+---
+
 # HOW DO I REPORT INKIND TRANSACTIONS PAID BY THE CANDIDATE
 
 How Do I Report Inkind Transactions Paid by the Candidate?
@@ -9794,6 +19189,30 @@ On the report, the transaction should appear on Line 11(d) as a receipt from the
 [⇑ FEC Campaign, Party, & PAC Filing FAQ and Resources](/FEC-Campaign-Party-PAC-Filing-FAQ-and-Resources)
 [« About Super PACs](/About-Super-PACs)
 [How Do I Report Auction Items and Proceeds From Sales on FEC Reports? »](/How-Do-I-Report-Auction-Items-and-Proceeds-From-Sales-on-FEC-Reports)
+
+---
+
+# WHEN ARE THE OREGON FILING DEADLINES
+
+When Are the Oregon Filing Deadlines?
+==========
+
+Applies To: Oregon
+
+Below are deadlines for Oregon compliance report filing.
+
+The Filing Deadline information provided here is offered only as a reference aid. The provided deadline information may contain inaccuracies and may not include all special elections or deadlines. For agency-specific details please visit the [Oregon SoS website](https://sos.oregon.gov/elections/Pages/campaigncommittee.aspx).
+
+***No deadlines are currently found.***
+
+You’re able to add Filing Deadlines found in ISP to your own digital calendar with our [Calendar Feed tool](https://ispolitical.com/what-are-calendar-feeds/).
+
+To see more information about Oregon compliance report filing with ISP, please visit our [Oregon Filing and FAQ Resources](https://ispolitical.com/oregon-campaign-party-pac-filing-faq-and-resources/) page.
+
+[Help File Home](/help/) | [Full Index](/Help-File-Directory/) | [Contact Support](mailto:support@ISPolitical.com)
+
+[« Oregon Campaign, Party, & PAC Filing FAQ and Resources](/Oregon-Campaign-Party-PAC-Filing-FAQ-and-Resources)
+[How Do I Add Reimbursements to Personal Expenses for Oregon Compliance Reports? »](/How-Do-I-Add-Reimbursements-to-Personal-Expenses-for-Oregon-Compliance-Reports)
 
 ---
 
@@ -9848,6 +19267,96 @@ Click the Add Rule button and then click the Run Search button.
 [⇑ What Are Advanced Search Recipes?](/What-Are-Advanced-Search-Recipes)
 [« How Do I Exclude Results Based on Flags Using Advanced Search?](/How-Do-I-Exclude-Results-Based-on-Flags-Using-Advanced-Search)
 [How Do I Find Donors Who Gave to the Primary but Not the General? »](/How-Do-I-Find-Donors-Who-Gave-to-the-Primary-but-Not-the-General)
+
+---
+
+# ABOUT THE CA FORM 41
+
+About the CA Form 410
+==========
+
+Applies To: California
+
+Statement of Organization
+----------
+
+The CA Form 410 form must be filed within 10 days of receiving contributions totaling $2,000 or more in a calendar year.
+
+The way information pulls to the CA FPPC Form 410 is determined both by the data entry used in the system and also the criteria chosen on the report generation screen.
+
+Before You Generate the Report
+----------
+
+* If you have not done so, create an organization record for the filer’s bank. The financial account must be updated and linked to the bank organization record to ensure the bank information pulls to the report correctly. To link the bank record, navigate to Financial Accounts under the Lists tab, and on the resulting screen, click the financial account Name. In the Update Committee Info window that opens, specifically in the Bank’s Record field, search for and locate the bank’s record. In addition, enter the bank account number in the Account Number field. Click the Update button to add the Name and Account Number to the financial account.
+* If the filer is a controlled committee, ensure that the Is Controlled checkbox is checked in the Update Committee Info window so that Controlled: True appears in the Committee Info section of the filer record. Also ensure that the Individual record for the person listed as the Candidate in the Relationships section of the filer record has the Candidate Info, including Id Number, entered. Also ensure that the Individual record for the person listed as the Candidate in the Relationships section of the filer record is linked and has the Candidate Info, including Id Number, entered. If [adding a Ballot Measure](https://ispolitical.com/how-do-i-add-a-ballot-measure/), ensure that it is linked via Relationships and that either Supported or Opposed appears in the Relationship Type column of the Relationships section.
+* If the filer is a primarily formed committee, ensure that the Is Controlled checkbox is not checked in the Update Committee Info window so that Controlled: False appears in the Committee Info section of the filer record. Also ensure that the Individual record for the person listed as the Candidate in the Relationships section of the filer record has the Candidate Info, including Id Number, entered. Also ensure that the Individual record for the person listed as the Candidate in the Relationships section of the filer record is linked and has the Candidate Info, including Id Number, entered. If adding a Ballot Measure, ensure that it is linked via Relationships and that either Supported or Opposed appears in the Relationship Type column of the Relationships section.
+* If the filer is a sponsored committee, ensure that the Is Sponsored checkbox is checked in the Update Committee Info window so that Sponsored: True appears in the Committee Info section of the filer record. Also, ensure an entity is linked via Relationships as Sponsor, and, if appropriate, the Organization Industry is filled in.
+* If the filer has met the conditions for Qualification, add the date in the Date Qualified field in the Update Committee Info window so that Date Qualified: [selected date] appears in the Committee Info section of the filer record.
+* If the filer supports multiple candidates, the Filer Committee Type needs to be PAC, and each candidate supported or opposed should be indicated using the Relationship Type Supported Candidate or Opposed Candidate.
+
+Report Generation Screen
+----------
+
+**Versions**
+
+* Paper Only Version does not pull any signers to Section 4 – Verification on the e-file or PDF.
+* Include Signature Lines For Efile Version does pull signatures to Section 4 and includes a signature line on the associated e-file report generated. Use this version to pull any controlling officeholder, candidate, or state ballot measure proponent.
+
+**Termination Date**
+
+* If you are filing a termination, enter the date you are terminating the committee here. NOTE: all other reports must be filed before you file a termination report.
+
+**Bank Record Authorized Individual(s)**
+
+* If you have individuals associated with the filer who are authorized to access the filer’s bank records (other than the treasurer), please list those names in this field. Otherwise, you can leave this blank. Any names entered here will pull to the Bank Information Section on Page 2.
+
+**Interest Of Filer**
+
+* If the filer is a General Purpose Committee, whatever information is added in the Interest of Filer field will pull to Page 3, Section 4 under Provide Brief Description of Activity. A General Purpose Committee is Committee Type Political Action Committee (PAC) without a linked Supported/Opposed Candidate -or- any other committee type that is not Candidate, Ballot Measure, or Small Contributor Committee.
+
+**Signers**
+
+*  You can select up to four signers. However, only the first signer is required.
+* The first signer must be the Treasurer or Assistant Treasurer.
+* The second signer must be the Candidate unless the filer is a PAC or Party, in which case, it must be Principal Officer. This signer can be blank.
+* The third signer can be Principal Officer if Second Signer is Candidate, or any other signer. This signer can be blank.
+* The fourth signer can be any other signer. This signer can be blank.
+
+Page 1
+----------
+
+* **Type of Report**: If this is an original report, the Initial box will check. If you check Amended on the report generation screen, the Amendment box will check. If you add a Termination Date on the report generation screen, the Termination box will check.
+* **Street Address:** The Street Address is the address marked as Primary on the filer record in the database.
+* **Mailing Address:** The Mailing Address is the address marked as Mailing on the filer record in the database. This will only populate if the address marked as Primary is different.
+* **Email:** This will come from the Emails section in the filer record.
+* **County of Domicil****e:** This is determined by the address marked as Primary on the filer record in the database. If the Filer Address State is not CA, we will pull the Filer’s Jurisdiction Description.
+* **Jurisdiction where Committee is Active:** This is determined by the Office Sought/Held Jurisdiction Description if Committee Type is Candidate, and Committee Jurisdiction description if not.
+* **Treasurer Info:** The Treasurer’s name, address & email will come from the linked Treasurer in the Relationships section of the filer’s record.
+* **Assistant Treasurer Info:** The name, address & email of the Assistant Treasurer will come from the linked Assistant Treasurer in the Relationships section of the filer’s record. This information is not required.
+* **Principal Officer Info:** The Principal Officer’s name, address & email will come from the linked Principal Officer in the Relationships section of the filer’s record. This information is not required.
+* **Verification:** Signers will populate based on the entities selected on the Report Generation Screen.
+
+Page 2
+----------
+
+* **Financial Institution:** The name, address, phone & bank account number will come from the linked Bank Record on the Financial Accounts page.
+* **Person(s) Authorized to Obtain Bank Records:** The name(s) will populate based on the entities entered on the Report Generation Screen, if any.
+* **Controlled Committee:** The name, office sought/held or ballot info & party (if applicable) will come from the individual linked as Candidate -or- the Ballot Measure linked as Ballot Measure Supported/Opposed. The Year of Election will come from the election selected as Current Election on the report generation screen. When Non-Election is selected, 01/01/1900 will appear as the election date on the report.
+* **Primarily Formed Committee:** The name, office sought/held or ballot info will come from the individual(s) linked as Supported/Opposed Candidate -or- the Ballot Measure(s) linked as Ballot Measure Supported/Opposed.
+* NOTE: Due to limitations with the CA PDF generator, information for a Primarily Formed Committee will sometimes appear on a supplemental page instead of the PDF. For the e-file, it will be displayed on page two.
+
+Page 3
+----------
+
+* **General Purpose Committee:** If the filer is considered a General Purpose Committee, the City / County / State boxes are based on the Jurisdiction drop-down in the Committee Info on the Filer Record.
+* **Sponsored Committee:** The name, address, phone and industry (if applicable) will come from the entity linked as Sponsor.
+* **Small Contributor Committee:** The date qualified will come from the date in the Date Qualified field in the Committee Info section on the filer record.
+
+[Help File Home](/help/) | [Full Index](/Help-File-Directory/) | [Contact Support](mailto:support@ISPolitical.com)
+
+[⇑ California Campaign, Party, & PAC Filing FAQ and Resources](/California-Campaign-Party-PAC-Filing-FAQ-and-Resources)
+[« About the CA Form 401](/About-the-CA-Form-4-1)
+[What Is the CA 460 Report & How Do I Prepare and File It? »](/What-Is-the-CA-46-Report-How-Do-I-Prepare-and-File-It)
 
 ---
 
@@ -9920,6 +19429,22 @@ When the transaction is saved, it will automatically populate the Transaction Ta
 [⇑ How Do I Set up the WinRed Integration?](/How-Do-I-Set-up-the-WinRed-Integration)
 [« How Do I Use Quick Imports for WinRed Transactions?](/How-Do-I-Use-Quick-Imports-for-WinRed-Transactions)
 [WinRed Integration Troubleshooting »](/WinRed-Integration-Troubleshooting)
+
+---
+
+# ABOUT THANK DONORS
+
+About Thank Donors
+==========
+
+* [How Do I Thank Donors & View Previously Thanked Donors?](https://ispolitical.com/How-Do-I-Thank-Donors-View-Previously-Thanked-Donors)
+* [How Do I Create Thank You Letters Using Microsoft Word?](https://ispolitical.com/Creating-Thank-You-Letters)
+
+[Help File Home](/help/) | [Full Index](/Help-File-Directory/) | [Contact Support](mailto:support@ISPolitical.com)
+
+[⇑ About Accounting in ISP](/About-Accounting-in-ISP)
+[« What Is the Register?](/What-Is-the-Register)
+[How Do I Thank Donors & View Previously Thanked Donors? »](/How-Do-I-Thank-Donors-View-Previously-Thanked-Donors)
 
 ---
 
@@ -10023,6 +19548,42 @@ The following is a list of Relationships where this will come into play:
 
 ---
 
+# WHEN ARE THE TEXAS FILING DEADLINES
+
+When Are the Texas Filing Deadlines?
+==========
+
+Applies To: Texas
+
+Below are deadlines for Texas compliance report filing.
+
+The Filing Deadline information provided here is offered only as a reference aid. The provided deadline information may contain inaccuracies and may not include all special elections or deadlines. For agency-specific details please visit the [Texas Ethics Commission](https://www.ethics.state.tx.us/filinginfo/schedules/filing_schedules.php) website.
+
+Candidate
+----------
+
+* 07/15/2024: TX Forms COH
+* 10/07/2024: TX Forms COH
+* 10/28/2024: TX Forms COH
+
+Political Action Committee (PAC)
+----------
+
+* 07/15/2024: TX Forms GPAC
+* 10/07/2024: TX Forms GPAC
+* 10/28/2024: TX Forms GPAC
+
+You’re able to add Filing Deadlines found in ISP to your own digital calendar with our [Calendar Feed tool](https://ispolitical.com/what-are-calendar-feeds/).
+
+To see more information about Texas compliance report filing with ISP, please visit our [Texas Filing and FAQ Resources](https://ispolitical.com/texas-campaign-party-pac-filing-faq-and-resources/) page.
+
+[Help File Home](/help/) | [Full Index](/Help-File-Directory/) | [Contact Support](mailto:support@ISPolitical.com)
+
+[« Texas Campaign, Party, & PAC Filing FAQ and Resources](/Texas-Campaign-Party-PAC-Filing-FAQ-and-Resources)
+[How Do I Populate the Cover Page on My TX Report? »](/How-Do-I-Populate-the-Cover-Page-on-My-TX-Report)
+
+---
+
 # HOW DO I PULL CANDIDATE INFO TO SECTION 9 ON SCHEDULE F1
 
 How Do I Pull Candidate Info to Section 9 on Schedule F1?
@@ -10039,6 +19600,54 @@ Make sure the Support/Oppose memo within the transaction is to the individual Ca
 [⇑ Texas Campaign, Party, & PAC Filing FAQ and Resources](/Texas-Campaign-Party-PAC-Filing-FAQ-and-Resources)
 [« How Do I Populate the Cover Page on My TX Report?](/How-Do-I-Populate-the-Cover-Page-on-My-TX-Report)
 [About the TX COH Report »](/About-the-TX-COH-Report)
+
+---
+
+# WHEN ARE THE MARYLAND FILING DEADLINES
+
+When Are the Maryland Filing Deadlines?
+==========
+
+Applies To: Maryland
+
+Below are deadlines for Maryland compliance report filing.
+
+The Filing Deadline information provided here is offered only as a reference aide. The provided deadline information may contain inaccuracies and may not include all special elections or deadlines. For agency specific details, please visit the [Maryland State Board of Elections](https://elections.maryland.gov/) webpage.
+
+***No deadlines are currently found.***
+
+You’re able to add Filing Deadlines found in ISP to your own digital calendar with our [Calendar Feed](https://ispolitical.com/what-are-calendar-feeds/) tool.
+
+To see more information about Maryland compliance report filing with ISP, please visit our [Maryland Filing and FAQ Resources](https://ispolitical.com/Maryland-Campaign-Party-PAC-Filing-FAQ-and-Resources/) page.
+
+[Help File Home](/help/) | [Full Index](/Help-File-Directory/) | [Contact Support](mailto:support@ISPolitical.com)
+
+[« Maryland Campaign, Party, & PAC Filing FAQ and Resources](/Maryland-Campaign-Party-PAC-Filing-FAQ-and-Resources)
+[Massachusetts Campaign, Party, & PAC Filing FAQ and Resources »](/Massachusetts-Campaign-Party-PAC-Filing-FAQ-and-Resources)
+
+---
+
+# WHEN ARE THE ALASKA FILING DEADLINES
+
+When Are the Alaska Filing Deadlines?
+==========
+
+Applies To: Alaska
+
+Below are deadlines for Alaska compliance report filing.
+
+The Filing Deadline information provided here is offered only as a reference aide. The provided deadline information may contain inaccuracies and may not include all special elections or deadlines. For agency specific details, please visit the [Alaska Division of Elections](https://www.elections.alaska.gov/) webpage.
+
+***No deadlines are currently found.***
+
+You’re able to add Filing Deadlines found in ISP to your own digital calendar with our [Calendar Feed](https://ispolitical.com/what-are-calendar-feeds/) tool.
+
+To see more information about Alaska compliance report filing with ISP, please visit our [Alaska Filing and FAQ Resources](https://ispolitical.com/Alaska-Campaign-Party-PAC-Filing-FAQ-and-Resources/) page.
+
+[Help File Home](/help/) | [Full Index](/Help-File-Directory/) | [Contact Support](mailto:support@ISPolitical.com)
+
+[« Alaska Campaign, Party, & PAC Filing FAQ and Resources](/Alaska-Campaign-Party-PAC-Filing-FAQ-and-Resources)
+[Arizona Campaign, Party, & PAC Filing FAQ and Resources »](/Arizona-Campaign-Party-PAC-Filing-FAQ-and-Resources)
 
 ---
 
@@ -10364,6 +19973,168 @@ Schedule L
 
 ---
 
+# ABOUT REPORT POST GENERATION
+
+About Report Post-Generation
+==========
+
+* [What Are FEC System Errors and How Do I Fix Them?](https://ispolitical.com/What-Are-FEC-System-Errors-and-How-Do-I-Fix-Them)
+* [Wrong FEC Password Error Troubleshooting](https://ispolitical.com/Wrong-FEC-Password-Error-Troubleshooting)
+* [How Do I Correct Disallowed Reporting Description Warnings Or Provide Accurate Compliance Notes on Reports?](https://ispolitical.com/How-Do-I-Correct-Disallowed-Reporting-Description-Warnings-Or-Provide-Accurate-Compliance-Notes-on-Reports)
+* [Why Are Transactions Not Itemized on FEC Reports?](https://ispolitical.com/Why-Are-Transactions-Not-Itemized-on-FEC-Reports)
+* [Why Are My Accrued Expenses Not Itemizing on Schedule D?](https://ispolitical.com/Why-Are-My-Accrued-Expenses-Not-Itemizing-on-Schedule-D)
+* [Why Are My FEC Reports Aggregating Differently in ISP?](https://ispolitical.com/Why-Are-My-FEC-Reports-Aggregating-Differently-in-ISP)
+* [Why Are My Inkinds Itemizing on Schedule B?](https://ispolitical.com/Why-Are-My-Inkinds-Itemizing-on-Schedule-B)
+* [About FEC Backdoor Passwords](https://ispolitical.com/About-FEC-Backdoor-Passwords)
+* [My FEC Report Failed While Processing. Now What?](https://ispolitical.com/My-FEC-Report-Failed-While-Processing-Now-What)
+
+[Help File Home](/help/) | [Full Index](/Help-File-Directory/) | [Contact Support](mailto:support@ISPolitical.com)
+
+[⇑ FEC Campaign, Party, & PAC Filing FAQ and Resources](/FEC-Campaign-Party-PAC-Filing-FAQ-and-Resources)
+[« About the FEC Form 99 Report](/About-the-FEC-Form-99-Report)
+[What Are FEC System Errors and How Do I Fix Them? »](/What-Are-FEC-System-Errors-and-How-Do-I-Fix-Them)
+
+---
+
+# WHEN ARE THE NORTH CAROLINA FILING DEADLINES
+
+When Are the North Carolina Filing Deadlines?
+==========
+
+Applies To: North Carolina
+
+Below are deadlines for North Carolina compliance report filing.
+
+The Filing Deadline information provided here is offered only as a reference aid. The provided deadline information may contain inaccuracies and may not include all special elections or deadlines. For agency-specific details please visit the [North Carolina State Board of Elections website](https://www.ncsbe.gov/campaign-finance/reporting-schedules).
+
+Candidate
+----------
+
+* 07/10/2024: NC Form 1000
+* 10/29/2024: NC Form 1000
+* 01/10/2025: NC Form 1000
+
+NC Referendum
+----------
+
+* 07/10/2024: NC Form 1000
+* 10/29/2024: NC Form 1000
+* 01/10/2025: NC Form 1000
+
+Party
+----------
+
+* 07/10/2024: NC Form 1000
+* 10/29/2024: NC Form 1000
+* 01/10/2025: NC Form 1000
+
+Political Action Committee (PAC)
+----------
+
+* 07/10/2024: NC Form 1000
+* 10/29/2024: NC Form 1000
+* 01/10/2025: NC Form 1000
+
+You’re able to add Filing Deadlines found in ISP to your own digital calendar with our [Calendar Feed tool](https://ispolitical.com/what-are-calendar-feeds/).
+
+To see more information about North Carolina compliance report filing with ISP, please visit our [North Carolina Filing and FAQ Resources](https://ispolitical.com/north-carolina-campaign-party-pac-filing-faq-and-resources/) page.
+
+[Help File Home](/help/) | [Full Index](/Help-File-Directory/) | [Contact Support](mailto:support@ISPolitical.com)
+
+[« North Carolina Campaign, Party, & PAC Filing FAQ and Resources](/North-Carolina-Campaign-Party-PAC-Filing-FAQ-and-Resources)
+[NC Form 1000 Line by Line »](/NC-Form-Line-By-Line)
+
+---
+
+# HOW DO I ADD A CONTRIBUTION TO OTHER COMMITTEES
+
+How Do I Add a Contribution to Other Committees?
+==========
+
+Applies To: Federal Election Commission
+
+When adding a contribution made to another committee, it’s important for both financial and compliance purposes the data entry is correct.
+
+First, navigate to the record of the committee you’ve made a payment to.
+
+In the Transactions section, click the + (Add) symbol to add a new transaction, then choose Expense.
+
+Enter in the available details of the transaction and in the Reporting Code drop down, select 011 – Political Contributions.
+
+Next, click Specify Support/Oppose and fill in the applicable details.
+
+If the donation is to a candidate committee, it is to support a candidate. Please be sure you use the candidate of the committee for the Support/Oppose section. Note: The candidate’s record must already be in your database to properly link the supporting transaction.
+
+[Help File Home](/help/) | [Full Index](/Help-File-Directory/) | [Contact Support](mailto:support@ISPolitical.com)
+
+[« About Transactions](/About-Transactions)
+[How Do I Add New Transactions? »](/How-Do-I-Add-New-Transactions)
+
+---
+
+# ABOUT THE NY CF 1 REPORT
+
+About the NY CF-01 Report
+==========
+
+Applies To: New York
+
+Use the list of each schedule on the NY CF-01 report below to determine what transactions are pulled to each schedule
+
+**Schedule A:** Monetary Contributions/Enforceable Pledge Payments from Individuals/Partnerships/LLPs/Sole Proprietors
+
+**Schedule B:** Monetary Contributions/Enforceable Pledge Payments from Corporations
+
+**Schedule C:** Monetary Contributions/Enforceable Pledge Payments that are not included in Schedule A/B/G
+
+**Schedule D:** Inkind Contributions
+
+**Schedule E:** Other Income
+
+**Schedule F:** Expenses, Accrued Expense Payments, & Loan Made Balance Reductions
+
+**Schedule G:** Monetary Contributions from Party Committees and affiliated Political Committees with a relationship to the filer (for Candidate filers), Monetary Contributions from Candidate Committees (for Party filers)
+
+**Schedule H:** Expenses to Party Committees and affiliated Political Committees with a relationship to the filer (for Candidate filers), Expenses to Candidate Committees (for Party filers)
+
+**Schedule I:** Loans Received
+
+**Schedule J:** Loan Received Repayments
+
+**Schedule K:** Loan Received Balance Reductions & Accrued Expense Balance Reductions
+*NOTE: Excluding transactions tagged with Third Party Repayment.*
+
+**Schedule L:** Refunded Expenses & Reversed Expenses
+
+**Schedule M:** Refunded Contributions
+
+**Schedule N:** Loans Received & Accrued Expenses (NOTE: must have an outstanding balance at the end of the report period)
+
+**Schedule Op**: Splits of Monetary Contributions from LLCs/LLPs/Partnerships with a $.01 threshold
+
+**Schedule Os:** Splits of Expenses/Accrued Expenses that use reporting code CONSL with a $.01 threshold
+
+**Schedule P:** Inkind Contributions/Monetary Contributions/Other Income that are tagged Housekeeping. Also includes Enforceable Pledge Payments/Refunded Contributions if the original is tagged Housekeeping
+*NOTE: Does not include Candidate filers.*
+
+**Schedule Q:** Expenses/Inkind Contributions that are tagged Housekeeping. Also includes Accrued Expense Payments/Refunded Expenses if the original is tagged Housekeeping
+*NOTE: Does not include Candidate filers.*
+
+**Schedule R:** Support/Oppose Memos
+*NOTE: Does not include Candidate filers.*
+
+### Related Information ###
+
+* [Tips and Best Practices for the New York CF-01 Report](https://ispolitical.com/Tips-and-Best-Practices-for-the-New-York-CF-1-Report)
+
+[Help File Home](/help/) | [Full Index](/Help-File-Directory/) | [Contact Support](mailto:support@ISPolitical.com)
+
+[⇑ New York Campaign, Party, & PAC Filing FAQ and Resources](/New-York-Campaign-Party-PAC-Filing-FAQ-and-Resources)
+[« What Are the Transaction Method Rules for NY Reports?](/What-Are-the-Transaction-Method-Rules-for-NY-Reports)
+[Tips and Best Practices for the New York CF-01 Report »](/Tips-and-Best-Practices-for-the-New-York-CF-1-Report)
+
+---
+
 # HOW DO I USE BCC EMAILS TO ADD COMMUNICATIONS
 
 How Do I Use BCC Emails to Add Communications?
@@ -10513,6 +20284,31 @@ Use the list below to determine where certain transactions will appear on your H
 [⇑ Minnesota Campaign, Party, & PAC Filing FAQ and Resources](/Minnesota-Campaign-Party-PAC-Filing-FAQ-and-Resources)
 [« When Are the Minnesota Filing Deadlines?](/When-Are-the-Minnesota-Filing-Deadlines)
 [MN CAND Report: Line By Line »](/MN-CAND-Report-Line-By-Line)
+
+---
+
+# ABOUT THE FEC FORM 48 IE REPORT
+
+About the FEC Form 48-IE Report
+==========
+
+Applies To: Federal Election Commission
+
+The FEC 48-IE is only filed by political committees. For Non-Committee filers, use the [Form 5](https://ispolitical.com/about-the-fec-form-5-report/).
+
+The FEC Independent Expenditures Report – Form 48-IE is used to report Independent Expenditures of more than $10,000. This will report Independent Expenditures made by the committee, and estimated expenses will pull to this report.
+
+Please note Schedule E only discoloses Federal candidate or committee info.
+
+If you need to file a report due to an Independent Expenditure over $1,000 within the 20 days before an election, please use the [FEC Form 24-IE Report](https://ispolitical.com/about-the-fec-form-24-ie/).
+
+There will be situations where the 48-IE and 24-IE reports overlap. Since the same information is reported on both, most use the 24-IE instead of the 48-IE during the 20 days before an election. Please confirm with your FEC analyst if you are not sure which report to use.
+
+[Help File Home](/help/) | [Full Index](/Help-File-Directory/) | [Contact Support](mailto:support@ISPolitical.com)
+
+[⇑ FEC Campaign, Party, & PAC Filing FAQ and Resources](/FEC-Campaign-Party-PAC-Filing-FAQ-and-Resources)
+[« About the FEC Form 24-IE Report](/About-the-FEC-Form-24-IE-Report)
+[About the FEC Form 99 Report »](/About-the-FEC-Form-99-Report)
 
 ---
 
@@ -10688,6 +20484,54 @@ When creating a Monetary Contribution, there will be five tags to choose from in
 
 ---
 
+# HOW DO I SET UP AN ACTBLUE INTEGRATION
+
+How Do I Set up an ActBlue Integration?
+==========
+
+Our integration partners sometimes make updates to their system that we are unaware of. If the steps provided in our help file don’t match what you see on their site, please contact our support team and we will assist you in getting the integration properly set up.
+
+Setting up your ActBlue integration is a multi-step process, including contacting ActBlue via email.
+
+When new donations are processed, we pull that data from ActBlue via an API. If it is a recurring monthly donation, ActBlue will provide us with the new donation each month. From our standpoint, nothing in the information we receive indicates it being recurring. We also don’t support any sort of pre-entry because recurring donations sometimes fail or are canceled.
+
+When transactions come over from ActBlue, we respect the timezone that ActBlue specifies. For example, if a transaction is sent to us on August 2nd from ActBlue at 1:00 am Eastern Time, even though for us that is August 1st at 10:00 pm Pacific, the system will treat that as an August 2nd transaction.
+
+You can control how your ActBlue transactions come into ISP through the [ActBlue integration page](https://ispolitical.com/what-are-the-actblue-settings/).
+
+You can also control your ActBlue transactions through the Auto-Import settings on the [ai@ISP page](https://ispolitical.com/what-is-ai-isp/).
+
+### How do I add the ActBlue integration? ###
+
+1. Go to the Integrations tab and select Add/Remove Integrations.
+
+2. On the resulting page, in the Available section, click the ActBlue integration.
+
+3. A new window will appear and ask for your ActBlue Entity ID. This can be found by logging into your ActBlue account and viewing the URL of the Dashboard. It will be a 5 digit number and look something like this: [https://secure.actblue.com/entities/XXXXX/dashboard](https://secure.actblue.com/entities/XXXXX/dashboard)
+
+4. After adding the ActBlue Entity ID, the next step is contacting ActBlue to complete the integration process. You’ll be sent an email from ISP with the exact information you need to send to ActBlue so they can complete the setup on their end.
+
+After you send the email to ActBlue (support@actblue.com), ActBlue donations will appear in the [Pending Imports](https://ispolitical.com/what-are-pending-imports-and-how-do-i-process-them/) section of the Dashboard within about 24 hours.
+
+Once the integration is set up, the system will automatically create an ActBlue organization record in the account with ActBlue’s details. We also suggest manually creating an ActBlue Technical Services organization record for any fees incurred from ActBlue.
+
+In regards to the dates on these transactions, ActBlue sends the contribution data real-time as it is made. That is part of the process they have setup for integrations overall. While the conduit check itself can have the date received, the contributions would have the date given on them.
+
+Please note temporary duplicate contact information is normal & expected with imports. They should get automatically cleaned up as part of the cleanup process. This typically runs within an hour of the import.
+
+### Related Information ###
+
+* [What Are the ActBlue Settings?](https://ispolitical.com/What-Are-the-ActBlue-Settings)
+* [How Do I Use the ActBlue Quick Import?](https://ispolitical.com/How-Do-I-Use-the-ActBlue-Quick-Import)
+
+[Help File Home](/help/) | [Full Index](/Help-File-Directory/) | [Contact Support](mailto:support@ISPolitical.com)
+
+[⇑ About Integrations in ISP](/About-Integrations-in-ISP)
+[« Credit Card Failure Codes](/Credit-Card-Failure-Codes)
+[What Are the ActBlue Settings? »](/What-Are-the-ActBlue-Settings)
+
+---
+
 # HOW DO I ADD VOLUNTEERS WITH FLAGS VIA ISP S API
 
 How Do I Add Volunteers With Flags Via ISP’s API?
@@ -10725,6 +20569,30 @@ Use our API sample submission below if you have volunteers you’d like to submi
 [⇑ About ISP’s API](/About-ISP-s-API)
 [« How Do I Add Deposit Batches via ISP’s API?](/How-Do-I-Add-Deposit-Batches-via-ISP-s-API)
 [API Sample Code: Javascript »](/API-Sample-Code-Javascript)
+
+---
+
+# WHEN ARE THE HAWAII FILING DEADLINES
+
+When Are the Hawaii Filing Deadlines?
+==========
+
+Applies To: Hawaii
+
+Below are deadlines for Hawaii compliance report filing.
+
+The Filing Deadline information provided here is offered only as a reference aide. The provided deadline information may contain inaccuracies and may not include all special elections or deadlines. For agency specific details, please visit the [Hawaii Office of Elections](https://elections.hawaii.gov/) webpage.
+
+***No deadlines are currently found.***
+
+You’re able to add Filing Deadlines found in ISP to your own digital calendar with our [Calendar Feed](https://ispolitical.com/what-are-calendar-feeds/) tool.
+
+To see more information about Hawaii compliance report filing with ISP, please visit our [Hawaii Filing and FAQ Resources](https://ispolitical.com/Hawaii-Campaign-Party-PAC-Filing-FAQ-and-Resources/) page.
+
+[Help File Home](/help/) | [Full Index](/Help-File-Directory/) | [Contact Support](mailto:support@ISPolitical.com)
+
+[« Hawaii Campaign, Party, & PAC Filing FAQ and Resources](/Hawaii-Campaign-Party-PAC-Filing-FAQ-and-Resources)
+[Idaho Campaign, Party, & PAC Filing FAQ and Resources »](/Idaho-Campaign-Party-PAC-Filing-FAQ-and-Resources)
 
 ---
 
@@ -10779,6 +20647,176 @@ If you need to view the PDF of the report, even though the filer may be a paper 
 
 ---
 
+# WHY YOU SHOULD HAVE A PROFESSIONAL CAMPAIGN TREASURER
+
+Why You Should Have a Professional Campaign Treasurer
+==========
+
+<img alt="Screenshot 2024-06-19 at 10.21.24 PM" src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%201238%201242'%3E%3C/svg%3E" title="Screenshot 2024-06-19 at 10.21.24 PM" height="1242" width="1238" />\<img fetchpriority="high" decoding="async" class="fl-photo-img wp-image-1511 size-full" src="https://ispolitical.com/wp-content/uploads/2024/06/Screenshot-2024-06-19-at-10.21.24 PM.png" alt="Screenshot 2024-06-19 at 10.21.24 PM" itemprop="image" height="1242" width="1238" title="Screenshot 2024-06-19 at 10.21.24 PM" srcset="https://ispolitical.com/wp-content/uploads/2024/06/Screenshot-2024-06-19-at-10.21.24 PM.png 1238w, https://ispolitical.com/wp-content/uploads/2024/06/Screenshot-2024-06-19-at-10.21.24 PM-300x300.png 300w, https://ispolitical.com/wp-content/uploads/2024/06/Screenshot-2024-06-19-at-10.21.24 PM-1021x1024.png 1021w, https://ispolitical.com/wp-content/uploads/2024/06/Screenshot-2024-06-19-at-10.21.24 PM-150x150.png 150w, https://ispolitical.com/wp-content/uploads/2024/06/Screenshot-2024-06-19-at-10.21.24 PM-768x770.png 768w" sizes="(max-width: 1238px) 100vw, 1238px" /\>
+
+Running a political campaign is a complex and demanding endeavor. Amidst the whirlwind of events, rallies, and policy planning, one critical aspect that often gets overlooked is financial management. This is where a professional campaign treasurer comes in. But what exactly are the duties of a campaign treasurer, and why is it essential to have a professional in this role? Let's dive into the key reasons and responsibilities associated with having a dedicated political campaign treasurer.
+
+What Does a Campaign Treasurer Do?
+----------
+
+A campaign treasurer is responsible for the financial health and compliance of a political campaign. Here are the primary duties of a campaign treasurer:
+
+* * **Financial Oversight:** The campaign treasurer manages all financial aspects of the campaign, including budgeting, tracking donations, and expenditures.
+* **Compliance and Reporting:** Ensuring that the campaign adheres to all legal requirements and deadlines for financial reporting is critical for campaign success. This includes [filing regular reports](https://ispolitical.com/compliance/) with the Federal Election Commission (FEC), state, county, or even local regulatory bodies.
+
+* **Regulatory Specialization:** A professonal political treasurer or compliance consultant will often specialize in FEC and several state regulatory bodies. A West Coast professional is likely to have experience filing in California ([FPPC](https://www.fppc.ca.gov/)), Oregon ([CLEAR](https://sos.oregon.gov/elections/Pages/campaign-finance.aspx)), Washington ([PDC](https://www.pdc.wa.gov/)), and Nevada ([NVSOS](https://www.nvsos.gov/SOSCandidateServices/AnonymousAccess/CEFDSearchUU/Search.aspx#individual_search)).
+
+* **Contribution Management:** The political campaign treasurer handles the meticulous task of recording and reporting all contributions, ensuring they meet legal limits, are sourced appropriately, thanks donors, and provides financial reports to key committee stakeholders.
+* **Expenditure Tracking:** They track all campaign spending, ensuring funds are used efficiently and in accordance with campaign finance laws.
+* **Strategic Planning:** A professional treasurer assists in financial planning and forecasting, provides important financial reports, maintains budgets, and helps the campaign allocate resources effectively to maximize impact.
+
+The Importance of a Professional Campaign Treasurer
+----------
+
+A campaign treasurer carries a significant burden on her/his shoulders by assuming legal responsibility for the committee’s compliance with applicable laws. If there is a sure fire component of a campaign that is constantly under strict surveillance and criticism, it is campaign finance. The treasurer, therefore, has the responsibility of conducting a flawless financial operation under the scrutiny of…well, the law and the world. So, what does a campaign treasurer do? Among their many responsibilities, the treasurer oversees:
+
+1. **Ensuring Compliance:** Campaign finance laws are complex and constantly evolving. A professional political treasurer stays updated on these regulations, ensuring your campaign avoids costly fines, legal issues, and political capital loss.
+2. **Financial Integrity:** Transparency and integrity in handling campaign funds are paramount. A seasoned campaign treasurer brings expertise and a level of professionalism that safeguards against financial mismanagement and fraud. The risk of embezzlement is higher in campaigns where friends and relatives fulfill accounting and compliance roles.
+3. **Efficiency and Focus:** With a dedicated professional managing finances, the campaign team can focus on other critical areas like voter outreach and policy development. This specialization leads to more efficient campaign operations overall.
+4. **Credibility and Trust:** Donors and supporters are more likely to trust a campaign that demonstrates financial responsibility and transparency. A professional campaign treasurer helps build this credibility, encouraging more substantial and sustained support.
+5. **Strategic Advantage:** A skilled treasurer not only manages funds but also provides strategic financial insights, including where donors are most likely to be found and which messages are most likely to result in donations. This can be a significant advantage in planning and executing campaign strategies effectively.
+
+FAQs
+----------
+
+### What qualifications should a campaign treasurer have? ###
+
+A campaign treasurer should have a background in finance, accounting, or a related field. Experience with political campaigns and knowledge of pertinent campaign finance laws are crucial.
+
+### Can a volunteer serve as a campaign treasurer? ###
+
+While volunteers can serve as campaign treasurers, it is highly recommended to hire a professional with experience in campaign finance to ensure accuracy and compliance. If you choose to use a volunteer, give them the [tools ](http://www.ispolitical.com)they need to get the job done well.
+
+### What are the consequences of not having a professional campaign treasurer? ###
+
+Without a professional, your campaign risks financial mismanagement, non-compliance with legal requirements, potential fines, and loss of donor trust. You should also expect slower financial reporting and less transparency into your financial position. Expect less certainty when deciding to make major purchases.
+
+### What is the difference between a campaign treasurer and a campaign manager? ###
+
+A campaign treasurer focuses on the financial aspects and compliance of the campaign, while a campaign manager oversees the overall strategy, operations, and execution of the campaign plan. The campaign manager is technically in charge of the campaign, a professional treasurer will have the needed character to resist bad ideas and can protect you from amateurish mistakes.
+
+### How often should a campaign treasurer report on the campaign’s financial status? ###
+
+A campaign treasurer should provide regular updates, typically monthly, and ensure all required reports are filed according to the FEC’s schedule which can be found [here](https://www.fec.gov/help-candidates-and-committees/dates-and-deadlines/). For state, county and local reporting, a professional treasurer will know when reports are due.
+
+### What tools can a campaign treasurer use to manage finances effectively? ###
+
+Campaign treasurers will use specialized [campaign finance software](https://ispolitical.com/treasurers/) designed to track contributions, expenses, and compliance requirements. Pros do not use spreadsheets or small business management accounting tools, as these tools do not work for political organizations. Some older, less sophisticated, slower professional treasurers attempt to hack Quickbooks and older formware political tools, but you should be weary of these charging by the hour for work they could automate and save your committee thousands of dollars.
+
+ISPolitical has created a comprehensive campaign finance & accounting [tool](https://ispolitical.com/treasurers/) with treasurers in mind.
+
+### How can a campaign treasurer contribute to strategic decision-making? ###
+
+By providing detailed financial reports and forecasts, a campaign treasurer can offer insights on resource allocation, budgeting, and financial strategies that support the campaign’s goals.
+
+### What should a campaign do if they face financial discrepancies? ###
+
+Immediate action should be taken to identify and resolve discrepancies. A professional treasurer will conduct thorough audits, correct errors, and ensure transparent reporting to the correct regulatory agency.
+
+Choosing the Right Campaign Treasurer
+----------
+
+When selecting a campaign treasurer, it’s important to consider their experience, knowledge of campaign finance law, and ability to handle the demands of the role. Look for individuals who have a proven track record in political campaign finance and a deep understanding of the legal landscape. ISP works with professional treasurers all day, every day. [Reach out to us if you need a referral. ](https://ispolitical.com/contact/)
+
+Lastly, the role of a campaign treasurer is vital to the success and integrity of a political campaign. By entrusting this role to a professional, you ensure that your campaign not only remains compliant and financially sound but also gains a strategic edge in the competitive landscape of political elections.
+
+For more insights and to learn how [campaign treasurer software](https://ispolitical.com/treasurers/) can assist your campaign treasurer in maintaining a perfect financial campaign, visit [ISPolitical](https://ispolitical.com/treasurers/). Our team of experts is dedicated to helping you navigate the complexities of campaign finance with confidence and precision.
+
+You May Like These Blogs
+----------
+
+[Simplifying Campaign Finance with ISP’s Essential Tools](https://ispolitical.com/simplifying-campaign-finance-with-isps-essential-tools/)
+----------
+
+Managing a campaign’s finances can be complex and time-consuming. However, ISP’s suite of campaign finance solutions and tools is designed…
+
+[Read More](https://ispolitical.com/simplifying-campaign-finance-with-isps-essential-tools/)
+
+[Understanding FEC Filing Deadlines: The Breakdown](https://ispolitical.com/understanding-fec-filing-deadlines-the-breakdown/)
+----------
+
+The Federal Election Commission (FEC) plays a pivotal role in maintaining the integrity of campaign finance in the United States.…
+
+[Read More](https://ispolitical.com/understanding-fec-filing-deadlines-the-breakdown/)
+
+[Know How to Increase Donors to Your Political Campaign](https://ispolitical.com/know-how-to-increase-donors-to-your-political-campaign/)
+----------
+
+Running a successful political campaign requires more than just a strong message and a dedicated team. It requires funding, and…
+
+[Read More](https://ispolitical.com/know-how-to-increase-donors-to-your-political-campaign/)
+
+---
+
+# MAINE CAMPAIGN PARTY PAC FILING FAQ AND RESOURCES
+
+Maine Campaign, Party, & PAC Filing FAQ and Resources
+==========
+
+Applies To: Maine
+
+Below are links to resources to help you file your Maine reports.
+
+**FAQ**
+
+* [When Are the Maine Filing Deadlines?](https://ispolitical.com/When-Are-the-Maine-Filing-Deadlines)
+* [How Do I E-file IN Maine?](https://ispolitical.com/How-Do-I-E-file-IN-Maine)
+* [About the ME CFR – PAC Report](https://ispolitical.com/About-the-ME-CFR-PAC)
+* [About the ME 24Hour – PAC](https://ispolitical.com/About-the-ME-24Hour-PAC)
+
+**Resources**
+
+[Elections Site](http://www.maine.gov/sos/cec/elec/)
+[Filing Calendar](https://www.maine.gov/ethics/deadlines/all)
+[Filing Guide](https://www.maine.gov/sos/cec/elec/candidate/index.html)
+
+**Supported Reports**
+
+ME 24 Hour – PAC (24 Hour Report)
+ME CFR (Campaign Finance Report)
+
+[Help File Home](/help/) | [Full Index](/Help-File-Directory/) | [Contact Support](mailto:support@ISPolitical.com)
+
+[⇑ About Compliance Reports](/About-Compliance-Reports)
+[« About the LA Form 203 Report](/About-the-LA-Form-2-3-Report)
+[When Are the Maine Filing Deadlines? »](/When-Are-the-Maine-Filing-Deadlines)
+
+---
+
+# ABOUT ACCOUNTING IN ISP
+
+About Accounting in ISP
+==========
+
+Use the Accounting tab in ISP to handle various financial duties.
+
+* [What Are MIA Donation Totals?](https://ispolitical.com/What-Are-MIA-Donation-Totals)
+* [What Are Key Statistics?](https://ispolitical.com/What-Are-Key-Statistics)
+* [About Transactions](https://ispolitical.com/About-Transactions)
+* [What Are Allocations & How Do I Use Them?](https://ispolitical.com/What-Are-Allocations-How-Do-I-Use-Them)
+* [About Balances](https://ispolitical.com/About-Balances)
+* [What Are Budgets and How Do I Add One?](https://ispolitical.com/What-Are-Budgets-and-How-Do-I-Add-One)
+* [What Are Intra-Account Transfers?](https://ispolitical.com/What-Are-Intra-Account-Transfers)
+* [What Is JFC Management?](https://ispolitical.com/What-Is-JFC-Management)
+* [About Check Printing](https://ispolitical.com/About-Check-Printing)
+* [What Is Bank Statement Reconciliation & How Do I Use It?](https://ispolitical.com/What-Is-Bank-Statement-Reconciliation-How-Do-I-Use-It)
+* [About Record Deposit](https://ispolitical.com/About-Record-Deposit)
+* [What Are Recurring Transactions and How Do I Add One?](https://ispolitical.com/What-Are-Recurring-Transactions-and-How-Do-I-Add-One)
+* [What Is the Register?](https://ispolitical.com/What-Is-the-Register)
+* [About Thank Donors](https://ispolitical.com/About-Thank-Donors)
+
+[Help File Home](/help/) | [Full Index](/Help-File-Directory/) | [Contact Support](mailto:support@ISPolitical.com)
+
+[« What Are Volunteer Sign Up Form Options in ISP?](/What-Are-Volunteer-Sign-Up-Form-Options-in-ISP)
+[What Are MIA Donation Totals? »](/What-Are-MIA-Donation-Totals)
+
+---
+
 # DIFFERENT OPTIONS FOR FEC FORM 3X FILING
 
 Different Options for FEC Form 3X Filing
@@ -10824,6 +20862,27 @@ Below are examples of when and why to use an Expense with Support/Oppose options
 
 ---
 
+# OKLAHOMA CAMPAIGN PARTY PAC FILING FAQ AND RESOURCES
+
+Oklahoma Campaign, Party, & PAC Filing FAQ and Resources
+==========
+
+Applies To: Oklahoma
+
+**Resources**
+
+[Elections Site](https://www.ok.gov/elections/index.html)
+[Filing Guides
+](https://www.ok.gov/ethics/Campaigns/index.html)[Filing Calendar](https://www.ok.gov/ethics/Campaigns/index.html)
+
+[Help File Home](/help/) | [Full Index](/Help-File-Directory/) | [Contact Support](mailto:support@ISPolitical.com)
+
+[⇑ About Compliance Reports](/About-Compliance-Reports)
+[« About the OH Form 30C Report](/About-the-OH-Form-3-C-Report)
+[Oregon Campaign, Party, & PAC Filing FAQ and Resources »](/Oregon-Campaign-Party-PAC-Filing-FAQ-and-Resources)
+
+---
+
 # HOW DO I RECORD PETTY CASH TRANSACTIONS
 
 How Do I Record Petty Cash Transactions?
@@ -10857,6 +20916,27 @@ This will impact your total Cash on Hand and depending on the amount and/or agen
 
 ---
 
+# IDAHO CAMPAIGN PARTY PAC FILING FAQ AND RESOURCES
+
+Idaho Campaign, Party, & PAC Filing FAQ and Resources
+==========
+
+Applies To: Idaho
+
+**Resources**
+
+[Elections Site](https://sos.idaho.gov/elections-division/)
+[Filing Guide](https://voteidaho.gov/campaign-finance-portal/)
+[Filing Calendar](https://voteidaho.gov/campaign-finance-portal/)
+
+[Help File Home](/help/) | [Full Index](/Help-File-Directory/) | [Contact Support](mailto:support@ISPolitical.com)
+
+[⇑ About Compliance Reports](/About-Compliance-Reports)
+[« When Are the Hawaii Filing Deadlines?](/When-Are-the-Hawaii-Filing-Deadlines)
+[When Are the Idaho Filing Deadlines? »](/When-Are-the-Idaho-Filing-Deadlines)
+
+---
+
 # HOW DO I REPORT INDIANA TRANSFERS IN
 
 How do I Report Indiana Transfers-In?
@@ -10875,6 +20955,53 @@ The report will pull Transfers-In from PACs to A-4, and all other Organizations 
 [⇑ Indiana Campaign, Party, & PAC Filing FAQ and Resources](/Indiana-Campaign-Party-PAC-Filing-FAQ-and-Resources)
 [« When Are the Indiana Filing Deadlines?](/When-Are-the-Indiana-Filing-Deadlines)
 [Iowa Campaign, Party, & PAC Filing FAQ and Resources »](/Iowa-Campaign-Party-PAC-Filing-FAQ-and-Resources)
+
+---
+
+# WHEN ARE THE LOUISIANA DEADLINES
+
+When Are the Louisiana Deadlines?
+==========
+
+Applies To: Louisiana
+
+Below are deadlines for Louisiana compliance report filing.
+
+The Filing Deadline information provided here is offered only as a reference aid. The provided deadline information may contain inaccuracies and may not include all special elections or deadlines. For agency-specific details please visit the [Louisiana Ethics](https://ethics.la.gov/CampFinanFilingSchedulesArch.aspx) website.
+
+527 Political Organization
+----------
+
+* 02/18/2025: LA Form 202
+
+Ballot Measure
+----------
+
+* 02/18/2025: LA Form 202
+
+Other
+----------
+
+* 02/18/2025: LA Form 202
+
+Party
+----------
+
+* 02/18/2025: LA Form 202
+
+Political Action Committee (PAC)
+----------
+
+* 02/18/2025: LA Form 202
+
+You’re able to add Filing Deadlines found in ISP to your own digital calendar with our [Calendar Feed](https://ispolitical.com/what-are-calendar-feeds/) tool.
+
+To see more information about Louisiana compliance report filing with ISP, please visit our [Louisiana Filing and FAQ Resources](https://ispolitical.com/louisiana-campaign-party-pac-filing-faq-and-resources/) page.
+
+[Help File Home](/help/) | [Full Index](/Help-File-Directory/) | [Contact Support](mailto:support@ISPolitical.com)
+
+[« Louisiana Campaign, Party, & PAC Filing FAQ and Resources](/Louisiana-Campaign-Party-PAC-Filing-FAQ-and-Resources)
+[About the LA Form 202 Report »](/About-the-LA-Form-2-2-Report)
 
 ---
 
@@ -10963,6 +21090,24 @@ Once these steps have been taken, you’ll see an Efile to Seattle button at the
 
 ---
 
+# WHAT IS MULTI DIMENSIONAL BUDGETING HOW DO I USE IT
+
+What Is Multi-Dimensional Budgeting & How Do I Use It?
+==========
+
+Multi-Dimensional Budgeting allows you to track Budget Categories in multiple ways. For example, a large organization has multiple physical branches that run semi-independently in different states. That organization could add a dimension for the different states the branches are in, which would allow them to track their transactions by both Budget Category and Dimension. In this instance, they could have transactions that are categorized as both Office Supplies and California.
+
+If you haven’t yet, first install the Multi-Dimensional Budgeting tool by going to Add/Remove Tool under the Tools tab. Once this is done or if it already installed, you can access the Budget Dimensions page by clicking the blue Dimensions button at the bottom of the Budget Categories page. On this page you can add, edit, and delete Budget Dimensions.
+
+Dimensions will also be an available field to search for in the Transactions report.
+
+[Help File Home](/help/) | [Full Index](/Help-File-Directory/) | [Contact Support](mailto:support@ISPolitical.com)
+
+[« What Are Budget Categories?](/What-Are-Budget-Categories)
+[What Are Communication Types? »](/What-Are-Communication-Types)
+
+---
+
 # HOW DO I SET UP AUTOMATED DRIP CAMPAIGNS
 
 How Do I Set up Automated Drip Campaigns?
@@ -10986,6 +21131,58 @@ In order to use this with Advanced Search, be sure you first have [Drip Campaign
 
 [« How Do I Create Drip Campaigns & Drip Emails?](/How-to-Create-Drip-Campaigns-Drip-Emails)
 [What Are Events & How Do I Use Them? »](/What-Are-Events-How-Do-I-Use-Them)
+
+---
+
+# WHEN ARE THE WEST VIRGINIA FILING DEADLINES
+
+When Are the West Virginia Filing Deadlines?
+==========
+
+Applies To: West Virginia
+
+Below are deadlines for West Virginia compliance report filing.
+
+The Filing Deadline information provided here is offered only as a reference aid. The provided deadline information may contain inaccuracies and may not include all special elections or deadlines. For agency-specific details please visit the [West Virginia SoS](https://sos.wv.gov/elections/Pages/default.aspx) website.
+
+527 Political Organization
+----------
+
+* 10/01/2024 – 10/07/2024: WV F7B
+* 10/21/2024 – 10/25/2024: WV F7B
+
+Ballot Measure
+----------
+
+* 10/01/2024 – 10/07/2024: WV F7B
+* 10/21/2024 – 10/25/2024: WV F7B
+
+Other
+----------
+
+* 10/01/2024 – 10/07/2024: WV F7B
+* 10/21/2024 – 10/25/2024: WV F7B
+
+Party
+----------
+
+* 10/01/2024 – 10/07/2024: WV F7B
+* 10/21/2024 – 10/25/2024: WV F7B
+
+Political Action Committee (PAC)
+----------
+
+* 10/01/2024 – 10/07/2024: WV F7B
+* 10/21/2024 – 10/25/2024: WV F7B
+
+You’re able to add Filing Deadlines found in ISP to your own digital calendar with our [Calendar Feed tool](https://ispolitical.com/what-are-calendar-feeds/).
+
+To see more information about West Virginia compliance report filing with ISP, please visit our [West Virginia Filing and FAQ Resources](https://ispolitical.com/west-virginia-campaign-party-pac-filing-faq-and-resources/) page.
+
+[Help File Home](/help/) | [Full Index](/Help-File-Directory/) | [Contact Support](mailto:support@ISPolitical.com)
+
+[« West Virginia Campaign, Party, & PAC Filing FAQ and Resources](/West-Virginia-Campaign-Party-PAC-Filing-FAQ-and-Resources)
+[About the WV F7 Report »](/About-the-WV-F7-Report)
 
 ---
 
@@ -11027,6 +21224,25 @@ Committee Type Info
 [⇑ About the FEC Form 3 Report](/About-the-FEC-Form-3-Report)
 [« Form 3 Errors and Warnings](/Form-Errors-and-Warnings)
 [Why Can’t I See the FEC Form 3P? »](/Why-Can-t-I-See-the-FEC-Form-3P)
+
+---
+
+# WHY ARE MY ACCRUED EXPENSES ITEMIZING INCORRECTLY ON THE WA C4
+
+Why Are My Accrued Expenses Itemizing Incorrectly on the WA C4?
+==========
+
+Applies To: Washington
+
+When filing a WA C4 Form, you may notice some accrued expenses will itemize despite being under the $750 itemization threshold.
+
+The most likely reason for this is because there are multiple outstanding accrued expenses owed to that entity. On the WA C4, an accrued expense will itemize if the total outstanding balance owed to that entity meets the itemization threshold. In other words, an accrued expense will itemize if there is at least $750 that is already owed or would be owed to a single entity.
+
+[Help File Home](/help/) | [Full Index](/Help-File-Directory/) | [Contact Support](mailto:support@ISPolitical.com)
+
+[⇑ About the WA C4 Report](/About-the-WA-C4-Report)
+[« How Do I Add and Report Accrued Expense Payments on the C4?](/How-Do-I-Add-and-Report-Accrued-Expense-Payments-on-the-C4)
+[About the WA Form C4 – Ballot Measure Report »](/About-the-WA-Form-C4-Ballot-Measure-Report)
 
 ---
 
@@ -11078,6 +21294,36 @@ If you plan on generating this list on a regular basis, click the Save & Run Sea
 
 ---
 
+# HOW DO I SET UP THE NUMERO INTEGRATION
+
+How Do I Set up the Numero Integration?
+==========
+
+Numero is a credit card processing option that seamlessly integrates with ISP. Numero provides their clients with personalized onboarding to help them get set up and running one their integration with the compliance software is complete. This integration is for campaign fundraising and call time software for Democrats.
+
+When new donations are processed, we pull that data from Numero via an API. If it is a recurring monthly donation, Numero will provide us with the new donation each month. From our standpoint, nothing in the information we receive indicates it being recurring. We also don’t do any sort of pre-entry because recurring donations sometimes fail or are canceled.
+
+How Do I Add the Numero Integration?
+----------
+
+1. Go to the Integrations tab and select Add/Remove Integrations.
+
+2. Search for Numero or you can scroll through the available integrations until you reach the Numero.
+
+3. When the search populates the integration, click to install it on your ISP database.
+
+4. After adding the integration to your ISP database you will need to email Numero at support@numero.ai to complete the setup. Please remember they will need the short account name of your ISP account.
+
+5. Once the integration is set up, there will be a Numero integration page under the Integrations menu. On this page, you can view how many transactions have come through so far. You can also determine whether you want Expenses to import, Contributions to import, or both.
+
+[Help File Home](/help/) | [Full Index](/Help-File-Directory/) | [Contact Support](mailto:support@ISPolitical.com)
+
+[⇑ About Integrations in ISP](/About-Integrations-in-ISP)
+[« Ninja Forms Integration Setup](/Ninja-Forms-Integration-Setup)
+[How Do I Set Up and Use the NetFile Integration? »](/How-Do-I-Set-Up-and-Use-the-NetFile-Integration)
+
+---
+
 # WHAT ARE KEY STATISTICS
 
 What Are Key Statistics?
@@ -11116,6 +21362,58 @@ You also have the option of creating a Key Statistics Scheduled Report. This all
 [⇑ About Accounting in ISP](/About-Accounting-in-ISP)
 [« What Are MIA Donation Totals?](/What-Are-MIA-Donation-Totals)
 [About Transactions »](/About-Transactions)
+
+---
+
+# WHEN ARE THE MASSACHUSETTS FILING DEADLINES
+
+When Are the Massachusetts Filing Deadlines?
+==========
+
+Applies To: Massachusetts
+
+Below are deadlines for Massachusetts compliance report filing.
+
+The Filing Deadline information provided here is offered only as a reference aide. The provided deadline information may contain inaccuracies and may not include all special elections or deadlines. For agency specific details, please visit the [Massachusetts Elections Division](https://www.sec.state.ma.us/ele/) webpage.
+
+Candidate
+----------
+
+* 10/27/2050: MA Deposit Report (Delete This)
+
+Political Action Committee (PAC)
+----------
+
+* 10/27/2050: MA Deposit Report (Delete This)
+
+You’re able to add Filing Deadlines found in ISP to your own digital calendar with our [Calendar Feed](https://ispolitical.com/what-are-calendar-feeds/) tool.
+
+To see more information about Massachusetts compliance report filing with ISP, please visit our [Massachusetts Filing and FAQ Resources](https://ispolitical.com/Massachusetts-Campaign-Party-PAC-Filing-FAQ-and-Resources/) page.
+
+[Help File Home](/help/) | [Full Index](/Help-File-Directory/) | [Contact Support](mailto:support@ISPolitical.com)
+
+[« Massachusetts Campaign, Party, & PAC Filing FAQ and Resources](/Massachusetts-Campaign-Party-PAC-Filing-FAQ-and-Resources)
+[About the MA Deposit Report »](/About-the-MA-Deposit-Report)
+
+---
+
+# HOW CAN I USE ISP IN MY FAVOR
+
+How Can I Use ISP in My Favor?
+==========
+
+Use these links to understand the benefit of the many features and tools ISP has.
+
+* [What Are ISP Best Practices?](https://ispolitical.com/What-Are-ISP-Best-Practices)
+* [What Are Accounting Practices to Keep In Mind?](https://ispolitical.com/What-Are-Accounting-Practices-to-Keep-In-Mind)
+* [How Can I Best Manage Duplicates in My Database?](https://ispolitical.com/How-Can-I-Best-Manage-Duplicates-in-My-Database)
+* [Compliance Errors and Descriptions in ISP](https://ispolitical.com/Compliance-Errors-and-Descriptions-in-ISP)
+* [What Are Volunteer Sign Up Form Options in ISP?](https://ispolitical.com/What-Are-Volunteer-Sign-Up-Form-Options-in-ISP)
+
+[Help File Home](/help/) | [Full Index](/Help-File-Directory/) | [Contact Support](mailto:support@ISPolitical.com)
+
+[« What Do the Different Button Colors Mean?](/What-Do-the-Different-Button-Colors-Mean)
+[What Are ISP Best Practices? »](/What-Are-ISP-Best-Practices)
 
 ---
 
@@ -11301,6 +21599,31 @@ MA Non Depository Periodic
 [⇑ About Compliance Reports](/About-Compliance-Reports)
 [« Maryland Campaign, Party, & PAC Filing FAQ and Resources](/Maryland-Campaign-Party-PAC-Filing-FAQ-and-Resources)
 [Michigan Campaign, Party, & PAC Filing FAQ and Resources »](/Michigan-Campaign-Party-PAC-Filing-FAQ-and-Resources)
+
+---
+
+# ABOUT CONSULTANT TOOLS IN ISP
+
+About Consultant Tools in ISP
+==========
+
+Some ISP users are considered Consultants. This means they work across multiple accounts they have access to.
+
+If you are a Consultant, at the bottom right of each screen is a dropup menu labeled Consultant Tools. Clicking this opens up a list of various pages you can access. Each page will allow you to perform various tasks, some in bulk across your accounts.
+
+* [What Is ai@ISP in Consultant Tools?](https://ispolitical.com/What-Is-ai-ISP-in-Consultant-Tools)
+* [What Is Data Flow and How Do I Use It?](https://ispolitical.com/What-Is-Data-Flow-and-How-Do-I-Use-It)
+* [What Is the File Compliance Reports Page in Consultant Tools?](https://ispolitical.com/What-Is-the-File-Compliance-Reports-Page-in-Consultant-Tools)
+* [What Is the Filing Deadlines Calendar in Consultant Tools?](https://ispolitical.com/What-Is-the-Filing-Deadlines-Calendar-in-Consultant-Tools)
+* [What Are Key Stats in Consultant Tools?](https://ispolitical.com/What-Are-Key-Stats-in-Consultant-Tools)
+* [What Is Cross-Account Check Printing in Consulting Tools?](https://ispolitical.com/What-Is-Cross-Account-Check-Printing-in-Consulting-Tools)
+* [What Is the My Firm Page in Consultant Tools?](https://ispolitical.com/What-Is-the-My-Firm-Page-in-Consultant-Tools)
+* [What Is the Firm Details Page in Consultant Tools?](https://ispolitical.com/What-Is-the-Firm-Details-Page-in-Consultant-Tools)
+
+[Help File Home](/help/) | [Full Index](/Help-File-Directory/) | [Contact Support](mailto:support@ISPolitical.com)
+
+[« What Are Hotkeys?](/What-Are-Hotkeys)
+[What Is ai@ISP in Consultant Tools? »](/What-Is-ai-ISP-in-Consultant-Tools)
 
 ---
 
@@ -11537,6 +21860,30 @@ Using Advanced Search, you can also set up [automatic Drip Campaigns](https://is
 
 ---
 
+# WHEN ARE THE WISCONSIN FILING DEADLINES
+
+When Are the Wisconsin Filing Deadlines?
+==========
+
+Applies To: Wisconsin
+
+Below are deadlines for Wisconsin compliance report filing.
+
+The Filing Deadline information provided here is offered only as a reference aid. The provided deadline information may contain inaccuracies and may not include all special elections or deadlines. For agency-specific details please visit the [Wisconsin SoS website](https://ethics.wi.gov/Pages/home.aspx).
+
+***No deadlines are currently found.***
+
+You’re able to add Filing Deadlines found in ISP to your own digital calendar with our [Calendar Feed tool](https://ispolitical.com/what-are-calendar-feeds/).
+
+To see more information about Wisconsin compliance report filing with ISP, please visit our [Wisconsin Filing and FAQ Resources](https://ispolitical.com/wisconsin-campaign-party-pac-filing-faq-and-resources/) page.
+
+[Help File Home](/help/) | [Full Index](/Help-File-Directory/) | [Contact Support](mailto:support@ISPolitical.com)
+
+[« Wisconsin Campaign, Party, & PAC Filing FAQ and Resources](/Wisconsin-Campaign-Party-PAC-Filing-FAQ-and-Resources)
+[How Do I File My Wisconsin Report? »](/How-Do-I-File-My-Wisconsin-Report)
+
+---
+
 # WHAT ARE KEY STATS IN CONSULTANT TOOLS
 
 What Are Key Stats in Consultant Tools?
@@ -11729,6 +22076,63 @@ When filing an amendment in ISP, the system will ask you for the Original Filing
 
 ---
 
+# HOW DO I SET UP THE WINRED INTEGRATION
+
+How Do I Set up the WinRed Integration?
+==========
+
+Our integration partners sometimes make updates to their system that we are unaware of. If the steps provided in our help file don’t match what you see on their site, please contact our support team and we will assist you in getting the integration properly set up.
+
+WinRed integrates directly with ISP, allowing you to have the information from your WinRed account transfer directly into your ISP account.
+
+1. Under the Integrations tab, select Add/Remove
+
+2. Locate the WinRed integration in the Available section
+
+3. Click the integration to install it
+
+After you have completed the setup process on ISP’s side, head over to your WinRed account.
+
+1. Log in to your WinRed account at portal.winred.com
+2. Navigate to Utilities, then select the Integrations tab
+3. Click ISP
+4. Enter your Integration name, any notes, your ISP account name, and toggle the Integration Status to On. Click Save.
+
+Once the integration is set up, the system will automatically create a WinRed organization record in the account with WinRed’s details.
+
+When new donations are processed, we pull that data from WinRed via an API. If it is a recurring monthly donation, WinRed will provide us with the new donation each month. From our standpoint, nothing in the information we receive indicates it being recurring. We also don’t support any sort of pre-entry because recurring donations sometimes fail or are canceled.
+
+You can control how your transactions come into ISP through the Auto-Import settings on the [ai@ISP page](https://ispolitical.com/what-is-ai-isp/).
+
+Linking a Donation Page
+
+----------
+
+With WinRed, you can also link a donation page for easy access from within ISP.
+
+To link a donation page, navigate to the Integrations tab, click the WinRed option. Below the integration status is a Donation Page section. This allows you to link your WinRed donation page. Enter a Name for the Donation Page and the URL address. If you want to have multiple Donation Page options, you can add more than one.
+
+Once the Donation Page has been added and your donation page linked, you’ll be able to add donations directly through ISP. This option will be found in two locations: Individual Search Results and Add Transaction.
+
+In Individual Search Results, after a search is performed and the results appear, click the hot dog menu and select Enter Credit Card: WinRed Individual Record Details: When in the record, click the Add button at the bottom of the screen and select Enter Credit Card.
+
+When the link opens, the entity’s basic contact info will auto-populate, and you’ll see fields to enter in donation information. The donation will be processed by Winred and come into ISP via the regular integration method.
+
+**Related Information**
+
+* [How Do I Use Quick Imports for WinRed Transactions?](https://ispolitical.com/How-Do-I-Use-Quick-Imports-for-WinRed-Transactions)
+* [How Do I Create a WinRed Conduit Check?](https://ispolitical.com/How-Do-I-Create-a-WinRed-Conduit-Check)
+* [WinRed Integration Troubleshooting](https://ispolitical.com/WinRed-Integration-Troubleshooting)
+* [How Do I Export Data Out of WinRed for Quick Imports in ISP?](https://ispolitical.com/How-Do-I-Export-Data-Out-of-WinRed-for-Quick-Imports-in-ISP)
+
+[Help File Home](/help/) | [Full Index](/Help-File-Directory/) | [Contact Support](mailto:support@ISPolitical.com)
+
+[⇑ About Integrations in ISP](/About-Integrations-in-ISP)
+[« How Do I Add the Targeted Victory Integration?](/How-Do-I-Add-the-Targeted-Victory-Integration)
+[How Do I Use Quick Imports for WinRed Transactions? »](/How-Do-I-Use-Quick-Imports-for-WinRed-Transactions)
+
+---
+
 # WHAT ARE WEBHOOKS AND HOW DO I USE THEM
 
 What Are Webhooks and How Do I Use Them?
@@ -11775,6 +22179,31 @@ To file your report, you must download the Excel file and then upload it to the 
 
 ---
 
+# HOW DO I GET STARTED IN ISP
+
+How Do I Get Started in ISP?
+==========
+
+* [Which Browser Should I Use?](https://ispolitical.com/Which-Browser-Should-I-Use)
+* [What Is the Multi-Account Dashboard?](https://ispolitical.com/What-Is-the-Multi-Account-Dashboard)
+* [What Is the Initial Account Set Up & Agreement?](https://ispolitical.com/What-Is-the-Initial-Account-Set-Up-Agreement)
+* [What Are the Tabs on the Dashboard?](https://ispolitical.com/What-Are-the-Tabs-on-the-Dashboard)
+* [How Do I Set Up My Compliance Reporting?](https://ispolitical.com/How-Do-I-Set-Up-My-Compliance-Reporting)
+* [How Do I Get Data in My New Database?](https://ispolitical.com/How-Do-I-Get-Data-in-My-New-Database)
+* [How Do I Use Quick Search?](https://ispolitical.com/How-Do-I-Use-Quick-Search)
+* [What Are the Dashboard Charts and Graphs?](https://ispolitical.com/What-Are-the-Dashboard-Charts-and-Graphs)
+* [What Is the Dashboard Customization?](https://ispolitical.com/What-Is-the-Dashboard-Customization)
+* [What Are the Key Statistics on the Dashboard?](https://ispolitical.com/What-Are-the-Key-Statistics-on-the-Dashboard)
+* [What Are Pending Imports and How Do I Process Them?](https://ispolitical.com/What-Are-Pending-Imports-and-How-Do-I-Process-Them)
+* [What Do the Different Button Colors Mean?](https://ispolitical.com/What-Do-the-Different-Button-Colors-Mean)
+
+[Help File Home](/help/) | [Full Index](/Help-File-Directory/) | [Contact Support](mailto:support@ISPolitical.com)
+
+[« Professional Political Firm Directory](/Professional-Political-Firm-Directory)
+[Which Browser Should I Use? »](/Which-Browser-Should-I-Use)
+
+---
+
 # NEW WASHINGTON FILING SYSTEM
 
 New Washington Filing System
@@ -11795,6 +22224,72 @@ For Seattle filers – Seattle is still using their old filing system. Seattle r
 [⇑ Washington Campaign, Party, & PAC Filing FAQ and Resources](/Washington-Campaign-Party-PAC-Filing-FAQ-and-Resources)
 [« About the WA Form C4 – Non-Candidate](/About-the-WA-Form-C4-Non-Candidate)
 [What Is the WA PDC Last Minute Contributions Report? »](/What-Is-the-WA-PDC-Last-Minute-Contributions-Report)
+
+---
+
+# USEFUL INFORMATION IN ISP
+
+Useful Information in ISP
+==========
+
+* [General Tools and Tips](https://ispolitical.com/General-Tools-and-Tips)
+* [How Do I Pull a Final Export on My Own?](https://ispolitical.com/How-Do-I-Pull-a-Final-Export-on-My-Own)
+* [How Do I Capture Video With Windows 10?](https://ispolitical.com/How-Do-I-Capture-Video-With-Windows-1)
+
+[Help File Home](/help/) | [Full Index](/Help-File-Directory/) | [Contact Support](mailto:support@ISPolitical.com)
+
+[« What Is the Firm Details Page in Consultant Tools?](/What-Is-the-Firm-Details-Page-in-Consultant-Tools)
+[General Tools and Tips »](/General-Tools-and-Tips)
+
+---
+
+# HAWAII CAMPAIGN PARTY PAC FILING FAQ AND RESOURCES
+
+Hawaii Campaign, Party, & PAC Filing FAQ and Resources
+==========
+
+Applies To: Hawaii
+
+**Resources**
+
+[Elections Site](https://elections.hawaii.gov/)
+[Filing Guide](https://ags.hawaii.gov/campaign/cc/cc-guidance/)
+[Filing Calendar](https://ags.hawaii.gov/campaign/cc/cc-reporting-schedules/)
+
+[Help File Home](/help/) | [Full Index](/Help-File-Directory/) | [Contact Support](mailto:support@ISPolitical.com)
+
+[⇑ About Compliance Reports](/About-Compliance-Reports)
+[« About the GA CCDR (Easy Vote) Report](/About-the-GA-CCDR-Easy-Vote-Report)
+[When Are the Hawaii Filing Deadlines? »](/When-Are-the-Hawaii-Filing-Deadlines)
+
+---
+
+# WHY ISN T THE SPLIT OF MY ACCRUED EXPENSE PAYMENT SHOWING ON MY FEC REPORT
+
+Why Isn’t the Split of My Accrued Expense Payment Showing on My FEC Report?
+==========
+
+Applies To: Federal Election Commission
+
+The splits of a standard Expense will pull to a report once the established itemization threshold has been met. The splits of an Accrued Expense Payment, on the other hand, will pull to a report ONLY when the first Accrued Expense Payment is made. This is due to FEC rules.
+
+Additionally, because the FEC wants to see splits of Accrued Expenses when the first payment is made, the Accrued Expense Payment may appear on a report other than the report that contained the original Accrued Expense.
+
+However, on the back end, all the Accrued Expenses and Accrued Expense Payment transactions are linked so the FEC can tell which splits belong to which payment.
+
+Here’s an example:
+
+During the final quarter of the year, there is an Accrued Expense to an individual where a vendor is the split.
+
+During the first quarter of the following year, there is a payment to this Accrued Expense.
+
+Since the FEC wants to see splits of Accrued Expenses when the first payment is made, the vendor will pull to the report during the first quarter of the following year, even though the Accrued Expense is from the previous year.
+
+[Help File Home](/help/) | [Full Index](/Help-File-Directory/) | [Contact Support](mailto:support@ISPolitical.com)
+
+[⇑ FEC Campaign, Party, & PAC Filing FAQ and Resources](/FEC-Campaign-Party-PAC-Filing-FAQ-and-Resources)
+[« What Are Estimated Expenses for Form 5 and 24/48 Hour IE Reports?](/Estimated-Expenses-for-Form-and-hour-IE-reports)
+[About the FEC Form 1 Report »](/About-the-FEC-Form-1-Report)
 
 ---
 
@@ -11824,6 +22319,103 @@ Based on agency limitations, ISP supports both types of reports. However, some f
 
 [« About Compliance Reports](/About-Compliance-Reports)
 [About Generating and Filing Compliance Reports »](/About-Generating-and-Filing-Compliance-Reports)
+
+---
+
+# POLITICAL CAMPAIGN SOFTWARE REPORTS AND DASHBOARDS
+
+Political Campaign Software Reports and Dashboards
+==========
+
+<img alt="Screenshot 2024-05-09 at 11.58.33 AM" src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%203696%202104'%3E%3C/svg%3E" title="Screenshot 2024-05-09 at 11.58.33 AM" height="2104" width="3696" />\<img fetchpriority="high" decoding="async" class="fl-photo-img wp-image-1491 size-full" src="https://ispolitical.com/wp-content/uploads/2024/05/Screenshot-2024-05-09-at-11.58.33 AM.png" alt="Screenshot 2024-05-09 at 11.58.33 AM" itemprop="image" height="2104" width="3696" title="Screenshot 2024-05-09 at 11.58.33 AM" srcset="https://ispolitical.com/wp-content/uploads/2024/05/Screenshot-2024-05-09-at-11.58.33 AM.png 3696w, https://ispolitical.com/wp-content/uploads/2024/05/Screenshot-2024-05-09-at-11.58.33 AM-300x171.png 300w, https://ispolitical.com/wp-content/uploads/2024/05/Screenshot-2024-05-09-at-11.58.33 AM-1024x583.png 1024w, https://ispolitical.com/wp-content/uploads/2024/05/Screenshot-2024-05-09-at-11.58.33 AM-768x437.png 768w, https://ispolitical.com/wp-content/uploads/2024/05/Screenshot-2024-05-09-at-11.58.33 AM-1536x874.png 1536w, https://ispolitical.com/wp-content/uploads/2024/05/Screenshot-2024-05-09-at-11.58.33 AM-2048x1166.png 2048w" sizes="(max-width: 3696px) 100vw, 3696px" /\>
+
+Managing political campaign finances with accuracy and transparency is crucial for success. At ISPolitical, our reports and dashboards on our political campaign finance reporting and accounting software provide comprehensive insights into every facet of campaign funding, helping to streamline your efforts and ensure compliance. Here’s a look at the key features and recent updates in our dashboard and reporting software, designed to give you a competitive edge.
+
+Profit and Loss Reports
+----------
+
+A campaign would fail in a hurry if you didn’t know what your overall financial health looked like. Our software provides easy profit and loss statements and reports that make keeping track effortless. The Profit & Loss statement provides an in-depth view of your finances, helping you analyze income and expenses. You can choose between cash or accrual-based accounting, break down the report by months, and even schedule it for automatic delivery. This functionality simplifies financial planning and keeps your campaign on track.
+
+Transaction Reporting
+----------
+
+Our powerful transaction reporting tool allows you to customize how you view financial transactions. Filter by dates, elections, notes, amount, entity types, and more. This flexibility enables you to generate lists with precisely the fields you need and you can save your preferences for future use! It’s a valuable tool for managing campaign finances efficiently.
+
+Scheduled Reports
+----------
+
+Every time you generate a compliance report, our software checks for potential issues, such as incomplete addresses, missing occupations, invalid descriptions, and calculation discrepancies. This feature minimizes errors, making it easier to avoid embarrassing and costly filing mistakes. Additionally, you can schedule reports to automatically update and notify you of any necessary corrections, simplifying the compliance process.
+
+Missing Address Information
+----------
+
+Legal requirements demand specific address information, and our software includes a dedicated report for identifying and correcting missing data. Schedule this report to receive an email notification whenever issues arise, ensuring you stay ahead of filing deadlines and avoid [compliance](https://ispolitical.com/compliance/) issues. Keeping your ducks in a row was never easier!
+
+Advanced Search
+----------
+
+Our advanced search functionality allows you to target specific groups, refining your campaign strategy. For example, you can identify individuals who have donated to previous elections but not the current one and who live within a 100-mile radius of wherever your campaign headquarters are. This feature enables you to engage with your audience more effectively, making campaign outreach smoother.
+
+Key Statistics
+----------
+
+The Key Stats report offers a concise overview of essential campaign metrics. Schedule this report for automatic delivery to your candidate and campaign manager, ensuring they have all the information they need to make informed decisions on the fly. The scheduled delivery feature ensures daily updates, keeping everyone on the same page.
+
+User Activity
+----------
+
+While all campaign members should be working cohesively, it’s important to monitor activity to ensure alignment. The User Activity report enables you to review staff work and verify they’re performing as expected. This transparency fosters accountability and ensures your campaign stays on course.
+
+Cash Crunch
+----------
+
+Our campaign finance reporting software includes various standard financial reports, like those in traditional accounting systems. However, we understand that politics is unique, which is why we developed the Cash Crunch report. This report distinguishes between short-term and long-term debt, providing clarity in managing campaign finances, particularly during the final days before an election. With this feature, you gain a realistic view of your resources, making critical financial decisions easier.
+
+FAQs
+----------
+
+### How does ISP's political campaign accounting software integrate with other campaign tools or systems? ###
+
+ISP's software offers seamless integration with popular campaign management tools, CRMs, and email marketing platforms. This interoperability ensures smooth data flow between different aspects of your campaign, reducing manual input and making it easier to manage all campaign facets in one cohesive system.
+
+### Can ISP's software accommodate multi-state campaigns with different compliance requirements? ###
+
+Absolutely. ISP's software is designed to handle multi-state campaigns and their varying compliance requirements. It offers tailored compliance checks for different states, ensuring your reports adhere to each state's specific regulations and minimizing the risk of compliance errors.
+
+### Does ISP's software provide support for managing online donations and recurring contributions? ###
+
+Yes, ISP's software includes tools to manage [political campaign fundraising](https://ispolitical.com/fundraising/), like online donations and recurring contributions. You can track donations in real time, set up automated receipt issuance, and generate reports that reflect these contributions, making it easier to manage your campaign's funding streams.
+
+What Does Your Campaign Accounting Dashboard Look Like?
+----------
+
+Having an at-a-glance picture of what matters most to you is why having a customizable dashboard is important. With ISP, you can set up your reports to show the precise information you want them to contain, and to be sent out automatically. You can set up your dashboard to give you a high-view and drill-downs on the metrics that weigh in most heavily so you know exactly where you stand at all times.
+
+Our political campaign [accounting software](https://ispolitical.com/) offers robust tools to streamline campaign finances and ensure compliance. From profit and loss reports to advanced search capabilities, these features simplify managing campaign funds, freeing you to focus on winning votes. With regular updates to our reports and dashboards, our software stays ahead of the curve and up to date with campaign rules and changes. ISP is a comprehensive solution for political campaign accounting needs that can help your campaign succeed!
+
+You May Like These Blogs
+----------
+
+[Simplifying Campaign Finance with ISP’s Essential Tools](https://ispolitical.com/simplifying-campaign-finance-with-isps-essential-tools/)
+----------
+
+Managing a campaign’s finances can be complex and time-consuming. However, ISP’s suite of campaign finance solutions and tools is designed…
+
+[Read More](https://ispolitical.com/simplifying-campaign-finance-with-isps-essential-tools/)
+
+[Understanding FEC Filing Deadlines: The Breakdown](https://ispolitical.com/understanding-fec-filing-deadlines-the-breakdown/)
+----------
+
+The Federal Election Commission (FEC) plays a pivotal role in maintaining the integrity of campaign finance in the United States.…
+
+[Read More](https://ispolitical.com/understanding-fec-filing-deadlines-the-breakdown/)
+
+[Why You Should Have a Professional Campaign Treasurer](https://ispolitical.com/why-you-should-have-a-professional-campaign-treasurer/)
+----------
+
+Running a political campaign is a complex and demanding endeavor. Amidst the whirlwind of events, rallies, and policy planning, one…
+
+[Read More](https://ispolitical.com/why-you-should-have-a-professional-campaign-treasurer/)
 
 ---
 
@@ -11887,6 +22479,27 @@ On the main page, you can click the gender name to edit it or click the red X to
 
 ---
 
+# HOW CAN I FORCE ITEMIZE TRANSACTIONS BELOW THE ITEMIZATION THRESHOLD
+
+How Can I Force-Itemize Transactions Below the Itemization Threshold?
+==========
+
+The Bulk Update tool allows you to itemize transactions regardless of their amount.
+
+1. Click the Reports menu and then click Financial.
+2. Select the Transactions report from the Report drop-down menu.
+3. Now, you need to set up a report to isolate the transactions you’re trying to itemize. For example, if you want to itemize five Expenses from April that are $100 each, you’d input Expense as the Transaction Type and $0-$100 for the Amount Range field.
+4. Once you’ve set up a report to isolate the transactions, hit Generate. Scroll down to the results and verify that the correct transactions have been isolated.
+5. If everything looks good, hit Actions and then Bulk Update.
+6. Hit Update again and then hit Update Force Itemize.
+
+[Help File Home](/help/) | [Full Index](/Help-File-Directory/) | [Contact Support](mailto:support@ISPolitical.com)
+
+[« How and When Do I Use Bulk Update?](/How-and-When-Do-I-Use-Bulk-Update)
+[About Fundraising/Analysis Reports »](/About-Fundraising-Analysis-Reports)
+
+---
+
 # WHAT ARE NOMINEE FUND TRANSFERS
 
 What Are Nominee Fund Transfers?
@@ -11930,6 +22543,180 @@ If money was spent at multiple vendors by one individual, click Add Another to a
 [⇑ About Transactions](/About-Transactions)
 [« How Do I Add a Contribution to Other Committees?](/How-Do-I-Add-a-Contribution-to-Other-Committees)
 [What Are Allocations & How Do I Use Them? »](/What-Are-Allocations-How-Do-I-Use-Them)
+
+---
+
+# WHEN ARE THE CONNECTICUT FILING DEADLINES
+
+When Are the Connecticut Filing Deadlines?
+==========
+
+Applies To: Connecticut
+
+Below are deadlines for Connecticut compliance report filing.
+
+The Filing Deadline information provided here is offered only as a reference aide. The provided deadline information may contain inaccuracies and may not include all special elections or deadlines. For agency specific details please visit the [Connecticut SEEC Filing Calendars page](https://seec.ct.gov/Portal/filingcalendars).
+
+Candidate
+----------
+
+* 07/10/2024: CT Form 20
+* 07/10/2024: CT Form 30
+* 07/18/2024: CT Form 30
+* 07/25/2024: CT Form 30
+* 08/01/2024: CT Form 30
+* 08/06/2024: CT Form 20
+* 08/06/2024: CT Form 30
+* 08/08/2024: CT Form 30
+* 09/12/2024: CT Form 20
+* 09/12/2024: CT Form 30
+* 10/09/2024: CT Form 30
+* 10/10/2024: CT Form 20
+* 10/10/2024: CT Form 30
+* 10/24/2024: CT Form 30
+* 10/29/2024: CT Form 20
+* 10/29/2024: CT Form 30
+* 10/31/2024: CT Form 30
+* 11/12/2024: CT Form 20
+* 11/12/2024: CT Form 30
+* 11/18/2024: CT Form 20
+* 11/18/2024: CT Form 30
+* 12/18/2024: CT Form 30
+* 01/10/2025: CT Form 20
+* 01/10/2025: CT Form 30
+* 02/07/2025: CT Form 20
+* 02/07/2025: CT Form 30
+* 04/07/2025: CT Form 20
+* 04/07/2025: CT Form 30
+* 04/10/2025: CT Form 30
+* 07/07/2025: CT Form 30
+
+Independent Expenditure
+----------
+
+* 07/10/2024: CT Form 40
+* 08/06/2024: CT Form 40
+* 10/10/2024: CT Form 40
+* 10/29/2024: CT Form 40
+* 01/01/2025: CT Form 40
+* 02/07/2025: CT Form 40 (Deficit Filing Following General Election or Referendum)
+* 04/07/2025: CT Form 40 (Termination Filing Following General Election or Referendum)
+
+Other
+----------
+
+* 07/10/2024: CT Form 30
+* 07/18/2024: CT Form 30
+* 07/25/2024: CT Form 30
+* 08/01/2024: CT Form 30
+* 08/06/2024: CT Form 30
+* 08/08/2024: CT Form 30
+* 09/12/2024: CT Form 30
+* 10/09/2024: CT Form 30
+* 10/10/2024: CT Form 30
+* 10/24/2024: CT Form 30
+* 10/29/2024: CT Form 30
+* 10/31/2024: CT Form 30
+* 11/12/2024: CT Form 30
+* 11/18/2024: CT Form 30
+* 12/18/2024: CT Form 30
+* 01/10/2025: CT Form 30
+* 02/07/2025: CT Form 30
+* 04/07/2025: CT Form 30
+* 04/10/2025: CT Form 30
+* 07/07/2025: CT Form 30
+
+Party
+----------
+
+* 07/10/2024: CT Form 20
+* 08/06/2024: CT Form 20
+* 09/12/2024: CT Form 20
+* 10/10/2024: CT Form 20
+* 10/29/2024: CT Form 20
+* 11/12/2024: CT Form 20
+* 11/18/2024: CT Form 20
+* 01/10/2025: CT Form 20
+* 02/07/2025: CT Form 20
+* 04/07/2025: CT Form 20
+
+Political Action Committee (PAC)
+----------
+
+* 07/10/2024: CT Form 20
+* 08/06/2024: CT Form 20
+* 09/12/2024: CT Form 20
+* 10/10/2024: CT Form 20
+* 10/29/2024: CT Form 20
+* 11/12/2024: CT Form 20
+* 11/18/2024: CT Form 20
+* 01/10/2025: CT Form 20
+* 02/07/2025: CT Form 20
+* 04/07/2025: CT Form 20
+
+You’re able to add Filing Deadlines found in ISP to your own digital calendar with our [Calendar Feed tool](https://ispolitical.com/Calendar-Feeds).
+
+To see more information about Connecticut compliance report filing with ISP, please visit our [Connecticut Filing and FAQ Resources](https://ispolitical.com/connecticut-campaign-party-pac-filing-faq-and-resources/) page.
+
+[Help File Home](/help/) | [Full Index](/Help-File-Directory/) | [Contact Support](mailto:support@ISPolitical.com)
+
+[« Connecticut Campaign, Party, & PAC Filing FAQ and Resources](/Connecticut-Campaign-Party-PAC-Filing-FAQ-and-Resources)
+[SEEC Form 20 (CT) Line by Line »](/SEEC-Form-2-CT-Line-by-Line)
+
+---
+
+# WHEN ARE THE IOWA FILING DEADLINES
+
+When Are the Iowa Filing Deadlines?
+==========
+
+Applies To: Iowa
+
+Below are deadlines for Iowa compliance report filing.
+
+The Filing Deadline information provided here is offered only as a reference aide. The provided deadline information may contain inaccuracies and may not include all special elections or deadlines. For agency specific details, please visit the [Iowa Secretary of State](https://sos.iowa.gov/elections/candidates/index.html) webpage.
+
+***No deadlines are currently found.***
+
+You’re able to add Filing Deadlines found in ISP to your own digital calendar with our [Calendar Feed](https://ispolitical.com/what-are-calendar-feeds/) tool.
+
+To see more information about Iowa compliance report filing with ISP, please visit our [Iowa Filing and FAQ Resources](https://ispolitical.com/Iowa-Campaign-Party-PAC-Filing-FAQ-and-Resources/) page.
+
+[Help File Home](/help/) | [Full Index](/Help-File-Directory/) | [Contact Support](mailto:support@ISPolitical.com)
+
+[« Iowa Campaign, Party, & PAC Filing FAQ and Resources](/Iowa-Campaign-Party-PAC-Filing-FAQ-and-Resources)
+[About the IA Form DR2 Report »](/About-the-IA-Form-DR2)
+
+---
+
+# WHEN ARE THE NEVADA FILING DEADLINES
+
+When Are the Nevada Filing Deadlines?
+==========
+
+Applies To: Nevada
+
+Below are deadlines for Nevada compliance report filing.
+
+The Filing Deadline information provided here is offered only as a reference aid. The provided deadline information may contain inaccuracies and may not include all special elections or deadlines. For agency-specific details please visit the [Nevada SoS website](https://www.nvsos.gov/sos/elections/party-committee-information/committees-for-political-action-pac/pac-important-reporting-dates).
+
+Candidate
+----------
+
+* 07/15/2024: NV Candidate Contributions and Expenditures (CE #2)
+* 10/15/2024: NV Candidate Contributions and Expenditures (CE #3)
+* 01/15/2025: NV Candidate Contributions and Expenditures (CE #4)
+* 01/15/2025: NV Candidate Contributions and Expenditures (Annual)
+
+You’re able to add Filing Deadlines found in ISP to your own digital calendar with our [Calendar Feed tool](https://ispolitical.com/what-are-calendar-feeds/).
+
+To see more information about Nevada compliance report filing with ISP, please visit our [Nevada Filing and FAQ Resources page](https://ispolitical.com/nevada-campaign-party-pac-filing-faq-and-resources/).
+
+[Help File Home](/help/) | [Full Index](/Help-File-Directory/) | [Contact Support](mailto:support@ISPolitical.com)
+
+[⇑ Nevada Campaign, Party, & PAC Filing FAQ and Resources](/Nevada-Campaign-Party-PAC-Filing-FAQ-and-Resources)
+[« About the NV Candidate Contributions and Expenditures Report](/About-the-NV-Candidate-Contributions-and-Expenditures-Report)
+[What’s the Difference Between E-file and Paper Only Reports for Nevada? »](/What-s-the-Difference-Between-E-file-and-Paper-Only-Reports-for-Nevada)
 
 ---
 
@@ -11981,6 +22768,44 @@ To e-file with KS, you need to download the e-file from our system and upload it
 [⇑ Kansas Campaign, Party, & PAC Filing FAQ and Resources](/Kansas-Campaign-Party-PAC-Filing-FAQ-and-Resources)
 [« When Are the Kansas Filing Deadlines?](/When-Are-the-Kansas-Filing-Deadlines)
 [About the KS Last Minute Report »](/About-the-KS-Last-Minute-Report)
+
+---
+
+# HOW DO I ISOLATE OUT OF STATE INCOME USING ADVANCED SEARCH
+
+How Do I Isolate Out-Of-State Income Using Advanced Search?
+==========
+
+If you’d like to figure out the amount of donations you’ve received that are from out of state, you can do so with Advanced Search.
+
+1. Click on the Add/Search menu, then click on Advanced Search.
+2. Your first rule is going to set up your Entities. You can choose to limit this to Individuals and Organizations, or you can include everything.
+
+* Area: Entities
+* Field: Entity Type
+* Relationship: Is Any Of
+* Value: Individual, Organization, Other Entity
+
+3. Now, we need to isolate out-of-state addresses.
+
+* Area: Addresses
+* Field: State
+* Relationship: Is Not Any Of
+* Value: [Your state]
+
+4. Select Save & Run Search and give this search a name.
+5. After you save the search, navigate to Reports, then select Financial.
+6. In the Report drop-down menu, select the Transactions report.
+7. Select your chosen date range.
+8. In the Transaction Type box, input Monetary Contribution.
+9. In the Advanced Searches field near the bottom, select the Advanced Search you saved earlier. If you can’t find the Advanced Searches field, you may have to scroll down. If you still don’t see it, select Add Row near the top of this page, and add the Advanced Searches row.
+10. Generate.
+
+[Help File Home](/help/) | [Full Index](/Help-File-Directory/) | [Contact Support](mailto:support@ISPolitical.com)
+
+[⇑ What Are Advanced Search Recipes?](/What-Are-Advanced-Search-Recipes)
+[« How Do I Exclude Results Based on Flags Using Advanced Search?](/How-Do-I-Exclude-Results-Based-on-Flags-Using-Advanced-Search)
+[How Do I Find All PACs That Gave in the Primary and General Cycle? »](/How-Do-I-Find-All-PACs-That-Gave-in-the-Primary-and-General-Cycle)
 
 ---
 
@@ -12194,6 +23019,508 @@ CA Filers: S/O Memos are not required for payments to Slate Mailers.
 
 ---
 
+# FEC FORM 3X PARTY HOW DO I PULL A TRANSACTION TO A SPECIFIC LINE
+
+FEC Form 3X (Party): How Do I Pull a Transaction to a Specific Line?
+==========
+
+Applies To: Federal Election Commission – Party Committees
+
+Below is a breakdown of each Receipt and Disbursement line on the Form 3x (Party). If you are looking to pull a specific transaction to a specific spot, or want to know how transactions pull to the FEC Form 3x (Party), you will find that information below.
+
+### Schedule A ###
+
+**Line 11ai: Contribution From Individuals/Persons Other Than Political Committees**
+
+* Transaction Types: Monetary Contributions, Inkind Contributions
+* Financial Account: Not State or Levin
+* Entities: All entities besides Political Committees
+
+**Line 11b: Contribution From Political Party Committees**
+
+No transactions show on this line. All transactions from a Party Committee to a Party Committee are considered a transfer and will show on Line 12.
+
+**Line 11c: Contributions From Other Political Committees (such as PACs)**
+
+* Transaction Types: Monetary Contributions, Inkind Contributions
+* Financial Account: Not State or Levin
+* Entites: All Political Committees but not Party Committees
+
+**Line 12: Transfers From Other Authorized Committees**
+
+Group 1: Contributions that are Transfers
+
+* Transaction Types: Monetary Contributions
+* Transaction Tag: Transfer
+* Financial Account: Not State or Levin
+* Entites: Political Committees
+
+Group 2: Contributions from related Entities
+
+* Transaction Types: Monetary Contributions, Inkind Contributions
+* Financial Account: Not State or Levin
+* Entities: Political Committees with a Relationship with the filer (example: Authorized Committee)
+
+Group 3: Contributions from Political Party Committees
+
+* Transaction Types: Monetary Contributions, Inkind Contributions
+* Financial Account: Not State or Levin
+* Entities: Political Party Committees
+
+**Line 13: All Loans Received**
+
+* Transaction Types: Loans Received
+* Financial Account: Not State or Levin
+
+**Line 14: Loan Repayments Received**
+
+* Transaction Types: Loan Made Repayments
+* Financial Account: Not State or Levin
+
+**Line 15: Offsets to Operating Expenditures (Refunds, Rebates, etc.)**
+
+* Transaction Types: Refunded Expenses
+* Transaction Tag: All except Refund of Contribution Made
+* Financial Account: Not State or Levin
+
+**Line 16: Refunds of Contributions Made to Federal Candidates and Other Political Committees**
+
+* Transaction Types: Refunded Expenses
+* Transaction Tag: Refund of Contribution Made
+* Financial Account: Not State or Levin
+
+**Line 17: Other Receipts (Dividends, Interest, etc.)**
+
+Group 1: Contribution from Other source
+
+* Transaction Types: Other Income
+* Financial Account: Not State or Levin
+
+Group 2: Carey Contribution
+
+* Transaction Types: Monetary Contributions
+* Financial Account: Carey
+
+### Schedule B ###
+
+**Line 21a (Sch H4): Allocated Federal/Non-Federal Activity**
+
+Group 1: Expenses, Accrued Expense Payments, and Refunded Expenses
+
+* Transaction Types: Expenses, Accrued Expense Payments, Refunded Expenses
+* Allocation Types: Administrative, Voter Drive, Exempt, Public Communications, Direct Fundraising, Direct Candidate Support
+
+Group 2: Splits of Accrued Expenses
+
+* Transaction Types: Splits of Accrued Expenses
+* Allocation Types: Administrative, Voter Drive, Exempt, Public Communications, Direct Fundraising, Direct Candidate Support
+* Financial Account: Not State or Levin
+
+Note: Splits of Accrued Expenses are reported as a memo (no cash impact) only when the first Accrued Expense Payment is made. If a memo does not appear under the parent transaction on a report, this may be due to the nature of the original Accrued Expense. According to FEC rules, Splits on the original Accrued Expense only pull when thefirst Accrued Expense Payment is made.
+
+Group 3: Inkind Contributions
+
+* Transaction Types: Inkind Contributions
+* Allocation Types: Administrative, Voter Drive, Exempt, Public Communications, Direct Fundraising, Direct Candidate Support
+* Financial Account: State
+
+**Line 21b: Other Federal Operating Expenditures**
+
+Group 1: Expenses and Accrued Expense Payments
+
+* Transaction Types: Expenses, Accrued Expense Payments
+* Not Allocated
+* Financial Account: Not State or Levin
+* Entities: Any besides Party Committee
+
+Group 2: Splits of Accrued Expenses
+
+* Transaction Types: Splits of Accrued Expense
+* Not Allocated
+* Financial Account: Not State or Levin
+* Entities: Any besides Party Committee
+
+Note: Splits of Accrued Expenses are reported as a memo (no cash impact) only when the first Accrued Expense Payment is made.
+
+Group 3: IEs to Support and Oppose Paid Before Dissemination
+
+* Transaction Types: Support/Oppose Memos
+* Transaction Tag: IE to Support or IE to Oppose
+* Not Allocated
+* Financial Account: Not State or Levin
+
+Note: The original expense pulls to Line 21b only if the original expense date is earlier than the IE date. When the IE date is in the period, the transaction will move to Line 24. The transaction will appear as a negative on Line 21b and then a positive on Line 24.
+
+Group 4: Inkind Contributions
+
+* Transaction Types: Inkind Contributions
+* Entites: All except Party Committee
+
+Note: Inkind contributions are reported as both contributions and expenses for a net zero cash impact. If the original Inkind came from a party committee, it will itemize on Sch B no matter the amount.
+
+Group 5: Conduit Fees
+
+* Transaction Types: Monetary Contributions
+* Transaction Tag: Conduit – Conduit Check
+* Financial Account: Not State or Levin
+
+Note: ISP automatically calculates processing fees based on difference of total of donations and the deposit amount.
+
+Group 6: Exempt Party Activities
+
+* Transaction Types: Support/Oppose Memos
+* Transaction Tag: None
+* Original Transaction Types: Expenses, Non-Monetary Expenses, Accrued Expense Payments with the Tag: Exempt Party Activities
+* Not Allocated
+* Financial Account: Not State or Levin
+* Entities: Party Committee
+
+**Line 22: Transfers to Other Authorized Committees**
+
+Group 1: Expenses to Related Political Committees
+
+* Transaction Types: Expenses
+* Entities: Political Committees with Relationship with the Filer
+
+Group 2: Expenses with dependent Reattribution or Redesignation
+
+* Transaction Types: Expenses
+* Transaction Tag: Has a dependent support/oppose memo with tag reattribution or redesignation
+* Entities: Political Committees with Relationship with the Filer
+
+Note: These will be reported as memos.
+
+Group 3: Expenses and similar transactions to Party Committees
+
+* Transaction Types: Expenses, Accrued Expense Payments, Loans Made, Loan Received Repayments
+* Not Allocated
+* Financial Account: Not State or Levin
+* Entities: Party Committees
+
+Group 4: Support/Oppose Memos to Party Committees
+
+* Transaction Types: Support/Oppose Memos
+* Transaction Tag: None
+* Original Transaction Types: Expense, Non-Monetary Expenses, Accrued Expense Payments
+* Not Allocated
+* Financial Account: Not State or Levin
+* Entities: Party Committees
+
+Group 5: Split of Accrued Expenses to Party Committees
+
+* Transaction Types: Splits of Accrued Expenses
+* Not Allocated
+* Financial Account: Not State or Levin
+* Entities: Party Committees
+
+Note: Splits of Accrued Expenses are reported as a memo (no cash impact) only when the first Accrued Expense Payment is made.
+
+Group 6: Inkind Contributions from Party Committees
+
+* Transaction Types: Inkind Contributions
+* Entities: Party Committees
+
+Note: Inkind contributions are reported as both contributions and expenses for a net zero cash impact.
+
+**Line 23: Contributions to Federal Candidates/Committees and Other Political Committees**
+
+Group 1: Support/Oppose Memos
+
+* Transaction Types: Support/Oppose Memos
+* Transaction Tag: None
+* Original Transaction Types: Expenses, Non-Monetary Expenses, Accrued Expense Payments
+* Not Allocated
+* Financial Account: Not State or Levin
+* Entities: All except Party Committee
+
+Note: Support/Oppose memos must be to an entity that has a Federal jurisdiction
+
+Group 2: Splits of Accrued Expenses with Support/Oppose Memos
+
+* Transaction Types: Splits of Accrued Expenses
+* Not Allocated
+* Financial Account: Not State or Levin
+* Entities: All except Party Committee
+
+Note: Original Accrued Expenses must have a Support/Oppose Memo; Support/Oppose memos must be to an entity that has a Federal jurisdiction; Splits of Accrued Expenses are reported as a memo (no cash impact) only when the first Accrued Expense Payment is made.
+
+**Line 24: Independent Expenditure (Schedule E)**
+
+* Transaction Types: Support/Oppose Memos (Jurisdiction must be Federal)
+* Transaction Tag: IE to Support, IE to Oppose
+* Original Transaction Types: Expenses, Non-Monetary Expenses, Accrued Expenses
+* Not Allocated
+* Financial Account: Not State or Levin
+
+Note: Support/Oppose memos must be to an entity that has a Federal jurisdiction
+
+When there is an Accrued Expense with no payment:
+
+1. We disclose the Independent Expenditure information on Sch E as a memo. Per request of the FEC, we do not disclose a payment date, just a dissemination date.
+2. The original Accrued Expense is still disclosed on Sch D.
+
+When there is a payment on the Accrued Expense:
+
+1. We disclose the payment to the original entity on Sch E. We removed the Support/Oppose information from this transaction, and added the memo text “Debt Payment. See additional transactions for Independent Expenditure details.”
+2. We disclose the Independent Expenditure information as a memo. We pull the Accrued Expense Payment date (not the original Accrued Expense date) as the payment date.
+
+**Line 25: Coordinated Party Expenditures (Schedule F)**
+
+* Transaction Types: Support/Oppose Memos
+* Transaction Tag: Coordinated
+* Original Transaction Types: Expenses, Non-Monetary Expenses, Accrued Expenses
+* Not Allocated
+* Financial Account: Not State or Levin
+
+**Line 26: Loan Repayments Made**
+
+* Transaction Types: Loan Received Repayments
+
+**Line 27: Loans Made**
+
+* Transaction Types: Loans Made
+
+**Line 28a: Refunds of Contributions to Individuals/Persons other than Political Committees**
+
+* Transaction Types: Refunded Contributions, Inkind Contributions (Reversals)
+* Entities: All except Political Committees or the Candidate
+
+**Line 28b: Refunds of Contributions to Political Party Committees**
+
+* Transaction Types: Refunded Contributions, Inkind Contributions (Reversals)
+* Entities: Political Party Committees
+
+**Line 28c: Refunds of Contributions to Other Political Committees (such as PACs)**
+
+* Transaction Types: Refunded Contributions, Inkind Contributions (Reversals)
+* Entities: All Political Committees except Party Committees
+
+**Line 29: Other Disbursements**
+
+Group 1: Non-Federal Support/Oppose Memos
+
+* Transaction Types: Support/Oppose Memos
+* Transaction Tag: None, IE to Support, IE to Oppose
+* Original Transaction Types: Expenses, Non-Monetary Expenses, Accrued Expense Payments
+* Not Allocated
+* Financial Account: Not State or Levin
+* Entities: All except Party Committee
+
+Note: Support/Oppose memos must be to an entity that does not have a Federal jurisdiction
+
+Group 2: Expenses and other Transactions with Reporting Code 012
+
+* Transaction Types: Expenses, Accrued Expense Payments, Non-Monetary Expenses
+* Reporting Code: 012
+* Entities: All except Party Committees
+
+Group 3: Non-Monetary Expenses
+
+* Transaction Types: Non-Monetary Expenses
+* Entities: All except Party Committee
+
+Group 4: Split of Accrued Expense with Reporting Code 012
+
+* Transaction Types: Splits of Accrued Expenses with Reporting Code 012
+* Not Allocated
+* Financial Accounts: Not State or Levin
+* Entities: All except Party Committee
+
+Note: Splits of Accrued Expenses are reported as a memo (no cash impact) only when the first Accrued Expense Payment is made.
+
+Group 5: Other Splits of Accrued Expense
+
+* Transaction Types: Splits of Accrued Expenses
+* Not Allocated
+* Financial Account: Not State or Levin
+* Entities: All except Party Committees
+
+Note: Original Accrued Expenses must have a Support/Oppose Memo; Support/Oppose memos must be to an entity that does not have a Federal jurisdiction; Splits of Accrued Expenses are reported as a memo (no cash impact) only when the first Accrued Expense Payment is made.
+
+**Line 30a (Sch H6): Allocated Federal/Levin Election Activity**
+
+Group 1: Levin Disbursements
+
+* Transaction Types: Expenses, Accrued Expense Payments, Refunded Expenses
+* Allocation Type: Voter Registration (Levin), Voter ID (Levin), GOTV (Levin), Generic Campaign Activity (Levin)
+
+Group 2: Splits of Levin Disbursements
+
+* Transaction Types: Splits of Accrued Expenses
+* Allocation Type: Voter Registration (Levin), Voter ID (Levin), GOTV (Levin), Generic Campaign Activity (Levin)
+* Financial Account: Not State or Levin
+
+Note: Splits of Accrued Expenses are reported as a memo (no cash impact) only when the first Accrued Expense Payment is made.
+
+Group 3: Levin Inkind Contributions
+
+* Transaction Types: Inkind Contribution
+* Allocation Type: Voter Registration (Levin), Voter ID (Levin), GOTV (Levin), Generic Campaign Activity (Levin)
+* The Financial Account is marked for Levin use
+
+**Line 30b: Federal Election Activity Paid Entirely With Federal Funds**
+
+Group 1: Expenses and other Transactions with Tag 100% FEA
+
+* Transaction Types: Expenses, Accrued Expense Payments, Non-Monetary Expenses
+* Not Allocated
+* Transaction Tag: 100% FEA
+* Financial Account: Not State or Levin
+
+Group 2: Splits of Accrued Expenses with Tag 100% FEA
+
+* Transaction Types: Splits of Accrued Expenses
+* Not Allocated
+* Transaction Tag: 100% FEA
+* Financial Account: Not State or Levin
+
+Note: Splits of Accrued Expenses are reported as a memo (no cash impact) only when the first Accrued Expense Payment is made.
+
+Group 3: Support/Oppose Memos with Tag 100% FEA
+
+* Transaction Types: Support/Oppose Memos
+* Transaction Tag: 100% FEA
+* Original Transaction Types: Expenses, Non-Monetary Expenses
+* Not Allocated
+* Financial Account: Not State or Levin
+
+Note: Support/Oppose memos must be to an entity that has a Federal jurisdiction. The 100% FEA Tag will always pull Support/Oppose memos to line 30b even if there are Independent Expenditures indicated.
+
+Schedule C: All Loans Received
+----------
+
+Group 1: Loans Received
+
+* Transaction Types: Loans Received
+* Financial Account: Not State or Levin
+
+Group 2: Loan Received Guarantees
+
+* Transaction Types: Loan Received Guarantees
+* Financial Account: Not State or Levin
+
+**Schedule C1: Loans and Lines Of Credit From Lending Institutions**
+
+* Transaction Types: Loans Received
+* Financial Account: Not State or Levin
+* Entities: Financial Institutions, Credit Card Issuers
+
+**Schedule D: Debts and Obligations**
+
+* Transaction Types: Accrued Expenses
+* Financial Account: Not State or Levin
+
+Note: If debts appear on an incorrect line, then ensure that previously filed reports have been marked as filed.
+
+**Schedule H1: Method of Allocation**
+
+* Allocation: Administrative, Exempt, Public Communications, Voter Drive
+
+**Schedule H2: Allocation Ratios for Allocable Fundraising Events and Direct Candidate Support Activities Appearing on this Report**
+
+* Transaction Types: Allocation Transfers, Expenses, Refunded Expenses, Accrued Expense Payments, Inkind Contributions
+* Allocation: Direct Candidate Support, Direct Fundraising
+
+Note: Schedule H2 reports on allocations rather than individual transaction. It will only report an allocation if there is one or more transactions with that allocation on the current report.
+
+**Schedule H3: Transfers from Nonfederal Accounts for Allocated Federal / Nonfederal Activity**
+
+Group 1: Allocation Transfers
+
+* Transaction Types: Allocation Transfers
+* Allocation: Administrative, Voter Drive, Exempt, Public Communications, Direct Fundraising, Direct Candidate Support
+
+Group 2: State Allocated Inkind Contributions
+
+* Transaction Types: Inkind Contributions
+* Allocation: Administrative, Voter Drive, Exempt, Public Communications, Direct Fundraising, Direct Candidate Support
+* Financial Account: State
+
+**Schedule H4: Allocated Federal/Non-Federal Activity**
+
+* See Line 21a (Sch H4).
+
+**Schedule H5: Transfers from Levin Accounts for Allocated Federal Election Activity**
+
+Group 1: Allocation Transfers
+
+* Transaction Types: Allocation Transfers
+* Allocation: Voter Registration (Levin), Voter ID (Levin), GOTV (Levin), Generic Campaign Activity (Levin)
+
+Group 2: Levin Allocated Inkind Contributions
+
+* Transaction Types: Inkind Contributions
+* Allocation: Voter Registration (Levin), Voter ID (Levin), GOTV (Levin), Generic Campaign Activity (Levin)
+* Financial Account: Levin
+
+**Schedule H6: Allocated Federal / Levin Election Activity**
+
+* See Line 30a (Sch H6).
+
+**Schedule L-A, Line 1a: Receipts from Persons**
+
+* Transaction Types: Monetary Contributions, Loans Received
+* Not Allocated
+* Financial Account: Levin
+
+**Schedule L-A, Line 2: Other Receipts**
+
+* Transaction Types: Other Income, Refunded Expenses
+* Not Allocated
+* Financial Account: Levin
+
+**Schedule L-B, Line 4a: Transfers To Federal Or Allocation Account (Voter Registration)**
+
+* Transaction Types: Allocation Transfers
+* Allocation: Voter Registration (Levin)
+
+**Schedule L-B, Line 4b: Transfers To Federal Or Allocation Account (Voter ID)**
+
+* Transaction Types: Allocation Transfers
+* Allocation: Voter ID (Levin)
+
+**Schedule L-B, Line 4c: Transfers To Federal Or Allocation Account (GOTV)**
+
+* Transaction Types: Allocation Transfers
+* Allocation: GOTV (Levin)
+
+**Schedule L-B, Line 4d: Transfers To Federal Or Allocation Account (Generic Campaign)**
+
+* Transaction Types: Allocation Transfers
+* Allocation: Generic Campaign Activity (Levin)
+
+**Schedule L-B, Line 5: Other Disbursements**
+
+Group 1: Levin Expenses and other Transactions
+
+* Transaction Types: Expenses, Loan Received Repayments, Accrued Expense Payments, Refunded Contributions
+* Not Allocated
+* Financial Account: Levin
+
+Group 2: Levin Splits of Accrued Expenses
+
+* Transaction Types: Splits of Accrued Expenses
+* Not Allocated
+* Financial Account: Levin
+
+Note: Splits of Accrued Expenses are reported as a memo (no cash impact) only when the first Accrued Expense Payment is made.
+
+Group 3: Levin Conduit Fees
+
+* Transaction Types: Monetary Contributions
+* Transaction Tag: Conduit – Conduit Check
+* Financial Account: Levin
+
+Note: ISP automatically calculates processing fees based on difference of total of donations and the deposit amount.
+
+[Help File Home](/help/) | [Full Index](/Help-File-Directory/) | [Contact Support](mailto:support@ISPolitical.com)
+
+[⇑ FEC Campaign, Party, & PAC Filing FAQ and Resources](/FEC-Campaign-Party-PAC-Filing-FAQ-and-Resources)
+[« What Is the 0% Federal Allocation Used For?](/what-is-the-0-federal-allocation-used-for)
+[About the FEC Form 5 Report »](/About-the-FEC-Form-5-Report)
+
+---
+
 # HOW DO I E FILE WITH ORESTAR
 
 How Do I E-file With ORESTAR?
@@ -12288,6 +23615,30 @@ NOTE: all information relating to ORESTAR was copied from the ORESTAR User’s M
 [⇑ Oregon Campaign, Party, & PAC Filing FAQ and Resources](/Oregon-Campaign-Party-PAC-Filing-FAQ-and-Resources)
 [« How Do I Pull “Employer/Occupation letter sent date” for Reporting?](/How-Do-I-Pull-Employer-Occupation-letter-sent-date-for-Reporting)
 [Pennsylvania Campaign, Party, & PAC Filing FAQ and Resources »](/Pennsylvania-Campaign-Party-PAC-Filing-FAQ-and-Resources)
+
+---
+
+# WHEN ARE THE ARKANSAS FILING DEADLINES
+
+When Are the Arkansas Filing Deadlines?
+==========
+
+Applies To: Arkansas
+
+Below are deadlines for Arkansas compliance report filing.
+
+The Filing Deadline information provided here is offered only as a reference aide. The provided deadline information may contain inaccuracies and may not include all special elections or deadlines. For agency specific details, please visit the [Arkansas Secretary of State](https://www.sos.arkansas.gov/elections) webpage.
+
+***No deadlines are currently found.***
+
+You’re able to add Filing Deadlines found in ISP to your own digital calendar with our [Calendar Feed](https://ispolitical.com/what-are-calendar-feeds/) tool.
+
+To see more information about Arkansas compliance report filing with ISP, please visit our [Arkansas Filing and FAQ Resources](https://ispolitical.com/Arkansas-Campaign-Party-PAC-Filing-FAQ-and-Resources/) page.
+
+[Help File Home](/help/) | [Full Index](/Help-File-Directory/) | [Contact Support](mailto:support@ISPolitical.com)
+
+[« Arkansas Campaign, Party, & PAC Filing FAQ and Resources](/Arkansas-Campaign-Party-PAC-Filing-FAQ-and-Resources)
+[California Campaign, Party, & PAC Filing FAQ and Resources »](/California-Campaign-Party-PAC-Filing-FAQ-and-Resources)
 
 ---
 
@@ -12386,6 +23737,27 @@ It’s important to note that transfers are inherently not directly tied to cont
 
 ---
 
+# ARKANSAS CAMPAIGN PARTY PAC FILING FAQ AND RESOURCES
+
+Arkansas Campaign, Party, & PAC Filing FAQ and Resources
+==========
+
+Applies To: Arkansas
+
+**Resources**
+
+[Elections Site](https://www.sos.arkansas.gov/elections)
+[Arkansas Filing Guide](https://www.arkansasethics.com/entity-specific-guidance/#/)
+[Arkansas Filing Calendar](https://www.sos.arkansas.gov/elections/information-for-candidates/)
+
+[Help File Home](/help/) | [Full Index](/Help-File-Directory/) | [Contact Support](mailto:support@ISPolitical.com)
+
+[⇑ About Compliance Reports](/About-Compliance-Reports)
+[« About the AZ IE Trigger Report](/About-the-AZ-IE-Trigger-Report)
+[When Are the Arkansas Filing Deadlines? »](/When-Are-the-Arkansas-Filing-Deadlines)
+
+---
+
 # HOW DO I SET UP AND USE THE NETFILE INTEGRATION
 
 How Do I Set Up and Use the NetFile Integration?
@@ -12458,6 +23830,52 @@ Please note you can turn on and off the feed at your convenience.
 
 ---
 
+# WHAT IS THE DASHBOARD CUSTOMIZATION
+
+What Is the Dashboard Customization?
+==========
+
+With the Dashboard Customization, you can determine which sections appear on the dashboard. You can also create various kinds of dashboard layouts to suit specific needs.
+
+To begin, click the Change Layout button at the bottom of the screen. If you already have layouts created, click the name of the layout you’d like to see. Otherwise, to create one, select Manage.
+
+On the resulting screen, click Add Custom Dashboard at the bottom of the screen. You will be redirected to the Dashboard Layout Manager screen. In the Name field, add a title of the layout you want to create. Next, click and drag sections from the left over to the field just below the Name field.
+
+The available sections are as follows:
+
+* **Announcements:** Displays recent ISP product updates.
+* **API Stats Over Time:** Displays the number of API submissions received over time.
+* **Balances:** Displays outstanding transactions.
+* **Best Practices**
+* **Budget:** Displays any Budgets you have created. Shows your budgeted amount versus the actual amount you’ve spent.
+* **Cash on Hand Over Time:** A graph displaying your cash-on-hand over the last 1.5 years.
+* **Disbursement by Budget Category:** A pie chart showing your disbursements broken down by their Budget Category.
+* **Dropbox**
+* **Election Key Stats:** Shows donation count, donation amount, and donor count for the Elections in your database.
+* **Featured Help File:** Gives a link to a random help file; designed to be an introduction to help files.
+* **Getting Started:** Provides links to adding records, adding transactions, and setting up your filer record.
+* **Invoice Ready**
+* **Key Contacts:** This section is a combination of records you have the most contact with and also the records you most recently contacted.
+* **Key Statistics:** A broad overview of the financial information in your account.
+* **Links:** A storage spot for any links you frequently visit. You can add any links you want.
+* **Missing Phone:** An opportunity for you to add your phone number if we don’t have one on file.
+* **Net Worth Report:** Shows the balances of your bank accounts, as well as any outstanding transactions.
+* **Pledge Aging**
+* **Quotes:** Random quotes from some of history’s most famous individuals.
+* **Receipts by Budget Category:** A pie chart showing your receipts broken down by their Budget Category.
+* **Recent Transactions:** Displays transactions recently added to your database.
+* **Records to Import:** Transactions waiting to be imported into your account from an integration. The AI will leave any potential duplicate records here for you to make the judgment call.
+* **Reminders:** These are on a per-user basis. Useful if you have set any email or phone call reminders to call any potential donors.
+* **Transactions Over the Limit:** Shows transactions over the limit and the limit checks used to determine the results.
+
+[Help File Home](/help/) | [Full Index](/Help-File-Directory/) | [Contact Support](mailto:support@ISPolitical.com)
+
+[⇑ How Do I Get Started in ISP?](/How-Do-I-Get-Started-in-ISP)
+[« What Are the Dashboard Charts and Graphs?](/What-Are-the-Dashboard-Charts-and-Graphs)
+[What Are the Key Statistics on the Dashboard? »](/What-Are-the-Key-Statistics-on-the-Dashboard)
+
+---
+
 # WHAT ARE MIA DONATION TOTALS
 
 What Are MIA Donation Totals?
@@ -12471,6 +23889,52 @@ You can find MIA Donation amounts in the Key Statistics on the Dashboard, in ent
 
 [« About Accounting in ISP](/About-Accounting-in-ISP)
 [What Are Key Statistics? »](/What-Are-Key-Statistics)
+
+---
+
+# ABOUT REPORTS IN ISP
+
+About Reports in ISP
+==========
+
+The Reports tab covers both Compliance and Financial reports.
+
+* [About Compliance Reports](https://ispolitical.com/About-Compliance-Reports)
+* [About Compliance Tools](https://ispolitical.com/About-Compliance-Tools)
+* [Compliance Report Post-Generation](https://ispolitical.com/Compliance-Report-Post-Generation)
+* [Policy on Legal Advice](https://ispolitical.com/Policy-on-Legal-Advice)
+* [About Financial Reports](https://ispolitical.com/About-Financial-Reports)
+* [About Fundraising/Analysis Reports](https://ispolitical.com/About-Fundraising-Analysis-Reports)
+* [How Do I Create a Scheduled Report?](https://ispolitical.com/How-Do-I-Create-a-Scheduled-Report)
+
+[Help File Home](/help/) | [Full Index](/Help-File-Directory/) | [Contact Support](mailto:support@ISPolitical.com)
+
+[« How Do I Locate Uncontacted Individuals Using Advanced Search?](/How-Do-I-Locate-Uncontacted-Individuals-Using-Advanced-Search)
+[About Compliance Reports »](/About-Compliance-Reports)
+
+---
+
+# WHEN ARE THE KANSAS FILING DEADLINES
+
+When Are the Kansas Filing Deadlines?
+==========
+
+Applies To: Kansas
+
+Below are deadlines for Kansas compliance report filing.
+
+The Filing Deadline information provided here is offered only as a reference aide. The provided deadline information may contain inaccuracies and may not include all special elections or deadlines. For agency specific details, please visit the [Kansas campaign finance FAQ](http://ethics.ks.gov/CFAForms/FrequentlyAskedQuestions.html).
+
+***No deadlines are currently found.***
+
+You’re able to add Filing Deadlines found in ISP to your own digital calendar with our [Calendar Feed tool](https://ispolitical.com/Calendar-Feeds).
+
+To see more information about Kansas compliance report filing with ISP, please visit our [Kansas Filing and FAQ Resources](https://ispolitical.com/kansas-campaign-party-pac-filing-faq-and-resources/) page.
+
+[Help File Home](/help/) | [Full Index](/Help-File-Directory/) | [Contact Support](mailto:support@ISPolitical.com)
+
+[« Kansas Campaign, Party, & PAC Filing FAQ and Resources](/Kansas-Campaign-Party-PAC-Filing-FAQ-and-Resources)
+[About the KS PAC Report »](/About-the-KS-PAC-Report)
 
 ---
 
@@ -12490,6 +23954,91 @@ Log in with your agency-created username and password to e-file your report at t
 [⇑ Minnesota Campaign, Party, & PAC Filing FAQ and Resources](/Minnesota-Campaign-Party-PAC-Filing-FAQ-and-Resources)
 [« MN CAND Report: Line By Line](/MN-CAND-Report-Line-By-Line)
 [Mississippi Campaign, Party, & PAC Filing FAQ and Resources »](/Mississippi-Campaign-Party-PAC-Filing-FAQ-and-Resources)
+
+---
+
+# WHEN ARE THE NEW MEXICO FILING DEADLINES
+
+When Are the New Mexico Filing Deadlines?
+==========
+
+Applies To: New Mexico
+
+Below are deadlines for New Mexico compliance report filing.
+
+The Filing Deadline information provided here is offered only as a reference aid. The provided deadline information may contain inaccuracies and may not include all special elections or deadlines. For agency-specific details please visit the [New Mexico SoS website](https://www.sos.state.nm.us/candidate-and-campaigns/how-to-become-a-candidate/campaign-finance-reporting-schedule/).
+
+527 Political Organization
+----------
+
+* 09/09/2024: NM Campaign Finance Report (First General)
+* 10/15/2024: NM Campaign Finance Report (Second General)
+* 10/15/2024: NM Campaign Finance Report (Second Biannual)
+* 10/31/2024: NM Campaign Finance Report (Third General)
+* 01/07/2025: NM Campaign Finance Report (Fourth General)
+
+Ballot Measure
+----------
+
+* 09/09/2024: NM Campaign Finance Report (First General)
+* 10/15/2024: NM Campaign Finance Report (Second General)
+* 10/15/2024: NM Campaign Finance Report (Second Biannual)
+* 10/31/2024: NM Campaign Finance Report (Third General)
+* 01/07/2025: NM Campaign Finance Report (Fourth General)
+
+Candidate
+----------
+
+* 09/09/2024: NM Campaign Finance Report (First General)
+* 10/15/2024: NM Campaign Finance Report (Second General)
+* 10/15/2024: NM Campaign Finance Report (Second Biannual)
+* 10/31/2024: NM Campaign Finance Report (Third General)
+* 01/07/2025: NM Campaign Finance Report (Fourth General)
+
+Independent Expenditure
+----------
+
+* 09/09/2024: NM Campaign Finance Report (First General)
+* 10/15/2024: NM Campaign Finance Report (Second General)
+* 10/15/2024: NM Campaign Finance Report (Second Biannual)
+* 10/31/2024: NM Campaign Finance Report (Third General)
+* 01/07/2025: NM Campaign Finance Report (Fourth General)
+
+Other
+----------
+
+* 09/09/2024: NM Campaign Finance Report (First General)
+* 10/15/2024: NM Campaign Finance Report (Second General)
+* 10/15/2024: NM Campaign Finance Report (Second Biannual)
+* 10/31/2024: NM Campaign Finance Report (Third General)
+* 01/07/2025: NM Campaign Finance Report (Fourth General)
+
+Party
+----------
+
+* 09/09/2024: NM Campaign Finance Report (First General)
+* 10/15/2024: NM Campaign Finance Report (Second General)
+* 10/15/2024: NM Campaign Finance Report (Second Biannual)
+* 10/31/2024: NM Campaign Finance Report (Third General)
+* 01/07/2025: NM Campaign Finance Report (Fourth General)
+
+Political Action Committee (PAC)
+----------
+
+* 09/09/2024: NM Campaign Finance Report (First General)
+* 10/15/2024: NM Campaign Finance Report (Second General)
+* 10/15/2024: NM Campaign Finance Report (Second Biannual)
+* 10/31/2024: NM Campaign Finance Report (Third General)
+* 01/07/2025: NM Campaign Finance Report (Fourth General)
+
+You’re able to add Filing Deadlines found in ISP to your own digital calendar with our [Calendar Feed tool](https://ispolitical.com/what-are-calendar-feeds/).
+
+To see more information about New Mexico compliance report filing with ISP, please visit our [New Mexico Filing and FAQ Resources page](https://ispolitical.com/new-mexico-campaign-party-pac-filing-faq-and-resources/).
+
+[Help File Home](/help/) | [Full Index](/Help-File-Directory/) | [Contact Support](mailto:support@ISPolitical.com)
+
+[« New Mexico Campaign, Party, & PAC Filing FAQ and Resources](/New-Mexico-Campaign-Party-PAC-Filing-FAQ-and-Resources)
+[About the NM Campaign Finance Report »](/About-the-NM-Campaign-Finance-Report)
 
 ---
 
@@ -12546,6 +24095,30 @@ Log in to your [state account](https://www.ocpf.us/Filers/Index) to file.
 
 ---
 
+# WHEN ARE THE MISSISSIPPI DEADLINES
+
+When Are the Mississippi Deadlines?
+==========
+
+Applies To: Mississippi
+
+Below are deadlines for Mississippi compliance report filing.
+
+The Filing Deadline information provided here is offered only as a reference aide. The provided deadline information may contain inaccuracies and may not include all special elections or deadlines. For agency specific details please visit the Mississippi SoS website .
+
+***No deadlines are currently found.***
+
+You’re able to add Filing Deadlines found in ISP to your own digital calendar with our Calendar Feed tool.
+
+To see more information about Mississippi compliance report filing with ISP, please visit our Mississippi Filing and FAQ Resources page.
+
+[Help File Home](/help/) | [Full Index](/Help-File-Directory/) | [Contact Support](mailto:support@ISPolitical.com)
+
+[« Mississippi Campaign, Party, & PAC Filing FAQ and Resources](/Mississippi-Campaign-Party-PAC-Filing-FAQ-and-Resources)
+[About the MS Report of Receipts and Disbursements »](/About-the-MS-Report-of-Receipts-and-Disbursements)
+
+---
+
 # HOW DO I SET UP THE RAISE THE MONEY INTEGRATION
 
 How Do I Set Up The Raise The Money Integration?
@@ -12567,6 +24140,210 @@ Please note that you might need to contact Raise the Money Support to finish set
 [⇑ About Integrations in ISP](/About-Integrations-in-ISP)
 [« How Do I Set up and Use the Netfile Integration?](/How-Do-I-Set-Up-and-Use-the-NetFile-Integration)
 [How Do I Add The Stripe Integration In ISP? »](/How-Do-I-Add-the-Stripe-Integration-in-ISP)
+
+---
+
+# HOW DO I PULL A TRANSACTION TO A SPECIFIC LINE ON THE FEC FORM 3
+
+How Do I Pull a Transaction to a Specific Line on the FEC Form 3?
+==========
+
+Applies To: Federal Election Commission – Candidate Committees
+
+### **FEC Form 3: Line by Line Breakdown** ###
+
+Below is a breakdown of each Receipt and Disbursement line on the Form 3. Due to the complexity of FEC reporting, some nuance is not reflected in this documentation.
+
+### **Schedule A** ###
+
+**Line 11ai: Contribution From Individuals/Persons Other Than Political Committees**
+
+* Transaction Types: Monetary Contributions, Inkind Contributions
+* Entities: All entities besides Political Committees or The Candidate
+
+**Line 11b: Contribution From Political Party Committees**
+
+* Transaction Types: Monetary Contributions, Inkind Contributions
+* Entities: Political Party Committees
+
+**Line 11c: Contributions From Other Political Committees (such as PACs)**
+
+* Transaction Types: Monetary Contributions, Inkind Contributions
+* Entities: All Political Committees besides Party Committees
+
+**Line 11d: Contributions from The Candidate**
+
+* Transaction Types: Monetary Contributions, Inkind Contributions
+* Entities: The Candidate
+
+**Line 12: Transfers From Other Authorized Committees**
+
+Group 1: Transfers from Unaffiliated Political Committees
+
+* Transaction Types: Monetary Contributions
+* Transaction Tag: Transfer
+* Entities: Political Committees
+
+Group 2: Contributions from Related Committees
+
+* Transaction Types: Monetary Contributions, Inkind Contributions
+* Entities: Committees that have a Relationship with the filer
+
+**Line 13a: Loans Made or Guaranteed by the Candidate**
+
+* Transaction Types: Loans Received
+* Entities: The Candidate
+
+**Line 13b: Loans/All Other Loans**
+
+* Transaction Types: Loans Received
+* Entities: All entities besides the Candidate
+
+**Line 14: Offsets to Operating Expenditures (Refunds, Rebates, etc.)**
+
+* Transaction Types: Refunded Expenses
+
+**Line 15: Other Receipts (Dividends, Interest, etc.)**
+
+Group 1: Other Income
+
+* Transaction Types: Other Incomes
+
+Group 2: Recounts
+
+* Transaction Types: Monetary Contributions, Inkind Contributions
+* Election Type: Recount
+
+Group 3: Refunded Contributions
+
+* Transaction Types: Refunded Expenses
+* Transaction Tag: Refund of Contribution Made
+
+Group 4: Loan Made Repayments
+
+* Transaction Types: Loan Made Repayments
+
+### **Schedule B** ###
+
+**Line 17: Operating Expenditures**
+
+Group 1: Standard Expenses
+
+* Transaction Types: Expenses, Accrued Expense Payments, Inkind Contributions
+
+Note: Inkind contributions are reported as both contributions and expenses for a net zero cash impact.
+
+Group 2: Accrued Expense Splits
+
+* Transaction Types: Accrued Expense – Splits
+
+Note: Group 2 transactions are reported as a memo when paid. If a memo does not appear under the parent transaction on a report, this may be due to the nature of the original Accrued Expense. According to FEC rules, Splits on the original Accrued Expense only pull when the first Accrued Expense Payment is made.
+
+Group 3: Fees to Conduits
+
+* Transaction Types: Monetary Contributions
+* Transaction Tag: Conduit – Conduit Check
+
+Note: ISP automatically calculates processing fees based on the difference between the splits and the main monetary contribution from the conduit.
+
+**Line 18: Transfers to Other Authorized Committees**
+
+Group 1: Expenses to Related Committee
+
+* Transaction Types: Expenses
+* Entities: Political Committees with a relationship with the Filer
+
+Group 2: Reattribution/Redesignation Expenses to Affiliated
+
+* Transaction Types: Expenses
+* Has Dependent with Tag: Reattribution or Redesignation
+* Entities: Political Committees with a relationship with the Filer
+
+Note: Group 2 will be reported as memos.
+
+Note: When the reattribution/redesignation happens across
+reporting periods, the original transaction gets re-reported as a memo.
+That’s why you’ll see the original transaction on the report with a memo
+that says Original Contribution as Previously Reported.
+
+**Line 19a: Loan Repayments, Individuals/Persons Other than Political Committees**
+
+* Transaction Types: Loan Received Repayments
+* Entities: The Candidate
+
+**Line 19b: Loan Repayments, Of All Other Loans**
+
+* Transaction Types: Loan Received Repayments
+* Entities: All entities besides the Candidate
+
+**Line 20a: Refunds of Contributions to Individuals/Persons other than Political Committees**
+
+* Transaction Types: Refunded Contributions, Inkind Contributions (Reversal)
+* Entities: All entities besides Political Committees or the Candidate
+
+**Line 20b: Refunds of Contributions to Political Party Committees**
+
+* Transaction Types: Refunded Contributions, Inkind Contributions (Reversal)
+* Entities: Political Party Committees
+
+**Line 20c: Refunds of Contributions to Other Political Committees (such as PACs)**
+
+* Transaction Types: Refunded Contributions, Inkind Contributions (Reversal)
+* Entities: All Political Committees except Party Committees
+
+**Line 21: Other Disbursements**
+
+Group 1: Reporting Code “012”
+
+* Transaction Types: Support/Oppose Memos, Non-Monetary Expenses, and Expenses
+* Reporting Code: 012
+
+Group 2: Recount Disbursement
+
+* Transaction Types: Expenses, Accrued Expense Payments
+* Election Type: Recount
+
+Group 3: Other Disbursement
+
+* Transaction Types: Expenses, Accrued Expense Payments, Loans Made, and Inkind Contributions
+* Transaction Tag: Other Disbursement
+
+Group 4: Contributions Made
+
+* Transaction Types: Support/Oppose Memo
+
+Note: When supporting or opposing a candidate, enter the Support/Oppose memo linked to the candidate rather than their committee for proper itemization.
+
+### Schedule C: All Loans Received
+###
+
+Group 1: Loans Received
+
+* Transaction Types: Loans Received
+* Financial Account: Not State or Levin
+
+Group 2: Loan Received Guarantees
+
+* Transaction Types: Loans Received Guarantee
+* Financial Account: Not State or Levin
+
+### Schedule C1: Loans and Lines Of Credit From Lending Institutions ###
+
+* Transaction Types: Loans Received
+* Financial Account: Not State or Levin
+* Entities: Financial Institutions/Credit Card Issuers
+
+### Schedule D: Debts and Obligations ###
+
+* Transaction Types: Accrued Expenses
+* Financial Account: Not State or Levin
+
+### Related Information ###
+
+[Help File Home](/help/) | [Full Index](/Help-File-Directory/) | [Contact Support](mailto:support@ISPolitical.com)
+
+[« About the FEC Form 3 Report](/About-the-FEC-Form-3-Report)
+[How Do I Report a Transfer Received From a Joint Fundraising Committee (JFC)? »](/How-Do-I-Report-a-Transfer-Received-From-a-Joint-Fundraising-Committee-JFC)
 
 ---
 
@@ -12799,6 +24576,150 @@ To file, you will need to do it directly with the [eCRIS](https://seec.ct.gov/se
 
 ---
 
+# DELAWARE CAMPAIGN PARTY PAC FILING FAQ AND RESOURCES
+
+Delaware Campaign, Party, & PAC Filing FAQ and Resources
+==========
+
+Applies To: Delaware
+
+**Resources**
+
+[Elections Site](https://elections.delaware.gov/index.shtml)
+[Delaware Filing Guide](https://elections.delaware.gov/candidates/campaignfinance/cf_info.shtml)
+[Delaware Filing Calendar](https://elections.delaware.gov/candidates/campaignfinance/cf_info.shtml)
+
+[Help File Home](/help/) | [Full Index](/Help-File-Directory/) | [Contact Support](mailto:support@ISPolitical.com)
+
+[⇑ About Compliance Reports](/About-Compliance-Reports)
+[« How Do I E-file in Connecticut?](/How-Do-I-E-file-in-Connecticut)
+[When Are the Delaware Filing Deadlines? »](/When-Are-the-Delaware-Filing-Deadlines)
+
+---
+
+# WHEN ARE THE GEORGIA FILING DEADLINES
+
+When Are the Georgia Filing Deadlines?
+==========
+
+Applies To: Georgia
+
+Below are deadlines for Georgia compliance report filing.
+
+The Filing Deadline information provided here is offered only as a reference aide. The provided deadline information may contain inaccuracies and may not include all special elections or deadlines. For agency specific details, please visit the [Georgia CFC Filing Deadlines page](https://media.ethics.ga.gov/schedules/ReportFilingScheduleCampaign.aspx).
+
+527 Political Organization
+----------
+
+* 09/30/2024: GA CCDR
+* 10/25/2024: GA CCDR
+* 12/31/2024: GA CCDR
+
+Ballot Measure
+----------
+
+* 09/30/2024: GA CCDR
+* 10/25/2024: GA CCDR
+* 12/31/2024: GA CCDR
+
+Candidate
+----------
+
+* 09/30/2024: GA CCDR
+* 10/25/2024: GA CCDR
+* 12/31/2024: GA CCDR
+
+Independent Expenditure
+----------
+
+* 09/30/2024: GA CCDR
+* 10/25/2024: GA CCDR
+* 12/31/2024: GA CCDR
+
+Other
+----------
+
+* 09/30/2024: GA CCDR
+* 10/25/2024: GA CCDR
+* 12/31/2024: GA CCDR
+
+Party
+----------
+
+* 09/30/2024: GA CCDR
+* 10/25/2024: GA CCDR
+* 12/31/2024: GA CCDR
+
+Political Action Committee (PAC)
+----------
+
+* 09/30/2024: GA CCDR
+* 10/25/2024: GA CCDR
+* 12/31/2024: GA CCDR
+
+You’re able to add Filing Deadlines found in ISP to your own digital calendar with our [Calendar Feed tool](https://ispolitical.com/Calendar-Feeds).
+
+To see more information about Georgia compliance report filing with ISP, please visit our [Georgia Filing and FAQ Resources](https://ispolitical.com/georgia-campaign-party-pac-filing-faq-and-resources/) page.
+
+[Help File Home](/help/) | [Full Index](/Help-File-Directory/) | [Contact Support](mailto:support@ISPolitical.com)
+
+[⇑ Georgia Campaign, Party, & PAC Filing FAQ and Resources](/Georgia-Campaign-Party-PAC-Filing-FAQ-and-Resources)
+[« How Do I Efile With Georgia?](/How-Do-I-Efile-With-Georgia)
+[About the GA Two Business Day Report »](/About-the-GA-Two-Business-Day-Report)
+
+---
+
+# WHAT IS AN ACCRUED EXPENSE
+
+What Is an Accrued Expense?
+==========
+
+An Accrued Expense is a type of debt that has a due or unpaid balance. For most reporting agencies, Accrued Expenses are reported in the period in which it is incurred.
+
+While there are many different kinds and uses of Accrued Expenses, a few examples of an Accrued Expense would be loans with an amount still left to pay off, monthly credit card statements, wages due to staff, or monthly office space expenses. Essentially, anytime a debt is owed, an Accrued Expense transaction is used.
+
+If you’d like to view the transactions related to your accrued expenses, one way to do this is to run a Transactions report and select Accrued Expenses as the Transaction Type. On each Accrued Expense, select the hotdog menu to view Related Transactions. This allows you to see any payments that have been made on the Accrued Expense.
+
+Accrued Expenses are useful for accounting purposes because the expense is already recognized on the books before the payment has been made.
+
+Once you add an Accrued Expense to your database, it will then be reflected in your [Balances](https://ispolitical.com/About-Balances).
+
+If you have the Dropbox integration installed, you can add files to both Accrued Expenses and any related transactions.
+
+[Help File Home](/help/) | [Full Index](/Help-File-Directory/) | [Contact Support](mailto:support@ISPolitical.com)
+
+[⇑ About Transactions](/About-Transactions)
+[« How Do I Add Conduit Transactions & Processing Fees?](/How-Do-I-Add-Conduit-Transactions-Processing-Fees)
+[How Do I Create and Report Accrued Expenses Without the Invoice? »](/How-Do-I-Create-and-Report-Accrued-Expenses-Without-the-Invoice)
+
+---
+
+# ABOUT FEC CONDUIT EARMARK MEMOS
+
+About FEC Conduit (Earmark) Memos
+==========
+
+Applies To: Federal Election Commission
+
+When a filer receives a contribution via an intermediary, typically called a conduit or earmark, there are associated disclosure requirements, specifically when it comes to disclosing the intermediary information. You may see Conduit Memos disclosed in various manners, but the way we disclose Conduit memos has been verified by the FEC.
+
+* **For each itemized contribution via Conduit, we disclose a Conduit Memo.**
+This is according to the [Campaign Finance Law 110.6 Earmarked contributions 52 U.S.C. 30116(a)(8))](https://www.fec.gov/regulations/110-6/2023-annual-110#:~:text=30116(a)(8)),the%20person%20to%20the%20candidate.), specifically, Section C2c: The information required under 11 CFR 104.3(a) (3) and (4) for each earmarked contribution which in the aggregate exceeds $200 in any election cycle.
+
+* **The Amount on the Conduit Memo is the amount of the transfer.**
+This amount is the whole/parent amount of the individual contribution. Again, this is according to the Campaign Finance Law 110.6 Earmarked contributions 52 U.S.C. 30116(a)(8)), specifically, Section C2b: The total amount of earmarked contributions received from the conduit or intermediary and the date of receipt.
+
+* **The Date of the Conduit Memo is the date of the transfer.**
+This is can be found on the FEC’s site on [how to report contributions received through conduits](https://www.fec.gov/help-candidates-and-committees/filing-reports/contributions-received-through-conduits/). In the example, Mary Smith gave via conduit Mount Vernon Association PAC. Mount Vernon Association PAC is the conduit and is reported as a memo item supporting Mary Smith’s contribution. The Date of Receipt will be the date the conduit gave the contribution to the committee. This date may be later than the date disclosed with Mary’s information.
+
+[Help File Home](/help/) | [Full Index](/Help-File-Directory/) | [Contact Support](mailto:support@ISPolitical.com)
+
+[⇑ FEC Campaign, Party, & PAC Filing FAQ and Resources](/FEC-Campaign-Party-PAC-Filing-FAQ-and-Resources)
+[« What Is the Difference Between FEC Candidate IDs and Committee IDs?](/What-is-the-Difference-Between-FEC-Candidate-IDs-and-Committee-IDs)
+[What Are Carey Committees and Carey Accounts? »](/What-Are-Carey-Committees-and-Carey-Accounts)
+
+---
+
 # ABOUT SUPER PACS
 
 About Super PACs
@@ -12843,6 +24764,27 @@ the PDF.
 [⇑ California Campaign, Party, & PAC Filing FAQ and Resources](/California-Campaign-Party-PAC-Filing-FAQ-and-Resources)
 [« About the CA Form 410](/About-the-CA-Form-41)
 [What Is the CA 460 Report & How Do I Prepare and File It? »](/What-Is-the-CA-46-Report-How-Do-I-Prepare-and-File-It)
+
+---
+
+# MARYLAND CAMPAIGN PARTY PAC FILING FAQ AND RESOURCES
+
+Maryland Campaign, Party, & PAC Filing FAQ and Resources
+==========
+
+Applies To: Maryland
+
+**Resources**
+
+[Elections Site](https://elections.maryland.gov/)
+[Filing Guide](https://elections.maryland.gov/campaign_finance/summary_guide.html)
+[Filing Calendar](https://elections.maryland.gov/campaign_finance/reporting_schedule.html)
+
+[Help File Home](/help/) | [Full Index](/Help-File-Directory/) | [Contact Support](mailto:support@ISPolitical.com)
+
+[⇑ About Compliance Reports](/About-Compliance-Reports)
+[« About the ME 24Hour – PAC](/About-the-ME-24Hour-PAC)
+[When Are the Maryland Filing Deadlines? »](/When-Are-the-Maryland-Filing-Deadlines)
 
 ---
 
@@ -12923,6 +24865,37 @@ Committee IDs will always start with *C00* (C-zero-zero) and the ID does not cha
 
 ---
 
+# WRONG FEC PASSWORD ERROR TROUBLESHOOTING
+
+Wrong FEC Password Error Troubleshooting
+==========
+
+Applies To: Federal Election Commission
+
+If you receive an error regarding an incorrect password when filing your FEC report, there are a few things to consider and try
+
+If you’ve forgotten your password, you can reset that on the [FEC Forgot Password](https://fecnotify.fec.gov/fecnotify/forgot-password/) page.
+
+First, verify you can log into the [FEC webforms site](https://webforms.fec.gov/webforms/form1/login.htm). If it works, that means the password is valid.
+
+Next, confirm the committee ID is correct in the committee record in ISP. This information is located in the Committee Info section. If you need to update it, click the triangle in the top right corner of the section.
+
+If you have your password saved in ISP, check the Password Safe to be sure the password is correct. Password Safe will show after you generate the report and click the e-file button.
+
+If these are correct, try filing again. Maintenance or a communication problem with the FEC submission servers can happen and sometime can result in an invalid password message. Waiting a short while then trying again might yield different results.
+
+If the above aren’t the cause or don’t correct the issue, try filing directly with the Webform link above. If it works, it may be a there was a server communication issue when you attempted to file.
+
+The last option would be to contact the FEC. If there is an issue with the e-filing and/or the password, they will be able to assist directly with the issue.
+
+[Help File Home](/help/) | [Full Index](/Help-File-Directory/) | [Contact Support](mailto:support@ISPolitical.com)
+
+[⇑ About Report Post-Generation](/About-Report-Post-Generation)
+[« What Are FEC System Errors and How Do I Fix Them?](/What-Are-FEC-System-Errors-and-How-Do-I-Fix-Them)
+[How Do I Correct Disallowed Reporting Description Warnings Or Provide Accurate Compliance Notes on Reports? »](/How-Do-I-Correct-Disallowed-Reporting-Description-Warnings-Or-Provide-Accurate-Compliance-Notes-on-Reports)
+
+---
+
 # WHAT IS THE CALENDAR AND RECURRING CALENDAR ENTRIES
 
 What Is the Calendar and Recurring Calendar Entries?
@@ -12965,6 +24938,101 @@ Monthly and Yearly options also provide more advanced options, such as weekend h
 
 ---
 
+# WHAT RECORDS ARE NEEDED FOR COMPLIANCE REPORTING
+
+What Records are Needed for Compliance Reporting?
+==========
+
+Setting up your database for Compliance reporting is an important first step in ISP. This involves creating your committee’s record with committee IDs and other committee information, as well as creating Treasurer, Candidate (if applicable), and other staff records, then linking them correctly.
+
+To start, set up staff and candidate records, then add the committee record and link other records.
+
+### How do I set up the Candidate record? ###
+
+1. Click Add/Search, then Individuals.
+
+2. Enter the name of the candidate you are going to set up, then Search. If you had ISP import data for you, you may already have the candidate’s record in your database. If so, you can bypass the creation of the candidate or treasurer record and click on the name in the search results instead to review the details for accuracy.
+
+3. If the candidate is not already in the system, click the Add Individual button.
+
+4. In the window that appears, complete the basic information fields, then click the Is Candidate box.
+
+5. New fields will appear that will allow you to enter in Candidate info, such as Office Sought data and Party. If the Candidate already holds office, select the Office Held tab and complete details there.
+
+6. Once you’ve added all the necessary details, click the Add Individual button.
+
+If you don’t have some details and need to enter them later, there is a Candidate Info section within the candidate’s record where you will be able to add and edit details when you receive them.
+
+### How do I set up the Treasurer record? ###
+
+Setting up the Treasurer record is no different than setting up a standard Individual record. You can follow steps 1 through 3 above, skipping steps 4 and 5, to add the record to the system. Once the committee record is set up, you’ll be able to link the Treasurer record to the committee record at that time.
+
+### How do I set up the Committee record? ###
+
+1. Click Add/Search, then Organizations.
+
+2. Enter the name of the committee you are going to set up, then click Search. As mentioned above, if you had ISPolitical import data for you, you may already have the committee record in your database.
+
+3. If the committee is not already in the database, click Search. If you have turned on the option to include results found via your agency’s filing database and your committee is already registered with the agency, you may see your committee in the results.
+
+It’s important to note the feature for agency related results is limited to Federal and specific state agencies that have made the data available in this way. If you do not see this option on the Account Management page, it is because those details through your filing agency are not available.
+
+4. If you don’t see your committee in the results, click Add Organization at the bottom of the screen.
+
+5. In the window that appears, click the Type dropdown and select Political Committee. New fields will open on the right where you will enter in various committee details you have available to you. Like candidate records, data can be added or edited at a later time.
+
+Be aware that your Committee Type can often determine the available Compliance reports on the reporting page. Be sure you have the correct Committee Type selected. If when attempting to generate a report and you don’t see it in the list, most likely the Committee Type needs to be corrected.
+
+6. Once you’ve added the basic details and other committee information, click the Add Organization button.
+
+Once you’ve added the committee record, you’ll automatically land in the record itself. At this point you’ll need to link the Treasurer, as well as any applicable committee staff, the candidate included.
+
+### How do I link staff records to the committee? ###
+
+1. In the Relationships section on the right, click the green triangle in the top right corner.
+
+2. In the Affiliated field, start typing the name of the treasurer. This runs a search on your database for a matching record.
+
+3. Click the name of the committee’s Treasurer.
+
+4. Select Treasurer relationship from the Relationship Type dropdown menu.
+
+5. Click Add Relationship to save the relationship, or click Add & New to save and add another relationship (i.e. Candidate or other committee staff members).
+
+### Related Information ###
+
+* [How Do I Add or Set a Filer?](https://ispolitical.com/How-Do-I-Add-or-Set-a-Filer)
+* [How Do I Add Multiple Filers or Change the Existing Filer?](https://ispolitical.com/How-to-Add-Multiple-Filers-to-Your-Database-or-Change-the-Existing-Filer)
+
+[Help File Home](/help/) | [Full Index](/Help-File-Directory/) | [Contact Support](mailto:support@ISPolitical.com)
+
+[⇑ About Compliance Reports](/About-Compliance-Reports)
+[« Why Is My Compliance Report Cash on Hand Different From My Register Cash on Hand?](/Why-Is-My-Compliance-Report-Cash-on-Hand-Different-From-My-Register-Cash-on-Hand)
+[How Do I Add or Set a Filer? »](/How-Do-I-Add-or-Set-a-Filer)
+
+---
+
+# KENTUCKY CAMPAIGN PARTY PAC FILING FAQ AND RESOURCES
+
+Kentucky Campaign, Party, & PAC Filing FAQ and Resources
+==========
+
+Applies To: Kentucky
+
+**Resources**
+
+[Elections Site
+](https://elect.ky.gov/Pages/default.aspx)[Filing Guide
+](https://kref.ky.gov/candidate_slate/Pages/Candidate-Campaign-Committee.aspx)[Filing Calendar](https://kref.ky.gov/candidate_slate/Pages/Candidate-Campaign-Committee.aspx)
+
+[Help File Home](/help/) | [Full Index](/Help-File-Directory/) | [Contact Support](mailto:support@ISPolitical.com)
+
+[⇑ About Compliance Reports](/About-Compliance-Reports)
+[« About the KS Last Minute Report](/About-the-KS-Last-Minute-Report)
+[When Are the Kentucky Filing Deadlines? »](/When-Are-the-Kentucky-Filing-Deadlines)
+
+---
+
 # WHICH BROWSER SHOULD I USE
 
 Which Browser Should I Use?
@@ -12986,6 +25054,153 @@ An exception to our recommendation that you use Firefox as your browser in ISP i
 
 [« How Do I Get Started in ISP?](/How-Do-I-Get-Started-in-ISP)
 [What Is the Multi-Account Dashboard? »](/What-Is-the-Multi-Account-Dashboard)
+
+---
+
+# NEW HAMPSHIRE CAMPAIGN PARTY PAC FILING FAQ AND RESOURCES
+
+New Hampshire Campaign, Party, & PAC Filing FAQ and Resources
+==========
+
+Applies To: New Hampshire
+
+Below are links to resources to help you file your New Hampshire reports.
+
+**Resources**
+
+[Elections Site](https://www.sos.nh.gov/elections) [
+Filing Calendar](https://www.sos.nh.gov/elections/campaign-finance) (search for “Reporting Dates” section)
+[Filing Guide](https://www.sos.nh.gov/elections/campaign-finance)
+
+**Supported Reports**
+
+NH – IE (Independent Expenditure Report)
+NH – LCR (Late Contribution Report)
+NH – R and E (Receipts and Expenditures)
+
+[Help File Home](/help/) | [Full Index](/Help-File-Directory/) | [Contact Support](mailto:support@ISPolitical.com)
+
+[⇑ About Compliance Reports](/About-Compliance-Reports)
+[« About the NV Committee Contributions and Expenditures Report](/About-the-NV-Committee-Contributions-and-Expenditures)
+[When Are the New Hampshire Filing Deadlines? »](/When-Are-the-New-Hampshire-Filing-Deadlines)
+
+---
+
+# WHEN ARE THE NEW YORK FILING DEADLINES
+
+When Are the New York Filing Deadlines?
+==========
+
+Applies To: New York
+
+Below are deadlines for New York compliance report filing.
+
+The Filing Deadline information provided here is offered only as a reference aid. The provided deadline information may contain inaccuracies and may not include all special elections or deadlines. For agency-specific details please visit the [NYSBOE website](https://www.elections.ny.gov/CampaignFinance.html).
+
+Authorized
+----------
+
+* 07/15/2024: NY CF-01 (July 2024 Periodic)
+* 10/04/2024: NY CF-01 (32 Day Pre General)
+* 10/25/2024: NY CF-01 (11 Day Pre General)
+* 12/02/2024: NY CF-01 (27 Day Post General)
+
+Ballot Measure
+----------
+
+* 07/15/2024: NY CF-01 (July 2024 Periodic)
+* 10/04/2024: NY CF-01 (32 Day Pre General)
+* 10/25/2024: NY CF-01 (11 Day Pre General)
+* 12/02/2024: NY CF-01 (27 Day Post General)
+
+Candidate
+----------
+
+* 07/15/2024: NY CF-01 (July 2024 Periodic)
+* 10/04/2024: NY CF-01 (32 Day Pre General)
+* 10/25/2024: NY CF-01 (11 Day Pre General)
+* 12/02/2024: NY CF-01 (27 Day Post General)
+
+Caucus
+----------
+
+* 07/15/2024: NY CF-01 (July 2024 Periodic)
+* 10/04/2024: NY CF-01 (32 Day Pre General)
+* 10/25/2024: NY CF-01 (11 Day Pre General)
+* 12/02/2024: NY CF-01 (27 Day Post General)
+
+Independent Expenditure
+----------
+
+* 07/15/2024: NY CF-01 (July 2024 Periodic)
+* 10/04/2024: NY CF-01 (32 Day Pre General)
+* 10/25/2024: NY CF-01 (11 Day Pre General)
+* 12/02/2024: NY CF-01 (27 Day Post General)
+
+Major Donor
+----------
+
+* 07/15/2024: NY CF-01 (July 2024 Periodic)
+* 10/04/2024: NY CF-01 (32 Day Pre General)
+* 10/25/2024: NY CF-01 (11 Day Pre General)
+* 12/02/2024: NY CF-01 (27 Day Post General)
+
+Other
+----------
+
+* 07/15/2024: NY CF-01 (July 2024 Periodic)
+* 10/04/2024: NY CF-01 (32 Day Pre General)
+* 10/25/2024: NY CF-01 (11 Day Pre General)
+* 12/02/2024: NY CF-01 (27 Day Post General)
+
+Party
+----------
+
+* 07/15/2024: NY CF-01 (July 2024 Periodic)
+* 10/04/2024: NY CF-01 (32 Day Pre General)
+* 10/25/2024: NY CF-01 (11 Day Pre General)
+* 12/02/2024: NY CF-01 (27 Day Post General)
+
+Political Action Committee (PAC)
+----------
+
+* 07/15/2024: NY CF-01 (July 2024 Periodic)
+* 10/04/2024: NY CF-01 (32 Day Pre General)
+* 10/25/2024: NY CF-01 (11 Day Pre General)
+* 12/02/2024: NY CF-01 (27 Day Post General)
+
+Recipient
+----------
+
+* 07/15/2024: NY CF-01 (July 2024 Periodic)
+* 10/04/2024: NY CF-01 (32 Day Pre General)
+* 10/25/2024: NY CF-01 (11 Day Pre General)
+* 12/02/2024: NY CF-01 (27 Day Post General)
+
+Slate Mailer
+----------
+
+* 07/15/2024: NY CF-01 (July 2024 Periodic)
+* 10/04/2024: NY CF-01 (32 Day Pre General)
+* 10/25/2024: NY CF-01 (11 Day Pre General)
+* 12/02/2024: NY CF-01 (27 Day Post General)
+
+Small Contributor
+----------
+
+* 07/15/2024: NY CF-01 (July 2024 Periodic)
+* 10/04/2024: NY CF-01 (32 Day Pre General)
+* 10/25/2024: NY CF-01 (11 Day Pre General)
+* 12/02/2024: NY CF-01 (27 Day Post General)
+
+You’re able to add Filing Deadlines found in ISP to your own digital calendar with our [Calendar Feed tool](https://ispolitical.com/what-are-calendar-feeds/).
+
+To see more information about New York state compliance report filing with ISP, please visit our [New York Filing and FAQ Resources page](https://ispolitical.com/new-york-campaign-party-pac-filing-faq-and-resources/).
+
+[Help File Home](/help/) | [Full Index](/Help-File-Directory/) | [Contact Support](mailto:support@ISPolitical.com)
+
+[« New York Campaign, Party, & PAC Filing FAQ and Resources](/New-York-Campaign-Party-PAC-Filing-FAQ-and-Resources)
+[New York January Periodic Settings »](/New-York-January-Periodic-Settings)
 
 ---
 
@@ -13011,6 +25226,99 @@ After you’ve contacted the individual, click the Record Communication button a
 
 ---
 
+# WHAT DO I NEED TO FILE AN AMENDED FORM 1
+
+What Do I Need to File an Amended Form 1?
+==========
+
+Applies To: Federal Election Commission
+
+The FEC Form 1 pulls information from the Filer Record. Please be sure to edit the necessary information in ISP before filing your amendment.
+
+When filing an amended Form 1 out of ISP, you must first have the committee’s original FEC Filing ID. To locate the committee’s original FEC Filing ID:
+
+1. Navigate to the FEC website
+2. Type your Committee ID Number into the search field and click the magnifying glass icon
+3. Click your Committee Name
+4. On your Committee page, select FILINGS from the left sidebar menu
+5. On the Committee Filings page, select the appropriate TWO-YEAR PERIOD in this field’s drop-down menu
+6. Scroll down to the Statements of organization section
+7. Click the relevant Statement of Organization document to retrieve your FEC Identification Number
+
+In ISP, your Committee ID Number is located in the Committee Info section of the Filer Record. To access and/or update your Filer Record:
+
+1. From anywhere in the system, click the magnifying glass next to the Logout button
+2. In the drop-down search box, type the committee name, then select the committee name
+3. On the committee page, click the green triangle in the corner of the Committee Info section header
+4. In the Update Committee Info window, enter any necessary changes
+5. Click the green Update Committee Info button
+
+If you want to verify and/or update the Treasurer, scroll down to the Relationships section in the Filer Record to see whether a Treasurer record is linked. If not, follow these steps:
+
+1. Ensure there is an existing Individual record for the Treasurer (if not, create one before proceeding to Step 2)
+2. Click the green triangle in the Relationships section header
+3. Enter the required information in the Add Relationship window
+4. Click the green Add Relationship button
+
+Your bank account tied to the filer may also need updating or verification. To access your bank account:
+
+1. From wherever you are in the database, navigate to Lists, then to Financial Accounts
+2. Click the appropriate bank account
+3. In the Update window, enter any necessary changes
+4. Click the green Update Bank button
+
+Once you are ready to generate and file the amended Form 1, navigate to Compliance Reports under the Reports tab, select FEC Form 1 from the Compliance Report field drop-down menu, and check the Amended checkbox. After you hit the Amended box, three more fields will pop up. This allows you to select the report you’re amending, enter that report’s original report number, and enter what amendment number it is.
+
+1. If a filer previously only filed paper Form 1s and were planning to file an amendment to that Form 1 electronically, they would
+mark it as new, not amended. The FEC’s system would automatically
+identify it as an amendment upon upload.
+2. If a filer is amending a Form 1 that was previously filed
+electronically, they would mark it as amended and then use the Filing
+ID of the original report that was first filed electronically. The
+amendment number would be the sequence number of how many times the
+original electronically filed Form 1 has now been amended.
+
+In addition to the Amended checkbox, you will see four other checkboxes: Change of Address, Change of Email, Change of Name, and Change of URL (if your committee’s website has changed). You can check as many checkboxes as apply.
+
+Note: If you have previously filed a paper version of Form 1 and this is the first time submitting an electronic version, you will need to file the report as an original rather than as an amendment.
+
+[Help File Home](/help/) | [Full Index](/Help-File-Directory/) | [Contact Support](mailto:support@ISPolitical.com)
+
+[« How Do I Prepare and Generate the FEC Form 1?](/How-Do-I-Prepare-and-Generate-the-FEC-Form-1)
+[FEC Form 1M (Notice of Multi-Candidate Status) »](/FEC-Form-M-Notice-of-Multi-Candidate-Status)
+
+---
+
+# WHEN ARE THE COLORADO FILING DEADLINES
+
+When Are the Colorado Filing Deadlines?
+==========
+
+Applies To: Colorado
+
+Below are deadlines for Colorado compliance report filing.
+
+The Filing Deadline information provided here is offered only as a reference aide. The provided deadline information may contain inaccuracies and may not include all special elections or deadlines. For agency specific details please visit the [Colorado Filing Calendars page](https://www.sos.state.co.us/pubs/elections/CampaignFinance/filingCalendar.html).
+
+Party
+----------
+
+* 07/30/2024: CO RCE – Party (35th Day After Primary)
+* 10/15/2024: CO RCE – Party (21st Day Before General)
+* 11/01/2024: CO RCE – Party (Friday Before General)
+* 12/10/2024: CO RCE – Party (35th Day After General)
+
+You’re able to add Filing Deadlines found in ISP to your own digital calendar with our [Calendar Feed tool](https://ispolitical.com/Calendar-Feeds).
+
+To see more information about Colorado compliance report filing with ISP, please visit our [Colorado Filing and FAQ Resources](https://ispolitical.com/colorado-campaign-party-pac-filing-faq-and-resources/) page.
+
+[Help File Home](/help/) | [Full Index](/Help-File-Directory/) | [Contact Support](mailto:support@ISPolitical.com)
+
+[« Colorado Campaign, Party, & PAC Filing FAQ and Resources](/Colorado-Campaign-Party-PAC-Filing-FAQ-and-Resources)
+[About the CO RCE Report »](/About-the-CO-RCE-Report)
+
+---
+
 # ABOUT THE AL PAC MAJOR
 
 About the AL PAC Major
@@ -13029,6 +25337,141 @@ To file your report, an XML file is generated by ISP, then uploaded to your agen
 [⇑ Alabama Campaign, Party, & PAC Filing FAQ and Resources](/Alabama-Campaign-Party-PAC-Filing-FAQ-and-Resources)
 [« About the AL PAC](/About-the-AL-PAC)
 [About the AL CEO Report »](/About-the-AL-CEO-Report)
+
+---
+
+# FEC FILING DEADLINES A MAJOR DEADLINE CALENDAR FOR POLITICAL CAMPAIGNS
+
+FEC Filing Deadlines: A Major Deadline Calendar for Political Campaigns
+==========
+
+<img alt="Screenshot 2024-05-09 at 11.51.36 AM" src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%203720%202120'%3E%3C/svg%3E" title="Screenshot 2024-05-09 at 11.51.36 AM" height="2120" width="3720" />\<img fetchpriority="high" decoding="async" class="fl-photo-img wp-image-1485 size-full" src="https://ispolitical.com/wp-content/uploads/2024/05/Screenshot-2024-05-09-at-11.51.36 AM.png" alt="Screenshot 2024-05-09 at 11.51.36 AM" itemprop="image" height="2120" width="3720" title="Screenshot 2024-05-09 at 11.51.36 AM" srcset="https://ispolitical.com/wp-content/uploads/2024/05/Screenshot-2024-05-09-at-11.51.36 AM.png 3720w, https://ispolitical.com/wp-content/uploads/2024/05/Screenshot-2024-05-09-at-11.51.36 AM-300x171.png 300w, https://ispolitical.com/wp-content/uploads/2024/05/Screenshot-2024-05-09-at-11.51.36 AM-1024x584.png 1024w, https://ispolitical.com/wp-content/uploads/2024/05/Screenshot-2024-05-09-at-11.51.36 AM-768x438.png 768w, https://ispolitical.com/wp-content/uploads/2024/05/Screenshot-2024-05-09-at-11.51.36 AM-1536x875.png 1536w, https://ispolitical.com/wp-content/uploads/2024/05/Screenshot-2024-05-09-at-11.51.36 AM-2048x1167.png 2048w" sizes="(max-width: 3720px) 100vw, 3720px" /\>
+
+Understanding the importance of and adhering to Federal Election Commission (FEC) filing deadlines is crucial for any political campaign. Staying compliant with FEC filing regulations not only helps to avoid penalties but also ensures that campaigns maintain their reputation and legitimacy–two things a campaign cannot afford to slack on. This guide provides a detailed overview of upcoming FEC filing deadlines, a clear calendar of key dates, and insights into how software can streamline compliance.
+
+What is FEC Filing?
+----------
+
+FEC filing is a mandatory process for political campaigns, political action committees (PACs), and other entities involved in federal elections. These entities must regularly report their financial activities to the FEC, including contributions, expenditures, and loans. FEC filing deadlines are crucial, as missing them can lead to fines, legal issues, and loss of credibility for the campaign.
+
+FEC Filing Calendar: Upcoming Deadlines
+----------
+
+Staying aware of upcoming FEC filing deadlines is essential for all political entities. Here is a calendar of forthcoming major deadlines that campaigns need to keep in mind:
+
+* **July Quarterly Filing Deadline:** July 15, 2024. Campaigns must submit their financial activities report for the second quarter of 2024.
+* **Pre-Primary Filing Deadlines:** These vary by state, typically occurring 12 days before the state's primary election. Campaigns should check the specific dates for their state to avoid missing these filings.
+* **October Quarterly Filing Deadline:** October 15, 2024. This deadline covers financial activities from July 1 to September 30.
+* **Pre-General Filing Deadline:** October 24, 2024. This filing is crucial for campaigns participating in the November general elections. Reports must be submitted 12 days before the election.
+* **Post-General Filing Deadline:** December 5, 2024. Covers financial activities up to 20 days after the November election.
+
+FEC Filing Schedule: Maintaining Compliance
+----------
+
+Maintaining compliance with the FEC filing calendar is crucial for campaigns to avoid penalties. Here’s how your campaign can stay on track:
+
+* **Mark Your Calendar:** Make sure all upcoming deadlines are marked and notifications are set. Include these notifications on all personnel’s calendars who are affected by FEC filing.
+* **Prepare in Advance:** Organize your campaign's financial records regularly to ensure you can quickly compile and submit accurate reports. Making sure you give yourself time to resolve any inconsistencies or find missing information will help you stay ahead.
+* **Use Software:** Software solutions, [like ours](https://ispolitical.com/), can automate the tracking of financial activities, generate reports, and provide reminders for upcoming FEC filings. This minimizes the risk of missing deadlines and ensures full compliance.
+
+Software Solutions for FEC Filing Compliance
+----------
+
+Our software offers a comprehensive solution to FEC filing compliance. Key features include:
+
+* **Automatic Tracking:** Financial transactions are logged automatically, making report generation seamless.
+* **Built-in Reminders:** Our software sends reminders ahead of all FEC filing deadlines, ensuring no date is overlooked.
+* **Comprehensive Reports:** Generate accurate reports in FEC-compliant formats, minimizing the risk of errors and penalties.
+
+FAQs
+----------
+
+### How can political campaigns ensure their FEC filings are accurate and comprehensive? ###
+
+Accuracy and comprehensiveness can be achieved by regularly auditing the campaign's financial records. Ensure that all contributions, expenditures, and loans are logged correctly. Utilize [accounting software](https://ispolitical.com/) that tracks transactions automatically and generates detailed reports to minimize errors and maintain full compliance.
+
+### What are the consequences of missing an FEC filing deadline? ###
+
+Missing an FEC filing deadline can result in penalties, including fines and legal action against the campaign. Additionally, late filings can damage the campaign's reputation, leading to a loss of trust from supporters and voters. This makes it crucial to stay aware of deadlines and submit reports promptly.
+
+### Are there additional FEC filing requirements beyond those mentioned in the calendar? ###
+
+Yes, campaigns and PACs may have additional requirements, such as filing amended reports if corrections are needed or reporting large contributions received close to election dates. It's important to stay informed about any unique requirements relevant to the campaign and to stay in compliance with all FEC regulations.
+
+Are You Square With the FEC?
+----------
+
+Staying compliant with FEC filing deadlines is essential for political campaigns to maintain their legitimacy and avoid penalties. By following the [FEC filing calendar](https://www.fec.gov/help-candidates-and-committees/dates-and-deadlines/), organizing financial records, and leveraging [software solutions](https://ispolitical.com/), campaigns can ensure full compliance.
+
+FEC, State and federal requirements are all built into our software and updated regularly so you always stay informed and reminded of key dates and deadlines. We simplify your accounting by automating tracking, providing reminders, and generating comprehensive reports, ensuring your campaign stays on track.
+
+You May Like These Blogs
+----------
+
+[Simplifying Campaign Finance with ISP’s Essential Tools](https://ispolitical.com/simplifying-campaign-finance-with-isps-essential-tools/)
+----------
+
+Managing a campaign’s finances can be complex and time-consuming. However, ISP’s suite of campaign finance solutions and tools is designed…
+
+[Read More](https://ispolitical.com/simplifying-campaign-finance-with-isps-essential-tools/)
+
+[Understanding FEC Filing Deadlines: The Breakdown](https://ispolitical.com/understanding-fec-filing-deadlines-the-breakdown/)
+----------
+
+The Federal Election Commission (FEC) plays a pivotal role in maintaining the integrity of campaign finance in the United States.…
+
+[Read More](https://ispolitical.com/understanding-fec-filing-deadlines-the-breakdown/)
+
+[Why You Should Have a Professional Campaign Treasurer](https://ispolitical.com/why-you-should-have-a-professional-campaign-treasurer/)
+----------
+
+Running a political campaign is a complex and demanding endeavor. Amidst the whirlwind of events, rallies, and policy planning, one…
+
+[Read More](https://ispolitical.com/why-you-should-have-a-professional-campaign-treasurer/)
+
+---
+
+# MINNESOTA CAMPAIGN PARTY PAC FILING FAQ AND RESOURCES
+
+Minnesota Campaign, Party, & PAC Filing FAQ and Resources
+==========
+
+Applies To: Minnesota
+
+Below are links to resources to help you file your Minnesota reports.
+
+### FAQ ###
+
+* [When Are the Minnesota Filing Deadlines?](https://ispolitical.com/When-Are-the-Minnesota-Filing-Deadlines)
+* [MN Hennepin County: Line by Line](https://ispolitical.com/MN-Hennepin-County-Line-by-Line)
+* [MN CAND Report: Line by Line](https://ispolitical.com/MN-CAND-Report-Line-by-Line)
+* [About the MN 24 Hour CAND Report](https://ispolitical.com/About-the-MN-24-Hour-CAND-Report)
+* [About the MN – PCF Report](https://ispolitical.com/About-the-MN-PCF-Report)
+* [About the MN 24 Hour PCF Report](https://ispolitical.com/About-the-MN-24-Hour-PCF-Report)
+
+### Supported Reports ###
+
+* MN – PCF (Report of Receipts and Expenditures for Political Committees and Political Funds)
+* MN – CAND (Report of Receipts and Expenditures for Candidates)
+* MN 24 Hour PCF
+
+### Form Specific Information ###
+
+* [MN CAND Report Line by Line](https://ispolitical.com/MN-CAND-Report-Line-By-Line)
+* [MN Hennepin County Line by Line](https://ispolitical.com/MN-Hennepin-County-Line-By-Line)
+
+### Resources ###
+
+* [Elections Site](https://www.sos.state.mn.us/elections-voting/)
+* [Filing Calendar](https://cfb.mn.gov/filer-resources/disclosure-publications/calendars/calendars-archive)
+* [Candidate Handbooks](https://cfb.mn.gov/filer-resources/self-help/handbooks/candidates)
+* [General Committee Handbooks](https://cfb.mn.gov/filer-resources/self-help/handbooks/committees-and-funds)
+
+[Help File Home](/help/) | [Full Index](/Help-File-Directory/) | [Contact Support](mailto:support@ISPolitical.com)
+
+[⇑ About Compliance Reports](/About-Compliance-Reports)
+[« About the MI PAC LCR Report](/About-the-MI-PAC-LCR-Report)
+[When Are the Minnesota Filing Deadlines? »](/When-Are-the-Minnesota-Filing-Deadlines)
 
 ---
 
@@ -13086,6 +25529,101 @@ If a report you originally submitted using the vendor file method is amended man
 [⇑ Missouri Campaign, Party, & PAC Filing FAQ and Resources](/Missouri-Campaign-Party-PAC-Filing-FAQ-and-Resources)
 [« When Are the Missouri Filing Deadlines?](/When-Are-the-Missouri-Filing-Deadlines)
 [About the MO Committee Disclosure Report »](/About-the-MO-Committee-Disclosure-Report)
+
+---
+
+# COMPLIANCE REPORT POST GENERATION
+
+Compliance Report Post-Generation
+==========
+
+* [How Do I Generate a PDF Version of My Compliance Report?](https://ispolitical.com/How-Do-I-Generate-a-PDF-Version-of-My-Compliance-Report)
+* [Using the Mark as Filed Feature](https://ispolitical.com/Using-the-Mark-as-Filed-Feature)
+
+[Help File Home](/help/) | [Full Index](/Help-File-Directory/) | [Contact Support](mailto:support@ISPolitical.com)
+
+[⇑ About Reports in ISP](/About-Reports-in-ISP)
+[« About Compliance Tools](/About-Compliance-Tools)
+[How Do I Generate a PDF Version of My Compliance Report? »](/How-Do-I-Generate-a-PDF-Version-of-My-Compliance-Report)
+
+---
+
+# ABOUT THE CA FORM 461
+
+About the CA Form 461
+==========
+
+Applies To: California
+
+Major Donor and Independent Expenditure Committee Campaign Statement
+----------
+
+The FPPC CA Form 461 Campaign Finance Report is filed by major donors, independent expenditure committees, non-profits, and multipurpose organizations.
+
+A Major Donor committee needs to file the CA Form 461 if they make monetary or non-monetary contributions (including loans) to state or local officeholders, candidates, and committees totaling $10,000 or more in a calendar year.
+
+An Independent Expenditure committee needs to file this report if they make independent expenditures totaling $1,000 or more in a calendar year to support or oppose state or local candidates or ballot measures.
+
+Report Generation Screen
+----------
+
+**Amended**
+
+* When Amending a report, Amendment Number is which amendment this report is. For example, if you have already filed 2 amendments, Amendment Number would be 3.
+* If you are filing locally and Amending a report, the Original Filing ID is found on your filing agency’s website. It will likely be a 6-10 digit number.
+
+**Current Election Date**
+
+* When Non-Election is selected, 01/01/1900 will appear as the election date on the report.
+
+**Interest Of Filer**
+
+* If the filer is an Individual, whatever information is added in the Interest of Filer field will pull to the Cover Page, Line 2, Section 1 under Business Interests.
+* If the filer is a Business, but not an association, whatever information is added in the Interest of Filer field will pull to the Cover Page, Line 2, Section 2 under A Filer That is a Business Entity Must Describe The Business Activity in Which it is Engaged.
+* If the filer is an Association, whatever information is added in the Interest of Filer field will pull to the Cover Page, Line 2, Section 3 under A Filer That is An Association Must Provide a Specific Description of its Interests.
+* If the filer is any other Filer, whatever information is added in the Interest of Filer field will pull to the Cover Page, Line 2, Section 3 under A Filer That is Not An Individual, Business Entity, Or Association Must Describe The Common Economic Interest Of The Group Or Entity.
+
+Page 1
+----------
+
+* **Mailing Address:** The Mailing Address is the address marked as Mailing on the filer record in the database.
+* **Responsible Officer:** The name of the Responsible Officer will come from the linked Principal Officer in the Relationships section of the filer’s record. If a Principal Officer is not linked, then Treasurer Name will pull here instead.
+* **Phone Number:** This will come from the Phone section in filer record.
+* **Nature and Interests of Filer (Individual):** If the filer is an Individual, the Name of Employer/Business will come from the Employer field on the filer record, the Business Interest will come from whatever information is added in the Interest of Filer field on the Report Generation screen, and the Address of Employer/Business will come from the work address on the filer record.
+* **Nature and Interests of Filer (Business):** If the filer is a Business, the Business Activity will come from whatever information is added in the Interest of Filer field on the Report Generation screen.
+* **Nature and Interests of Filer (Association):** If the filer is an Association, the Association Description will come from whatever information is added in the Interest of Filer field on the Report Generation screen.
+* **Nature and Interests of Filer (All Others):** If the filer is any other filer type, the Economic Interest will come from whatever information is added in the Interest of Filer field on the Report Generation screen.
+* **Verification:** If the filer is an Individual, the filer’s name will pull here. For all other filers, if a Principal Officer is linked, that name will pull here. If a Principal Officer is not linked, the treasurer name will pull here.
+
+Page 2
+----------
+
+Page 2 is based on Transaction Type Support/Oppose Memos and/or Loans Made. If you are missing expected Contributions Made, ensure the transaction in question is one of these transactions types.
+
+* **Date:** The date will come from the Support/Oppose Memo or Loan Made.
+* **Name and Address:** The name and address will come from the parent entity of the Support/Oppose Memo, or from the Loan Made entity.
+* **Type of Payment:**
+* If the transaction type is Loan Made, Loan will check.
+* If the Support/Oppose Memo is associated with a Non-Monetary Expense, Non-Monetary Contribution will check.
+* If the Support/Oppose Memo has transaction tag IE to Oppose or IE to Support, Independent Expenditure will check.
+* Otherwise, Monetary Contribution will check.
+
+* **Description of Payment:** If the Support/Oppose Memo has a Note for Compliance, that will pull here. Otherwise, the Note for Compliance on the parent transaction will pull here.
+* **Candidate or Committee Info:**
+* The Candidate Name, Committee Name or Ballot Measure Name will come for the Support/Oppose Memo or Loan Made.
+* The District or Measure Number will come the Ballot Measure Letter or Number, or the Office Sought/Held District Number as found in the Candidate Info.
+* Office Name will come from the Office Sought/Held Office Name as found in the Candidate Info.
+* The Jurisdiction will come from either the Ballot Measure or Office Sought/Held Jurisdiction.
+* The Oppose box will check if the Support/Oppose Memo has transaction tag IE to Oppose or Non-IE to Oppose. Otherwise, the Support box will check.
+
+* **Amount this Period:** This amount will come from the Support/Oppose Memo or Loan Made.
+* **Cumulative Amount:** This amount will be the total of Contributions Made for the Calendar Year.
+
+[Help File Home](/help/) | [Full Index](/Help-File-Directory/) | [Contact Support](mailto:support@ISPolitical.com)
+
+[⇑ California Campaign, Party, & PAC Filing FAQ and Resources](/California-Campaign-Party-PAC-Filing-FAQ-and-Resources)
+[« Why Are There Errors in My CA Confirmation Email That Are Not in ISP?](/Why-Are-There-Errors-in-My-CA-Confirmation-Email-That-Are-Not-in-ISP)
+[About the CA Form 461 – Non-committee Report »](/About-the-CA-Form-461-Non-committee-Report)
 
 ---
 
@@ -13407,6 +25945,82 @@ Running a political campaign is a complex and demanding endeavor. Amidst the whi
 
 ---
 
+# ABOUT THE NH R AND E
+
+About the NH – R and E
+==========
+
+Applies To: New Hampshire
+
+The NH R and E report lists receipts and expenditures to be reported to the Secretary of State. All contributions and expenditures over $50 will need to be itemized.
+
+Contributions that have exceeded the $200 aggregation threshold will also need to report the following contributor information:
+
+* Occupation
+* Job title
+* Name of employer
+* Location of the place of business
+
+To file your report, you must download the eFiling from ISP and then upload it to the [New Hampshire Campaign Finance System](https://cfs.sos.nh.gov/). If you open the downloaded eFile you might receive a warning message. Don’t worry about it – the file is totally safe.
+
+[Help File Home](/help/) | [Full Index](/Help-File-Directory/) | [Contact Support](mailto:support@ISPolitical.com)
+
+[⇑ New Hampshire Campaign, Party, & PAC Filing FAQ and Resources](/New-Hampshire-Campaign-Party-PAC-Filing-FAQ-and-Resources)
+[« When Are the New Hampshire Filing Deadlines?](/When-Are-the-New-Hampshire-Filing-Deadlines)
+[NH R and E (Candidate Version) Line by Line »](/NH-R-and-E-Candidate-Version-Line-by-Line)
+
+---
+
+# HOW DO I MEET FLORIDA S 1 6 7 1 REPORTING REQUIREMENTS IN ISP
+
+How Do I Meet Florida’s 106.0701 Reporting Requirements in ISP?
+==========
+
+Applies To: Florida
+
+Florida Statute 106.0701 requires that candidates for certain offices who solicit contributions for 527 Political Organizations or 501(c)(4)s must report those contributions received and expenditures made on their website within 5 business days.
+
+We’ve created a way to meet these requirements via a tool in the Tools tab. This will provide a HTML page with Contributions and Expenditures to meet those requirements and it is updated every night by our AI system.
+
+How do I add the FL reporting tool?
+----------
+
+1. Navigate to Tools \> Add/Remove Tools
+2. Locate the tool called Florida 106.0701 Reporting and click to add it
+3. You will receive an email no later than the next day with a link to the HTML page you can use
+
+If you don’t have any transactions entered that would pull for this report, an email with the link will not be sent until that criteria is met.
+
+The link will look something like this:
+
+https://files.ISPolitical.com/content/clients/[LowercaseShortDisplayName]/FL1060701.html
+
+These links are case-sensitive. Be sure you copy it directly from the email.
+
+If needed, please refer to your website provider for specific instructions on how to add custom HTML into your website design.
+
+We recommend you embed this in an iFrame on your webpage to satisfy the reporting requirement and to make full use of the automation done by AI. The AI automation will keep this page current with the data in your account.
+
+Sample code of what it will look like in an iFrame:
+
+\<iframe src=”https://files.ISPolitical.com/content/clients/[LowercaseShortDisplayName]/FL1060701.html” title=”FL106.0701″\>\</iframe\>
+
+Example with an ISP account name in it:
+
+\<iframe src=”https://files.ISPolitical.com/content/clients/gwashington/FL1060701.html” title=”FL106.0701″\>\</iframe\>
+
+How to embed this code into your webpage can vary slightly between providers, but here is a link to one explaining the process:
+
+[https://www.godaddy.com/help/add-html-or-custom-code-to-my-site-27252](https://www.godaddy.com/help/add-html-or-custom-code-to-my-site-27252)
+
+[Help File Home](/help/) | [Full Index](/Help-File-Directory/) | [Contact Support](mailto:support@ISPolitical.com)
+
+[⇑ Florida Campaign, Party, & PAC Filing FAQ and Resources](/Florida-Campaign-Party-PAC-Filing-FAQ-and-Resources)
+[« About the FL Testimonial Report](/About-the-FL-Testimonial-Report)
+[Georgia Campaign, Party, & PAC Filing FAQ and Resources »](/Georgia-Campaign-Party-PAC-Filing-FAQ-and-Resources)
+
+---
+
 # ABOUT THE VA LARGE CONTRIBUTION REPORT
 
 About the VA Large Contribution Report
@@ -13425,6 +26039,100 @@ To file your report, download the generated file and upload it to the [Virginia 
 [⇑ Virginia Campaign, Party, & PAC Filing FAQ and Resources](/Virginia-Campaign-Party-PAC-Filing-FAQ-and-Resources)
 [« About the VA Compliance Report](/About-the-VA-Compliance-Report)
 [About the VA Non-Candidate Compliance Report »](/About-the-VA-Non-Candidate-Compliance-Report)
+
+---
+
+# FEC CAMPAIGN PARTY PAC FILING FAQ AND RESOURCES
+
+FEC Campaign, Party, & PAC Filing FAQ and Resources
+==========
+
+Applies To: Federal Election Commission
+
+Below are links to resources to help you file your FEC reports.
+
+### FAQ ###
+
+* [About the FEC Form 3 Report](https://ispolitical.com/About-the-FEC-Form-3-Report)
+* [What Federal Committee Types Are Available in ISP?](https://ispolitical.com/What-Federal-Committee-Types-Are-Available-in-ISP)
+* [What Is the Threshold to Register a FEC Committee?](https://ispolitical.com/What-Is-the-Threshold-to-Register-a-FEC-Committee)
+* [How Do I Generate and E-file With the FEC?](https://ispolitical.com/How-Do-I-Generate-and-E-file-With-the-FEC)
+* [When Are the FEC Filing Deadlines?](https://ispolitical.com/When-Are-the-FEC-Filing-Deadlines)
+* [How Do I Add Candidate and Committee Records Directly From the FEC?](https://ispolitical.com/How-Do-I-Add-Candidate-and-Committee-Records-Directly-From-the-FEC)
+* [What Is the Difference Between FEC Candidate IDs and Committee IDs?](https://ispolitical.com/What-is-the-Difference-Between-FEC-Candidate-IDs-and-Committee-IDs)
+* [About FEC Conduit (Earmark) Memos](https://ispolitical.com/About-FEC-Conduit-Earmark-Memos)
+* [What Are Carey Committees and Carey Accounts?](https://ispolitical.com/What-Are-Carey-Committees-and-Carey-Accounts)
+* [About Super PACs](https://ispolitical.com/About-Super-PACs)
+* [How Do I Report Inkind Transactions Paid by the Candidate?](https://ispolitical.com/How-Do-I-Report-Inkind-Transactions-Paid-by-the-Candidate)
+* [How Do I Report Auction Items and Proceeds From Sales on FEC Reports?](https://ispolitical.com/How-Do-I-Report-Auction-Items-and-Proceeds-From-Sales-on-FEC-Reports)
+* [How Do I Report FEC Late Partnership Information?](https://ispolitical.com/How-Do-I-Report-FEC-Late-Partnership-Information)
+* [What Are the Sort Order Options for the FEC Reports?](https://ispolitical.com/What-Are-the-Sort-Order-Options-for-the-FEC-Reports)
+* [How Do I Report Advances for Travel?](https://ispolitical.com/How-Do-I-Report-Advances-for-Travel)
+* [How Do Federal and Non-federal IE’s Pull to Reports?](https://ispolitical.com/How-Do-Federal-and-Non-federal-IE-s-Pull-to-Reports)
+* [Why Is My IE Appearing on Line 21(B)? About Paying First and Disseminating Later](https://ispolitical.com/Why-Is-My-IE-Appearing-on-Line-21-B-About-Paying-First-and-Disseminating-Later)
+* [Why Are Dashboard Key Stats Different Than Line 11 Totals on FEC Reports?](https://ispolitical.com/Why-Are-Dashboard-Key-Stats-Different-Than-Line-11-Totals-on-FEC-Reports)
+* [How Should Debt that is Forgiven Appear on the FEC Form 3/3X/3P?](https://ispolitical.com/How-Should-Debt-that-is-Forgiven-Appear-on-the-FEC-Form-3-3X-3P)
+* [What Are Estimated Expenses for Form 5 and 24/48 Hour IE Reports?](https://ispolitical.com/Estimated-Expenses-for-Form-and-hour-IE-reports)
+* [Why Isn’t the Split of My Accrued Expense Payment Showing on My FEC Report?](https://ispolitical.com/Why-Isn-t-the-Split-of-My-Accrued-Expense-Payment-Showing-on-My-FEC-Report)
+* [About the FEC Form 1 Report](https://ispolitical.com/About-the-FEC-Form-1-Report)
+* [How Do I Prepare and Generate the FEC Form 1?](https://ispolitical.com/How-Do-I-Prepare-and-Generate-the-FEC-Form-1)
+* [FEC Form 1M (Notice of Multi-Candidate Status)](https://ispolitical.com/FEC-Form-M-Notice-of-Multi-Candidate-Status)
+* [What Is the Form 2 and When Do I File It?](https://ispolitical.com/What-Is-the-Form-2-and-When-Do-I-File-It)
+* [Why Can’t I See the FEC Form 3?](https://ispolitical.com/Why-Can-t-I-See-the-FEC-Form-3)
+* [About the FEC Form 3P Report](https://ispolitical.com/About-the-FEC-Form-3P-Report)
+* [Why Can’t I See the FEC Form 3P?](https://ispolitical.com/Why-Can-t-I-See-the-FEC-Form-3P)
+* [About the FEC Form 3 (PAC) Report](https://ispolitical.com/About-the-FEC-Form-3-PAC-Report)
+* [Different Options for FEC Form 3X Filing](https://ispolitical.com/Different-Options-for-FEC-Form-3X-Filing)
+* [How Do I Pull a Transaction to a Specific Line on the FEC Form 3X?](https://ispolitical.com/How-Do-I-Pull-a-Transaction-to-a-Specific-Line-on-the-FEC-Form-3X)
+* [FEC Form 3X (Party): How Do I Pull a Transaction to a Specific Line?](https://ispolitical.com/FEC-Form-3X-Party-How-Do-I-Pull-a-Transaction-to-a-Specific-Line)
+* [About the FEC Form 5 Report](https://ispolitical.com/About-the-FEC-Form-5-Report)
+* [About the FEC Form 6 Report](https://ispolitical.com/About-the-FEC-Form-6-Report)
+* [About the FEC Form 24-IE Report](https://ispolitical.com/About-the-FEC-Form-24-IE-Report)
+* [About the FEC Form 48-IE Report](https://ispolitical.com/About-the-FEC-Form-48-IE-Report)
+* [About the FEC Form 99 Report](https://ispolitical.com/About-the-FEC-Form-99-Report)
+* [About Report Post-Generation](https://ispolitical.com/About-Report-Post-Generation)
+* [Best Practices for Filing FEC Amendments](https://ispolitical.com/Best-Practices-for-Filing-FEC-Amendments)
+
+### Supported Reports ###
+
+* FEC Form 1 (Statement of Organization)
+* FEC Form 1M (Notification of Multi-Candidate Status)
+* FEC Form 2 (Statement of Candidacy)
+* FEC Form 24-IE (24 Hour Report of Independent Expenditures)
+* FEC Form 3 (Report of Receipts and Disbursements)
+* FEC Form 3 – PAC (Report of Receipts and Disbursements)
+* FEC Form 3P (Reports of Receipts and Disbursements)
+* FEC Form 3X (Report of Receipts and Disbursements)
+* FEC Form 3X – Party (Report of Receipts and Disbursements)
+* FEC Form 48-IE (48 Hour Report of Independent Expenditures)
+* FEC Form 6 (48-Hour Notice of Contributions / Loan Received)
+* FEC Form 99 (Miscellaneous Report to the FEC)
+
+### Form Specific Information ###
+
+* [How to Prepare & Generate the FEC Form 1](https://ispolitical.com/how-do-i-prepare-and-generate-the-fec-form/)
+* [FEC Form 1M (Notice of Multi-Candidate Status)](https://ispolitical.com/fec-form-m-notice-of-multi-candidate-status/)
+* [What are the Triggers to File an FEC Form 2?](https://ispolitical.com/What-are-the-triggers-to-file-an-FEC-Form/)
+* [Why Can’t I see the FEC Form 3?](https://ispolitical.com/Why-Can-t-I-see-the-FEC-Form/)
+* [How Do I File a FEC Form 3?](https://ispolitical.com/how-do-i-file-a-fec-form/)
+* [Form 3: How Do I Pull a Transaction to a Specific Line?](https://ispolitical.com/how-do-i-pull-a-transaction-to-a-specific-line-on-the-fec-form/)
+* [Form 3 Errors & Warnings](https://ispolitical.com/form-errors-and-warnings/)
+* [Form 3 Post General Report Instructions](https://ispolitical.com/post-general-report-instructions/)
+* [How to add an FEC Form 3Z to a Form 3](https://ispolitical.com/How-to-Add-an-FEC-Form-Z-to-a-Form/)
+* [Why Can’t I see the FEC Form 3p?](https://ispolitical.com/why-can-t-i-see-the-fec-form-p/)
+* [How Do I Get the Multi-Candidate Box Checked on the Form 3X?](https://ispolitical.com/How-Do-I-Get-the-Multi-Candidate-Box-Checked/)
+* [Form 3x: Allocations](https://ispolitical.com/Form-x-Allocations/)
+* [What is the 0% Federal Allocation used for?](https://ispolitical.com/What-is-the-Federal-Allocation-used-for/)
+* [Prohibited Inkind Contributions for Allocable Activities](https://ispolitical.com/Prohibited-Inkind-Contributions-for-Allocable-Activities/)
+* [Form 3X: How Do I Pull a Transaction to a Specific Line?](https://ispolitical.com/FEC-Form-X-How-Do-I-Pull-a-Transaction-to-a-Specific-Line/)
+* [Form 3X (Party): How Do I Pull a Transaction to a Specific Line?](https://ispolitical.com/FEC-Form-X-Party-How-Do-I-Pull-a-Transaction-to-a-Specific-Line/)
+* [Estimated Expenses For Form 5 And 24/48 Hour IE Reports](https://ispolitical.com/Estimated-Expenses-for-Form-and-hour-IE-reports/)
+
+[Help File Home](/help/) | [Full Index](/Help-File-Directory/) | [Contact Support](mailto:support@ISPolitical.com)
+
+[⇑ About Compliance Reports](/About-Compliance-Reports)
+[« When Are the IRS Filing Deadlines?](/When-Are-the-IRS-Filing-Deadlines)
+[About the FEC Form 3 Report »](/About-the-FEC-Form-3-Report)
 
 ---
 
@@ -13533,6 +26241,49 @@ The Federal Election Commission (FEC) plays a pivotal role in maintaining the in
 Running a political campaign is a complex and demanding endeavor. Amidst the whirlwind of events, rallies, and policy planning, one…
 
 [Read More](https://ispolitical.com/why-you-should-have-a-professional-campaign-treasurer/)
+
+---
+
+# HOW DO I ADD NEW EXISTING USERS TO A DATABASE
+
+How Do I Add New & Existing Users to a Database?
+==========
+
+User roles play an important part in not just what staff and volunteers have access to but can also be vital in protecting data integrity and security. Many user roles are available, and while some roles have the same permissions, each one will have its limitations.
+
+### How do I add a new user? ###
+
+In the System tab, select Users. On the resulting screen, you’ll see a list of all the users in your database. To add one, click the Add User button at the bottom of the screen.
+
+A window will appear and require you to enter in Name and Email information.
+
+It’s very important to remember that an incorrect email address will prevent the new user from being able to access the system. If the email address is incorrect, they will not receive the email containing their login information.
+
+You’ll also have fields that determine which Account database you’d like to give the user access to, as well as the Role you’d like to assign them. If you work with multiple databases, you’ll see the full list of databases to choose from.
+
+When selecting a Role, you can view the [permissions each user role carries](https://ispolitical.com/user-permissions-in-isp/). Some will have more access to database features and functionalities than others.
+
+Once you have completed the fields, click the Add User button. That individual will receive a welcome email containing their account and login information.
+
+### How do I add an existing user to a database? ###
+
+This is similar to the steps above, in that you would access this from the same location, under the System tab.
+
+In the window that appears, you’ll notice two tabs: New ISP User and Existing User(s). The default will show the New ISP User option, but when adding an already existing user to a database, be sure to click the Existing User(s) tab.
+
+Select the user’s name from the menu in the top field, then select the Account you’d like to give them access to and which Role you would like them to have.
+
+When ready, click Add User. The individual will receive an email stating they’ve been given access to the database you chose.
+
+### How do I update an existing user in a database?
+###
+
+Once a user has been added to a database, only that user can change their name and/or email address. Deleting the user with the old information and then adding the same user with updated information will not work.
+
+[Help File Home](/help/) | [Full Index](/Help-File-Directory/) | [Contact Support](mailto:support@ISPolitical.com)
+
+[« About Users](/About-Users)
+[What Are the Different User Permissions in ISP? »](/What-Are-the-Different-User-Permissions-in-ISP)
 
 ---
 
@@ -13676,11 +26427,57 @@ Once ready to print, click the Generate button at the bottom of the screen. This
 
 # WHAT IS TWO FACTOR AUTHORIZATION AND HOW DO I SET IT UP
 
-429 Too Many Requests
+What Is Two Factor Authorization and How Do I Set It Up?
 ==========
 
----
-nginx
+Two-factor authentication (2FA) adds an extra security step to your basic log-in procedure.
+
+Without 2FA, you enter in your username and password, and then you’re done. The password is your single factor of authentication. The second factor makes your account much more secure. After setting up 2FA, you will be asked to confirm your account every 30-days and whenever you use a new device or browser to sign in.
+
+In order to set up 2FA, first, go to the Settings Menu, then select Two-Factor Authentication. On the resulting screen, you’ll see two locations to choose from when setting up 2FA, My Settings and My Accounts.
+
+**My Settings**: This will make it so every account you log into will require 2FA.
+
+**My Account**: Here you can choose specific accounts to require 2FA (Your login has to have this enabled in My Settings as well).
+
+How do I set up Two Factor Authentication for my login?
+----------
+
+1. Navigate to the Settings Menu (Gear Icon) and Select Two-Factor Authentication from the drop down menu.
+
+2. Under the section that says My Settings click the blue button + Set Up Two-Factor Authentication.
+
+3. A pop up will appear where you can turn on 2FA, select a method to receive your code (SMS is the most common way), and a phone number to associate with the 2FA.
+
+4. Log out and back in. You will be prompted to enter a code sent to you by one of the methods selected.
+
+What are the different Two Factor Authentication methods?
+----------
+
+**SMS**
+Send a text message with a one-time passcode to your mobile device.
+
+**Phone Call**
+
+Receive a call with a one-time passcode.
+
+**TOTP**
+
+For first time users, you’ll be requested to install an app on your phone which will generate a one-time code to enter on the log in.
+
+**One-Touch**
+
+Using the same app as TOTP, tap the Requests option in the top left corner. In Pending, you’ll see a pending request. Tapping that will give you Deny or Approve options. The moment you tap Approve, ISP will automatically log you in.
+
+If you do not receive the SMS Message or the TOTP/One Touch notification we recommend a few things. Make sure that to desired 2FA method is in place. Please ensure the correct phone number is on file in ISP. Check to see if the app is updated. If it is please uninstall then reinstall and try again.
+
+If you choose SMS or TOTP as your 2FA method, the My Settings section will be an option to resend the Authy install link to your phone if you need to reinstall it.
+
+[Help File Home](/help/) | [Full Index](/Help-File-Directory/) | [Contact Support](mailto:support@ISPolitical.com)
+
+[⇑ About System Options in ISP](/About-System-Options-in-ISP)
+[« How Do I Change My Password?](/How-Do-I-Change-My-Password)
+[What Is Authy and How Do I Use It? »](/What-Is-Authy-and-How-Do-I-Use-It)
 
 ---
 
@@ -13735,6 +26532,141 @@ The Net Worth Impact column will provide a column with the net donation amount m
 [⇑ What Is the Financial Transaction Report?](/What-Is-the-Financial-Transaction-Report)
 [« How Do I Find Transactions Linked to a Specific Event? ](/Common-Financial-Report-Recipes)
 [How and When Do I Use Bulk Update? »](/How-and-When-Do-I-Use-Bulk-Update)
+
+---
+
+# ABOUT THE CA FORM 497 REPORT
+
+About the CA Form 497 Report
+==========
+
+Applies To: California
+
+The CA Form 497 has two main uses:
+
+1. Primarily, a 24-hour Contribution Report, which is required for contributions received or non-independent expenditure made in the amount or aggregate of $1,000 or more, filed within the 90-day period before an election
+2. A 10-day report, required for contributions received or non-independent expenditures made in the amount or aggregate of $5,000 or more, filed anytime outside of the 90-day period before an election
+
+Every time a donation is made, the aggregate resets back to $0.
+
+Determining when contributions should pull to a FPPC Form 497 can be confusing. Here are a few examples to help demonstrate situations that are most common.
+
+**Example 1:** A donor gives $800 in aggregate outside of the 90-day reporting period. They then donate $500 in the 90-day reporting period. This $500 amount would not pull because it’s under the $1,000 aggregate amount for the 90-day reporting period.
+
+**Example 2:** A donor gave $500 in the 90-day reporting period. They then give another $600 in the same 90-day reporting period. This donor now aggregates to $1,000 or more in the 90-day reporting period and will need to be reported on a 497.
+
+**Example 3:** A donor gives $1,100 in the 90-day reporting period. This is reported on a 497. The donor then gives another $700 in the 90-day reporting period. This $700 amount is not reported on a 497 because the aggregate has reset back to $0 when the first 497 was filed.
+
+Furthermore, if you are expecting a contribution made (expense to another committee) to pull to a 497 and it is not, then consider these two scenarios:
+
+1. Since the 497, or 24-hour Contribution Report, is based on Support/Oppose Memos, check to make sure there is a Support/Oppose Memo on the contribution made transaction you’re expecting to report.
+2. A Political Action Committee (PAC) does not have to report Contributions Received, so Page 1 is automatically excluded for PAC filers.
+
+Please note when the State created the e-filing specifications for the Form 497, they did not add a section where the loan box can be checked. Instead, the document note is used to indicate that it is a loan. The loan box cannot be checked when e-filed; only when paper filed.
+
+When contributions are made to state or local races using federal funds, the itemization rules slightly change. There is no reset, and the contributions made are reported as info, or what we would call memo. These expenses will itemize once they reach the $1,000 threshold and will continue to itemize.
+
+On the other hand, non-federal expenses do reset after they hit the $1,000 threshold.
+
+In order to avoid confusion, we include a memo for every expense. These memos indicate if the expense was made as a member communication and if it was made in support of or in opposition to.
+
+**Five Hundred Report**
+
+This version often used by local agencies, and has a lower itemization amount for contributions received. It can also be used as a Third Pre-Election Report instead of the 460.
+
+* Itemization Amount (for contributions received): $500
+* Itemization Amount (for contributions made): $1,000
+* Itemization Style: only transactions associated with the Current Election
+* Filed: within the 90-day pre-election period
+
+**Standard**
+
+This version is the commonly most used version.
+
+* Itemization Amount (for all transactions): $1,000
+* Itemization Style: only transactions associated with the Current Election
+* Filed: within the 90-day pre-election period
+
+**Ten Business Day**
+
+The version must be filed within 10 business days by state committees that make non-independent expenditures.
+
+* Itemization Amount: $5,000
+* Itemization Style: transactions regardless of the Current Election
+* Filed: outside of the 90-day pre-election period
+
+**Ten Business Day-Qualification**
+
+This version must be filed within 10 business days by state committees that make contributions totaling $5,000 or more to support or oppose the qualification or passage of a state or local ballot measure.
+
+* Itemization Amount: $5,000
+* Itemization Style: transactions regardless of the Current Election
+* Filed: outside of the 90-day pre-election period
+* SPECIAL: use the day after the closing date as the From Date.
+
+**Third Pre-Election Report**
+
+This version often used by local agencies, and has a lower itemization amount for contributions received. It can also be used as a Third Pre-Election Report instead of the 460.
+
+* Itemization Amount (for contributions received): $100
+* Itemization Amount (for contributions made): $1,000
+* Itemization Style: only transactions associated with the Current Election
+* Filed: within the 90-day pre-election period
+
+**Threshold Transactions Only**
+
+This version has the same itemization rules as the Standard version, but only list transactions that meet or exceed the itemization threshold, rather than all transactions associated with the entity.
+
+* Itemization Amount (for all transactions): $1,000
+* Itemization Style: only transactions associated with the Current Election
+* Filed: within the 90-day pre-election period
+
+**Transactions Regardless of Current Election**
+
+This version has the same itemization rules as the Standard version, but list transactions regardless if they are associated with the Current Election selected when generating the report.
+
+* Itemization Amount (for all transactions): $1,000
+* Itemization Style: transactions regardless of the Current Election
+* Filed: within the 90-day pre-election period
+
+**Two Hundred Fifty Report Itemization**
+
+This version often used by local agencies, and has a lower itemization amount for contributions received. It can also be used as a Third Pre-Election Report instead of the 460.
+
+* Itemization Amount (for contributions received): $250
+* Itemization Amount (for contributions made): $1,000
+* Itemization Style: only transactions associated with the Current Election
+* Filed: within the 90-day pre-election period
+
+[Help File Home](/help/) | [Full Index](/Help-File-Directory/) | [Contact Support](mailto:support@ISPolitical.com)
+
+[⇑ California Campaign, Party, & PAC Filing FAQ and Resources](/California-Campaign-Party-PAC-Filing-FAQ-and-Resources)
+[« About the CA Form 462 Report](/About-the-CA-Form-462-Report)
+[How Do I File a CA Form 497? »](/How-Do-I-File-a-CA-Form-497)
+
+---
+
+# WHEN ARE THE MAINE FILING DEADLINES
+
+When Are the Maine Filing Deadlines?
+==========
+
+Applies To: Maine
+
+Below are deadlines for Maine compliance report filing.
+
+The Filing Deadline information provided here is offered only as a reference aide. The provided deadline information may contain inaccuracies and may not include all special elections or deadlines. For agency specific details please visit the [Important Dates page on the Maine Commission site](https://www.maine.gov/ethics/deadlines/all).
+
+***No deadlines are currently found.***
+
+You’re able to add Filing Deadlines found in ISP to your own digital calendar with our [Calendar Feed tool](https://ispolitical.com/Calendar-Feeds).
+
+To see more information about Maine compliance report filing with ISP, please visit our [Maine Filing and FAQ Resource](https://ispolitical.com/maine-campaign-party-pac-filing-faq-and-resources/)s page.
+
+[Help File Home](/help/) | [Full Index](/Help-File-Directory/) | [Contact Support](mailto:support@ISPolitical.com)
+
+[« Maine Campaign, Party, & PAC Filing FAQ and Resources](/Maine-Campaign-Party-PAC-Filing-FAQ-and-Resources)
+[How Do I E-file IN Maine? »](/How-Do-I-E-file-IN-Maine)
 
 ---
 

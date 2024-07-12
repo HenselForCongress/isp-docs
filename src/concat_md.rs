@@ -19,7 +19,7 @@ fn clean_markdown(content: &str) -> String {
 }
 
 pub fn main() -> io::Result<()> {
-    let input_dir = "raw";
+    let input_dir = "docs";
     let output_file = "all_docs.md";
 
     let mut outfile = File::create(output_file)?;
