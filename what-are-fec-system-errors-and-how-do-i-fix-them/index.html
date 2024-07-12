@@ -1,0 +1,342 @@
+
+<!doctype html>
+<html lang="en" class="no-js">
+  <head>
+    
+      <meta charset="utf-8">
+      <meta name="viewport" content="width=device-width,initial-scale=1">
+      
+      
+      
+      
+      
+      
+      <link rel="icon" href="../assets/images/favicon.png">
+      <meta name="generator" content="mkdocs-1.6.0, mkdocs-material-9.5.28">
+    
+    
+      
+        <title>What Are FEC System Errors and How Do I Fix Them? - ISP Docs</title>
+      
+    
+    
+      <link rel="stylesheet" href="../assets/stylesheets/main.6543a935.min.css">
+      
+      
+
+
+    
+    
+      
+    
+    
+      
+        
+        
+        <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+        <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Roboto:300,300i,400,400i,700,700i%7CRoboto+Mono:400,400i,700,700i&display=fallback">
+        <style>:root{--md-text-font:"Roboto";--md-code-font:"Roboto Mono"}</style>
+      
+    
+    
+    <script>__md_scope=new URL("..",location),__md_hash=e=>[...e].reduce((e,_)=>(e<<5)-e+_.charCodeAt(0),0),__md_get=(e,_=localStorage,t=__md_scope)=>JSON.parse(_.getItem(t.pathname+"."+e)),__md_set=(e,_,t=localStorage,a=__md_scope)=>{try{t.setItem(a.pathname+"."+e,JSON.stringify(_))}catch(e){}}</script>
+    
+      
+
+    
+    
+    
+  </head>
+  
+  
+    <body dir="ltr">
+  
+    
+    <input class="md-toggle" data-md-toggle="drawer" type="checkbox" id="__drawer" autocomplete="off">
+    <input class="md-toggle" data-md-toggle="search" type="checkbox" id="__search" autocomplete="off">
+    <label class="md-overlay" for="__drawer"></label>
+    <div data-md-component="skip">
+      
+        
+        <a href="#what-are-fec-system-errors-and-how-do-i-fix-them" class="md-skip">
+          Skip to content
+        </a>
+      
+    </div>
+    <div data-md-component="announce">
+      
+    </div>
+    
+    
+      
+
+  
+
+<header class="md-header md-header--shadow" data-md-component="header">
+  <nav class="md-header__inner md-grid" aria-label="Header">
+    <a href=".." title="ISP Docs" class="md-header__button md-logo" aria-label="ISP Docs" data-md-component="logo">
+      
+  
+  <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M12 8a3 3 0 0 0 3-3 3 3 0 0 0-3-3 3 3 0 0 0-3 3 3 3 0 0 0 3 3m0 3.54C9.64 9.35 6.5 8 3 8v11c3.5 0 6.64 1.35 9 3.54 2.36-2.19 5.5-3.54 9-3.54V8c-3.5 0-6.64 1.35-9 3.54Z"/></svg>
+
+    </a>
+    <label class="md-header__button md-icon" for="__drawer">
+      
+      <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M3 6h18v2H3V6m0 5h18v2H3v-2m0 5h18v2H3v-2Z"/></svg>
+    </label>
+    <div class="md-header__title" data-md-component="header-title">
+      <div class="md-header__ellipsis">
+        <div class="md-header__topic">
+          <span class="md-ellipsis">
+            ISP Docs
+          </span>
+        </div>
+        <div class="md-header__topic" data-md-component="header-topic">
+          <span class="md-ellipsis">
+            
+              What Are FEC System Errors and How Do I Fix Them?
+            
+          </span>
+        </div>
+      </div>
+    </div>
+    
+    
+      <script>var media,input,key,value,palette=__md_get("__palette");if(palette&&palette.color){"(prefers-color-scheme)"===palette.color.media&&(media=matchMedia("(prefers-color-scheme: light)"),input=document.querySelector(media.matches?"[data-md-color-media='(prefers-color-scheme: light)']":"[data-md-color-media='(prefers-color-scheme: dark)']"),palette.color.media=input.getAttribute("data-md-color-media"),palette.color.scheme=input.getAttribute("data-md-color-scheme"),palette.color.primary=input.getAttribute("data-md-color-primary"),palette.color.accent=input.getAttribute("data-md-color-accent"));for([key,value]of Object.entries(palette.color))document.body.setAttribute("data-md-color-"+key,value)}</script>
+    
+    
+    
+      <label class="md-header__button md-icon" for="__search">
+        
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M9.5 3A6.5 6.5 0 0 1 16 9.5c0 1.61-.59 3.09-1.56 4.23l.27.27h.79l5 5-1.5 1.5-5-5v-.79l-.27-.27A6.516 6.516 0 0 1 9.5 16 6.5 6.5 0 0 1 3 9.5 6.5 6.5 0 0 1 9.5 3m0 2C7 5 5 7 5 9.5S7 14 9.5 14 14 12 14 9.5 12 5 9.5 5Z"/></svg>
+      </label>
+      <div class="md-search" data-md-component="search" role="dialog">
+  <label class="md-search__overlay" for="__search"></label>
+  <div class="md-search__inner" role="search">
+    <form class="md-search__form" name="search">
+      <input type="text" class="md-search__input" name="query" aria-label="Search" placeholder="Search" autocapitalize="off" autocorrect="off" autocomplete="off" spellcheck="false" data-md-component="search-query" required>
+      <label class="md-search__icon md-icon" for="__search">
+        
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M9.5 3A6.5 6.5 0 0 1 16 9.5c0 1.61-.59 3.09-1.56 4.23l.27.27h.79l5 5-1.5 1.5-5-5v-.79l-.27-.27A6.516 6.516 0 0 1 9.5 16 6.5 6.5 0 0 1 3 9.5 6.5 6.5 0 0 1 9.5 3m0 2C7 5 5 7 5 9.5S7 14 9.5 14 14 12 14 9.5 12 5 9.5 5Z"/></svg>
+        
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M20 11v2H8l5.5 5.5-1.42 1.42L4.16 12l7.92-7.92L13.5 5.5 8 11h12Z"/></svg>
+      </label>
+      <nav class="md-search__options" aria-label="Search">
+        
+        <button type="reset" class="md-search__icon md-icon" title="Clear" aria-label="Clear" tabindex="-1">
+          
+          <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M19 6.41 17.59 5 12 10.59 6.41 5 5 6.41 10.59 12 5 17.59 6.41 19 12 13.41 17.59 19 19 17.59 13.41 12 19 6.41Z"/></svg>
+        </button>
+      </nav>
+      
+    </form>
+    <div class="md-search__output">
+      <div class="md-search__scrollwrap" tabindex="0" data-md-scrollfix>
+        <div class="md-search-result" data-md-component="search-result">
+          <div class="md-search-result__meta">
+            Initializing search
+          </div>
+          <ol class="md-search-result__list" role="presentation"></ol>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+    
+    
+  </nav>
+  
+</header>
+    
+    <div class="md-container" data-md-component="container">
+      
+      
+        
+          
+        
+      
+      <main class="md-main" data-md-component="main">
+        <div class="md-main__inner md-grid">
+          
+            
+              
+              <div class="md-sidebar md-sidebar--primary" data-md-component="sidebar" data-md-type="navigation" >
+                <div class="md-sidebar__scrollwrap">
+                  <div class="md-sidebar__inner">
+                    
+
+
+
+<nav class="md-nav md-nav--primary" aria-label="Navigation" data-md-level="0">
+  <label class="md-nav__title" for="__drawer">
+    <a href=".." title="ISP Docs" class="md-nav__button md-logo" aria-label="ISP Docs" data-md-component="logo">
+      
+  
+  <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M12 8a3 3 0 0 0 3-3 3 3 0 0 0-3-3 3 3 0 0 0-3 3 3 3 0 0 0 3 3m0 3.54C9.64 9.35 6.5 8 3 8v11c3.5 0 6.64 1.35 9 3.54 2.36-2.19 5.5-3.54 9-3.54V8c-3.5 0-6.64 1.35-9 3.54Z"/></svg>
+
+    </a>
+    ISP Docs
+  </label>
+  
+  <ul class="md-nav__list" data-md-scrollfix>
+    
+      
+      
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href=".." class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Home
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+    
+  </ul>
+</nav>
+                  </div>
+                </div>
+              </div>
+            
+            
+              
+              <div class="md-sidebar md-sidebar--secondary" data-md-component="sidebar" data-md-type="toc" >
+                <div class="md-sidebar__scrollwrap">
+                  <div class="md-sidebar__inner">
+                    
+
+<nav class="md-nav md-nav--secondary" aria-label="Table of contents">
+  
+  
+  
+    
+  
+  
+</nav>
+                  </div>
+                </div>
+              </div>
+            
+          
+          
+            <div class="md-content" data-md-component="content">
+              <article class="md-content__inner md-typeset">
+                
+                  
+
+
+<h1 id="what-are-fec-system-errors-and-how-do-i-fix-them">What Are FEC System Errors and How Do I Fix Them?</h1>
+<p>Applies To: Federal Election Commission</p>
+<p>Sometimes the FEC system goes down or errors out when accepting a report. First, read the error. They’re not always clearly written but can have useful information. These errors are different than those in ISP when generating the report.</p>
+<p>If you’re still unsure or having trouble, a screenshot is always a good idea to demonstrate best efforts to file. This will come in handy if you need to have a discussion with folks at the FEC or with us.</p>
+<p>Finally, remember, it can take several hours for reports to show up on the FEC website. If yours doesn’t show up by the morning after your attempt, at that point it’s worth contacting your analyst with the FEC.</p>
+<p><strong>SYSTEM ERROR: SOMETHING WENT WRONG, PLEASE CONTACT ELECTRONIC FILING OFFICE:</strong> Your best bet is to try filing again. In fact, filing again is always a great way to go. </p>
+<p><strong>FILING ALREADY IN PROCESS!!!! POSSIBLE DUPLICATE SUBMISSION:</strong> If you see this message, they have received your filing.</p>
+<p><strong>Agency Response: fparse returned with error.:</strong> This is an internal FEC error directly from the agency. Please try filing again and if you get the possible duplicate message above, your first report was in fact submitted.</p>
+<p>These errors may occur when uploading your report.</p>
+<p>Bad Format Messages </p>
+<hr />
+<p><strong>BADFORMAT Candidate ID H########/S#######P####### does not exist:</strong> When submitting a filing for a Form 2, the Candidate ID number cannot be identified.</p>
+<p><strong>BADFORMAT Cannot find superseded filing:</strong> When submitting an amendment, the original filing cannot be located in the system database.</p>
+<p><strong>BADFORMAT Filer ID FEC-##### does not exist for C########:</strong> When submitting an amendment, the original filing ID could not be found for the committee. The original filing ID can be found by going to <a href="http://www.fec.gov/finance/disclosure/efile_search.shtml">http://www.fec.gov/finance/disclosure/efile_search.shtml</a>. The ID must be from the original report and not the latest amendment. It also must be entered exactly as it appears on the website (it is case-sensitive).</p>
+<p><strong>BADFORMAT Filer ID not specified:</strong> When submitting an amendment, no original Filing ID was specified. The original filing ID can be found by going to <a href="http://www.fec.gov/finance/disclosure/efile_search.shtml">http://www.fec.gov/finance/disclosure/efile_search.shtml</a>. The ID must be from the original report and not the latest amendment. It also must be entered exactly as it appears on the website, as it is case-sensitive.</p>
+<p><strong>BADFORMAT Filer Password not specified:</strong> When submitting a filing, no password was submitted along with the filing, or the password was not in the correct format. The password must be entered in the proper case, exactly as it was issued.</p>
+<p><strong>BADFORMAT Filing did not pass validation:</strong> When submitting a filing, the filing failed the validation routine and the results will be sent via email or fax.</p>
+<p><strong>BADFORMAT Filing to be amended does NOT belong to you:</strong> When submitting an amendment, the original filing ID does not belong to the committee filing.</p>
+<p><strong>BADFORMAT Filing to be amended is not a Form 2:</strong> When submitting an amendment for a Form 2, the original filing ID is not from Form 2.</p>
+<p><strong>BADFORMAT Invalid fax number (You must specify all 10 digits):</strong> When submitting a filing, the fax number must contain all 10 digits.</p>
+<p><strong>BADFORMAT Invalid Superseded specification:</strong> When submitting an amendment, the original filing ID is not in the correct format FEC-#####. You can find your original filing ID by looking up your committee on the FEC’s site and navigating to the Filings tab.</p>
+<p><strong>BADFORMAT Invalid Superseded specification Back Door:</strong> When submitting an amendment, the original filing ID is not in the correct format FEC-#####.</p>
+<p><strong>BADFORMAT Unrecognized header:</strong> The header line of the submitted filing is not in the correct format. This applies to users of vendor software or filers who have created their own comma-delimited format file.</p>
+<p><strong>BADFORMAT You must specify FilerFAX and/or FilerEmail:</strong> When submitting a filing, a FAX and/or email are necessary for Processing. Our best recommendations for when you receive this error are to log out and back in again, wait a few hours, or contact us to attempt a manual filing through the FEC’s portal on your behalf.</p>
+<p>Error Messages</p>
+<hr />
+<p><strong>ERROR: Amended filing MUST amend the original filing NOT another amendment:</strong> When submitting an amendment, the original filing ID belongs to another amendment. An amendment must amend the original report.</p>
+<p><strong>ERROR: Inconsistent report IDs:</strong> The header line in the filing being submitted reflects a different filing ID than the filing sent/entered by the uploading utility.</p>
+<p><strong>ERROR: Inconsistent report numbers. This filing is older than the last amendment:</strong> The filing being sent has a sequence number lower than the last posted filing for this report. Usually this is a filing that should have an amendment number but is being sent as a new report. It is also possible that an incorrect original report number has been entered. Ensure that the correct original report number has been entered and then regenerate the report.</p>
+<p><strong>ERROR: Incorrect Date Length:</strong> A date in the filing being submitted is in the incorrect format. The correct format is CCYYMMDD and can only be numeric values.</p>
+<p><strong>ERROR: Non Numeric Value For Date:</strong> A date in the filing being submitted is in the incorrect format. The correct format is CCYYMMDD and can only be numeric values.</p>
+<p><strong>ERROR: Password Is Not Valid For C########:</strong> The password being submitted is either not in the right case or is not valid for the committee.</p>
+<p><strong>ERROR: You can only file a Form 6!!:</strong> The filing password assigned to the committee only allows the Committee to file Forms 6.</p>
+<p>General Upload Messages, Success and Error</p>
+<hr />
+<p><strong>Back Door System Busy Please Try Again Later. If this problem persists, Call Tech Support:</strong> The back door routine is run prior to the validation routine and is too busy to accept filings at this time. Please try again later.</p>
+<p><strong>Filing Accepted and Is Being Processed:</strong> The filing submitted has been accepted and is being processed. A confirmation email/fax should be sent shortly thereafter.</p>
+<p><strong>Filing Accepted and Is FEC-#####:</strong> The filing submitted has been accepted and processed. The Filing ID receipt is FEC-#####.</p>
+<p><strong>Filing Accepted For Processing:</strong> The filing submitted has been accepted and is being processed. If you do not receive a receipt, call the Electronic Filing Office.</p>
+<p><strong>FILING ALREADY POSTED!!! Filing FEC-%d has the same MD5 total:</strong> The filing being submitted has already been uploaded and posted. They are exact duplicates.</p>
+<p><strong>Filing Failed Validation:</strong> When submitting a filing, the filing failed the validation routine and the results will be sent via email or fax.</p>
+<p><strong>Invalid FEC CSV Version Number!! Please Upgrade to The Most Current Version:</strong> The filing is being submitted in an older file format version that is no longer acceptable for filing electronically. Please upgrade to the most current version by contacting the software vendor.</p>
+<p><strong>INVALID Header:</strong> The header line of the submitted filing is not in the correct format. This applies to users of vendor software or filers who have created their own comma-delimited format file.</p>
+<p><strong>MD5 Not working correctly Aborting Upload (Please contact Electronic Filing Office):</strong> Internal error; Please contact the Electronic Filing Office.</p>
+<p><strong>Election Code missing: ?:</strong> The transaction in question is missing an election (primary, general, special, or runoff). Add an election to the transaction. If you used Non-Election as the election, the election field on the report will be blank, which is expected, and the warning can be ignored.</p>
+<p><strong>Submitting and Filer Committee IDs Inconsistent:</strong> The Committee ID in the upload routine and the ID in the file itself are not the same.</p>
+<p><strong>System Busy Please try Again Later. If this problem persists Call Tech Support:</strong> When submitting a filing, the filing is rejected due to a high volume of filings. Please try again later.</p>
+<p><strong>System Busy!! Please Try Again Later or Contact The Electronic filing Office For Assistance:</strong> When submitting a filing, the filing is rejected due to a high volume of filings. Please try again later.</p>
+<p><strong>You Can NOT Amend a NEW report!:</strong> The filing being submitted reflects in the header line that it is a new report, but also contains an original Filing ID in the Original amendment Filing ID field. Please contact the Electronic Filing Office.</p>
+<p><strong>You must enter the report you are amending!!:</strong> The filing being submitted reflects in the header line that it is an amendment, but does not contain a Filing ID in the Original Amendment Filing ID.</p>
+<p><a href="/help/">Help File Home</a> | <a href="/Help-File-Directory/">Full Index</a> | <a href="mailto:support@ISPolitical.com">Contact Support</a></p>
+<p><a href="/About-Report-Post-Generation">« About Report Post-Generation</a><br />
+<a href="/Wrong-FEC-Password-Error-Troubleshooting">Wrong FEC Password Error Troubleshooting »</a></p>
+
+
+
+
+
+
+
+
+
+
+
+
+                
+              </article>
+            </div>
+          
+          
+<script>var target=document.getElementById(location.hash.slice(1));target&&target.name&&(target.checked=target.name.startsWith("__tabbed_"))</script>
+        </div>
+        
+      </main>
+      
+        <footer class="md-footer">
+  
+  <div class="md-footer-meta md-typeset">
+    <div class="md-footer-meta__inner md-grid">
+      <div class="md-copyright">
+  
+  
+    Made with
+    <a href="https://squidfunk.github.io/mkdocs-material/" target="_blank" rel="noopener">
+      Material for MkDocs
+    </a>
+  
+</div>
+      
+    </div>
+  </div>
+</footer>
+      
+    </div>
+    <div class="md-dialog" data-md-component="dialog">
+      <div class="md-dialog__inner md-typeset"></div>
+    </div>
+    
+    
+    <script id="__config" type="application/json">{"base": "..", "features": ["navigation.indexes"], "search": "../assets/javascripts/workers/search.b8dbb3d2.min.js", "translations": {"clipboard.copied": "Copied to clipboard", "clipboard.copy": "Copy to clipboard", "search.result.more.one": "1 more on this page", "search.result.more.other": "# more on this page", "search.result.none": "No matching documents", "search.result.one": "1 matching document", "search.result.other": "# matching documents", "search.result.placeholder": "Type to start searching", "search.result.term.missing": "Missing", "select.version": "Select version"}}</script>
+    
+    
+      <script src="../assets/javascripts/bundle.fe8b6f2b.min.js"></script>
+      
+    
+  </body>
+</html>

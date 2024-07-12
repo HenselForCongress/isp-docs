@@ -1,0 +1,507 @@
+
+<!doctype html>
+<html lang="en" class="no-js">
+  <head>
+    
+      <meta charset="utf-8">
+      <meta name="viewport" content="width=device-width,initial-scale=1">
+      
+      
+      
+      
+      
+      
+      <link rel="icon" href="../assets/images/favicon.png">
+      <meta name="generator" content="mkdocs-1.6.0, mkdocs-material-9.5.28">
+    
+    
+      
+        <title>NH R and E (Candidate Version) Line by Line - ISP Docs</title>
+      
+    
+    
+      <link rel="stylesheet" href="../assets/stylesheets/main.6543a935.min.css">
+      
+      
+
+
+    
+    
+      
+    
+    
+      
+        
+        
+        <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+        <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Roboto:300,300i,400,400i,700,700i%7CRoboto+Mono:400,400i,700,700i&display=fallback">
+        <style>:root{--md-text-font:"Roboto";--md-code-font:"Roboto Mono"}</style>
+      
+    
+    
+    <script>__md_scope=new URL("..",location),__md_hash=e=>[...e].reduce((e,_)=>(e<<5)-e+_.charCodeAt(0),0),__md_get=(e,_=localStorage,t=__md_scope)=>JSON.parse(_.getItem(t.pathname+"."+e)),__md_set=(e,_,t=localStorage,a=__md_scope)=>{try{t.setItem(a.pathname+"."+e,JSON.stringify(_))}catch(e){}}</script>
+    
+      
+
+    
+    
+    
+  </head>
+  
+  
+    <body dir="ltr">
+  
+    
+    <input class="md-toggle" data-md-toggle="drawer" type="checkbox" id="__drawer" autocomplete="off">
+    <input class="md-toggle" data-md-toggle="search" type="checkbox" id="__search" autocomplete="off">
+    <label class="md-overlay" for="__drawer"></label>
+    <div data-md-component="skip">
+      
+        
+        <a href="#nh-r-and-e-candidate-version-line-by-line" class="md-skip">
+          Skip to content
+        </a>
+      
+    </div>
+    <div data-md-component="announce">
+      
+    </div>
+    
+    
+      
+
+  
+
+<header class="md-header md-header--shadow" data-md-component="header">
+  <nav class="md-header__inner md-grid" aria-label="Header">
+    <a href=".." title="ISP Docs" class="md-header__button md-logo" aria-label="ISP Docs" data-md-component="logo">
+      
+  
+  <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M12 8a3 3 0 0 0 3-3 3 3 0 0 0-3-3 3 3 0 0 0-3 3 3 3 0 0 0 3 3m0 3.54C9.64 9.35 6.5 8 3 8v11c3.5 0 6.64 1.35 9 3.54 2.36-2.19 5.5-3.54 9-3.54V8c-3.5 0-6.64 1.35-9 3.54Z"/></svg>
+
+    </a>
+    <label class="md-header__button md-icon" for="__drawer">
+      
+      <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M3 6h18v2H3V6m0 5h18v2H3v-2m0 5h18v2H3v-2Z"/></svg>
+    </label>
+    <div class="md-header__title" data-md-component="header-title">
+      <div class="md-header__ellipsis">
+        <div class="md-header__topic">
+          <span class="md-ellipsis">
+            ISP Docs
+          </span>
+        </div>
+        <div class="md-header__topic" data-md-component="header-topic">
+          <span class="md-ellipsis">
+            
+              NH R and E (Candidate Version) Line by Line
+            
+          </span>
+        </div>
+      </div>
+    </div>
+    
+    
+      <script>var media,input,key,value,palette=__md_get("__palette");if(palette&&palette.color){"(prefers-color-scheme)"===palette.color.media&&(media=matchMedia("(prefers-color-scheme: light)"),input=document.querySelector(media.matches?"[data-md-color-media='(prefers-color-scheme: light)']":"[data-md-color-media='(prefers-color-scheme: dark)']"),palette.color.media=input.getAttribute("data-md-color-media"),palette.color.scheme=input.getAttribute("data-md-color-scheme"),palette.color.primary=input.getAttribute("data-md-color-primary"),palette.color.accent=input.getAttribute("data-md-color-accent"));for([key,value]of Object.entries(palette.color))document.body.setAttribute("data-md-color-"+key,value)}</script>
+    
+    
+    
+      <label class="md-header__button md-icon" for="__search">
+        
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M9.5 3A6.5 6.5 0 0 1 16 9.5c0 1.61-.59 3.09-1.56 4.23l.27.27h.79l5 5-1.5 1.5-5-5v-.79l-.27-.27A6.516 6.516 0 0 1 9.5 16 6.5 6.5 0 0 1 3 9.5 6.5 6.5 0 0 1 9.5 3m0 2C7 5 5 7 5 9.5S7 14 9.5 14 14 12 14 9.5 12 5 9.5 5Z"/></svg>
+      </label>
+      <div class="md-search" data-md-component="search" role="dialog">
+  <label class="md-search__overlay" for="__search"></label>
+  <div class="md-search__inner" role="search">
+    <form class="md-search__form" name="search">
+      <input type="text" class="md-search__input" name="query" aria-label="Search" placeholder="Search" autocapitalize="off" autocorrect="off" autocomplete="off" spellcheck="false" data-md-component="search-query" required>
+      <label class="md-search__icon md-icon" for="__search">
+        
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M9.5 3A6.5 6.5 0 0 1 16 9.5c0 1.61-.59 3.09-1.56 4.23l.27.27h.79l5 5-1.5 1.5-5-5v-.79l-.27-.27A6.516 6.516 0 0 1 9.5 16 6.5 6.5 0 0 1 3 9.5 6.5 6.5 0 0 1 9.5 3m0 2C7 5 5 7 5 9.5S7 14 9.5 14 14 12 14 9.5 12 5 9.5 5Z"/></svg>
+        
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M20 11v2H8l5.5 5.5-1.42 1.42L4.16 12l7.92-7.92L13.5 5.5 8 11h12Z"/></svg>
+      </label>
+      <nav class="md-search__options" aria-label="Search">
+        
+        <button type="reset" class="md-search__icon md-icon" title="Clear" aria-label="Clear" tabindex="-1">
+          
+          <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M19 6.41 17.59 5 12 10.59 6.41 5 5 6.41 10.59 12 5 17.59 6.41 19 12 13.41 17.59 19 19 17.59 13.41 12 19 6.41Z"/></svg>
+        </button>
+      </nav>
+      
+    </form>
+    <div class="md-search__output">
+      <div class="md-search__scrollwrap" tabindex="0" data-md-scrollfix>
+        <div class="md-search-result" data-md-component="search-result">
+          <div class="md-search-result__meta">
+            Initializing search
+          </div>
+          <ol class="md-search-result__list" role="presentation"></ol>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+    
+    
+  </nav>
+  
+</header>
+    
+    <div class="md-container" data-md-component="container">
+      
+      
+        
+          
+        
+      
+      <main class="md-main" data-md-component="main">
+        <div class="md-main__inner md-grid">
+          
+            
+              
+              <div class="md-sidebar md-sidebar--primary" data-md-component="sidebar" data-md-type="navigation" >
+                <div class="md-sidebar__scrollwrap">
+                  <div class="md-sidebar__inner">
+                    
+
+
+
+<nav class="md-nav md-nav--primary" aria-label="Navigation" data-md-level="0">
+  <label class="md-nav__title" for="__drawer">
+    <a href=".." title="ISP Docs" class="md-nav__button md-logo" aria-label="ISP Docs" data-md-component="logo">
+      
+  
+  <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M12 8a3 3 0 0 0 3-3 3 3 0 0 0-3-3 3 3 0 0 0-3 3 3 3 0 0 0 3 3m0 3.54C9.64 9.35 6.5 8 3 8v11c3.5 0 6.64 1.35 9 3.54 2.36-2.19 5.5-3.54 9-3.54V8c-3.5 0-6.64 1.35-9 3.54Z"/></svg>
+
+    </a>
+    ISP Docs
+  </label>
+  
+  <ul class="md-nav__list" data-md-scrollfix>
+    
+      
+      
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href=".." class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Home
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+    
+  </ul>
+</nav>
+                  </div>
+                </div>
+              </div>
+            
+            
+              
+              <div class="md-sidebar md-sidebar--secondary" data-md-component="sidebar" data-md-type="toc" >
+                <div class="md-sidebar__scrollwrap">
+                  <div class="md-sidebar__inner">
+                    
+
+<nav class="md-nav md-nav--secondary" aria-label="Table of contents">
+  
+  
+  
+    
+  
+  
+    <label class="md-nav__title" for="__toc">
+      <span class="md-nav__icon md-icon"></span>
+      Table of contents
+    </label>
+    <ul class="md-nav__list" data-md-component="toc" data-md-scrollfix>
+      
+        <li class="md-nav__item">
+  <a href="#detailed-summary-page" class="md-nav__link">
+    <span class="md-ellipsis">
+      DETAILED SUMMARY PAGE
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#summary-page" class="md-nav__link">
+    <span class="md-ellipsis">
+      SUMMARY PAGE
+    </span>
+  </a>
+  
+</li>
+      
+    </ul>
+  
+</nav>
+                  </div>
+                </div>
+              </div>
+            
+          
+          
+            <div class="md-content" data-md-component="content">
+              <article class="md-content__inner md-typeset">
+                
+                  
+
+
+<h1 id="nh-r-and-e-candidate-version-line-by-line">NH R and E (Candidate Version) Line by Line</h1>
+<p>Applies To: New Hampshire</p>
+<p>NOTES:</p>
+<ul>
+<li>NH efiling does not support the concept of splits or memos. Typically states want to see where the money originated/ended up, so we itemize splits as cash-impact transactions, and do not itemize the whole/parent transaction.</li>
+<li>NH efiling does not support the concept of negative transactions, so they are listed as positive receipts on the opposite schedule. (ie: reversed receipts as positive expenses; reversed expenses as positive receipts)</li>
+</ul>
+<h2 id="detailed-summary-page">DETAILED SUMMARY PAGE</h2>
+<p><strong>RECEIPTS TOTALS</strong><br />
+<strong>Line 1 – Itemized Receipts</strong></p>
+<ul>
+<li><strong>Transaction Type(s):</strong> Monetary Contribution</li>
+<li>All contributions over $50 will be itemized</li>
+</ul>
+<p><strong>Line 2 – Unitemized Receipts</strong></p>
+<ul>
+<li><strong>Transaction Type(s):</strong> Enforceable Pledge Payment, Monetary Contribution, Other Income, Reversed Expense, Loan Received</li>
+<li>The Column B totals are calculated with the data provided in the Previous Total of Receipts Unitemized field on the Reports Generation Screen</li>
+</ul>
+<p><strong>Line 3- Interest Earned</strong></p>
+<ul>
+<li><strong>Transaction Type(s):</strong> Interest Earned, Reversed Expense</li>
+<li>This was the best place to list reversed expenses – as a positive receipt that is not a contribution</li>
+<li>This line total will be of itemized transactions; unitemized will pull to Line 2</li>
+</ul>
+<p><strong>Line 4 – Loans Received</strong></p>
+<ul>
+<li><strong>Transaction Type(s):</strong> Loans Received</li>
+<li>This line total will be of itemized transactions; unitemized will pull to Line 2</li>
+</ul>
+<p><strong>Line 5 – Returned Receipts</strong></p>
+<ul>
+<li><strong>Transaction Type(s):</strong> Refunded Contribution</li>
+<li>All Refunded Contributions will pull to this line, regardless of amount</li>
+</ul>
+<p><strong>Line 6 – Total Receipts</strong></p>
+<ul>
+<li>The sum of Lines 1-4, minus Line 5</li>
+</ul>
+<p><strong>EXPENDITURES TOTALS</strong><br />
+<strong>Line 7 – Itemized Expenditures (excluding Independent Expenditures)</strong></p>
+<ul>
+<li><strong>Transaction Type(s):</strong> Accrued Expense Payment, Expense, Support/Oppose Memo without tag IE to Support or IE to Oppose, Loan Received Repayment, Reversed Monetary Contribution, Reversed Other Income</li>
+<li>All expenditures over $50 will be itemized</li>
+</ul>
+<p><strong>Line 8 – Unitemized Expenditures (excluding Independent Expenditures)</strong></p>
+<ul>
+<li><strong>Transaction Type(s):</strong> Accrued Expense Payment, Expense, Support/Oppose Memo either with or without tag IE to Support or IE to Oppose, Reversed Monetary Contribution, Reversed Other Income</li>
+</ul>
+<p><strong>Line 9 – Independent Expenditures</strong></p>
+<ul>
+<li><strong>Transaction Type(s):</strong> Support/Oppose Memo with tag IE to Support or IE to Oppose</li>
+<li>IEs have a different itemization amount – IEs over $1000 instead of $50 will be itemized</li>
+<li>This line total will be of itemized transactions; unitemized will pull to Line 8</li>
+</ul>
+<p><strong>Line 10 – Loan Payments</strong></p>
+<ul>
+<li><strong>Transaction Type(s):</strong> Loans Received Repayment</li>
+<li>This line total will be of itemized transactions; unitemized will pull to Line 8</li>
+</ul>
+<p><strong>Line 11 – Returned Expenditures</strong></p>
+<ul>
+<li><strong>Transaction Type(s):</strong> Refunded Expense</li>
+<li>All Refunded Expenses will pull to this line, regardless of amount</li>
+</ul>
+<p><strong>Line 12 – Total Expenditures</strong></p>
+<ul>
+<li>The sum of Lines 7-9, minus Lines 10 &amp; 11</li>
+</ul>
+<p><strong>LOAN TOTALS</strong><br />
+<strong>Line 13 – Outstanding Loan Balance Due (from Previous Reporting Period)</strong></p>
+<ul>
+<li>Amount will auto-populate the outstanding balance due at the start of the period</li>
+</ul>
+<p><strong>Line 13a – Loan Interest Owed</strong></p>
+<ul>
+<li><strong><em>This line is unsupported at this time.</em></strong> Please contact support if required</li>
+</ul>
+<p><strong>Line 14 – Loans Received</strong></p>
+<ul>
+<li><strong>Transaction Type(s):</strong> Loan Received</li>
+</ul>
+<p><strong>Line 15 – Loan Payments Made</strong></p>
+<ul>
+<li><strong>Transaction Type(s):</strong> Loan Received Repayment</li>
+</ul>
+<p><strong>Line 16 – Loan Forgiven</strong></p>
+<ul>
+<li><strong>Transaction Type(s):</strong> Loan Received Balance Reduction</li>
+</ul>
+<p><strong>Line 17 – Outstanding Loan Balance at Close of Reporting Period</strong></p>
+<ul>
+<li>Amount will auto-populate the outstanding balance due at the end of the period</li>
+</ul>
+<p><strong>IN-KIND TOTALS<br />
+Line 18 – In-Kind (Non-Money) Receipts</strong></p>
+<ul>
+<li><strong>Transaction Type(s):</strong> Inkind Contribution</li>
+<li>These transactions will be itemized on the Receipts schedule</li>
+</ul>
+<p><strong>Line 19 – Returned In-Kind (Non-Money) Receipts</strong></p>
+<ul>
+<li><strong><em>This line is unsupported at this time.</em></strong> Please contact support if required</li>
+</ul>
+<p><strong>Line 20 – Total In-Kind (Non-Money) Receipts</strong></p>
+<ul>
+<li>Line 18 minus Line 19</li>
+</ul>
+<p><strong>Line 21 – In-Kind (Non-Money) Expenditures</strong></p>
+<ul>
+<li><strong>Transaction Type(s):</strong> Non-Monetary Expense</li>
+<li>These transactions will be itemized on the Expenses schedule</li>
+</ul>
+<p><strong>Line 22 – Returned In-Kind (Non-Money) Expenditures</strong></p>
+<ul>
+<li><strong><em>This line is unsupported at this time.</em></strong> Please contact support if required</li>
+</ul>
+<p><strong>Line 23 – Total In-Kind (Non-Money) Receipts</strong></p>
+<ul>
+<li>Line 21 minus Line 22</li>
+</ul>
+<p><strong>Line 22 – In-Kind (Non-Money) Transaction Balance</strong></p>
+<ul>
+<li>Line 20 minus Line 23</li>
+</ul>
+<hr />
+<h2 id="summary-page">SUMMARY PAGE</h2>
+<p><strong>Line A – Balance at the Beginning of this Period</strong></p>
+<ul>
+<li>Amount will auto-populate the Starting Cash on Hand for the start of the period</li>
+</ul>
+<p><strong>Line B – Total Monetary Receipts</strong></p>
+<ul>
+<li>Column 1 will pull the Line 6 Period total from the Detailed Summary Page</li>
+<li>Column 2 will pull the Line 6 Campaign to Date total from the Detailed Summary Page</li>
+</ul>
+<p><strong>Line C- In-Kind (Non-Money) Receipts</strong></p>
+<ul>
+<li>Column 1 will pull the Line 18 Period total from the Detailed Summary Page</li>
+<li>Column 2 will pull the Line 18 Campaign to Date total from the Detailed Summary Page</li>
+</ul>
+<p><strong>Line D – Number of Contributors</strong></p>
+<ul>
+<li>Column 1 will calculate the number of transactions on the Receipts schedule – including Monetary Contributions, Enforceable Pledge Payments, Inkind Contributions, Reversed Expenses, Refunded Contributions, Other Income and Loans Received – for the period</li>
+<li>Column 2 will calculate the number of transactions on the Receipts schedule – including Monetary Contributions, Enforceable Pledge Payments, Inkind Contributions, Reversed Expenses, Refunded Contributions, Other Income and Loans Received – for the cycle starting the day after the Previous General Election Date, as provided on the Report Generation Screen</li>
+</ul>
+<p><strong>Line E – Number of Receipts Unitemized</strong></p>
+<ul>
+<li>Column 1 will calculate the number of unitemized transactions on the “Receipts” schedule – including Monetary Contributions, Enforceable Pledge Payments, Inkind Contributions, Reversed Expenses, Other Income and Loans Received – for the period</li>
+<li>Column 2 will add the number of unitemized transactions in the period (as found in Column 1) with the Previous Number of Receipt Unitemized, as provided on the Report Generation Screen</li>
+</ul>
+<p><strong>Line F – Total Receipts</strong></p>
+<ul>
+<li>Column 1 is the sum of Column 1 for Lines B + C</li>
+<li>Column 2 is the sum of Column 2 for Lines B + C</li>
+</ul>
+<p><strong>Line G – Total Monetary Expenditures</strong></p>
+<ul>
+<li>Column 1 will pull the Line 12 Period total from the Detailed Summary Page</li>
+<li>Column 2 will pull the Line 12 Campaign to Date total from the Detailed Summary Page</li>
+</ul>
+<p><strong>Line H – Number of Independent Expenditures</strong></p>
+<ul>
+<li>Column 1 will calculate the number of itemized IE transactions for the period</li>
+<li>Column 2 will calculate the number of itemized IE transactions for the cycle starting the day after the Previous General Election Date, as provided on the Report Generation Screen</li>
+</ul>
+<p><strong>Line I – In-Kind (Non-Money) Expenditures</strong></p>
+<ul>
+<li>Column 1 will pull the Line 23 Period total from the Detailed Summary Page</li>
+<li>Column 2 will pull the Line 23 Campaign to Date total from the Detailed Summary Page</li>
+</ul>
+<p><strong>Line J – Total Expenditures</strong></p>
+<ul>
+<li>Column 1 is the sum of Column 1 for Lines G + I</li>
+<li>Column 2 is the sum of Column 2 for Lines G + I</li>
+</ul>
+<p><strong>Line K – (Cash) Balance at the End of this Reporting Period</strong></p>
+<ul>
+<li>This is the total of Column 1, Lines A + B – G</li>
+</ul>
+<p><strong>Line L – Outstanding Loan Balance</strong></p>
+<ul>
+<li>This will pull the Line 17 total from the Detailed Summary Page</li>
+</ul>
+<p><strong>Line M – Available Funds</strong></p>
+<ul>
+<li>This is the total of Column 1, Line K minus Line L</li>
+</ul>
+<p><a href="/help/">Help File Home</a> | <a href="/Help-File-Directory/">Full Index</a> | <a href="mailto:support@ISPolitical.com">Contact Support</a></p>
+<p><a href="/New-Hampshire-Campaign-Party-PAC-Filing-FAQ-and-Resources">⇑ New Hampshire Campaign, Party, &amp; PAC Filing FAQ and Resources</a><br />
+<a href="/About-the-NH-R-and-E">« About the NH – R and E</a><br />
+<a href="/About-the-NH-LCR-Report">About the NH – LCR Report »</a></p>
+
+
+
+
+
+
+
+
+
+
+
+
+                
+              </article>
+            </div>
+          
+          
+<script>var target=document.getElementById(location.hash.slice(1));target&&target.name&&(target.checked=target.name.startsWith("__tabbed_"))</script>
+        </div>
+        
+      </main>
+      
+        <footer class="md-footer">
+  
+  <div class="md-footer-meta md-typeset">
+    <div class="md-footer-meta__inner md-grid">
+      <div class="md-copyright">
+  
+  
+    Made with
+    <a href="https://squidfunk.github.io/mkdocs-material/" target="_blank" rel="noopener">
+      Material for MkDocs
+    </a>
+  
+</div>
+      
+    </div>
+  </div>
+</footer>
+      
+    </div>
+    <div class="md-dialog" data-md-component="dialog">
+      <div class="md-dialog__inner md-typeset"></div>
+    </div>
+    
+    
+    <script id="__config" type="application/json">{"base": "..", "features": ["navigation.indexes"], "search": "../assets/javascripts/workers/search.b8dbb3d2.min.js", "translations": {"clipboard.copied": "Copied to clipboard", "clipboard.copy": "Copy to clipboard", "search.result.more.one": "1 more on this page", "search.result.more.other": "# more on this page", "search.result.none": "No matching documents", "search.result.one": "1 matching document", "search.result.other": "# matching documents", "search.result.placeholder": "Type to start searching", "search.result.term.missing": "Missing", "select.version": "Select version"}}</script>
+    
+    
+      <script src="../assets/javascripts/bundle.fe8b6f2b.min.js"></script>
+      
+    
+  </body>
+</html>

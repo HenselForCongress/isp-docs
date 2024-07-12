@@ -1,0 +1,817 @@
+
+<!doctype html>
+<html lang="en" class="no-js">
+  <head>
+    
+      <meta charset="utf-8">
+      <meta name="viewport" content="width=device-width,initial-scale=1">
+      
+      
+      
+      
+      
+      
+      <link rel="icon" href="../assets/images/favicon.png">
+      <meta name="generator" content="mkdocs-1.6.0, mkdocs-material-9.5.28">
+    
+    
+      
+        <title>CA 460 Line by Line - ISP Docs</title>
+      
+    
+    
+      <link rel="stylesheet" href="../assets/stylesheets/main.6543a935.min.css">
+      
+      
+
+
+    
+    
+      
+    
+    
+      
+        
+        
+        <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+        <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Roboto:300,300i,400,400i,700,700i%7CRoboto+Mono:400,400i,700,700i&display=fallback">
+        <style>:root{--md-text-font:"Roboto";--md-code-font:"Roboto Mono"}</style>
+      
+    
+    
+    <script>__md_scope=new URL("..",location),__md_hash=e=>[...e].reduce((e,_)=>(e<<5)-e+_.charCodeAt(0),0),__md_get=(e,_=localStorage,t=__md_scope)=>JSON.parse(_.getItem(t.pathname+"."+e)),__md_set=(e,_,t=localStorage,a=__md_scope)=>{try{t.setItem(a.pathname+"."+e,JSON.stringify(_))}catch(e){}}</script>
+    
+      
+
+    
+    
+    
+  </head>
+  
+  
+    <body dir="ltr">
+  
+    
+    <input class="md-toggle" data-md-toggle="drawer" type="checkbox" id="__drawer" autocomplete="off">
+    <input class="md-toggle" data-md-toggle="search" type="checkbox" id="__search" autocomplete="off">
+    <label class="md-overlay" for="__drawer"></label>
+    <div data-md-component="skip">
+      
+        
+        <a href="#ca-460-line-by-line" class="md-skip">
+          Skip to content
+        </a>
+      
+    </div>
+    <div data-md-component="announce">
+      
+    </div>
+    
+    
+      
+
+  
+
+<header class="md-header md-header--shadow" data-md-component="header">
+  <nav class="md-header__inner md-grid" aria-label="Header">
+    <a href=".." title="ISP Docs" class="md-header__button md-logo" aria-label="ISP Docs" data-md-component="logo">
+      
+  
+  <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M12 8a3 3 0 0 0 3-3 3 3 0 0 0-3-3 3 3 0 0 0-3 3 3 3 0 0 0 3 3m0 3.54C9.64 9.35 6.5 8 3 8v11c3.5 0 6.64 1.35 9 3.54 2.36-2.19 5.5-3.54 9-3.54V8c-3.5 0-6.64 1.35-9 3.54Z"/></svg>
+
+    </a>
+    <label class="md-header__button md-icon" for="__drawer">
+      
+      <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M3 6h18v2H3V6m0 5h18v2H3v-2m0 5h18v2H3v-2Z"/></svg>
+    </label>
+    <div class="md-header__title" data-md-component="header-title">
+      <div class="md-header__ellipsis">
+        <div class="md-header__topic">
+          <span class="md-ellipsis">
+            ISP Docs
+          </span>
+        </div>
+        <div class="md-header__topic" data-md-component="header-topic">
+          <span class="md-ellipsis">
+            
+              CA 460 Line by Line
+            
+          </span>
+        </div>
+      </div>
+    </div>
+    
+    
+      <script>var media,input,key,value,palette=__md_get("__palette");if(palette&&palette.color){"(prefers-color-scheme)"===palette.color.media&&(media=matchMedia("(prefers-color-scheme: light)"),input=document.querySelector(media.matches?"[data-md-color-media='(prefers-color-scheme: light)']":"[data-md-color-media='(prefers-color-scheme: dark)']"),palette.color.media=input.getAttribute("data-md-color-media"),palette.color.scheme=input.getAttribute("data-md-color-scheme"),palette.color.primary=input.getAttribute("data-md-color-primary"),palette.color.accent=input.getAttribute("data-md-color-accent"));for([key,value]of Object.entries(palette.color))document.body.setAttribute("data-md-color-"+key,value)}</script>
+    
+    
+    
+      <label class="md-header__button md-icon" for="__search">
+        
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M9.5 3A6.5 6.5 0 0 1 16 9.5c0 1.61-.59 3.09-1.56 4.23l.27.27h.79l5 5-1.5 1.5-5-5v-.79l-.27-.27A6.516 6.516 0 0 1 9.5 16 6.5 6.5 0 0 1 3 9.5 6.5 6.5 0 0 1 9.5 3m0 2C7 5 5 7 5 9.5S7 14 9.5 14 14 12 14 9.5 12 5 9.5 5Z"/></svg>
+      </label>
+      <div class="md-search" data-md-component="search" role="dialog">
+  <label class="md-search__overlay" for="__search"></label>
+  <div class="md-search__inner" role="search">
+    <form class="md-search__form" name="search">
+      <input type="text" class="md-search__input" name="query" aria-label="Search" placeholder="Search" autocapitalize="off" autocorrect="off" autocomplete="off" spellcheck="false" data-md-component="search-query" required>
+      <label class="md-search__icon md-icon" for="__search">
+        
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M9.5 3A6.5 6.5 0 0 1 16 9.5c0 1.61-.59 3.09-1.56 4.23l.27.27h.79l5 5-1.5 1.5-5-5v-.79l-.27-.27A6.516 6.516 0 0 1 9.5 16 6.5 6.5 0 0 1 3 9.5 6.5 6.5 0 0 1 9.5 3m0 2C7 5 5 7 5 9.5S7 14 9.5 14 14 12 14 9.5 12 5 9.5 5Z"/></svg>
+        
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M20 11v2H8l5.5 5.5-1.42 1.42L4.16 12l7.92-7.92L13.5 5.5 8 11h12Z"/></svg>
+      </label>
+      <nav class="md-search__options" aria-label="Search">
+        
+        <button type="reset" class="md-search__icon md-icon" title="Clear" aria-label="Clear" tabindex="-1">
+          
+          <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M19 6.41 17.59 5 12 10.59 6.41 5 5 6.41 10.59 12 5 17.59 6.41 19 12 13.41 17.59 19 19 17.59 13.41 12 19 6.41Z"/></svg>
+        </button>
+      </nav>
+      
+    </form>
+    <div class="md-search__output">
+      <div class="md-search__scrollwrap" tabindex="0" data-md-scrollfix>
+        <div class="md-search-result" data-md-component="search-result">
+          <div class="md-search-result__meta">
+            Initializing search
+          </div>
+          <ol class="md-search-result__list" role="presentation"></ol>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+    
+    
+  </nav>
+  
+</header>
+    
+    <div class="md-container" data-md-component="container">
+      
+      
+        
+          
+        
+      
+      <main class="md-main" data-md-component="main">
+        <div class="md-main__inner md-grid">
+          
+            
+              
+              <div class="md-sidebar md-sidebar--primary" data-md-component="sidebar" data-md-type="navigation" >
+                <div class="md-sidebar__scrollwrap">
+                  <div class="md-sidebar__inner">
+                    
+
+
+
+<nav class="md-nav md-nav--primary" aria-label="Navigation" data-md-level="0">
+  <label class="md-nav__title" for="__drawer">
+    <a href=".." title="ISP Docs" class="md-nav__button md-logo" aria-label="ISP Docs" data-md-component="logo">
+      
+  
+  <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M12 8a3 3 0 0 0 3-3 3 3 0 0 0-3-3 3 3 0 0 0-3 3 3 3 0 0 0 3 3m0 3.54C9.64 9.35 6.5 8 3 8v11c3.5 0 6.64 1.35 9 3.54 2.36-2.19 5.5-3.54 9-3.54V8c-3.5 0-6.64 1.35-9 3.54Z"/></svg>
+
+    </a>
+    ISP Docs
+  </label>
+  
+  <ul class="md-nav__list" data-md-scrollfix>
+    
+      
+      
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href=".." class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Home
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+    
+  </ul>
+</nav>
+                  </div>
+                </div>
+              </div>
+            
+            
+              
+              <div class="md-sidebar md-sidebar--secondary" data-md-component="sidebar" data-md-type="toc" >
+                <div class="md-sidebar__scrollwrap">
+                  <div class="md-sidebar__inner">
+                    
+
+<nav class="md-nav md-nav--secondary" aria-label="Table of contents">
+  
+  
+  
+    
+  
+  
+    <label class="md-nav__title" for="__toc">
+      <span class="md-nav__icon md-icon"></span>
+      Table of contents
+    </label>
+    <ul class="md-nav__list" data-md-component="toc" data-md-scrollfix>
+      
+        <li class="md-nav__item">
+  <a href="#cover-page" class="md-nav__link">
+    <span class="md-ellipsis">
+      Cover Page
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#section-1-type-of-recipient-committee" class="md-nav__link">
+    <span class="md-ellipsis">
+      Section 1: Type of Recipient Committee
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#section-2-type-of-statement" class="md-nav__link">
+    <span class="md-ellipsis">
+      Section 2: Type of Statement
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#section-3-committee-information" class="md-nav__link">
+    <span class="md-ellipsis">
+      Section 3: Committee Information
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#section-4-verification" class="md-nav__link">
+    <span class="md-ellipsis">
+      Section 4: Verification
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#cover-page-part-2" class="md-nav__link">
+    <span class="md-ellipsis">
+      Cover Page, Part 2
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#section-5-officeholder-or-candidate-controlled-committee" class="md-nav__link">
+    <span class="md-ellipsis">
+      Section 5: Officeholder or Candidate Controlled Committee
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#section-5-b-related-committees-not-included-in-this-statement" class="md-nav__link">
+    <span class="md-ellipsis">
+      Section 5 (b): Related Committees Not Included in this Statement
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#section-6-primarily-formed-ballot-measure-committee" class="md-nav__link">
+    <span class="md-ellipsis">
+      Section 6: Primarily Formed Ballot Measure Committee
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#section-6b-identify-the-controlling-officeholder-candidate-or-state-measure-proponent-if-any" class="md-nav__link">
+    <span class="md-ellipsis">
+      Section 6(b): Identify the controlling officeholder, candidate, or state measure proponent, if any
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#section-7-primarily-formed-candidateofficeholder-committee" class="md-nav__link">
+    <span class="md-ellipsis">
+      Section 7: Primarily Formed Candidate/Officeholder Committee
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#summary-page" class="md-nav__link">
+    <span class="md-ellipsis">
+      Summary Page
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#contributions-received" class="md-nav__link">
+    <span class="md-ellipsis">
+      Contributions Received
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#line-1-schedule-a-monetary-contributions" class="md-nav__link">
+    <span class="md-ellipsis">
+      Line 1 (Schedule A – Monetary Contributions)
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#line-2-schedule-b-part-1-loans-received" class="md-nav__link">
+    <span class="md-ellipsis">
+      Line 2 (Schedule B-Part 1, Loans Received)
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#line-3-subtotal-cash-contributions" class="md-nav__link">
+    <span class="md-ellipsis">
+      Line 3, SUBTOTAL CASH CONTRIBUTIONS
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#line-4-schedule-c-nonmonetary-contributions" class="md-nav__link">
+    <span class="md-ellipsis">
+      Line 4 (Schedule C, Nonmonetary Contributions)
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#line-5-total-contributions-received" class="md-nav__link">
+    <span class="md-ellipsis">
+      Line 5, TOTAL CONTRIBUTIONS RECEIVED
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#expenditures-made" class="md-nav__link">
+    <span class="md-ellipsis">
+      Expenditures Made
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#line-6-schedule-e-payments-made" class="md-nav__link">
+    <span class="md-ellipsis">
+      Line 6 (Schedule E, Payments Made)
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#line-7-schedule-h-loans-made-to-others" class="md-nav__link">
+    <span class="md-ellipsis">
+      Line 7 (Schedule H, Loans Made to Others)
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#line-8-subtotal-cash-payments" class="md-nav__link">
+    <span class="md-ellipsis">
+      Line 8, SUBTOTAL CASH PAYMENTS
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#line-9-schedule-f-accrued-expenses" class="md-nav__link">
+    <span class="md-ellipsis">
+      Line 9 (Schedule F, Accrued Expenses)
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#line-10-schedule-c-nonmonetary-contributions" class="md-nav__link">
+    <span class="md-ellipsis">
+      Line 10 (Schedule C, Nonmonetary Contributions)
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#line-11-total-expenditures-made" class="md-nav__link">
+    <span class="md-ellipsis">
+      Line 11, TOTAL EXPENDITURES MADE
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#current-cash-statement" class="md-nav__link">
+    <span class="md-ellipsis">
+      Current Cash Statement
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#line-12-beginning-cash-balance" class="md-nav__link">
+    <span class="md-ellipsis">
+      Line 12, Beginning Cash Balance
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#line-13-cash-receipts" class="md-nav__link">
+    <span class="md-ellipsis">
+      Line 13, Cash Receipts
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#line-14-schedule-i-misc-increases-to-cash" class="md-nav__link">
+    <span class="md-ellipsis">
+      Line 14 (Schedule I, Misc Increases to Cash)
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#line-15-cash-payments" class="md-nav__link">
+    <span class="md-ellipsis">
+      Line 15, Cash Payments
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#line-16-ending-cash-balance" class="md-nav__link">
+    <span class="md-ellipsis">
+      Line 16, ENDING CASH BALANCE
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#line-17-schedule-b-part-2-loan-guarantors" class="md-nav__link">
+    <span class="md-ellipsis">
+      Line 17 (Schedule B-Part 2, Loan Guarantors)
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#cash-equivalents-and-outstanding-debts" class="md-nav__link">
+    <span class="md-ellipsis">
+      Cash Equivalents and Outstanding Debts
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#line-18-cash-equivalents" class="md-nav__link">
+    <span class="md-ellipsis">
+      Line 18, Cash Equivalents
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#line-19-outstanding-debts" class="md-nav__link">
+    <span class="md-ellipsis">
+      Line 19, Outstanding Debts
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#line-22-expenditure-ceiling-summary-for-state-candidates" class="md-nav__link">
+    <span class="md-ellipsis">
+      Line 22, Expenditure Ceiling Summary for State Candidates
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#_1" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#not-included-in-summary-totals" class="md-nav__link">
+    <span class="md-ellipsis">
+      NOT INCLUDED IN SUMMARY TOTALS
+    </span>
+  </a>
+  
+</li>
+      
+    </ul>
+  
+</nav>
+                  </div>
+                </div>
+              </div>
+            
+          
+          
+            <div class="md-content" data-md-component="content">
+              <article class="md-content__inner md-typeset">
+                
+                  
+
+
+<h1 id="ca-460-line-by-line">CA 460 Line by Line</h1>
+<p>Applies To: California</p>
+<p>The CA 460 report is used by recipient committees to report both expenditures and receipts. Use the line by line guide below to ensure or troubleshoot data on the report is appearing where it should.</p>
+<p>Please note the date of election will only pull to the report if you are running a Pre-Election report (Primary or General). The date will not pull to the report if you are running a Semi-Annual Report.</p>
+<h3 id="cover-page">Cover Page</h3>
+<h3 id="section-1-type-of-recipient-committee">Section 1: Type of Recipient Committee</h3>
+<p>This information is pulled from the Filer Committee Type within the Committee record.</p>
+<ul>
+<li><strong>Officeholder, Candidate Controlled Committee:</strong> Filer Committee Type is Candidate</li>
+<li><strong>State Candidate Election Committee:</strong> Candidate Record is affiliated with the Filer Committee Entity Record vis Relationships. Also ensure the Office Sought is one of the following:</li>
+<li>Governor</li>
+<li>Lieutenant Governor</li>
+<li>Secretary of State</li>
+<li>State Controller</li>
+<li>Attorney General</li>
+<li>State Treasurer</li>
+<li>Insurance Commissioner</li>
+<li>Superintendent of Public Instruction</li>
+<li>Supreme Court Justice</li>
+<li>State Senator</li>
+<li>State Assembly Person</li>
+<li>Board of Equalization Member</li>
+<li>Public Employees Retirement System</li>
+<li>
+<p>State Appellate Court Justice</p>
+</li>
+<li>
+<p><strong>Recall:</strong> Current Election is a Recall Election</p>
+</li>
+<li><strong>General Purpose Committee:</strong> Filer Committee type is NOT Candidate or Ballot Measure. Also ensure there is no individual linked to your Filer Entity Record with either the Supported Candidate or Opposed Candidate relationship.</li>
+<li><strong>Sponsored:</strong> Sponsored is checked in the Committee Info on the Filer Entity Record</li>
+<li><strong>Small Contributor Committee:</strong> Filer Committee type is Small Contributor Committee</li>
+<li><strong>Political Party / Central Committee:</strong> Filer Committee type is Party</li>
+<li><strong>Primarily Formed Ballot Measure:</strong> Filer Committee type is Ballot Measure</li>
+<li><strong>Controlled:</strong> Controlled box is checked in the Committee Info on the Filer Entity Record</li>
+<li><strong>Primarily Formed Candidate/Officeholder Committee:</strong> Individual is linked to your Filer Entity Record with either the Supported Candidate or Opposed Candidate relationship.</li>
+</ul>
+<h3 id="section-2-type-of-statement">Section 2: Type of Statement</h3>
+<p>###</p>
+<p>This is determined by the Report Period dropdown menu on the criteria screen when generating the report.</p>
+<h3 id="section-3-committee-information">Section 3: Committee Information</h3>
+<ul>
+<li>Committee contact info pulls directly from the committee record itself. Address marked as Primary will pull to the first instance of address; Address marked is Mailing will pull to the second instance (if different).</li>
+<li>Treasurer(s) / Assistant Treasurer(s) must be linked via Relationships on the Filer Committee entity record.</li>
+</ul>
+<h3 id="section-4-verification">Section 4: Verification</h3>
+<ul>
+<li><strong>Executed on:</strong> The date you generate the report</li>
+<li><strong>Signers:</strong> Based on the Relationships found on the Filer Committee entity record. These can be selected during the report generation process. You can select up to four signers, but only the first is required. Note that these signer fields will not appear for local filers filing with Netfile.</li>
+</ul>
+<h3 id="cover-page-part-2">Cover Page, Part 2</h3>
+<h3 id="section-5-officeholder-or-candidate-controlled-committee">Section 5: Officeholder or Candidate Controlled Committee</h3>
+<ul>
+<li>The Filer committee type must be Candidate.</li>
+<li>Candidate must be linked as Candidate / Candidate of to the Filer, and must be marked as Primary for the Filer.</li>
+<li>Address is the primary address on the linked Candidate’s record.</li>
+<li>Office Sought or Office Held, Jurisdiction Description and District Number of the linked Candidate must be filled in.</li>
+</ul>
+<h3 id="section-5-b-related-committees-not-included-in-this-statement">Section 5 (b): Related Committees Not Included in this Statement</h3>
+<ul>
+<li>Related Committee must be a Political Committee linked to the Filer using the Authorized Committee/Authorized Committee of Relationship. There can be multiple committees.</li>
+<li>If the Controlled box is checked under Committee Info on the linked committee, the Yes box will be checked under Controlled Committee? section.</li>
+</ul>
+<h3 id="section-6-primarily-formed-ballot-measure-committee">Section 6: Primarily Formed Ballot Measure Committee</h3>
+<ul>
+<li>First <a href="https://ispolitical.com/how-do-i-add-a-ballot-measure/">create a Ballot Measure</a>. Ensure the Letter or Number and Jurisdiction fields are filled out.</li>
+<li>Next link Ballot Measure with Ballot Measure Supported or Ballot Measure Opposed.</li>
+</ul>
+<h3 id="section-6b-identify-the-controlling-officeholder-candidate-or-state-measure-proponent-if-any">Section 6(b): Identify the controlling officeholder, candidate, or state measure proponent, if any</h3>
+<ul>
+<li>Filer committee type must be Candidate or Ballot Measure.</li>
+<li>Filer must have Controlled checked under Committee Info.</li>
+<li>Filer must have a linked Candidate using the Candidate/Candidate of Relationship.</li>
+<li>Address is the primary address on the linked Candidate’s record.</li>
+<li>Office Sought or Office Held and District Number of the linked Candidate must be filled in.</li>
+</ul>
+<h3 id="section-7-primarily-formed-candidateofficeholder-committee">Section 7: Primarily Formed Candidate/Officeholder Committee</h3>
+<ul>
+<li>Candidate must be linked via either Opposed Candidate/Candidate Opposed By or Supported Candidate/Candidate Supported By relationship. </li>
+<li>Linked Candidate must have Office Sought filled in.</li>
+</ul>
+<h3 id="summary-page">Summary Page</h3>
+<h3 id="contributions-received">Contributions Received</h3>
+<h3 id="line-1-schedule-a-monetary-contributions">Line 1 (Schedule A – Monetary Contributions)</h3>
+<ul>
+<li><strong>Transaction Types:</strong> Monetary Contributions (including contributions with tags Conduit-Conduit Check, Conduit-Donor Check, and Transfer), Loan Received Balance Reduction, Enforceable Pledge Payment, Enforceable Pledge (as memo), Anonymous Monetary Contributions (always unitemized)</li>
+</ul>
+<h3 id="line-2-schedule-b-part-1-loans-received">Line 2 (Schedule B-Part 1, Loans Received)</h3>
+<ul>
+<li><strong>Transaction Type:</strong> Loans Received</li>
+</ul>
+<h3 id="line-3-subtotal-cash-contributions">Line 3, SUBTOTAL CASH CONTRIBUTIONS</h3>
+<ul>
+<li>Total of Line 1 and Line 2</li>
+</ul>
+<h3 id="line-4-schedule-c-nonmonetary-contributions">Line 4 (Schedule C, Nonmonetary Contributions)</h3>
+<ul>
+<li><strong>Transaction Types:</strong> Inkind Contribution (including contributions with tags Conduit – Inkind), Accrued Expense Balance Reduction</li>
+</ul>
+<h3 id="line-5-total-contributions-received">Line 5, TOTAL CONTRIBUTIONS RECEIVED</h3>
+<h3 id="expenditures-made">Expenditures Made</h3>
+<h3 id="line-6-schedule-e-payments-made">Line 6 (Schedule E, Payments Made)</h3>
+<ul>
+<li><strong>Transaction Types:</strong> Expenses, Accrued Expense Payment, Loan Made Balance Reduction, Non-Monetary Expense (as memo), Refunded Contribution, Allocation Transfer Made (from State to Federal), Loan Rec’d Interest Payment</li>
+</ul>
+<h3 id="line-7-schedule-h-loans-made-to-others">Line 7 (Schedule H, Loans Made to Others)</h3>
+<ul>
+<li><strong>Transaction Type:</strong> Loan Made</li>
+</ul>
+<h3 id="line-8-subtotal-cash-payments">Line 8, SUBTOTAL CASH PAYMENTS</h3>
+<ul>
+<li>Total of Line 6 and Line 7</li>
+</ul>
+<h3 id="line-9-schedule-f-accrued-expenses">Line 9 (Schedule F, Accrued Expenses)</h3>
+<ul>
+<li><strong>Transaction Type:</strong> Accrued Expense</li>
+</ul>
+<h3 id="line-10-schedule-c-nonmonetary-contributions">Line 10 (Schedule C, Nonmonetary Contributions)</h3>
+<ul>
+<li><strong>Transaction Type:</strong> Inkind Contribution (including contributions with tags Conduit – Inkind), Accrued Expense Balance Reduction</li>
+</ul>
+<h3 id="line-11-total-expenditures-made">Line 11, TOTAL EXPENDITURES MADE</h3>
+<ul>
+<li>Total of Lines 8, 9, and 10</li>
+</ul>
+<h3 id="current-cash-statement">Current Cash Statement</h3>
+<h3 id="line-12-beginning-cash-balance">Line 12, Beginning Cash Balance</h3>
+<ul>
+<li>This is the total from Line 16 on the previous report</li>
+</ul>
+<h3 id="line-13-cash-receipts">Line 13, Cash Receipts</h3>
+<ul>
+<li>Amount from Line 3 (Subtotal Cash Contributions) on main Summary Page</li>
+</ul>
+<h3 id="line-14-schedule-i-misc-increases-to-cash">Line 14 (Schedule I, Misc Increases to Cash)</h3>
+<ul>
+<li>Transaction Type: Other Income, Anonymous Other Income (always unitemized), Allocation Transfer (Federal to State), Refunded Expense</li>
+</ul>
+<h3 id="line-15-cash-payments">Line 15, Cash Payments</h3>
+<ul>
+<li>Amount from Line 8 (Subtotal Cash Payments) on main Summary Page</li>
+</ul>
+<h3 id="line-16-ending-cash-balance">Line 16, ENDING CASH BALANCE</h3>
+<ul>
+<li>Add Lines 12, 13, and 14, then subtract Line 15</li>
+</ul>
+<h3 id="line-17-schedule-b-part-2-loan-guarantors">Line 17 (Schedule B-Part 2, Loan Guarantors)</h3>
+<ul>
+<li>Transaction Type: Loan Received Guarantee</li>
+</ul>
+<h3 id="cash-equivalents-and-outstanding-debts">Cash Equivalents and Outstanding Debts</h3>
+<h3 id="line-18-cash-equivalents">Line 18, Cash Equivalents</h3>
+<ul>
+<li>Ending Investment Balance pulled from the criteria screen when generating the report</li>
+</ul>
+<h3 id="line-19-outstanding-debts">Line 19, Outstanding Debts</h3>
+<ul>
+<li>Total of Line 2 and Line 9 from Column B</li>
+</ul>
+<h3 id="line-22-expenditure-ceiling-summary-for-state-candidates">Line 22, Expenditure Ceiling Summary for State Candidates</h3>
+<p>###</p>
+<p>The following transactions are included in the Line 22 calculation:</p>
+<h3 id="_1"></h3>
+<h3 id="not-included-in-summary-totals">NOT INCLUDED IN SUMMARY TOTALS</h3>
+<p>Schedule D, Summary of Expenditures Supporting/Opposing Others:</p>
+<ul>
+<li><strong>Transaction Type:</strong> Support/Oppose Memos, Loan Made Balance Reduction</li>
+</ul>
+<p>Schedule G, Payments Made by an Agent or Independent Contractor:</p>
+<ul>
+<li><strong>Transaction Type:</strong> Expense (split), Accrued Expense (split), State Portion of Allocated Expense, State Portion of Allocated Accrued Expense Payment, State Portion of Allocated Non-Monetary Expense (as memo)</li>
+<li>In-kind Contributions, except from Party Committees</li>
+<li>Expenses, Accrued Expenses, Non-Monetary Expenses, and Refunded Expenses, except those with the Exempt from Expenditure Ceiling tag</li>
+<li>Sch G has a $500 itemization threshold.</li>
+</ul>
+<p><a href="/help/">Help File Home</a> | <a href="/Help-File-Directory/">Full Index</a> | <a href="mailto:support@ISPolitical.com">Contact Support</a></p>
+<p><a href="/What-Is-the-CA-46-Report-How-Do-I-Prepare-and-File-It">« What Is the CA 460 Report &amp; How Do I Prepare and File It?</a><br />
+<a href="/Checkboxes-for-Sch-D-on-CA-46">Checkboxes for Sch D on CA 460 »</a></p>
+
+
+
+
+
+
+
+
+
+
+
+
+                
+              </article>
+            </div>
+          
+          
+<script>var target=document.getElementById(location.hash.slice(1));target&&target.name&&(target.checked=target.name.startsWith("__tabbed_"))</script>
+        </div>
+        
+      </main>
+      
+        <footer class="md-footer">
+  
+  <div class="md-footer-meta md-typeset">
+    <div class="md-footer-meta__inner md-grid">
+      <div class="md-copyright">
+  
+  
+    Made with
+    <a href="https://squidfunk.github.io/mkdocs-material/" target="_blank" rel="noopener">
+      Material for MkDocs
+    </a>
+  
+</div>
+      
+    </div>
+  </div>
+</footer>
+      
+    </div>
+    <div class="md-dialog" data-md-component="dialog">
+      <div class="md-dialog__inner md-typeset"></div>
+    </div>
+    
+    
+    <script id="__config" type="application/json">{"base": "..", "features": ["navigation.indexes"], "search": "../assets/javascripts/workers/search.b8dbb3d2.min.js", "translations": {"clipboard.copied": "Copied to clipboard", "clipboard.copy": "Copy to clipboard", "search.result.more.one": "1 more on this page", "search.result.more.other": "# more on this page", "search.result.none": "No matching documents", "search.result.one": "1 matching document", "search.result.other": "# matching documents", "search.result.placeholder": "Type to start searching", "search.result.term.missing": "Missing", "select.version": "Select version"}}</script>
+    
+    
+      <script src="../assets/javascripts/bundle.fe8b6f2b.min.js"></script>
+      
+    
+  </body>
+</html>

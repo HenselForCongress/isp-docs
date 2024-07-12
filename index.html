@@ -1,0 +1,917 @@
+
+<!doctype html>
+<html lang="en" class="no-js">
+  <head>
+    
+      <meta charset="utf-8">
+      <meta name="viewport" content="width=device-width,initial-scale=1">
+      
+      
+      
+      
+      
+      
+      <link rel="icon" href="assets/images/favicon.png">
+      <meta name="generator" content="mkdocs-1.6.0, mkdocs-material-9.5.28">
+    
+    
+      
+        <title>ISP Docs</title>
+      
+    
+    
+      <link rel="stylesheet" href="assets/stylesheets/main.6543a935.min.css">
+      
+      
+
+
+    
+    
+      
+    
+    
+      
+        
+        
+        <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+        <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Roboto:300,300i,400,400i,700,700i%7CRoboto+Mono:400,400i,700,700i&display=fallback">
+        <style>:root{--md-text-font:"Roboto";--md-code-font:"Roboto Mono"}</style>
+      
+    
+    
+    <script>__md_scope=new URL(".",location),__md_hash=e=>[...e].reduce((e,_)=>(e<<5)-e+_.charCodeAt(0),0),__md_get=(e,_=localStorage,t=__md_scope)=>JSON.parse(_.getItem(t.pathname+"."+e)),__md_set=(e,_,t=localStorage,a=__md_scope)=>{try{t.setItem(a.pathname+"."+e,JSON.stringify(_))}catch(e){}}</script>
+    
+      
+
+    
+    
+    
+  </head>
+  
+  
+    <body dir="ltr">
+  
+    
+    <input class="md-toggle" data-md-toggle="drawer" type="checkbox" id="__drawer" autocomplete="off">
+    <input class="md-toggle" data-md-toggle="search" type="checkbox" id="__search" autocomplete="off">
+    <label class="md-overlay" for="__drawer"></label>
+    <div data-md-component="skip">
+      
+        
+        <a href="#documentation-index" class="md-skip">
+          Skip to content
+        </a>
+      
+    </div>
+    <div data-md-component="announce">
+      
+    </div>
+    
+    
+      
+
+  
+
+<header class="md-header md-header--shadow" data-md-component="header">
+  <nav class="md-header__inner md-grid" aria-label="Header">
+    <a href="." title="ISP Docs" class="md-header__button md-logo" aria-label="ISP Docs" data-md-component="logo">
+      
+  
+  <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M12 8a3 3 0 0 0 3-3 3 3 0 0 0-3-3 3 3 0 0 0-3 3 3 3 0 0 0 3 3m0 3.54C9.64 9.35 6.5 8 3 8v11c3.5 0 6.64 1.35 9 3.54 2.36-2.19 5.5-3.54 9-3.54V8c-3.5 0-6.64 1.35-9 3.54Z"/></svg>
+
+    </a>
+    <label class="md-header__button md-icon" for="__drawer">
+      
+      <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M3 6h18v2H3V6m0 5h18v2H3v-2m0 5h18v2H3v-2Z"/></svg>
+    </label>
+    <div class="md-header__title" data-md-component="header-title">
+      <div class="md-header__ellipsis">
+        <div class="md-header__topic">
+          <span class="md-ellipsis">
+            ISP Docs
+          </span>
+        </div>
+        <div class="md-header__topic" data-md-component="header-topic">
+          <span class="md-ellipsis">
+            
+              Home
+            
+          </span>
+        </div>
+      </div>
+    </div>
+    
+    
+      <script>var media,input,key,value,palette=__md_get("__palette");if(palette&&palette.color){"(prefers-color-scheme)"===palette.color.media&&(media=matchMedia("(prefers-color-scheme: light)"),input=document.querySelector(media.matches?"[data-md-color-media='(prefers-color-scheme: light)']":"[data-md-color-media='(prefers-color-scheme: dark)']"),palette.color.media=input.getAttribute("data-md-color-media"),palette.color.scheme=input.getAttribute("data-md-color-scheme"),palette.color.primary=input.getAttribute("data-md-color-primary"),palette.color.accent=input.getAttribute("data-md-color-accent"));for([key,value]of Object.entries(palette.color))document.body.setAttribute("data-md-color-"+key,value)}</script>
+    
+    
+    
+      <label class="md-header__button md-icon" for="__search">
+        
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M9.5 3A6.5 6.5 0 0 1 16 9.5c0 1.61-.59 3.09-1.56 4.23l.27.27h.79l5 5-1.5 1.5-5-5v-.79l-.27-.27A6.516 6.516 0 0 1 9.5 16 6.5 6.5 0 0 1 3 9.5 6.5 6.5 0 0 1 9.5 3m0 2C7 5 5 7 5 9.5S7 14 9.5 14 14 12 14 9.5 12 5 9.5 5Z"/></svg>
+      </label>
+      <div class="md-search" data-md-component="search" role="dialog">
+  <label class="md-search__overlay" for="__search"></label>
+  <div class="md-search__inner" role="search">
+    <form class="md-search__form" name="search">
+      <input type="text" class="md-search__input" name="query" aria-label="Search" placeholder="Search" autocapitalize="off" autocorrect="off" autocomplete="off" spellcheck="false" data-md-component="search-query" required>
+      <label class="md-search__icon md-icon" for="__search">
+        
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M9.5 3A6.5 6.5 0 0 1 16 9.5c0 1.61-.59 3.09-1.56 4.23l.27.27h.79l5 5-1.5 1.5-5-5v-.79l-.27-.27A6.516 6.516 0 0 1 9.5 16 6.5 6.5 0 0 1 3 9.5 6.5 6.5 0 0 1 9.5 3m0 2C7 5 5 7 5 9.5S7 14 9.5 14 14 12 14 9.5 12 5 9.5 5Z"/></svg>
+        
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M20 11v2H8l5.5 5.5-1.42 1.42L4.16 12l7.92-7.92L13.5 5.5 8 11h12Z"/></svg>
+      </label>
+      <nav class="md-search__options" aria-label="Search">
+        
+        <button type="reset" class="md-search__icon md-icon" title="Clear" aria-label="Clear" tabindex="-1">
+          
+          <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M19 6.41 17.59 5 12 10.59 6.41 5 5 6.41 10.59 12 5 17.59 6.41 19 12 13.41 17.59 19 19 17.59 13.41 12 19 6.41Z"/></svg>
+        </button>
+      </nav>
+      
+    </form>
+    <div class="md-search__output">
+      <div class="md-search__scrollwrap" tabindex="0" data-md-scrollfix>
+        <div class="md-search-result" data-md-component="search-result">
+          <div class="md-search-result__meta">
+            Initializing search
+          </div>
+          <ol class="md-search-result__list" role="presentation"></ol>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+    
+    
+  </nav>
+  
+</header>
+    
+    <div class="md-container" data-md-component="container">
+      
+      
+        
+          
+        
+      
+      <main class="md-main" data-md-component="main">
+        <div class="md-main__inner md-grid">
+          
+            
+              
+              <div class="md-sidebar md-sidebar--primary" data-md-component="sidebar" data-md-type="navigation" >
+                <div class="md-sidebar__scrollwrap">
+                  <div class="md-sidebar__inner">
+                    
+
+
+
+<nav class="md-nav md-nav--primary" aria-label="Navigation" data-md-level="0">
+  <label class="md-nav__title" for="__drawer">
+    <a href="." title="ISP Docs" class="md-nav__button md-logo" aria-label="ISP Docs" data-md-component="logo">
+      
+  
+  <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M12 8a3 3 0 0 0 3-3 3 3 0 0 0-3-3 3 3 0 0 0-3 3 3 3 0 0 0 3 3m0 3.54C9.64 9.35 6.5 8 3 8v11c3.5 0 6.64 1.35 9 3.54 2.36-2.19 5.5-3.54 9-3.54V8c-3.5 0-6.64 1.35-9 3.54Z"/></svg>
+
+    </a>
+    ISP Docs
+  </label>
+  
+  <ul class="md-nav__list" data-md-scrollfix>
+    
+      
+      
+  
+  
+    
+  
+  
+  
+    <li class="md-nav__item md-nav__item--active">
+      
+      <input class="md-nav__toggle md-toggle" type="checkbox" id="__toc">
+      
+      
+        
+      
+      
+      <a href="." class="md-nav__link md-nav__link--active">
+        
+  
+  <span class="md-ellipsis">
+    Home
+  </span>
+  
+
+      </a>
+      
+    </li>
+  
+
+    
+  </ul>
+</nav>
+                  </div>
+                </div>
+              </div>
+            
+            
+              
+              <div class="md-sidebar md-sidebar--secondary" data-md-component="sidebar" data-md-type="toc" >
+                <div class="md-sidebar__scrollwrap">
+                  <div class="md-sidebar__inner">
+                    
+
+<nav class="md-nav md-nav--secondary" aria-label="Table of contents">
+  
+  
+  
+    
+  
+  
+</nav>
+                  </div>
+                </div>
+              </div>
+            
+          
+          
+            <div class="md-content" data-md-component="content">
+              <article class="md-content__inner md-typeset">
+                
+                  
+
+
+<h1 id="documentation-index">Documentation Index</h1>
+<ul>
+<li><a href="2024-political-campaign-software-highlights/">2024 Political Campaign Software Highlights</a></li>
+<li><a href="7-ways-to-make-filing-deadlines-painless/">7 Ways To Make Filing Deadlines Painless</a></li>
+<li><a href="a-deep-dive-into-political-campaign-accounting-software-features/">A Deep Dive Into Political Campaign Accounting Software Features</a></li>
+<li><a href="about-accounting-in-isp/">About Accounting In Isp</a></li>
+<li><a href="about-add-search/">About Add Search</a></li>
+<li><a href="about-aggregates/">About Aggregates</a></li>
+<li><a href="about-balances/">About Balances</a></li>
+<li><a href="about-check-printing/">About Check Printing</a></li>
+<li><a href="about-compliance-reports/">About Compliance Reports</a></li>
+<li><a href="about-compliance-tools/">About Compliance Tools</a></li>
+<li><a href="about-consultant-tools-in-isp/">About Consultant Tools In Isp</a></li>
+<li><a href="about-entities-in-isp/">About Entities In Isp</a></li>
+<li><a href="about-fec-backdoor-passwords/">About Fec Backdoor Passwords</a></li>
+<li><a href="about-fec-conduit-earmark-memos/">About Fec Conduit Earmark Memos</a></li>
+<li><a href="about-financial-reports/">About Financial Reports</a></li>
+<li><a href="about-fundraising-analysis-reports/">About Fundraising Analysis Reports</a></li>
+<li><a href="about-generating-and-filing-compliance-reports/">About Generating And Filing Compliance Reports</a></li>
+<li><a href="about-individual-records/">About Individual Records</a></li>
+<li><a href="about-integrations-in-isp/">About Integrations In Isp</a></li>
+<li><a href="about-isp-s-api/">About Isp S Api</a></li>
+<li><a href="about-lists-in-isp/">About Lists In Isp</a></li>
+<li><a href="about-organization-records/">About Organization Records</a></li>
+<li><a href="about-other-entities/">About Other Entities</a></li>
+<li><a href="about-post-election-or-year-end-with-column-c-reports/">About Post Election Or Year End With Column C Reports</a></li>
+<li><a href="about-record-deposit/">About Record Deposit</a></li>
+<li><a href="about-report-post-generation/">About Report Post Generation</a></li>
+<li><a href="about-reports-in-isp/">About Reports In Isp</a></li>
+<li><a href="about-seattle-low-cost-fundraisers/">About Seattle Low Cost Fundraisers</a></li>
+<li><a href="about-super-pacs/">About Super Pacs</a></li>
+<li><a href="about-system-options-in-isp/">About System Options In Isp</a></li>
+<li><a href="about-thank-donors/">About Thank Donors</a></li>
+<li><a href="about-the-al-ceo-major-report/">About The Al Ceo Major Report</a></li>
+<li><a href="about-the-al-ceo-report/">About The Al Ceo Report</a></li>
+<li><a href="about-the-al-pac-major/">About The Al Pac Major</a></li>
+<li><a href="about-the-al-pac/">About The Al Pac</a></li>
+<li><a href="about-the-az-ie-trigger-report/">About The Az Ie Trigger Report</a></li>
+<li><a href="about-the-az-periodic-report-pac-bulk-import/">About The Az Periodic Report Pac Bulk Import</a></li>
+<li><a href="about-the-ca-form-4-1/">About The Ca Form 4 1</a></li>
+<li><a href="about-the-ca-form-4/">About The Ca Form 4</a></li>
+<li><a href="about-the-ca-form-41/">About The Ca Form 41</a></li>
+<li><a href="about-the-ca-form-461-non-committee-report/">About The Ca Form 461 Non Committee Report</a></li>
+<li><a href="about-the-ca-form-461-reverse-report/">About The Ca Form 461 Reverse Report</a></li>
+<li><a href="about-the-ca-form-461/">About The Ca Form 461</a></li>
+<li><a href="about-the-ca-form-462-report/">About The Ca Form 462 Report</a></li>
+<li><a href="about-the-ca-form-497-report/">About The Ca Form 497 Report</a></li>
+<li><a href="about-the-ca-form-497-reverse/">About The Ca Form 497 Reverse</a></li>
+<li><a href="about-the-ca-form-498/">About The Ca Form 498</a></li>
+<li><a href="about-the-ca-form-5-1-report/">About The Ca Form 5 1 Report</a></li>
+<li><a href="about-the-co-rce-major/">About The Co Rce Major</a></li>
+<li><a href="about-the-co-rce-party-report/">About The Co Rce Party Report</a></li>
+<li><a href="about-the-co-rce-report/">About The Co Rce Report</a></li>
+<li><a href="about-the-ct-form-3-report/">About The Ct Form 3 Report</a></li>
+<li><a href="about-the-ct-form-4-report/">About The Ct Form 4 Report</a></li>
+<li><a href="about-the-fec-form-1-report/">About The Fec Form 1 Report</a></li>
+<li><a href="about-the-fec-form-24-ie-report/">About The Fec Form 24 Ie Report</a></li>
+<li><a href="about-the-fec-form-3-pac-report/">About The Fec Form 3 Pac Report</a></li>
+<li><a href="about-the-fec-form-3-report/">About The Fec Form 3 Report</a></li>
+<li><a href="about-the-fec-form-3p-report/">About The Fec Form 3P Report</a></li>
+<li><a href="about-the-fec-form-48-ie-report/">About The Fec Form 48 Ie Report</a></li>
+<li><a href="about-the-fec-form-5-report/">About The Fec Form 5 Report</a></li>
+<li><a href="about-the-fec-form-6-report/">About The Fec Form 6 Report</a></li>
+<li><a href="about-the-fec-form-99-report/">About The Fec Form 99 Report</a></li>
+<li><a href="about-the-fl-ds-de-report/">About The Fl Ds De Report</a></li>
+<li><a href="about-the-fl-testimonial-report/">About The Fl Testimonial Report</a></li>
+<li><a href="about-the-ga-ccdr-easy-vote-report/">About The Ga Ccdr Easy Vote Report</a></li>
+<li><a href="about-the-ga-ccdr-report/">About The Ga Ccdr Report</a></li>
+<li><a href="about-the-ga-two-business-day-report/">About The Ga Two Business Day Report</a></li>
+<li><a href="about-the-ia-form-dr2-report/">About The Ia Form Dr2 Report</a></li>
+<li><a href="about-the-il-form-d-2/">About The Il Form D 2</a></li>
+<li><a href="about-the-il-schedule-a-1/">About The Il Schedule A 1</a></li>
+<li><a href="about-the-il-schedule-b-1/">About The Il Schedule B 1</a></li>
+<li><a href="about-the-in-cfa11/">About The In Cfa11</a></li>
+<li><a href="about-the-in-cfa5/">About The In Cfa5</a></li>
+<li><a href="about-the-indiana-cfa-4/">About The Indiana Cfa 4</a></li>
+<li><a href="about-the-ks-last-minute-report/">About The Ks Last Minute Report</a></li>
+<li><a href="about-the-ks-pac-report/">About The Ks Pac Report</a></li>
+<li><a href="about-the-la-form-202-report/">About The La Form 202 Report</a></li>
+<li><a href="about-the-la-form-203-report/">About The La Form 203 Report</a></li>
+<li><a href="about-the-ma-deposit-report/">About The Ma Deposit Report</a></li>
+<li><a href="about-the-ma-depository-credit-card-report/">About The Ma Depository Credit Card Report</a></li>
+<li><a href="about-the-ma-depository-periodic-report/">About The Ma Depository Periodic Report</a></li>
+<li><a href="about-the-ma-depository-reimbursement-report/">About The Ma Depository Reimbursement Report</a></li>
+<li><a href="about-the-ma-depository-subvendor-report/">About The Ma Depository Subvendor Report</a></li>
+<li><a href="about-the-ma-municipal-periodic-report/">About The Ma Municipal Periodic Report</a></li>
+<li><a href="about-the-ma-non-depository-lcr-report/">About The Ma Non Depository Lcr Report</a></li>
+<li><a href="about-the-ma-non-depository-periodic-report/">About The Ma Non Depository Periodic Report</a></li>
+<li><a href="about-the-me-24hour-pac/">About The Me 24Hour Pac</a></li>
+<li><a href="about-the-me-cfr-pac-report/">About The Me Cfr Pac Report</a></li>
+<li><a href="about-the-mi-pac-lcr-report/">About The Mi Pac Lcr Report</a></li>
+<li><a href="about-the-mi-pac-report/">About The Mi Pac Report</a></li>
+<li><a href="about-the-missouri-ai-pac-trigger-report/">About The Missouri Ai Pac Trigger Report</a></li>
+<li><a href="about-the-mn-24-hour-cand-report/">About The Mn 24 Hour Cand Report</a></li>
+<li><a href="about-the-mn-24-hour-pcf-report/">About The Mn 24 Hour Pcf Report</a></li>
+<li><a href="about-the-mn-pcf-report/">About The Mn Pcf Report</a></li>
+<li><a href="about-the-mo-committee-disclosure-report/">About The Mo Committee Disclosure Report</a></li>
+<li><a href="about-the-mo-lcr-report/">About The Mo Lcr Report</a></li>
+<li><a href="about-the-ms-48-hour-report-of-reportable-contributions/">About The Ms 48 Hour Report Of Reportable Contributions</a></li>
+<li><a href="about-the-ms-report-of-receipts-and-disbursements/">About The Ms Report Of Receipts And Disbursements</a></li>
+<li><a href="about-the-mt-committee-report/">About The Mt Committee Report</a></li>
+<li><a href="about-the-mt-form-c7-report/">About The Mt Form C7 Report</a></li>
+<li><a href="about-the-mt-form-c7e-report/">About The Mt Form C7E Report</a></li>
+<li><a href="about-the-nc-form-2220-report/">About The Nc Form 2220 Report</a></li>
+<li><a href="about-the-nc-form-41-report/">About The Nc Form 41 Report</a></li>
+<li><a href="about-the-nh-ie-report/">About The Nh Ie Report</a></li>
+<li><a href="about-the-nh-lcr-report/">About The Nh Lcr Report</a></li>
+<li><a href="about-the-nh-r-and-e/">About The Nh R And E</a></li>
+<li><a href="about-the-nj-form-r1-48hr-report/">About The Nj Form R1 48Hr Report</a></li>
+<li><a href="about-the-nm-campaign-finance-report/">About The Nm Campaign Finance Report</a></li>
+<li><a href="about-the-nm-supplemental-report/">About The Nm Supplemental Report</a></li>
+<li><a href="about-the-nv-candidate-contributions-and-expenditures-legal-defense-fund-report/">About The Nv Candidate Contributions And Expenditures Legal Defense Fund Report</a></li>
+<li><a href="about-the-nv-candidate-contributions-and-expenditures-report/">About The Nv Candidate Contributions And Expenditures Report</a></li>
+<li><a href="about-the-nv-committee-contributions-and-expenditures-report/">About The Nv Committee Contributions And Expenditures Report</a></li>
+<li><a href="about-the-ny-cf-1-report/">About The Ny Cf 1 Report</a></li>
+<li><a href="about-the-ny-cf-7-authorized-user-designation-and-removal-form/">About The Ny Cf 7 Authorized User Designation And Removal Form</a></li>
+<li><a href="about-the-ny-weekly-24-hour-report/">About The Ny Weekly 24 Hour Report</a></li>
+<li><a href="about-the-oh-form-3-c-report/">About The Oh Form 3 C Report</a></li>
+<li><a href="about-the-oh-standard-report/">About The Oh Standard Report</a></li>
+<li><a href="about-the-pa-dseb-5-2-report/">About The Pa Dseb 5 2 Report</a></li>
+<li><a href="about-the-pa-dseb-5-2-version-federal-pac-filing-state-report/">About The Pa Dseb 5 2 Version Federal Pac Filing State Report</a></li>
+<li><a href="about-the-pa-late-contribution-report-24-hour-report/">About The Pa Late Contribution Report 24 Hour Report</a></li>
+<li><a href="about-the-tx-coh-report/">About The Tx Coh Report</a></li>
+<li><a href="about-the-tx-coh-ss-report/">About The Tx Coh Ss Report</a></li>
+<li><a href="about-the-tx-daily-c-coh-report/">About The Tx Daily C Coh Report</a></li>
+<li><a href="about-the-tx-daily-c-pac-report/">About The Tx Daily C Pac Report</a></li>
+<li><a href="about-the-tx-daily-e-pac-report/">About The Tx Daily E Pac Report</a></li>
+<li><a href="about-the-tx-gpac-report/">About The Tx Gpac Report</a></li>
+<li><a href="about-the-tx-mpac-report/">About The Tx Mpac Report</a></li>
+<li><a href="about-the-tx-spac-report/">About The Tx Spac Report</a></li>
+<li><a href="about-the-va-compliance-report/">About The Va Compliance Report</a></li>
+<li><a href="about-the-va-large-contribution-report/">About The Va Large Contribution Report</a></li>
+<li><a href="about-the-va-non-candidate-compliance-report/">About The Va Non Candidate Compliance Report</a></li>
+<li><a href="about-the-vt-disclosure-report/">About The Vt Disclosure Report</a></li>
+<li><a href="about-the-vt-mass-media-report/">About The Vt Mass Media Report</a></li>
+<li><a href="about-the-wa-c3-report/">About The Wa C3 Report</a></li>
+<li><a href="about-the-wa-c4-report/">About The Wa C4 Report</a></li>
+<li><a href="about-the-wa-form-c3-non-candidate-report/">About The Wa Form C3 Non Candidate Report</a></li>
+<li><a href="about-the-wa-form-c4-ballot-measure-report/">About The Wa Form C4 Ballot Measure Report</a></li>
+<li><a href="about-the-wa-form-c4-non-candidate/">About The Wa Form C4 Non Candidate</a></li>
+<li><a href="about-the-wi-rande-report/">About The Wi Rande Report</a></li>
+<li><a href="about-the-wv-f7-report/">About The Wv F7 Report</a></li>
+<li><a href="about-the-wv-f7b/">About The Wv F7B</a></li>
+<li><a href="about-the-wy-pac-contributions-and-expenditures-report/">About The Wy Pac Contributions And Expenditures Report</a></li>
+<li><a href="about-tools-in-isp/">About Tools In Isp</a></li>
+<li><a href="about-transactions/">About Transactions</a></li>
+<li><a href="about-users/">About Users</a></li>
+<li><a href="actblue-transactions-as-the-intermediary-on-497-reports/">Actblue Transactions As The Intermediary On 497 Reports</a></li>
+<li><a href="alabama-campaign-party-pac-filing-faq-and-resources/">Alabama Campaign Party Pac Filing Faq And Resources</a></li>
+<li><a href="alaska-campaign-party-pac-filing-faq-and-resources/">Alaska Campaign Party Pac Filing Faq And Resources</a></li>
+<li><a href="api-sample-code-javascript/">Api Sample Code Javascript</a></li>
+<li><a href="arizona-campaign-party-pac-filing-faq-and-resources/">Arizona Campaign Party Pac Filing Faq And Resources</a></li>
+<li><a href="arkansas-campaign-party-pac-filing-faq-and-resources/">Arkansas Campaign Party Pac Filing Faq And Resources</a></li>
+<li><a href="best-practices-for-ca-warnings-errors/">Best Practices For Ca Warnings Errors</a></li>
+<li><a href="best-practices-for-filing-fec-amendments/">Best Practices For Filing Fec Amendments</a></li>
+<li><a href="beta-compliance-reports/">Beta Compliance Reports</a></li>
+<li><a href="budget-category-request-api/">Budget Category Request Api</a></li>
+<li><a href="ca-46-line-by-line/">Ca 46 Line By Line</a></li>
+<li><a href="california-campaign-party-pac-filing-faq-and-resources/">California Campaign Party Pac Filing Faq And Resources</a></li>
+<li><a href="campaign-finance-reform-the-role-of-modern-accounting-tools/">Campaign Finance Reform The Role Of Modern Accounting Tools</a></li>
+<li><a href="can-i-file-a-report-if-i-don-t-have-a-fppc-id-yet/">Can I File A Report If I Don T Have A Fppc Id Yet</a></li>
+<li><a href="checkboxes-for-sch-d-on-ca-46/">Checkboxes For Sch D On Ca 46</a></li>
+<li><a href="colorado-campaign-party-pac-filing-faq-and-resources/">Colorado Campaign Party Pac Filing Faq And Resources</a></li>
+<li><a href="compliance-errors-and-descriptions-in-isp/">Compliance Errors And Descriptions In Isp</a></li>
+<li><a href="compliance-report-post-generation/">Compliance Report Post Generation</a></li>
+<li><a href="connecticut-campaign-party-pac-filing-faq-and-resources/">Connecticut Campaign Party Pac Filing Faq And Resources</a></li>
+<li><a href="credit-card-failure-codes/">Credit Card Failure Codes</a></li>
+<li><a href="dealing-with-spam-filters/">Dealing With Spam Filters</a></li>
+<li><a href="delaware-campaign-party-pac-filing-faq-and-resources/">Delaware Campaign Party Pac Filing Faq And Resources</a></li>
+<li><a href="deposit-batches-request-api/">Deposit Batches Request Api</a></li>
+<li><a href="different-options-for-fec-form-3x-filing/">Different Options For Fec Form 3X Filing</a></li>
+<li><a href="do-i-need-an-ein-and-how-do-i-apply-for-one/">Do I Need An Ein And How Do I Apply For One</a></li>
+<li><a href="do-i-need-to-file-the-irs-form-8871-8872/">Do I Need To File The Irs Form 8871 8872</a></li>
+<li><a href="enhancing-political-accounting-efficiency-the-power-of-ispoliticals-software/">Enhancing Political Accounting Efficiency The Power Of Ispoliticals Software</a></li>
+<li><a href="entering-unusual-transactions/">Entering Unusual Transactions</a></li>
+<li><a href="fec-campaign-party-pac-filing-faq-and-resources/">Fec Campaign Party Pac Filing Faq And Resources</a></li>
+<li><a href="fec-filing-deadlines-a-major-deadline-calendar-for-political-campaigns/">Fec Filing Deadlines A Major Deadline Calendar For Political Campaigns</a></li>
+<li><a href="fec-form-1m-notice-of-multi-candidate-status/">Fec Form 1M Notice Of Multi Candidate Status</a></li>
+<li><a href="fec-form-3x-party-how-do-i-pull-a-transaction-to-a-specific-line/">Fec Form 3X Party How Do I Pull A Transaction To A Specific Line</a></li>
+<li><a href="financial-report-recipe-donors-by-quarter-using-conduit-date/">Financial Report Recipe Donors By Quarter Using Conduit Date</a></li>
+<li><a href="financial-report-recipe-exclude-refunds/">Financial Report Recipe Exclude Refunds</a></li>
+<li><a href="florida-campaign-party-pac-filing-faq-and-resources/">Florida Campaign Party Pac Filing Faq And Resources</a></li>
+<li><a href="form-3-errors-and-warnings/">Form 3 Errors And Warnings</a></li>
+<li><a href="general-tools-and-tips/">General Tools And Tips</a></li>
+<li><a href="georgia-campaign-party-pac-filing-faq-and-resources/">Georgia Campaign Party Pac Filing Faq And Resources</a></li>
+<li><a href="hawaii-campaign-party-pac-filing-faq-and-resources/">Hawaii Campaign Party Pac Filing Faq And Resources</a></li>
+<li><a href="help-file-directory/">Help File Directory</a></li>
+<li><a href="how-ai-is-helping-political-campaign-accounting-software/">How Ai Is Helping Political Campaign Accounting Software</a></li>
+<li><a href="how-and-when-do-i-use-bulk-update/">How And When Do I Use Bulk Update</a></li>
+<li><a href="how-are-refunded-contributions-reported-on-the-c4-report/">How Are Refunded Contributions Reported On The C4 Report</a></li>
+<li><a href="how-are-refunded-contributions-reported-on-wa-c4-pdc-vs-seattle/">How Are Refunded Contributions Reported On Wa C4 Pdc Vs Seattle</a></li>
+<li><a href="how-can-i-best-manage-duplicates-in-my-database/">How Can I Best Manage Duplicates In My Database</a></li>
+<li><a href="how-can-i-force-itemize-transactions-below-the-itemization-threshold/">How Can I Force Itemize Transactions Below The Itemization Threshold</a></li>
+<li><a href="how-can-i-use-isp-in-my-favor/">How Can I Use Isp In My Favor</a></li>
+<li><a href="how-do-allocations-appear-on-the-fec-form-3x-report/">How Do Allocations Appear On The Fec Form 3X Report</a></li>
+<li><a href="how-do-federal-and-non-federal-ie-s-pull-to-reports/">How Do Federal And Non Federal Ie S Pull To Reports</a></li>
+<li><a href="how-do-i-add-a-ballot-measure/">How Do I Add A Ballot Measure</a></li>
+<li><a href="how-do-i-add-a-contribution-to-other-committees/">How Do I Add A Contribution To Other Committees</a></li>
+<li><a href="how-do-i-add-a-form-3z-to-the-fec-form-3-report/">How Do I Add A Form 3Z To The Fec Form 3 Report</a></li>
+<li><a href="how-do-i-add-a-full-or-partial-payment-to-an-accrued-expense/">How Do I Add A Full Or Partial Payment To An Accrued Expense</a></li>
+<li><a href="how-do-i-add-a-loan-repayment-or-forgiveness/">How Do I Add A Loan Repayment Or Forgiveness</a></li>
+<li><a href="how-do-i-add-a-reattribution-or-redesignation/">How Do I Add A Reattribution Or Redesignation</a></li>
+<li><a href="how-do-i-add-a-support-oppose-memo/">How Do I Add A Support Oppose Memo</a></li>
+<li><a href="how-do-i-add-actblue-fees/">How Do I Add Actblue Fees</a></li>
+<li><a href="how-do-i-add-an-election/">How Do I Add An Election</a></li>
+<li><a href="how-do-i-add-and-report-accrued-expense-payments-on-the-c4/">How Do I Add And Report Accrued Expense Payments On The C4</a></li>
+<li><a href="how-do-i-add-and-report-negatives-in-deposit-batches/">How Do I Add And Report Negatives In Deposit Batches</a></li>
+<li><a href="how-do-i-add-candidate-and-committee-records-directly-from-the-ca-sos/">How Do I Add Candidate And Committee Records Directly From The Ca Sos</a></li>
+<li><a href="how-do-i-add-candidate-and-committee-records-directly-from-the-fec/">How Do I Add Candidate And Committee Records Directly From The Fec</a></li>
+<li><a href="how-do-i-add-candidate-and-committee-records-directly-from-the-wa-pdc/">How Do I Add Candidate And Committee Records Directly From The Wa Pdc</a></li>
+<li><a href="how-do-i-add-conduit-transactions-processing-fees/">How Do I Add Conduit Transactions Processing Fees</a></li>
+<li><a href="how-do-i-add-deposit-batches-via-isp-s-api/">How Do I Add Deposit Batches Via Isp S Api</a></li>
+<li><a href="how-do-i-add-fees-and-other-expenses-via-isp-s-api/">How Do I Add Fees And Other Expenses Via Isp S Api</a></li>
+<li><a href="how-do-i-add-international-addresses-to-isp/">How Do I Add International Addresses To Isp</a></li>
+<li><a href="how-do-i-add-multiple-filers-or-change-the-existing-filer/">How Do I Add Multiple Filers Or Change The Existing Filer</a></li>
+<li><a href="how-do-i-add-new-existing-users-to-a-database/">How Do I Add New Existing Users To A Database</a></li>
+<li><a href="how-do-i-add-new-transactions/">How Do I Add New Transactions</a></li>
+<li><a href="how-do-i-add-online-donations-via-isp-s-api/">How Do I Add Online Donations Via Isp S Api</a></li>
+<li><a href="how-do-i-add-or-set-a-filer/">How Do I Add Or Set A Filer</a></li>
+<li><a href="how-do-i-add-political-committees-via-isp-s-api/">How Do I Add Political Committees Via Isp S Api</a></li>
+<li><a href="how-do-i-add-refunds-to-integrations-deposits/">How Do I Add Refunds To Integrations Deposits</a></li>
+<li><a href="how-do-i-add-reimbursements-to-personal-expenses-for-oregon-compliance-reports/">How Do I Add Reimbursements To Personal Expenses For Oregon Compliance Reports</a></li>
+<li><a href="how-do-i-add-the-stripe-integration-in-isp/">How Do I Add The Stripe Integration In Isp</a></li>
+<li><a href="how-do-i-add-the-targeted-victory-integration/">How Do I Add The Targeted Victory Integration</a></li>
+<li><a href="how-do-i-add-use-genders/">How Do I Add Use Genders</a></li>
+<li><a href="how-do-i-add-volunteers-with-flags-via-isp-s-api/">How Do I Add Volunteers With Flags Via Isp S Api</a></li>
+<li><a href="how-do-i-batch-print-checks/">How Do I Batch Print Checks</a></li>
+<li><a href="how-do-i-capture-video-with-windows-1/">How Do I Capture Video With Windows 1</a></li>
+<li><a href="how-do-i-change-my-password/">How Do I Change My Password</a></li>
+<li><a href="how-do-i-combine-duplicates-in-search-results/">How Do I Combine Duplicates In Search Results</a></li>
+<li><a href="how-do-i-combine-duplicates/">How Do I Combine Duplicates</a></li>
+<li><a href="how-do-i-copy-data-between-my-accounts/">How Do I Copy Data Between My Accounts</a></li>
+<li><a href="how-do-i-correct-disallowed-reporting-description-warnings-or-provide-accurate-compliance-notes-on-reports/">How Do I Correct Disallowed Reporting Description Warnings Or Provide Accurate Compliance Notes On Reports</a></li>
+<li><a href="how-do-i-create-a-compliant-wa-surplus-account/">How Do I Create A Compliant Wa Surplus Account</a></li>
+<li><a href="how-do-i-create-a-reimbursement/">How Do I Create A Reimbursement</a></li>
+<li><a href="how-do-i-create-a-reversed-split-transaction/">How Do I Create A Reversed Split Transaction</a></li>
+<li><a href="how-do-i-create-a-scheduled-report/">How Do I Create A Scheduled Report</a></li>
+<li><a href="how-do-i-create-a-winred-conduit-check/">How Do I Create A Winred Conduit Check</a></li>
+<li><a href="how-do-i-create-actblue-conduit-transaction-deposit-after-an-import/">How Do I Create Actblue Conduit Transaction Deposit After An Import</a></li>
+<li><a href="how-do-i-create-an-independent-expenditure/">How Do I Create An Independent Expenditure</a></li>
+<li><a href="how-do-i-create-and-manage-custom-exports/">How Do I Create And Manage Custom Exports</a></li>
+<li><a href="how-do-i-create-and-report-accrued-expenses-without-the-invoice/">How Do I Create And Report Accrued Expenses Without The Invoice</a></li>
+<li><a href="how-do-i-create-drip-campaigns-drip-emails/">How Do I Create Drip Campaigns Drip Emails</a></li>
+<li><a href="how-do-i-create-new-relationships/">How Do I Create New Relationships</a></li>
+<li><a href="how-do-i-create-thank-you-letters-using-microsoft-word/">How Do I Create Thank You Letters Using Microsoft Word</a></li>
+<li><a href="how-do-i-create-the-efundraising-connections-integration/">How Do I Create The Efundraising Connections Integration</a></li>
+<li><a href="how-do-i-create-transactions-considered-debt/">How Do I Create Transactions Considered Debt</a></li>
+<li><a href="how-do-i-e-file-in-connecticut/">How Do I E File In Connecticut</a></li>
+<li><a href="how-do-i-e-file-in-maine/">How Do I E File In Maine</a></li>
+<li><a href="how-do-i-e-file-with-orestar/">How Do I E File With Orestar</a></li>
+<li><a href="how-do-i-efile-with-georgia/">How Do I Efile With Georgia</a></li>
+<li><a href="how-do-i-enter-a-non-travel-advance-of-personal-funds/">How Do I Enter A Non Travel Advance Of Personal Funds</a></li>
+<li><a href="how-do-i-enter-conduit-and-earmarked-transactions/">How Do I Enter Conduit And Earmarked Transactions</a></li>
+<li><a href="how-do-i-enter-credit-card-purchases/">How Do I Enter Credit Card Purchases</a></li>
+<li><a href="how-do-i-enter-non-itemized-transactions-for-my-tx-reports/">How Do I Enter Non Itemized Transactions For My Tx Reports</a></li>
+<li><a href="how-do-i-enter-returned-checks-due-to-insufficient-funds/">How Do I Enter Returned Checks Due To Insufficient Funds</a></li>
+<li><a href="how-do-i-exclude-results-based-on-flags-using-advanced-search/">How Do I Exclude Results Based On Flags Using Advanced Search</a></li>
+<li><a href="how-do-i-export-data-out-of-winred-for-quick-imports-in-isp/">How Do I Export Data Out Of Winred For Quick Imports In Isp</a></li>
+<li><a href="how-do-i-file-a-ca-amendment/">How Do I File A Ca Amendment</a></li>
+<li><a href="how-do-i-file-a-ca-form-496/">How Do I File A Ca Form 496</a></li>
+<li><a href="how-do-i-file-a-ca-form-497/">How Do I File A Ca Form 497</a></li>
+<li><a href="how-do-i-file-an-amended-ny-report/">How Do I File An Amended Ny Report</a></li>
+<li><a href="how-do-i-file-as-a-local-ca-filer-when-the-e-file-report-to-local-button-is-available-netfile/">How Do I File As A Local Ca Filer When The E File Report To Local Button Is Available Netfile</a></li>
+<li><a href="how-do-i-file-my-michigan-report/">How Do I File My Michigan Report</a></li>
+<li><a href="how-do-i-file-my-wisconsin-report/">How Do I File My Wisconsin Report</a></li>
+<li><a href="how-do-i-filter-my-advanced-search-by-state-and-local-districts/">How Do I Filter My Advanced Search By State And Local Districts</a></li>
+<li><a href="how-do-i-find-all-pacs-that-gave-in-the-primary-and-general-cycle/">How Do I Find All Pacs That Gave In The Primary And General Cycle</a></li>
+<li><a href="how-do-i-find-communications-made-by-date-and-or-type/">How Do I Find Communications Made By Date And Or Type</a></li>
+<li><a href="how-do-i-find-donors-who-gave-to-the-primary-but-not-the-general/">How Do I Find Donors Who Gave To The Primary But Not The General</a></li>
+<li><a href="how-do-i-find-non-donors/">How Do I Find Non Donors</a></li>
+<li><a href="how-do-i-find-out-my-states-filing-dates/">How Do I Find Out My States Filing Dates</a></li>
+<li><a href="how-do-i-find-transactions-added-on-a-specific-date/">How Do I Find Transactions Added On A Specific Date</a></li>
+<li><a href="how-do-i-find-transactions-linked-to-a-specific-event/">How Do I Find Transactions Linked To A Specific Event</a></li>
+<li><a href="how-do-i-generate-a-pdf-version-of-my-compliance-report/">How Do I Generate A Pdf Version Of My Compliance Report</a></li>
+<li><a href="how-do-i-generate-and-e-file-with-the-fec/">How Do I Generate And E File With The Fec</a></li>
+<li><a href="how-do-i-generate-call-sheets/">How Do I Generate Call Sheets</a></li>
+<li><a href="how-do-i-generate-reports-of-pledges-targets/">How Do I Generate Reports Of Pledges Targets</a></li>
+<li><a href="how-do-i-get-data-in-my-new-database/">How Do I Get Data In My New Database</a></li>
+<li><a href="how-do-i-get-started-in-isp/">How Do I Get Started In Isp</a></li>
+<li><a href="how-do-i-get-the-multi-candidate-box-checked/">How Do I Get The Multi Candidate Box Checked</a></li>
+<li><a href="how-do-i-isolate-out-of-state-income-using-advanced-search/">How Do I Isolate Out Of State Income Using Advanced Search</a></li>
+<li><a href="how-do-i-link-spouses/">How Do I Link Spouses</a></li>
+<li><a href="how-do-i-locate-donors-over-the-limit/">How Do I Locate Donors Over The Limit</a></li>
+<li><a href="how-do-i-locate-first-time-donors-using-advanced-search/">How Do I Locate First Time Donors Using Advanced Search</a></li>
+<li><a href="how-do-i-locate-foreign-addresses-using-advanced-search/">How Do I Locate Foreign Addresses Using Advanced Search</a></li>
+<li><a href="how-do-i-locate-uncontacted-individuals-using-advanced-search/">How Do I Locate Uncontacted Individuals Using Advanced Search</a></li>
+<li><a href="how-do-i-meet-florida-s-1-6-7-1-reporting-requirements-in-isp/">How Do I Meet Florida S 1 6 7 1 Reporting Requirements In Isp</a></li>
+<li><a href="how-do-i-populate-the-cover-page-on-my-tx-report/">How Do I Populate The Cover Page On My Tx Report</a></li>
+<li><a href="how-do-i-prepare-and-generate-the-fec-form-1/">How Do I Prepare And Generate The Fec Form 1</a></li>
+<li><a href="how-do-i-prepare-my-termination-report/">How Do I Prepare My Termination Report</a></li>
+<li><a href="how-do-i-print-checks/">How Do I Print Checks</a></li>
+<li><a href="how-do-i-pull-a-final-export-on-my-own/">How Do I Pull A Final Export On My Own</a></li>
+<li><a href="how-do-i-pull-a-transaction-to-a-specific-line-on-the-fec-form-3/">How Do I Pull A Transaction To A Specific Line On The Fec Form 3</a></li>
+<li><a href="how-do-i-pull-a-transaction-to-a-specific-line-on-the-fec-form-3x/">How Do I Pull A Transaction To A Specific Line On The Fec Form 3X</a></li>
+<li><a href="how-do-i-pull-candidate-info-to-section-9-on-schedule-f1/">How Do I Pull Candidate Info To Section 9 On Schedule F1</a></li>
+<li><a href="how-do-i-pull-employer-occupation-letter-sent-date-for-reporting/">How Do I Pull Employer Occupation Letter Sent Date For Reporting</a></li>
+<li><a href="how-do-i-record-a-deposit/">How Do I Record A Deposit</a></li>
+<li><a href="how-do-i-record-inkind-made-transactions/">How Do I Record Inkind Made Transactions</a></li>
+<li><a href="how-do-i-record-loans/">How Do I Record Loans</a></li>
+<li><a href="how-do-i-record-petty-cash-transactions/">How Do I Record Petty Cash Transactions</a></li>
+<li><a href="how-do-i-report-a-transfer-from-a-joint-fundraising-committee-jfc-to-joint-fundraising-participants/">How Do I Report A Transfer From A Joint Fundraising Committee Jfc To Joint Fundraising Participants</a></li>
+<li><a href="how-do-i-report-a-transfer-received-from-a-joint-fundraising-committee-jfc/">How Do I Report A Transfer Received From A Joint Fundraising Committee Jfc</a></li>
+<li><a href="how-do-i-report-accrued-expenses-splits-with-an-ie-support-oppose-memo-on-the-ca-496/">How Do I Report Accrued Expenses Splits With An Ie Support Oppose Memo On The Ca 496</a></li>
+<li><a href="how-do-i-report-advances-for-travel/">How Do I Report Advances For Travel</a></li>
+<li><a href="how-do-i-report-auction-items-and-proceeds-from-sales-on-fec-reports/">How Do I Report Auction Items And Proceeds From Sales On Fec Reports</a></li>
+<li><a href="how-do-i-report-contributions-made-to-committees-without-id-numbers/">How Do I Report Contributions Made To Committees Without Id Numbers</a></li>
+<li><a href="how-do-i-report-fec-late-partnership-information/">How Do I Report Fec Late Partnership Information</a></li>
+<li><a href="how-do-i-report-indiana-transfers-in/">How Do I Report Indiana Transfers In</a></li>
+<li><a href="how-do-i-report-inkind-transactions-paid-by-the-candidate/">How Do I Report Inkind Transactions Paid By The Candidate</a></li>
+<li><a href="how-do-i-set-flags-using-advanced-search-ai/">How Do I Set Flags Using Advanced Search Ai</a></li>
+<li><a href="how-do-i-set-the-ai-alert-for-over-the-limit-contributions/">How Do I Set The Ai Alert For Over The Limit Contributions</a></li>
+<li><a href="how-do-i-set-the-flag-icon/">How Do I Set The Flag Icon</a></li>
+<li><a href="how-do-i-set-up-a-kindful-integration/">How Do I Set Up A Kindful Integration</a></li>
+<li><a href="how-do-i-set-up-a-nationbuilder-integration/">How Do I Set Up A Nationbuilder Integration</a></li>
+<li><a href="how-do-i-set-up-an-actblue-integration/">How Do I Set Up An Actblue Integration</a></li>
+<li><a href="how-do-i-set-up-and-use-the-netfile-integration/">How Do I Set Up And Use The Netfile Integration</a></li>
+<li><a href="how-do-i-set-up-authentication-with-isp-s-api/">How Do I Set Up Authentication With Isp S Api</a></li>
+<li><a href="how-do-i-set-up-automated-drip-campaigns/">How Do I Set Up Automated Drip Campaigns</a></li>
+<li><a href="how-do-i-set-up-my-compliance-reporting/">How Do I Set Up My Compliance Reporting</a></li>
+<li><a href="how-do-i-set-up-print-envelopes/">How Do I Set Up Print Envelopes</a></li>
+<li><a href="how-do-i-set-up-seattle-efiling/">How Do I Set Up Seattle Efiling</a></li>
+<li><a href="how-do-i-set-up-the-anedot-integration/">How Do I Set Up The Anedot Integration</a></li>
+<li><a href="how-do-i-set-up-the-constant-contact-integration/">How Do I Set Up The Constant Contact Integration</a></li>
+<li><a href="how-do-i-set-up-the-dropbox-integration/">How Do I Set Up The Dropbox Integration</a></li>
+<li><a href="how-do-i-set-up-the-numero-integration/">How Do I Set Up The Numero Integration</a></li>
+<li><a href="how-do-i-set-up-the-raise-the-money-integration/">How Do I Set Up The Raise The Money Integration</a></li>
+<li><a href="how-do-i-set-up-the-winred-integration/">How Do I Set Up The Winred Integration</a></li>
+<li><a href="how-do-i-setup-a-nevada-legal-defense-fund-in-isp/">How Do I Setup A Nevada Legal Defense Fund In Isp</a></li>
+<li><a href="how-do-i-thank-donors-view-previously-thanked-donors/">How Do I Thank Donors View Previously Thanked Donors</a></li>
+<li><a href="how-do-i-track-pledges/">How Do I Track Pledges</a></li>
+<li><a href="how-do-i-update-or-edit-a-deposit/">How Do I Update Or Edit A Deposit</a></li>
+<li><a href="how-do-i-use-bcc-emails-to-add-communications/">How Do I Use Bcc Emails To Add Communications</a></li>
+<li><a href="how-do-i-use-financial-accounts-for-virtual-accounting/">How Do I Use Financial Accounts For Virtual Accounting</a></li>
+<li><a href="how-do-i-use-quick-import/">How Do I Use Quick Import</a></li>
+<li><a href="how-do-i-use-quick-imports-for-winred-transactions/">How Do I Use Quick Imports For Winred Transactions</a></li>
+<li><a href="how-do-i-use-quick-search/">How Do I Use Quick Search</a></li>
+<li><a href="how-do-i-use-relationships-to-add-new-individuals-copy-contact-info/">How Do I Use Relationships To Add New Individuals Copy Contact Info</a></li>
+<li><a href="how-do-i-use-the-account-management-page/">How Do I Use The Account Management Page</a></li>
+<li><a href="how-do-i-use-the-actblue-quick-import/">How Do I Use The Actblue Quick Import</a></li>
+<li><a href="how-do-i-use-the-columns-to-gather-contact-info-for-the-financial-report-export/">How Do I Use The Columns To Gather Contact Info For The Financial Report Export</a></li>
+<li><a href="how-do-i-use-the-individual-search/">How Do I Use The Individual Search</a></li>
+<li><a href="how-do-i-use-the-organization-search/">How Do I Use The Organization Search</a></li>
+<li><a href="how-do-i-void-a-recorded-check/">How Do I Void A Recorded Check</a></li>
+<li><a href="how-does-the-21-day-limit-on-debts-before-they-become-loans-impact-reporting/">How Does The 21 Day Limit On Debts Before They Become Loans Impact Reporting</a></li>
+<li><a href="how-does-the-fec-report-new-debts-under-5/">How Does The Fec Report New Debts Under 5</a></li>
+<li><a href="how-should-debt-that-is-forgiven-appear-on-the-fec-form-3-3x-3p/">How Should Debt That Is Forgiven Appear On The Fec Form 3 3X 3P</a></li>
+<li><a href="how-to-choose-the-best-accounting-software-for-your-political-campaign/">How To Choose The Best Accounting Software For Your Political Campaign</a></li>
+<li><a href="i-didnt-file-my-report-what-should-i-do-now/">I Didnt File My Report What Should I Do Now</a></li>
+<li><a href="idaho-campaign-party-pac-filing-faq-and-resources/">Idaho Campaign Party Pac Filing Faq And Resources</a></li>
+<li><a href="illinois-campaign-party-pac-filing-faq-and-resources/">Illinois Campaign Party Pac Filing Faq And Resources</a></li>
+<li><a href="indiana-campaign-party-pac-filing-faq-and-resources/">Indiana Campaign Party Pac Filing Faq And Resources</a></li>
+<li><a href="iowa-campaign-party-pac-filing-faq-and-resources/">Iowa Campaign Party Pac Filing Faq And Resources</a></li>
+<li><a href="irs-filing-faq-and-resources/">Irs Filing Faq And Resources</a></li>
+<li><a href="isp-grows-as-competitors-in-possible-collapse/">Isp Grows As Competitors In Possible Collapse</a></li>
+<li><a href="ispolitical-ai-changing-accounting-software/">Ispolitical Ai Changing Accounting Software</a></li>
+<li><a href="issues-with-california-s-pdf-converting-program/">Issues With California S Pdf Converting Program</a></li>
+<li><a href="kansas-campaign-party-pac-filing-faq-and-resources/">Kansas Campaign Party Pac Filing Faq And Resources</a></li>
+<li><a href="kentucky-campaign-party-pac-filing-faq-and-resources/">Kentucky Campaign Party Pac Filing Faq And Resources</a></li>
+<li><a href="know-how-to-increase-donors-to-your-political-campaign/">Know How To Increase Donors To Your Political Campaign</a></li>
+<li><a href="louisiana-campaign-party-pac-filing-faq-and-resources/">Louisiana Campaign Party Pac Filing Faq And Resources</a></li>
+<li><a href="maine-campaign-party-pac-filing-faq-and-resources/">Maine Campaign Party Pac Filing Faq And Resources</a></li>
+<li><a href="maryland-campaign-party-pac-filing-faq-and-resources/">Maryland Campaign Party Pac Filing Faq And Resources</a></li>
+<li><a href="massachusetts-campaign-party-pac-filing-faq-and-resources/">Massachusetts Campaign Party Pac Filing Faq And Resources</a></li>
+<li><a href="mastering-fec-reporting-common-mistakes-to-avoid-with-fecfile-software/">Mastering Fec Reporting Common Mistakes To Avoid With Fecfile Software</a></li>
+<li><a href="maximizing-political-campaign-fundraising-efficiency-with-crm-integration/">Maximizing Political Campaign Fundraising Efficiency With Crm Integration</a></li>
+<li><a href="michigan-campaign-party-pac-filing-faq-and-resources/">Michigan Campaign Party Pac Filing Faq And Resources</a></li>
+<li><a href="minnesota-campaign-party-pac-filing-faq-and-resources/">Minnesota Campaign Party Pac Filing Faq And Resources</a></li>
+<li><a href="mississippi-campaign-party-pac-filing-faq-and-resources/">Mississippi Campaign Party Pac Filing Faq And Resources</a></li>
+<li><a href="missouri-campaign-party-pac-filing-faq-and-resources/">Missouri Campaign Party Pac Filing Faq And Resources</a></li>
+<li><a href="mn-cand-report-line-by-line/">Mn Cand Report Line By Line</a></li>
+<li><a href="mn-hennepin-county-line-by-line/">Mn Hennepin County Line By Line</a></li>
+<li><a href="montana-campaign-party-pac-filing-faq-and-resources/">Montana Campaign Party Pac Filing Faq And Resources</a></li>
+<li><a href="my-fec-report-failed-while-processing-now-what/">My Fec Report Failed While Processing Now What</a></li>
+<li><a href="my-local-filing-with-netfile-just-failed-now-what/">My Local Filing With Netfile Just Failed Now What</a></li>
+<li><a href="my-pdc-c3-amendment-filed-as-a-new-report-how-do-i-fix-that/">My Pdc C3 Amendment Filed As A New Report How Do I Fix That</a></li>
+<li><a href="navigating-campaign-finance-regulations-with-software-solutions/">Navigating Campaign Finance Regulations With Software Solutions</a></li>
+<li><a href="nc-form-1000-line-by-line/">Nc Form 1000 Line By Line</a></li>
+<li><a href="nd-form-sfn-5397-line-by-line/">Nd Form Sfn 5397 Line By Line</a></li>
+<li><a href="nebraska-campaign-party-pac-filing-faq-and-resources/">Nebraska Campaign Party Pac Filing Faq And Resources</a></li>
+<li><a href="nevada-campaign-party-pac-filing-faq-and-resources/">Nevada Campaign Party Pac Filing Faq And Resources</a></li>
+<li><a href="new-hampshire-campaign-party-pac-filing-faq-and-resources/">New Hampshire Campaign Party Pac Filing Faq And Resources</a></li>
+<li><a href="new-jersey-campaign-party-pac-filing-faq-and-resources/">New Jersey Campaign Party Pac Filing Faq And Resources</a></li>
+<li><a href="new-mexico-campaign-party-pac-filing-faq-and-resources/">New Mexico Campaign Party Pac Filing Faq And Resources</a></li>
+<li><a href="new-washington-filing-system/">New Washington Filing System</a></li>
+<li><a href="new-york-campaign-party-pac-filing-faq-and-resources/">New York Campaign Party Pac Filing Faq And Resources</a></li>
+<li><a href="new-york-january-periodic-settings/">New York January Periodic Settings</a></li>
+<li><a href="nh-r-and-e-candidate-version-line-by-line/">Nh R And E Candidate Version Line By Line</a></li>
+<li><a href="ninja-forms-integration-setup/">Ninja Forms Integration Setup</a></li>
+<li><a href="nj-form-r-1-line-by-line/">Nj Form R 1 Line By Line</a></li>
+<li><a href="north-carolina-campaign-party-pac-filing-faq-and-resources/">North Carolina Campaign Party Pac Filing Faq And Resources</a></li>
+<li><a href="north-dakota-campaign-party-pac-filing-faq-and-resources/">North Dakota Campaign Party Pac Filing Faq And Resources</a></li>
+<li><a href="ny-common-import-errors/">Ny Common Import Errors</a></li>
+<li><a href="ohio-campaign-party-pac-filing-faq-and-resources/">Ohio Campaign Party Pac Filing Faq And Resources</a></li>
+<li><a href="oklahoma-campaign-party-pac-filing-faq-and-resources/">Oklahoma Campaign Party Pac Filing Faq And Resources</a></li>
+<li><a href="oregon-campaign-party-pac-filing-faq-and-resources/">Oregon Campaign Party Pac Filing Faq And Resources</a></li>
+<li><a href="pennsylvania-campaign-party-pac-filing-faq-and-resources/">Pennsylvania Campaign Party Pac Filing Faq And Resources</a></li>
+<li><a href="policy-on-legal-advice/">Policy On Legal Advice</a></li>
+<li><a href="political-campaign-software-reports-and-dashboards/">Political Campaign Software Reports And Dashboards</a></li>
+<li><a href="professional-political-firm-directory/">Professional Political Firm Directory</a></li>
+<li><a href="prohibited-inkind-contributions-for-allocable-activities/">Prohibited Inkind Contributions For Allocable Activities</a></li>
+<li><a href="reporting-rules-for-joint-fec-ca-filings/">Reporting Rules For Joint Fec Ca Filings</a></li>
+<li><a href="reporting-splits-on-ca-460/">Reporting Splits On Ca 460</a></li>
+<li><a href="revolutionizing-campaign-management-the-ai-assist-features-of-isp-software/">Revolutionizing Campaign Management The Ai Assist Features Of Isp Software</a></li>
+<li><a href="rhode-island-campaign-party-pac-filing-faq-and-resources/">Rhode Island Campaign Party Pac Filing Faq And Resources</a></li>
+<li><a href="seec-form-2-ct-line-by-line/">Seec Form 2 Ct Line By Line</a></li>
+<li><a href="simplifying-campaign-finance-with-isps-essential-tools/">Simplifying Campaign Finance With Isps Essential Tools</a></li>
+<li><a href="south-carolina-campaign-party-pac-filing-faq-and-resources/">South Carolina Campaign Party Pac Filing Faq And Resources</a></li>
+<li><a href="south-dakota-campaign-party-pac-filing-faq-and-resources/">South Dakota Campaign Party Pac Filing Faq And Resources</a></li>
+<li><a href="tennessee-campaign-party-pac-filing-faq-and-resources/">Tennessee Campaign Party Pac Filing Faq And Resources</a></li>
+<li><a href="texas-campaign-party-pac-filing-faq-and-resources/">Texas Campaign Party Pac Filing Faq And Resources</a></li>
+<li><a href="tips-and-best-practices-for-the-new-york-cf-1-report/">Tips And Best Practices For The New York Cf 1 Report</a></li>
+<li><a href="tokens-passwords-and-filing-washington-state-pdc-reports/">Tokens Passwords And Filing Washington State Pdc Reports</a></li>
+<li><a href="top-12-newest-integrations-to-supercharge-your-isp-political-software/">Top 12 Newest Integrations To Supercharge Your Isp Political Software</a></li>
+<li><a href="training-campaign-staff-on-effective-use-of-accounting-software/">Training Campaign Staff On Effective Use Of Accounting Software</a></li>
+<li><a href="understanding-fec-filing-deadlines-the-breakdown/">Understanding Fec Filing Deadlines The Breakdown</a></li>
+<li><a href="useful-information-in-isp/">Useful Information In Isp</a></li>
+<li><a href="using-the-mark-as-filed-feature/">Using The Mark As Filed Feature</a></li>
+<li><a href="utah-campaign-party-pac-filing-faq-and-resources/">Utah Campaign Party Pac Filing Faq And Resources</a></li>
+<li><a href="utilizing-data-analytics-to-boost-political-campaign-contributions/">Utilizing Data Analytics To Boost Political Campaign Contributions</a></li>
+<li><a href="vermont-campaign-party-pac-filing-faq-and-resources/">Vermont Campaign Party Pac Filing Faq And Resources</a></li>
+<li><a href="virginia-campaign-party-pac-filing-faq-and-resources/">Virginia Campaign Party Pac Filing Faq And Resources</a></li>
+<li><a href="wa-c4-pdc-line-by-line/">Wa C4 Pdc Line By Line</a></li>
+<li><a href="wa-form-c3-and-voucher-contributions/">Wa Form C3 And Voucher Contributions</a></li>
+<li><a href="washington-campaign-party-pac-filing-faq-and-resources/">Washington Campaign Party Pac Filing Faq And Resources</a></li>
+<li><a href="west-virginia-campaign-party-pac-filing-faq-and-resources/">West Virginia Campaign Party Pac Filing Faq And Resources</a></li>
+<li><a href="what-are-accounting-practices-to-keep-in-mind/">What Are Accounting Practices To Keep In Mind</a></li>
+<li><a href="what-are-advanced-search-recipes/">What Are Advanced Search Recipes</a></li>
+<li><a href="what-are-aggregates-by-relationships-on-ca-report/">What Are Aggregates By Relationships On Ca Report</a></li>
+<li><a href="what-are-allocations-how-do-i-use-them/">What Are Allocations How Do I Use Them</a></li>
+<li><a href="what-are-budget-categories/">What Are Budget Categories</a></li>
+<li><a href="what-are-budgets-and-how-do-i-add-one/">What Are Budgets And How Do I Add One</a></li>
+<li><a href="what-are-ca-llc-llp-reporting-requirements/">What Are Ca Llc Llp Reporting Requirements</a></li>
+<li><a href="what-are-ca-local-signers-and-pins-netfile/">What Are Ca Local Signers And Pins Netfile</a></li>
+<li><a href="what-are-calendar-feeds/">What Are Calendar Feeds</a></li>
+<li><a href="what-are-call-sheets/">What Are Call Sheets</a></li>
+<li><a href="what-are-call-time-settings/">What Are Call Time Settings</a></li>
+<li><a href="what-are-carey-committees-and-carey-accounts/">What Are Carey Committees And Carey Accounts</a></li>
+<li><a href="what-are-check-requests/">What Are Check Requests</a></li>
+<li><a href="what-are-communication-types/">What Are Communication Types</a></li>
+<li><a href="what-are-compliance-reports/">What Are Compliance Reports</a></li>
+<li><a href="what-are-estimated-expenses-for-form-5-and-24-48-hour-ie-reports/">What Are Estimated Expenses For Form 5 And 24 48 Hour Ie Reports</a></li>
+<li><a href="what-are-events-how-do-i-use-them/">What Are Events How Do I Use Them</a></li>
+<li><a href="what-are-expense-transaction-tags-and-how-do-i-use-them/">What Are Expense Transaction Tags And How Do I Use Them</a></li>
+<li><a href="what-are-external-data-sources/">What Are External Data Sources</a></li>
+<li><a href="what-are-fec-system-errors-and-how-do-i-fix-them/">What Are Fec System Errors And How Do I Fix Them</a></li>
+<li><a href="what-are-financial-accounts-and-how-do-i-add-them/">What Are Financial Accounts And How Do I Add Them</a></li>
+<li><a href="what-are-flags-and-how-do-i-use-them/">What Are Flags And How Do I Use Them</a></li>
+<li><a href="what-are-hotkeys/">What Are Hotkeys</a></li>
+<li><a href="what-are-internal-transfers/">What Are Internal Transfers</a></li>
+<li><a href="what-are-intra-account-transfers/">What Are Intra Account Transfers</a></li>
+<li><a href="what-are-isp-best-practices/">What Are Isp Best Practices</a></li>
+<li><a href="what-are-key-statistics/">What Are Key Statistics</a></li>
+<li><a href="what-are-key-stats-in-consultant-tools/">What Are Key Stats In Consultant Tools</a></li>
+<li><a href="what-are-levin-funds-and-how-do-i-add-them/">What Are Levin Funds And How Do I Add Them</a></li>
+<li><a href="what-are-memberships-and-membership-types/">What Are Memberships And Membership Types</a></li>
+<li><a href="what-are-memos-splits-and-how-do-i-add-them/">What Are Memos Splits And How Do I Add Them</a></li>
+<li><a href="what-are-mia-donation-totals/">What Are Mia Donation Totals</a></li>
+<li><a href="what-are-monetary-contribution-transaction-tags/">What Are Monetary Contribution Transaction Tags</a></li>
+<li><a href="what-are-nominee-fund-transfers/">What Are Nominee Fund Transfers</a></li>
+<li><a href="what-are-pending-imports-and-how-do-i-process-them/">What Are Pending Imports And How Do I Process Them</a></li>
+<li><a href="what-are-pledges-targets-and-how-do-i-add-them-to-records/">What Are Pledges Targets And How Do I Add Them To Records</a></li>
+<li><a href="what-are-primarily-formed-pacs-in-ca/">What Are Primarily Formed Pacs In Ca</a></li>
+<li><a href="what-are-quick-emails/">What Are Quick Emails</a></li>
+<li><a href="what-are-recurring-transactions-and-how-do-i-add-one/">What Are Recurring Transactions And How Do I Add One</a></li>
+<li><a href="what-are-reminder-types/">What Are Reminder Types</a></li>
+<li><a href="what-are-reminders/">What Are Reminders</a></li>
+<li><a href="what-are-reversals-and-refunds-how-do-i-add-them/">What Are Reversals And Refunds How Do I Add Them</a></li>
+<li><a href="what-are-the-actblue-settings/">What Are The Actblue Settings</a></li>
+<li><a href="what-are-the-add-drip-email-options/">What Are The Add Drip Email Options</a></li>
+<li><a href="what-are-the-available-quick-import-formats-in-isp/">What Are The Available Quick Import Formats In Isp</a></li>
+<li><a href="what-are-the-available-transaction-types-in-isp/">What Are The Available Transaction Types In Isp</a></li>
+<li><a href="what-are-the-credit-card-processing-options-at-isp/">What Are The Credit Card Processing Options At Isp</a></li>
+<li><a href="what-are-the-dashboard-charts-and-graphs/">What Are The Dashboard Charts And Graphs</a></li>
+<li><a href="what-are-the-different-user-permissions-in-isp/">What Are The Different User Permissions In Isp</a></li>
+<li><a href="what-are-the-financial-reports-in-isp/">What Are The Financial Reports In Isp</a></li>
+<li><a href="what-are-the-key-statistics-on-the-dashboard/">What Are The Key Statistics On The Dashboard</a></li>
+<li><a href="what-are-the-new-search-group-and-add-compound-rule-buttons-in-advanced-search/">What Are The New Search Group And Add Compound Rule Buttons In Advanced Search</a></li>
+<li><a href="what-are-the-pledge-or-target-metrics-reports/">What Are The Pledge Or Target Metrics Reports</a></li>
+<li><a href="what-are-the-sort-order-options-for-compliance-reports/">What Are The Sort Order Options For Compliance Reports</a></li>
+<li><a href="what-are-the-sort-order-options-for-the-fec-reports/">What Are The Sort Order Options For The Fec Reports</a></li>
+<li><a href="what-are-the-tabs-on-the-dashboard/">What Are The Tabs On The Dashboard</a></li>
+<li><a href="what-are-the-to-and-from-date-options-for-scheduled-reports/">What Are The To And From Date Options For Scheduled Reports</a></li>
+<li><a href="what-are-the-transaction-method-rules-for-ny-reports/">What Are The Transaction Method Rules For Ny Reports</a></li>
+<li><a href="what-are-third-party-donations/">What Are Third Party Donations</a></li>
+<li><a href="what-are-tickets-ticket-areas-and-how-do-i-add-them/">What Are Tickets Ticket Areas And How Do I Add Them</a></li>
+<li><a href="what-are-time-tracking-categories/">What Are Time Tracking Categories</a></li>
+<li><a href="what-are-transaction-limits/">What Are Transaction Limits</a></li>
+<li><a href="what-are-units/">What Are Units</a></li>
+<li><a href="what-are-volunteer-sign-up-form-options-in-isp/">What Are Volunteer Sign Up Form Options In Isp</a></li>
+<li><a href="what-are-webhooks-and-how-do-i-use-them/">What Are Webhooks And How Do I Use Them</a></li>
+<li><a href="what-do-i-need-to-file-an-amended-form-1/">What Do I Need To File An Amended Form 1</a></li>
+<li><a href="what-do-the-different-button-colors-mean/">What Do The Different Button Colors Mean</a></li>
+<li><a href="what-do-the-different-colors-mean-when-adding-transactions/">What Do The Different Colors Mean When Adding Transactions</a></li>
+<li><a href="what-does-this-ca-efile-system-return-message-mean/">What Does This Ca Efile System Return Message Mean</a></li>
+<li><a href="what-federal-committee-types-are-available-in-isp/">What Federal Committee Types Are Available In Isp</a></li>
+<li><a href="what-is-a-bookkeeping-transaction-and-how-do-i-add-one/">What Is A Bookkeeping Transaction And How Do I Add One</a></li>
+<li><a href="what-is-advanced-search-and-how-do-i-use-it/">What Is Advanced Search And How Do I Use It</a></li>
+<li><a href="what-is-ai-isp-in-consultant-tools/">What Is Ai Isp In Consultant Tools</a></li>
+<li><a href="what-is-ai-isp/">What Is Ai Isp</a></li>
+<li><a href="what-is-an-accrued-expense/">What Is An Accrued Expense</a></li>
+<li><a href="what-is-an-allocation-transfer/">What Is An Allocation Transfer</a></li>
+<li><a href="what-is-an-anonymous-transaction-and-how-do-i-add-one/">What Is An Anonymous Transaction And How Do I Add One</a></li>
+<li><a href="what-is-authy-and-how-do-i-use-it/">What Is Authy And How Do I Use It</a></li>
+<li><a href="what-is-bank-statement-reconciliation-how-do-i-use-it/">What Is Bank Statement Reconciliation How Do I Use It</a></li>
+<li><a href="what-is-call-time-and-how-do-i-use-it/">What Is Call Time And How Do I Use It</a></li>
+<li><a href="what-is-cross-account-check-printing-in-consulting-tools/">What Is Cross Account Check Printing In Consulting Tools</a></li>
+<li><a href="what-is-data-flow-and-how-do-i-use-it/">What Is Data Flow And How Do I Use It</a></li>
+<li><a href="what-is-esignature-and-how-do-i-use-it/">What Is Esignature And How Do I Use It</a></li>
+<li><a href="what-is-event-management/">What Is Event Management</a></li>
+<li><a href="what-is-external-id-tracking/">What Is External Id Tracking</a></li>
+<li><a href="what-is-form-builder-how-do-i-use-it/">What Is Form Builder How Do I Use It</a></li>
+<li><a href="what-is-householding-and-how-do-i-create-a-householded-list/">What Is Householding And How Do I Create A Householded List</a></li>
+<li><a href="what-is-jfc-management/">What Is Jfc Management</a></li>
+<li><a href="what-is-magic-match-and-how-do-i-use-it/">What Is Magic Match And How Do I Use It</a></li>
+<li><a href="what-is-multi-dimensional-budgeting-how-do-i-use-it/">What Is Multi Dimensional Budgeting How Do I Use It</a></li>
+<li><a href="what-is-rocket-management/">What Is Rocket Management</a></li>
+<li><a href="what-is-the-0-federal-allocation-used-for/">What Is The 0 Federal Allocation Used For</a></li>
+<li><a href="what-is-the-ca-46-report-how-do-i-prepare-and-file-it/">What Is The Ca 46 Report How Do I Prepare And File It</a></li>
+<li><a href="what-is-the-calendar-and-recurring-calendar-entries/">What Is The Calendar And Recurring Calendar Entries</a></li>
+<li><a href="what-is-the-compliance-report-excel-export/">What Is The Compliance Report Excel Export</a></li>
+<li><a href="what-is-the-dashboard-customization/">What Is The Dashboard Customization</a></li>
+<li><a href="what-is-the-difference-between-actor-and-user-fields-in-advanced-search/">What Is The Difference Between Actor And User Fields In Advanced Search</a></li>
+<li><a href="what-is-the-difference-between-fec-candidate-ids-and-committee-ids/">What Is The Difference Between Fec Candidate Ids And Committee Ids</a></li>
+<li><a href="what-is-the-file-compliance-reports-page-in-consultant-tools/">What Is The File Compliance Reports Page In Consultant Tools</a></li>
+<li><a href="what-is-the-filing-deadlines-calendar-in-consultant-tools/">What Is The Filing Deadlines Calendar In Consultant Tools</a></li>
+<li><a href="what-is-the-financial-transaction-report/">What Is The Financial Transaction Report</a></li>
+<li><a href="what-is-the-firm-details-page-in-consultant-tools/">What Is The Firm Details Page In Consultant Tools</a></li>
+<li><a href="what-is-the-form-2-and-when-do-i-file-it/">What Is The Form 2 And When Do I File It</a></li>
+<li><a href="what-is-the-initial-account-set-up-agreement/">What Is The Initial Account Set Up Agreement</a></li>
+<li><a href="what-is-the-irs-form-8872-how-do-i-prepare-and-file-it/">What Is The Irs Form 8872 How Do I Prepare And File It</a></li>
+<li><a href="what-is-the-mailchimp-integration-and-how-do-i-add-it/">What Is The Mailchimp Integration And How Do I Add It</a></li>
+<li><a href="what-is-the-marketing-link-builder-tool/">What Is The Marketing Link Builder Tool</a></li>
+<li><a href="what-is-the-multi-account-dashboard/">What Is The Multi Account Dashboard</a></li>
+<li><a href="what-is-the-my-firm-page-in-consultant-tools/">What Is The My Firm Page In Consultant Tools</a></li>
+<li><a href="what-is-the-password-safe/">What Is The Password Safe</a></li>
+<li><a href="what-is-the-pennsylvania-apply-to-file-process/">What Is The Pennsylvania Apply To File Process</a></li>
+<li><a href="what-is-the-register/">What Is The Register</a></li>
+<li><a href="what-is-the-soft-credits-tool/">What Is The Soft Credits Tool</a></li>
+<li><a href="what-is-the-threshold-to-register-a-fec-committee/">What Is The Threshold To Register A Fec Committee</a></li>
+<li><a href="what-is-the-wa-auction-report/">What Is The Wa Auction Report</a></li>
+<li><a href="what-is-the-wa-pdc-last-minute-contributions-report/">What Is The Wa Pdc Last Minute Contributions Report</a></li>
+<li><a href="what-is-the-xodo-sign-integration-and-how-do-i-use-it/">What Is The Xodo Sign Integration And How Do I Use It</a></li>
+<li><a href="what-is-time-tracking/">What Is Time Tracking</a></li>
+<li><a href="what-is-two-factor-authorization-and-how-do-i-set-it-up/">What Is Two Factor Authorization And How Do I Set It Up</a></li>
+<li><a href="what-records-are-needed-for-compliance-reporting/">What Records Are Needed For Compliance Reporting</a></li>
+<li><a href="what-s-the-difference-between-e-file-and-paper-only-reports-for-nevada/">What S The Difference Between E File And Paper Only Reports For Nevada</a></li>
+<li><a href="when-are-the-alabama-filing-deadlines/">When Are The Alabama Filing Deadlines</a></li>
+<li><a href="when-are-the-alaska-filing-deadlines/">When Are The Alaska Filing Deadlines</a></li>
+<li><a href="when-are-the-arizona-filing-deadlines/">When Are The Arizona Filing Deadlines</a></li>
+<li><a href="when-are-the-arkansas-filing-deadlines/">When Are The Arkansas Filing Deadlines</a></li>
+<li><a href="when-are-the-california-filing-deadlines/">When Are The California Filing Deadlines</a></li>
+<li><a href="when-are-the-colorado-filing-deadlines/">When Are The Colorado Filing Deadlines</a></li>
+<li><a href="when-are-the-connecticut-filing-deadlines/">When Are The Connecticut Filing Deadlines</a></li>
+<li><a href="when-are-the-delaware-filing-deadlines/">When Are The Delaware Filing Deadlines</a></li>
+<li><a href="when-are-the-fec-filing-deadlines/">When Are The Fec Filing Deadlines</a></li>
+<li><a href="when-are-the-florida-filing-deadlines/">When Are The Florida Filing Deadlines</a></li>
+<li><a href="when-are-the-georgia-filing-deadlines/">When Are The Georgia Filing Deadlines</a></li>
+<li><a href="when-are-the-hawaii-filing-deadlines/">When Are The Hawaii Filing Deadlines</a></li>
+<li><a href="when-are-the-idaho-filing-deadlines/">When Are The Idaho Filing Deadlines</a></li>
+<li><a href="when-are-the-illinois-filing-deadlines/">When Are The Illinois Filing Deadlines</a></li>
+<li><a href="when-are-the-indiana-filing-deadlines/">When Are The Indiana Filing Deadlines</a></li>
+<li><a href="when-are-the-iowa-filing-deadlines/">When Are The Iowa Filing Deadlines</a></li>
+<li><a href="when-are-the-irs-filing-deadlines-2/">When Are The Irs Filing Deadlines 2</a></li>
+<li><a href="when-are-the-irs-filing-deadlines/">When Are The Irs Filing Deadlines</a></li>
+<li><a href="when-are-the-kansas-filing-deadlines/">When Are The Kansas Filing Deadlines</a></li>
+<li><a href="when-are-the-kentucky-filing-deadlines/">When Are The Kentucky Filing Deadlines</a></li>
+<li><a href="when-are-the-louisiana-deadlines/">When Are The Louisiana Deadlines</a></li>
+<li><a href="when-are-the-maine-filing-deadlines/">When Are The Maine Filing Deadlines</a></li>
+<li><a href="when-are-the-maryland-filing-deadlines/">When Are The Maryland Filing Deadlines</a></li>
+<li><a href="when-are-the-massachusetts-filing-deadlines/">When Are The Massachusetts Filing Deadlines</a></li>
+<li><a href="when-are-the-michigan-filing-deadlines/">When Are The Michigan Filing Deadlines</a></li>
+<li><a href="when-are-the-minnesota-filing-deadlines/">When Are The Minnesota Filing Deadlines</a></li>
+<li><a href="when-are-the-mississippi-deadlines/">When Are The Mississippi Deadlines</a></li>
+<li><a href="when-are-the-missouri-filing-deadlines/">When Are The Missouri Filing Deadlines</a></li>
+<li><a href="when-are-the-montana-filing-deadlines/">When Are The Montana Filing Deadlines</a></li>
+<li><a href="when-are-the-nevada-filing-deadlines/">When Are The Nevada Filing Deadlines</a></li>
+<li><a href="when-are-the-new-hampshire-filing-deadlines/">When Are The New Hampshire Filing Deadlines</a></li>
+<li><a href="when-are-the-new-jersey-filing-deadlines/">When Are The New Jersey Filing Deadlines</a></li>
+<li><a href="when-are-the-new-mexico-filing-deadlines/">When Are The New Mexico Filing Deadlines</a></li>
+<li><a href="when-are-the-new-york-filing-deadlines/">When Are The New York Filing Deadlines</a></li>
+<li><a href="when-are-the-north-carolina-filing-deadlines/">When Are The North Carolina Filing Deadlines</a></li>
+<li><a href="when-are-the-north-dakota-filing-deadlines/">When Are The North Dakota Filing Deadlines</a></li>
+<li><a href="when-are-the-ohio-filing-deadlines/">When Are The Ohio Filing Deadlines</a></li>
+<li><a href="when-are-the-oregon-filing-deadlines/">When Are The Oregon Filing Deadlines</a></li>
+<li><a href="when-are-the-pennsylvania-filing-deadlines/">When Are The Pennsylvania Filing Deadlines</a></li>
+<li><a href="when-are-the-texas-filing-deadlines/">When Are The Texas Filing Deadlines</a></li>
+<li><a href="when-are-the-virginia-filing-deadlines/">When Are The Virginia Filing Deadlines</a></li>
+<li><a href="when-are-the-washington-filing-deadlines/">When Are The Washington Filing Deadlines</a></li>
+<li><a href="when-are-the-west-virginia-filing-deadlines/">When Are The West Virginia Filing Deadlines</a></li>
+<li><a href="when-are-the-wisconsin-filing-deadlines/">When Are The Wisconsin Filing Deadlines</a></li>
+<li><a href="when-are-the-wyoming-filing-deadlines/">When Are The Wyoming Filing Deadlines</a></li>
+<li><a href="where-do-i-file-as-a-local-ca-filer-if-the-efile-report-to-local-button-is-not-available-ecampaign-efs/">Where Do I File As A Local Ca Filer If The Efile Report To Local Button Is Not Available Ecampaign Efs</a></li>
+<li><a href="where-do-i-get-the-original-ca-filing-id-number/">Where Do I Get The Original Ca Filing Id Number</a></li>
+<li><a href="which-browser-should-i-use/">Which Browser Should I Use</a></li>
+<li><a href="which-report-filings-does-ai-check/">Which Report Filings Does Ai Check</a></li>
+<li><a href="why-are-dashboard-key-stats-different-than-line-11-totals-on-fec-reports/">Why Are Dashboard Key Stats Different Than Line 11 Totals On Fec Reports</a></li>
+<li><a href="why-are-lines-2-and-21-showing-as-on-my-report/">Why Are Lines 2 And 21 Showing As On My Report</a></li>
+<li><a href="why-are-my-accrued-expenses-itemizing-incorrectly-on-the-wa-c4/">Why Are My Accrued Expenses Itemizing Incorrectly On The Wa C4</a></li>
+<li><a href="why-are-my-accrued-expenses-not-itemizing-on-schedule-d/">Why Are My Accrued Expenses Not Itemizing On Schedule D</a></li>
+<li><a href="why-are-my-broadcast-emails-taking-so-long-to-be-delivered/">Why Are My Broadcast Emails Taking So Long To Be Delivered</a></li>
+<li><a href="why-are-my-fec-reports-aggregating-differently-in-isp/">Why Are My Fec Reports Aggregating Differently In Isp</a></li>
+<li><a href="why-are-my-inkinds-itemizing-on-schedule-b/">Why Are My Inkinds Itemizing On Schedule B</a></li>
+<li><a href="why-are-there-errors-in-my-ca-confirmation-email-that-are-not-in-isp/">Why Are There Errors In My Ca Confirmation Email That Are Not In Isp</a></li>
+<li><a href="why-are-transactions-not-itemized-on-fec-reports/">Why Are Transactions Not Itemized On Fec Reports</a></li>
+<li><a href="why-can-t-i-see-the-fec-form-3/">Why Can T I See The Fec Form 3</a></li>
+<li><a href="why-can-t-i-see-the-fec-form-3p/">Why Can T I See The Fec Form 3P</a></li>
+<li><a href="why-emails-may-bounce-wont-send-out/">Why Emails May Bounce Wont Send Out</a></li>
+<li><a href="why-is-my-compliance-report-cash-on-hand-different-from-my-register-cash-on-hand/">Why Is My Compliance Report Cash On Hand Different From My Register Cash On Hand</a></li>
+<li><a href="why-is-my-ie-appearing-on-line-21-b-about-paying-first-and-disseminating-later/">Why Is My Ie Appearing On Line 21 B About Paying First And Disseminating Later</a></li>
+<li><a href="why-isn-t-candidate-information-pulling-properly-to-the-fec-form-3x/">Why Isn T Candidate Information Pulling Properly To The Fec Form 3X</a></li>
+<li><a href="why-isn-t-the-split-of-my-accrued-expense-payment-showing-on-my-fec-report/">Why Isn T The Split Of My Accrued Expense Payment Showing On My Fec Report</a></li>
+<li><a href="why-we-dont-call-our-clients-users/">Why We Dont Call Our Clients Users</a></li>
+<li><a href="why-you-should-have-a-professional-campaign-treasurer/">Why You Should Have A Professional Campaign Treasurer</a></li>
+<li><a href="winred-integration-troubleshooting/">Winred Integration Troubleshooting</a></li>
+<li><a href="wisconsin-campaign-party-pac-filing-faq-and-resources/">Wisconsin Campaign Party Pac Filing Faq And Resources</a></li>
+<li><a href="wrong-fec-password-error-troubleshooting/">Wrong Fec Password Error Troubleshooting</a></li>
+<li><a href="wyoming-campaign-party-pac-filing-faq-and-resources/">Wyoming Campaign Party Pac Filing Faq And Resources</a></li>
+</ul>
+
+
+
+
+
+
+
+
+
+
+
+
+                
+              </article>
+            </div>
+          
+          
+<script>var target=document.getElementById(location.hash.slice(1));target&&target.name&&(target.checked=target.name.startsWith("__tabbed_"))</script>
+        </div>
+        
+      </main>
+      
+        <footer class="md-footer">
+  
+  <div class="md-footer-meta md-typeset">
+    <div class="md-footer-meta__inner md-grid">
+      <div class="md-copyright">
+  
+  
+    Made with
+    <a href="https://squidfunk.github.io/mkdocs-material/" target="_blank" rel="noopener">
+      Material for MkDocs
+    </a>
+  
+</div>
+      
+    </div>
+  </div>
+</footer>
+      
+    </div>
+    <div class="md-dialog" data-md-component="dialog">
+      <div class="md-dialog__inner md-typeset"></div>
+    </div>
+    
+    
+    <script id="__config" type="application/json">{"base": ".", "features": ["navigation.indexes"], "search": "assets/javascripts/workers/search.b8dbb3d2.min.js", "translations": {"clipboard.copied": "Copied to clipboard", "clipboard.copy": "Copy to clipboard", "search.result.more.one": "1 more on this page", "search.result.more.other": "# more on this page", "search.result.none": "No matching documents", "search.result.one": "1 matching document", "search.result.other": "# matching documents", "search.result.placeholder": "Type to start searching", "search.result.term.missing": "Missing", "select.version": "Select version"}}</script>
+    
+    
+      <script src="assets/javascripts/bundle.fe8b6f2b.min.js"></script>
+      
+    
+  </body>
+</html>
