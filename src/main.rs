@@ -67,7 +67,7 @@ async fn fetch_page_html(client: &Client, url: &str) -> Result<String, Box<dyn E
 }
 
 fn save_markdown(content: &str, slug: &str) -> Result<(), Box<dyn Error>> {
-    let dir = Path::new("raw");
+    let dir = Path::new("docs");
     if !dir.exists() {
         fs::create_dir_all(dir)?;
     }
