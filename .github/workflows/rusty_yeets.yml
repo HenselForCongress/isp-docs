@@ -56,3 +56,6 @@ jobs:
           GIT_USER_NAME: ${{ secrets.USER_NAME }}
           GIT_USER_EMAIL: ${{ secrets.USER_EMAIL }}
           GITHUB_TOKEN: ${{ secrets.GH_TOKEN }}
+
+      - name: Trigger Cloudflare deploy hook
+        run: curl -X POST "${{ secrets.CLOUDFLARE_DEPLOY_HOOK_URL }}"
